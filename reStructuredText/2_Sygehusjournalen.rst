@@ -1,7 +1,7 @@
 Sygehusjournalen
 ****************
 
-`This <1_Moedet_mellem_laege_og_patient.rst#specielle-forhold>`__ is a reference to a section in file
+`This <1_Mødet_mellem_læge_og_patient.rst#specielle-forhold>`__ is a reference to a section in file
 
 
 Formålet med patientjournalen

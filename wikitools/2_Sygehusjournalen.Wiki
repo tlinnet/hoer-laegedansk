@@ -1,6 +1,6 @@
 __TOC__
 
-[[1_Moedet_mellem_laege_og_patient.rst#specielle-forhold|This]] is a reference to a section in file
+[[1_Mødet_mellem_læge_og_patient#Specielle_forhold|This]] is a reference to a section in file
 
 = Formålet med patientjournalen =
 

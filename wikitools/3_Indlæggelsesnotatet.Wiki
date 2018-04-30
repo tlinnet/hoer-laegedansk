@@ -275,7 +275,7 @@ Efter sin grundige udspørgen af patienten vil man ofte sidde tilbage med mange 
 
 <pre>Øvrige organsystemer:
 Ingen klager ved systematisk udspørgen,</pre>
-hvor man får understreget, at man har spurgt om det hele, men at pt. er fuldstændig symptomfri. Hos [[#nuvaerende-aktuelt|hjertepatienten]] er det derimod relevant at få dækket bredt, da grundsygdommen ''aterosklerose'' har mange komplikationer og det hos en sådan patient er vigtigt at få et helhedssyn på patientens funktionsniveau:
+hvor man får understreget, at man har spurgt om det hele, men at pt. er fuldstændig symptomfri. Hos [[#nuvaerende_aktuelt|hjertepatienten]] er det derimod relevant at få dækket bredt, da grundsygdommen ''aterosklerose'' har mange komplikationer og det hos en sådan patient er vigtigt at få et helhedssyn på patientens funktionsniveau:
 
 <pre>Øvrige organsystemer:
 CNS: Ingen føleforstyrrelser, taleforstyrrelser eller
@@ -290,7 +290,7 @@ B-A: Ingen klager, særligt ingen klager over hævede ben,
 hvilesmerter eller kolde fødder.</pre>
 == Medicin ==
 
-I dette afsnit anføres den medicin, som patienten tager, både lægeordineret og håndkøbsmedicin samt naturpræparater. Man anfører ''præparatnavn, doseringsform'' (tablet, mikstur etc.), ''styrke, dosis og hyppighed''. Hos eksemplet [[#nuvaerende-aktuelt|hjertepatienten]]:
+I dette afsnit anføres den medicin, som patienten tager, både lægeordineret og håndkøbsmedicin samt naturpræparater. Man anfører ''præparatnavn, doseringsform'' (tablet, mikstur etc.), ''styrke, dosis og hyppighed''. Hos eksemplet [[#nuvaerende_aktuelt|hjertepatienten]]:
 
 <pre>Medicin:
 tabl. Furix 40 mg x 3
@@ -392,7 +392,7 @@ I det indledende afsnit giver man et »signalement« af patientens aktuelle tils
 ; – Resultater af ''akutte parakliniske undersøgelser'' bør også anføres hér;
 : f.eks. beskrives et akut ekg hos en patient med brystsmerter eller en akut arteriepunktur (a-punktur) hos en respirationsbesværet patient.
 
-Ved [[#nuvaerende-aktuelt|hjertepatienten]] eksemplet så den almene beskrivelse sådan ud:
+Ved [[#nuvaerende_aktuelt|hjertepatienten]] eksemplet så den almene beskrivelse sådan ud:
 
 <pre>Objektivt
 Vågen og klar, ej smerteforpint, bleg og klam. Nat.
@@ -508,7 +508,7 @@ Abdomen beskrives hos de fleste patienter, der indlægges på sygehus. Ved ''ins
 ; – ''Auskultation:''
 : Er der normale, rigelige tarmlyde eller sparsomme og evt. klingende tarmlyde? Manglende tarmlyde beskrives som tyst abdomen.
 
-Hos [[#nuvaerende-aktuelt|hjertepatienten]] eksemplet var maven beskrevet på følgende måde i journalen:
+Hos [[#nuvaerende_aktuelt|hjertepatienten]] eksemplet var maven beskrevet på følgende måde i journalen:
 
 <pre>Abdomen: Adipøst, fladt, blødt og uømt. Sufficient
 appendektomicikatrice. Ingen hepato- eller splenomegali.
@@ -566,7 +566,7 @@ Ved patienten med lændesmerter med udstråling: Er der normal strakt benløftni
 
 Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling, strepitus (side 141))? Ved kroniske ekstremitetssmerter: er der ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
 
-Hos [[#nuvaerende-aktuelt|hjertepatienten]] blev ekstremiteterne beskrevet således:
+Hos [[#nuvaerende_aktuelt|hjertepatienten]] blev ekstremiteterne beskrevet således:
 
 <pre>Ekstremiteter: Frit bevægelige. Normale biceps- og
 patellarreflekser. Nat. sensibilitet overalt. Ganske
@@ -615,7 +615,7 @@ Ved eksantem: Er det lokaliseret, evt. symmetrisk eller universelt, er det kløe
 
 = Konklusion og diagnoser =
 
-På baggrund af anamnesen og den objektive undersøgelser vil man i de fleste tilfælde kunne give en vurdering af patientens tilstand og et godt bud på, hvad han fejler.Man skal ikke i sin konklusion gentage eller udpensle de informationer, der er anført i de subjektive og objektive afsnit, men snarere prøve at finde ''syntesen'' af disse informationer: Er der nogle logiske sammenhænge mellem patientens egne symptomer og diagnoseforslag og dine objektive fund? I eksemplet med [[#nuvaerende-aktuelt|hjertepatienten]] er det oplagt at skrive:
+På baggrund af anamnesen og den objektive undersøgelser vil man i de fleste tilfælde kunne give en vurdering af patientens tilstand og et godt bud på, hvad han fejler.Man skal ikke i sin konklusion gentage eller udpensle de informationer, der er anført i de subjektive og objektive afsnit, men snarere prøve at finde ''syntesen'' af disse informationer: Er der nogle logiske sammenhænge mellem patientens egne symptomer og diagnoseforslag og dine objektive fund? I eksemplet med [[#nuvaerende_aktuelt|hjertepatienten]] er det oplagt at skrive:
 
 <pre>Konklusion:
 Pt. med velkendt iskæmisk hjertesygdom. Anamnese og ekg
