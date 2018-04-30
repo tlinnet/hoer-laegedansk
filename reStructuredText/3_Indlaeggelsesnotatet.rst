@@ -914,27 +914,253 @@ Hos en gravid viste den gynækologiske undersøgelse:
 
 Rektaleksploration (exploratio rectalis)
 ----------------------------------------
+(se kapitel 7)
+
+Skal altid udføres hos mænd med urologiske problemer, hos alle patienter
+med mavesmerter, gastroentestinale problemer og i øvrigt på vide
+indikationer. Er der ved *inspektion* synlige hæmorider eller marisker? Er
+der ved *eksploration* en normal sphinctertonus og voluntær kontraktion?
+Er der udfyldninger (tumorer, polypper) i rectum? Er der normalt 
+udseende faeces på handsken, eller ses melaena eller frisk blod? Hos mænd
+beskrives prostatas form (glat og symmetrisk med tydelige midterfure
+eller knudret og uregelmæssig), konsistens (gummiagtig eller stenhård)
+og størrelse (nås overkanten?).
 
 Bækken (pelvis)
 ---------------
+(se kapitel 10)
+
+Beskrives ved traumepatienten: Er bækkenet stabilt og uømt?
 
 Ekstremiteter
 -------------
+(se kapitel 10 + 12)
+
+Ekstremiteterne beskrives, hvor det er relevant ud fra anamnesen. Er alle
+fire ekstremiteter frit bevægelige (kan løftes fra lejet), eller er der sideforskel?
+Er der oplagte fejlstillinger (frakturer og luksationer)? Beskriv eventuel
+hudatrofi (tynd, skinnende ubehåret hud), muskeltrofik (normal
+eller atrofisk), tonus (normal, hyper- eller hypotonus, kontrakturer,
+spasticitet, rigiditet) og kraft (løftes netop fra lejet, løftes mod modstand,
+normal kraft, sammenlignet med modsatte ekstremitet).
+
+Er ekstremiteterne kolde og blege? Er der perifer cyanose? Er der normalt
+eller nedsat kapillærrespons? Er der palpabel puls i *aa. radialis, aa.
+dorsalis pedis* (ADP), *aa. tibialis posterior* (ATP) og *aa. femoralis?* Er der
+lividitet (bleghed) og smerter ved elevation? Er der tegn på kronisk stase
+(staseeksem, ulcus cruris)? Er der varicer? Er der øget venetegning, omfangsforøgelse
+og dyb muskelømhed?
+
+Er der ødemer? Hvis der er ødemer, beskriver man disses lokalisation
+og udbredelse: Er de deklive, dvs. fodryg og ankler hos oppegående og i
+flankerne hos sengeliggende? Er de ens på begge ekstremiteter (egale)?
+Hvor højt går de op på ekstremiteten?
+
+Ved patienten med lændesmerter med udstråling: Er der normal
+strakt benløftningstest eller ses *Lasègues symptom?* Er der normale kraftforhold
+over knæ- og ankelled? Evt. kan en grov neurologisk undersøgelse
+også beskrives hér (se nedenfor).
+
+Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling,
+strepitus (side 141))? Ved kroniske ekstremitetssmerter: er der
+ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
+
+Hos hjertepatienten blev ekstremiteterne beskrevet således:
+
+::
+
+  Ekstremiteter: Frit bevægelige. Normale biceps- og
+  patellarreflekser. Nat. sensibilitet overalt. Ganske
+  diskrete ankelødemer bilateralt, ingen staseforandringer.
+  God puls bilateralt i ADP og ATP.
 
 Neurologisk
 -----------
+(se kapitel 11)
+
+Ved beskrivelsen af neurologiske fund anvendes følgende systematik:
+
+**Bevidsthed:** Er patienten vågen og klar? Reagerer og svarer han på tiltale
+eller kun på smertestimuli? Er han bevidsthedssløret, angives score efter
+*Glasgow Coma Scale* (se kapitel 11, side 164). Er han orienteret i tid, sted
+og egne data? Er han hallucineret eller depressiv? Er der tegn på demens
+(hvilke)?
+
+**Sprog:** Er der dysartri (udtaledefekter)? Er der tegn på afasi: Kan patienten
+følge opfordringer, benævne genstande, gentage sætninger, er patientens
+spontantale korrekt? Er patientens afasi flydende eller ikke-flydende?
+
+**Hjernenerver:**
+
+II:
+  Er der normalt synsfelt for finger?
+III+IV+VI:
+  Egale, lysreagerende pupiller? Frie øjenbevægelser i alle fire retninger?
+V:
+  Normal sensibilitet i ansigtet? Egal tyggemuskelfunktion?
+VII:
+  Kan patienten rynke pande, knibe øjne sammen og vise tænder?
+VIII:
+  Nystagmus? Høres fingerknitren?
+IX+X:
+  Devierer uvula? Normal svælgrefleks?
+XI:
+  Kan patienten dreje hovedet og løfte skulderen?
+XII:
+  Bevæges tungen normalt?
+
+**Motorisk:** Beskriv truncus, over- og underekstremiteter for sig. Er der
+normal muskeltonus og -trofik? Er der normal kraft over de store led? Er
+der dysdiadokokinese (manglende evne til at udføre hurtige alternerende
+bevægelser)? Er der normal strakt arm-test og normale finger-næse-test
+og *Rombergs prøve?* Er der normale senereflekser? Normalt plantarrespons?
+Er der normal tå-, hæle- og liniegang?
+
+**Sensorisk:** Beskriv truncus, over- og underekstremiteter for sig. Er der
+normal berøringssans, smertesans og vibrationssans?
 
 Hud
 ---
+(se kapitel 14)
+
+Generelt: Er huden intakt og uden udslæt (eksantem)? Ved traumer: Er
+der sår, ekskoriationer (hudafskrabninger) eller sugillationer (blå mærker)?
+Ved feber eller blødning: Er der petekkier eller ekkymoser (hudblødninger,
+der ikke kan trykkes væk)?
+
+Ved eksantem: Er det lokaliseret, evt. symmetrisk eller universelt, er
+det kløende eller ikke-kløende? Beskriv eksantemets udseende: Hvilken
+farve har det (højrød, rustrød, blegrødt)? Hvilken konsistens har huden:
+normal, infiltreret (fast, fortykket) eller indureret (hård)? Beskriv elementernes
+udseende.
 
 Konklusion og diagnoser
 =======================
 
+På baggrund af anamnesen og den objektive undersøgelser vil man i de
+fleste tilfælde kunne give en vurdering af patientens tilstand og et godt
+bud på, hvad han fejler.Man skal ikke i sin konklusion gentage eller udpensle
+de informationer, der er anført i de subjektive og objektive afsnit,
+men snarere prøve at finde *syntesen* af disse informationer: Er der nogle
+logiske sammenhænge mellem patientens egne symptomer og diagnoseforslag
+og dine objektive fund? I eksemplet med hjertepatienten er det oplagt at skrive:
+
+::
+
+  Konklusion:
+  Pt. med velkendt iskæmisk hjertesygdom. Anamnese og ekg
+  forenelige med akut, transmuralt forvægsinfarkt med debut
+  i dag kl. ca. 08.30.
+                 // AMI
+                    mb. cordis ischaemicus //
+
+Peger anamnese og klinik ikke på en eller flere oplagte diagnoser, fremhæver
+man i sin konklusion væsentlige anamnestiske og objektive informationer
+og giver sine diagnoseforslag. Ofte vil man i sådanne tilfælde
+sætte hovedsymptomer eller væsentlige fund på diagnosens »plads« som
+i flg. eksempel (bemærk, at diaré er et symptom):
+
+::
+
+  Konklusion:
+  Tidligere rask, 21-årig landbrugselev med 10 dage varende
+  vandtynde og blodige diaréer og et vægttab på 6 kg i
+  samme periode. Objektivt er det eneste påfaldende tp. på
+  38,5 og en distinkt ømhed i højre fossa. Infektiøs gastroenterit
+  virker som det mest oplagte, med kronisk
+  inflammatorisk tarmsygdom som mulig differentialdiagnose.
+                   // diarrhoea obs causa
+                      gastroenteritis acuta obs pro
+                      enteritis chronica lille obs //
+
+I dette eksempel præsenteres man for hyppigt anvendt diagnose-slang.
+**Obs causa** betyder frit oversat: Lad os finde ud af årsagen til dette
+symptom! **Obs pro** betyder: En sandsynlig diagnose, lad os undersøge
+det nærmere! **Lille obs** betyder: En mindre sandsynlig diagnose, men
+lad os ikke glemme det som mulighed.
+
+Traditionelt anføres diagnoser på græsk med latinske tilblandinger.
+Både nationalt (Sundhedsstyrelsen) og internationalt (ICD-10) er man
+imidlertid ved at gå over til normalt-sprogs diagnoser, som f.eks.:
+
+::
+
+  // akut myokardieinfarkt
+     iskæmisk hjertesygdom //
+
 Plan
 ====
+
+Indlæggelsesjournalen afsluttes med lægens beslutninger (ordinationer)
+vedrørende den videre observation, undersøgelse og behandling af patienten,
+og man refererer sin information til patienten.
 
 Undersøgelse og behandling
 --------------------------
 
+Hvis diagnosen fortsat er uafklaret eller man vil have bekræftet sine
+diagnoseforslag, kan der være behov for yderligere undersøgelser eller
+lægetilsyn. I journalen på en pt., der var indlagt akut under diagnosen
+**//pneumonia (lungebetændelse)//** stod der:
+
+::
+
+  Der er taget              rp. rødt og hvidt blodbillede,
+                                elektrolytter, CRP
+  På vej til afdelingen     rp. røntgenbillede af thorax
+  På afdelingen             rp. ekspektorat til dyrkning
+                            rp. tp. morgen + aften
+                            rp. venflon
+                            rp. inf. NaCl isotonisk
+  Stillingtagen til antibiotisk behandling, når vi har set
+  røntgenbillederne.
+
+Man skal selvfølgelig specificere de undersøgelser, man ønsker udført,
+men ofte kan man med fordel ordinere »standardpakker«, der måtte tilbydes
+fra det enkelte centrallaboratorium, f.eks. »levertal« eller »koagulationsstatus
+«. Hvis diagnosen er kendt (som hos AMI-patienten), kan
+man ønske at specificere et observations- og behandlingsregime, f.eks.:
+
+::
+
+  Pt.                       indlægges
+  på kardiologisk afsnit    rp. monitorering
+  og kl. 12                 rp. nyt ekg
+  samt kl. 15               rp. CK-MB, leukocytter
+  og pt. flg. herefter      rp. vanligt AMI-regime.
+
+  Der er ingen kontraindikationer for trombolyse, og efter
+  tlf.konf. med bagvagt Henning Rasmussen er der umiddelbart
+  opstartet
+                            rp. trombolyse jf. instruks.
+  der fungerer fra kl. 09.40
+  Pt. har desuden fået      rp. tbl. Magnyl 150 mg
+  Kan ved smerter få        rp. inj. Ketogan 1 ml p.n.
+                                max. x 4
+
+Ordinationer af behandling skal *altid* specificeres, så de er utvetydige.
+Ved lægemiddelordinationer betyder det angivelse af adminstrationsform
+(**tbl.** (tablet), **supp.** (supporsitorium), **inj.** (injektion) osv.),
+præparatnavn, evt. styrke, dosis og adminstrationsvej (**p.o.** (per os),
+**i.v.** (intravenøst), **i.m.** (intramuskulært), **rektalt** osv.), hyppighed
+og evt. tidspunkt (til natten, ved måltider osv.). For medicin, der kan
+gives ved behov (**p.n.**) angives *altid*, hvilken indikation der skal udløse
+p.n.-medicinen, og det maksimale antal doser der må gives pr. døgn.
+
 Patientinformation
 ------------------
+
+Under denne overskrift anføres et ganske kort referat af den information,
+man har givet patienten.Man kan med fordel bruge »at..« sætninger.
+Man skal så vidt mulig skrive de ord og vendinger, man har anvendt
+over for patienten. Hvis man har informeret om risici ved en foreslået
+behandling og patienten har accepteret, anføres dette også, f.eks.:
+
+::
+
+  Patientinformation:
+  At hjertediagrammet viser tegn på blodprop i en kranspulsåre,
+  at blodpropopløsende medicin giver bedre overlevelse
+  og bedre langsigtet hjertefunktion, men at
+  behandlingen giver en lille risiko for hjerneblødning.
+  Pt. accepterer risici.
