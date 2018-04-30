@@ -451,7 +451,7 @@ artroskopi, blot anfører:
   Ingen klager ved systematisk udspørgen,
 
 hvor man får understreget, at man har spurgt om det hele, men at pt. er
-fuldstændig symptomfri. Hos hjertepatienten side 38 er det derimod
+fuldstændig symptomfri. Hos hjertepatienten (afsnit Nuværende/aktuelt) er det derimod
 relevant at få dækket bredt, da grundsygdommen *aterosklerose* har
 mange komplikationer og det hos en sådan patient er vigtigt at få et helhedssyn
 på patientens funktionsniveau:
@@ -476,7 +476,7 @@ Medicin
 I dette afsnit anføres den medicin, som patienten tager, både lægeordineret
 og håndkøbsmedicin samt naturpræparater. Man anfører *præparatnavn,
 doseringsform* (tablet, mikstur etc.), *styrke, dosis og hyppighed*. Hos
-hjertepatienten i eksemplet side 38:
+hjertepatienten i eksemplet afsnit Nuværende/aktuelt:
 
 ::
 
@@ -691,40 +691,226 @@ og henvendt sig i skadestuen, var beskrevet således:
 ----
 (se kapitel 15)
 
-
+Beskrives f.eks. ved traumepatienter, patienter med øresmerter og patienter
+med feber af ukendt årsag: Er ydre øre intakt? Er der udflåd eller
+blod? Hvad viser otoskopi?
 
 Mund og svælg (cavum oris et fauces)
 ------------------------------------
+Mund og svælg beskrives ved alle patienter, der skal fuldbedøves og i
+øvrigt efter behov, f.eks. ved mistanke om cancer, anæmi eller feber af
+ukendt årsag.Man beskriver efter følgende systematik: Er *slimhinderne*
+tørre eller fugtige? Er der blødninger i slimhinden? Har patienten *egne
+tænder*, og hvordan er *tandstatus*? Løse tænder, del- og fuldproteser
+beskrives. Er *tungen* forstørret eller er tungeoverfladen glat og atrofisk?
+Er der rødme, belægning eller hævelse af *tonsiller* og *ganebuer*. Ved traumepatienter:
+Er der intakte og fastsiddende *tænder*, og er mandiblen
+uøm?
 
 Halsen (collum)
 ---------------
 
+Halsen beskrives rutinemæssigt hos mange patienter: Er der *struma?* Er
+struma diffust forstørret, diffust knudret eller med enkelte lokaliserede
+knuder? Er der *lymfadenit?* Er der *halsvenestase?* Er der *nakkestivhed?*
+Hos en pt. med diaré og vægttab som hovedklager, og som senere viste
+sig at have tyreotoksikose, stod der i indlæggelsesjournalen:
+
+::
+
+  Collum: Ingen adenit eller halsvenestase. Der er en
+  symmetrisk, multinodøst forstørret og uøm struma målende
+  ca. 5 x 6 cm.
+
 Lymfeknuder
 -----------
+(se kapitel 4)
+
+Undersøges på vide indikationer f.eks. ved cancermistanke og feber af
+ukendt årsag. Hovedspørgsmålet er: Er der hævelse og ømhed af lymfeknuder
+(også kaldet lymfadenit eller lymfadenopati)? Ved positive fund
+beskrives *lokalitet, antal, størrelse, ømhed*, og om knuderne er *smuttende*
+(fri af hud og underlag) eller *fikserede* (fastsiddende). Ved negative fund
+bør man hos relevante pt. angive de undersøgte regioner. Hos en febril
+og nakkestiv 6-årig dreng stod der i journalen:
+
+::
+
+  Lymfeknuder: Aksiller, collum, klavikler og hø. inguen
+  uden lymfadenitis. I ve. inguen en enkelt lille,
+  smuttende uøm knude.
 
 Thorax
 ------
+(se kapitel 6)
+
+Thorax’ *form* beskrives, hvis den er abnorm (f.eks. tøndeform, pectus
+excavatum). Thoraxhalvdelenes bevægelighed beskrives (symmetri?).
+Indtrækninger i jugulum og under ribbenskurvaturen? Medbevægelighed
+af abdomen? Paradoks respiration? Ved traumer beskrives lokalisation
+af evt. ribbensømhed og strepitus. Ved multitraumatiserede: Er
+thorax stabilt? Hos kvinder beskrives *mammae* (se kapitel 13): symmetri?
+indtrækninger? hudforandringer? papilflåd? udfyldninger?
 
 Ryg og rygsøjle (dorsum et columna vertebralis)
 -----------------------------------------------
+(se kapitel 10)
+
+Ryggen beskrives sædvanligvis kun, hvis der er symptomer herfra.
+*Deformiteter* bemærkes (kyfose, skolioser, hyperlordose). Hvis der er
+*ømhed* ved palpation beskrives lokalisation og type (bankeøm, rokkeøm
+etc.). Columnas *bevægelighed* beskrives.
 
 Lungestetoskopi (St.p. stethoscopia pulmonum)
 ---------------------------------------------
+(se kapitel 6)
+
+Lungestetoskopien beskrives hos alle hospitalsindlagte patienter: Resultatet
+af *perkussionen* beskrives: er der normale lungegrænser, er perkussionlyden
+klar, dæmpet eller rungende. Herefter beskrives *auskultationen*:
+Er der påskyndet (hurtig) respiration? Er der forlænget ekspirium
+(udånding)? Er respirationslyden normal eller svækket, og kan den
+beskrives som vesikulær eller bronkial? Er der bilyde: rhonchi, rallelyde
+(krepitationer) eller pleurale gnidningslyde? Evt. stemmefænomen
+beskrives.
+
+Hos en cyanotisk og svært respirationsbesværet patient, der havde
+røget i 50 år, var følgende beskrevet i primærjournalen:
+
+::
+
+  St.p.: Tøndeformet thorax med indtrækninger i fossa
+  jugularis. Ved perkussion er der dæmpning basalt bag på
+  højre lungefelt. Forlænget ekspirium med rhonchi overalt
+  på begge lungefelter.
 
 Hjertestetoskopi (St.c. stethoscopia cordis)
 --------------------------------------------
+(se kapitel 5)
+
+Hjertestetoskopien beskrives hos alle hospitalsindlagte patienter efter flg.
+system:
+
+– *Rytmen:*
+  Er rytmen regelmæssig? Hvis den er uregelmæssig, er der
+  tale om en »evigt gentagende« (perpetuel) arytmi eller blot om spredte
+  ekstrasystoler? Hvad er hjertefrekvensen? Er der pulsdeficit?
+– *Ekstralyde:* 
+  Er der galoprytme eller kliklyde?
+– *Mislyde:*
+  man beskriver styrke (grad 1-5), karakter (blød, blæsende,
+  ru, maskinlyd), placering i hjertecyklus (systolisk eller diastolisk), stedet,
+  hvor den høres bedst (»maksimum«), og evt. projektion (hals,
+  aksil).
+
+Hos en patient med mangeårig hypertension og claudicatio intermittens,
+men uden væsentlige hjertesymptomer var der i journalen beskrevet følgende
+hjertestetoskopi:
+
+::
+
+  St.c.: Regelmæssig aktion på 72 uden pulsdeficit. Der
+  høres tydeligt en kraftig, ru, midtsystolisk mislyd
+  over 1. aortasted med projektion til karotiderne.
 
 Abdomen
 -------
+(se kapitel 7)
+
+Abdomen beskrives hos de fleste patienter, der indlægges på sygehus. Ved
+*inspektion* bemærkes, om abdomen er fladt, om det er indtrukket og
+rigidt med manglende respirationsbevægelser, eller om det er udspilet
+(opdrevet), evt. toppet (lokaliseret distension) eller med tarmrejsning
+(synlig peristaltik). Friske operationssår beskrives altid med lokalisation
+og kvalitet (er såret sufficient, eller er der defekter eller hernier; og er det
+reaktionsløst og uømt, eller er der infektionstegn?); ældre operationsar
+(cikatricer) beskrives efter behov. *Palpationsfundene* beskrives efter følgende
+system:
+
+– *Konsistens:* 
+  Er abdomen blødt eller hårdt. Hvis abdomen er hårdt, er
+  det så diffust og bræthårdt (universel *défense*), er det blot fordi patienten
+  spænder pga. nervøsitet og kolde lægehænder (abdomen blødt
+  ved afledning af patienten), eller er der tale om en lokaliseret, involuntær
+  (reflektorisk) spænding (lokal *défense*) i abdominalvæggen, der
+  kan reproduceres selv ved afledning af patienten?
+– *Ømhed:* 
+  Er abdomen uømt, eller er der ømhed? Hvis der er ømhed,
+  er denne så diffus eller lokaliseret? Findes ømheden ved let palpation,
+  eller er der tale om dyb ømhed? Er der slipømhed?
+– *Udfyldninger:*
+  Er der forstørrede organer (organomegali) eller abnorme
+  udfyldninger? Beskriv altid lokalisationen og giv et groft skøn over
+  størrelsen i cm. Beskriv form, overflade og konsistens (f.eks. blød og
+  glat, hård og knudret, fast, elastisk, spændt) samt mobilitet (f.eks.
+  adherent, kan balloteres). Er udfyldningen pulserende?
+– *Perkussion:*
+  Er der abnorm blære- eller leverdæmpning eller tegn på ascites?
+– *Auskultation:*
+  Er der normale, rigelige tarmlyde eller sparsomme og
+  evt. klingende tarmlyde? Manglende tarmlyde beskrives som tyst
+  abdomen.
+
+Hos hjertepatienten fra eksemplet (afsnit Nuværende/aktuelt) var maven beskrevet på følgende
+måde i journalen:
+
+::
+
+  Abdomen: Adipøst, fladt, blødt og uømt. Sufficient
+  appendektomicikatrice. Ingen hepato- eller splenomegali.
+  Nyreloger frie og uømme.
+
+At nyrelogerne er »frie« rummer en underforståelse: frie for udfyldninger,
+patologi osv.
 
 Lysker (regiones inguinales)
 ----------------------------
+(se kapitel 7)
+
+Lyskerne kan beskrives separat eller under afsnittet abdomen. Er der
+tegn på hernier, og hvor store er de? Ligger herniet over eller under *lig.
+inguinale?* Er det fuldt eller delvist reponibelt eller irreponibelt? Er der
+hernie i scrotum? Er der anslag ved hoste? Har man undersøgt for brok
+på alle bugvæggens svage steder, kan man skrive brokporte frie. Pulsforholdene
+i *aa. femorales* anføres f.eks. ved patienter med claudicatio
+intermittens (se kapitel 12). Lymfadenitis kan beskrives hér eller under
+en særligt overskrift (jf. side 46).
 
 Mandlige kønsorganer (genitalia masculina)
 ------------------------------------------
+(se kapitel 8)
+
+Beskrivelse af kønsorganerne er ofte relevant hos ældre mænd og i øvrigt
+ved symptomer: Har patienten *kateter à demeure?* Er forhuden til stede,
+og kan den retraheres, eller er der phimosis eller præputiale adhærencer?
+Er der udflåd fra uretralåbningen? Er der sår eller vesikler på glans og
+penis? Er der to testes i scrotum? Er testes normaltstore, egale, uømme
+og glatte? Er der abnorme udfyldninger i scrotum? Undlad beskrivelser
+af penis størrelse og facon – det er sjældent relevant.
 
 Gynækologisk undersøgelse (GU)
 ------------------------------
+(se kapitel 9)
+
+GU beskrives altid ved mistanke om gynækologisk sygdom og ved uafklaret
+abdominalia hos kvinder. Ved *inspektion* beskrives først vulva og
+perineum: Er der sår, vesikler eller kondylomer? Portio og vagina beskrives:
+Er slimhinden normal eller atrofisk? Er der blod, koagler eller udflåd
+*(fluor)* i vagina? Er portio upåfaldende? Er orificium lukket eller gabende?
+Ved *eksploration* beskrives *uterus’* størrelse, lejring (ante/retroflekteret
+eller lige), form (glat eller puklet), konsistens (blød, fast, hård), mobilitet
+og evt. ømhed. Er der ømhed eller udfyldninger af *adnexa?* Har patienten
+en abnorm bækkenbundsmuskulatur (øm, spændt, dårlig knibefunktion)?
+
+Hos en gravid viste den gynækologiske undersøgelse:
+
+::
+
+  GU: Insp.: Vulva nat., vagina med sparsomt, sejt
+  hvidligt fluor, ej ildelugtende. Portio cyanotisk.
+  Orificium snørehulsformet. Ekspl.: positivt Hegars tegn.
+  Uterus blød, anteflekteret, mobil og forstørret svarende
+  til menostasien. Frit og uømt til siderne.
 
 Rektaleksploration (exploratio rectalis)
 ----------------------------------------
