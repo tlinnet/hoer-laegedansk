@@ -8,5 +8,6 @@ for fullfile in $RSTFILES; do
     filename="$(basename -- "$fullfile")"
     extension="${filename##*.}"
     filename="${filename%.*}"
-    echo "Converting rst file: " $filename
+    echo "Converting rst file: " ${filename}
+    pandoc --from=rst --to=mediawiki --table-of-content --standalone ${filename}.rst --output=${filename}.Wiki
 done
