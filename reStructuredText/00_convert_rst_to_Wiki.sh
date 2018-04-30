@@ -3,7 +3,7 @@
 
 shopt -s nullglob
 #for fullfile in *.rst; do
-RSTFILES=`find . -name "*.rst" -type f`
+RSTFILES=`find . -name "*.rst" -type f | sort -n`
 for fullfile in $RSTFILES; do
     filename="$(basename -- "$fullfile")"
     extension="${filename##*.}"
