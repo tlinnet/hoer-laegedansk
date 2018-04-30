@@ -21,4 +21,6 @@ for fullfile in $RSTFILES; do
     gsed -i 's/.RST#/#/g' ${filename}.Wiki
     # # Then replace "-" with "_" between "[" and "|"
     gsed -i -e :1 -e 's@\(\[.*\)-\(.*\|\)@\1_\2@;t1' ${filename}.Wiki
+    # If no section is added, then just replace
+    gsed -i 's/.rst#//g' ${filename}.Wiki
 done
