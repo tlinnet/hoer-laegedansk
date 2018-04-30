@@ -15,7 +15,7 @@ Opbygningen af patientjournalen varierer fra sygehus til sygehus. Som regel inde
 '''Sygehusjournalens opbygning'''
 
 ; Kontinuationerne:
-: – de sider, der indeholder selve &gt;&gt;dagbogen&lt;&lt; med dag til dag-beskrivelserne af sygdomsforløbet.
+: – de sider, der indeholder selve »dagbogen« med dag til dag-beskrivelserne af sygdomsforløbet.
 ; Specialkontinuationer:
 : – særlige sider med f.eks. notater om operationsbeskrivelser, socialrådgiversamtaler eller tandlægetilsyn.
 ; Laboratorieark:
@@ -47,7 +47,7 @@ Journalteksten udgør en kronologisk beskrivelse af en enkelt patients sygdomsfo
 
 '''O''' for '''objektivt''', fordi man hér beskriver resultaterne af de undersøgelser, man har gjort patienten til genstand for. At informationen er objektiv, betyder imidlertid ikke, at den er mere rigtig eller mindre vilkårlig end patientens subjektive bidrag, tværtimod skal de to slags informationer komplementere hinanden. Objektive fund skal skelnes fra subjektive symptomer: Træthed er et symptom, patienten oplever – bleghed er måske det fund, lægen gør hos samme patient.
 
-'''A''' for '''assessment''', fordi man hér giver sin ''vurdering'' af de subjektive og objektive informationer.Man angiver her sit syn på patientens ''status'', dvs. nuværende tilstand, der f.eks. kan være &gt;&gt;akut påvirket&lt;&lt; eller &gt;&gt;i bedring&lt;&lt;. Desuden kommer man med bud på ''diagnoser'' – hvad patienten fejler – og ''prognose'' – udsigten til helbredelse, forbedring eller forværring.
+'''A''' for '''assessment''', fordi man hér giver sin ''vurdering'' af de subjektive og objektive informationer.Man angiver her sit syn på patientens ''status'', dvs. nuværende tilstand, der f.eks. kan være »akut påvirket« eller »i bedring«. Desuden kommer man med bud på ''diagnoser'' – hvad patienten fejler – og ''prognose'' – udsigten til helbredelse, forbedring eller forværring.
 
 '''P''' for '''plan''', fordi man hér skitserer, hvad der skal ske med patienten. Det kan være i form af et ''udredningsprogram'', hvor man angiver, hvilke undersøgelser patienten skal gennemgå og i hvilken rækkefølge. Her vil man angive, hvordan og hvor ofte patienten skal ''observeres'' (f.eks. have målt puls og blodtryk), og man vil nøje præcisere, hvilken ''behandling'' patienten skal have, f.eks. hvilken medicin der skal gives, i hvilke doser og hvor hyppigt. Lægens beslutninger vedr. undersøgelse og behandling benævnes ''ordinatione'' og markeres i journalen ved forkortelsen rp. (for det latinske ''recipe'' = tag!). En væsentlig del af behandlingen er at fortælle patienten om sine overvejelser, og man beskriver derfor også på dette sted, hvilken ''patientinformation'' der er givet.
 
@@ -59,7 +59,7 @@ rp. ambulant kontrol om 2 uger.
 Frarådes at løfte noget tungt de næste 4 uger.</pre>
 hvor velbefindende er den subjektive information baseret på patientens udsagn om, at hun har det fint efter operationen, '''blødt abdomen''' er lægens objektive kliniske fund efter at have trykket patienten på maven, '''ukompliceret'''* ... er lægens vurdering, og '''udskrives til''' ... er den videre plan for patienten.
 
-SOAP-huskereglen sikrer, at man får alle relevante informationer med hver gang, og for at hjælpe sig selv og læseren i den proces kan man let &gt;&gt;indbygge&lt;&lt; SOAP i sine journalnotater som f.eks.:
+SOAP-huskereglen sikrer, at man får alle relevante informationer med hver gang, og for at hjælpe sig selv og læseren i den proces kan man let »indbygge« SOAP i sine journalnotater som f.eks.:
 
 <pre>Subjektivt synes patienten, det går bedre og oplever
 færre afføringer. Han synes selv, at han drikker godt.
@@ -75,6 +75,6 @@ P: Man anlægger urethalkateter
 med udtømmelse af 1.200ml klar urin.</pre>
 = Om journalsproget =
 
-Sygehusjournalen er – fordi den er et arbejdsredskab – fyldt med fagjargon. I journalerne finder man mange ord med græsk-latinsk oprindelse, og efterhånden også en del engelske ord og forkortelser (f.eks. IUD, ERCP, PTCA, COLD osv.). En forudsætning for at andre kan forstå, hvad man forsøger at udtrykke, er, at man selv behersker de ord og vendinger, man bruger. Det går altid galt når man – i sin iver efter at skrive journalnotater på &gt;&gt;doktorlatin&lt;&lt; – forsøger sig med fine begreber, man ikke kender den præcise betydning af, eller vælger tillempede latinske fraser, fordi man ikke kan huske de korrekte betegnelser.
+Sygehusjournalen er – fordi den er et arbejdsredskab – fyldt med fagjargon. I journalerne finder man mange ord med græsk-latinsk oprindelse, og efterhånden også en del engelske ord og forkortelser (f.eks. IUD, ERCP, PTCA, COLD osv.). En forudsætning for at andre kan forstå, hvad man forsøger at udtrykke, er, at man selv behersker de ord og vendinger, man bruger. Det går altid galt når man – i sin iver efter at skrive journalnotater på »doktorlatin« – forsøger sig med fine begreber, man ikke kender den præcise betydning af, eller vælger tillempede latinske fraser, fordi man ikke kan huske de korrekte betegnelser.
 
-Derfor: ''Er du usikker, når du skal formulere dine journalnotater, så brug almindelige danske ord!'' F.eks. kan man sagtens skrive: &gt;&gt;Der ses et udslæt med mange småblærer og enkelte små knopper&lt;&lt;, hvis man ikke kan huske frasen &gt;&gt;vesikulo-papuløst eksantem&lt;&lt;.
+Derfor: ''Er du usikker, når du skal formulere dine journalnotater, så brug almindelige danske ord!'' F.eks. kan man sagtens skrive: »Der ses et udslæt med mange småblærer og enkelte små knopper«, hvis man ikke kan huske frasen »vesikulo-papuløst eksantem«.
