@@ -1,0 +1,1 @@
+pandoc --from=rst --to=mediawiki --standalone 1_Moedet_mellem_laege_og_patient.rst --output=1_Moedet_mellem_laege_og_patient.Wiki
