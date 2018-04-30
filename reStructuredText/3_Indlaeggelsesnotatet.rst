@@ -1,0 +1,754 @@
+Indlæggelsesnotatet
+*******************
+
+I Danmark anvender de fleste læger en traditionel disposition for primærjournalen.
+Når man dikterer sin journal, vil man gøre det i en
+bestemt rækkefølge, og når sekretæren renskriver diktatet, vil hun sørge
+for, at notatet opstilles med overskrifter, understregninger og tabuleringer,
+således at resultatet bliver ensartet fra gang til gang (se næste side).
+
+I dette kapitel beskrives, hvordan man skal *disponere* og *formulere* sine
+journalnotater. De enkelte dele af den traditionelle indlæggelsesjournal
+gennemgås punkt for punkt med brug af eksempler. I kapitel 4-15 gives
+en nærmere beskrivelse af, hvilke spørgsmål der er gode til at få anamnesen
+frem, og hvordan man foretager den objektive undersøgelse.
+
+Subjektivt (Anamnesen)
+======================
+
+Den første del af journalen baseres på patientens egne oplysninger om
+og opfattelse af det aktuelle sygdomsforløb og benævnes *anamnesen* eller
+sygehistorien. Primærjournalens anamnesedel underopdeles i op til 10-12
+forskellige afsnit, hvoraf afsnittet **nuværende** er sygehistoriens kerne.
+
+Journalhovedet
+--------------
+
+Journalen indledes med en ganske kort beskrivelse af patientens *alder,
+køn, indlæggelsesmåde og årsag til indlæggelsen*, f.eks.:
+
+* 43-årig kvinde indkaldt over ventelisten til variceoperation
+* 27-årig bevidstløs mand indbringes af Falck fra trafikuheld på ringvejen.
+
+::
+
+  Subjektivt      Journalhoved
+  (anamnesen)     Allergier
+                  Dispositioner
+                  Ekspositioner
+                  Tidligere
+                  Gynækologisk
+                  Nuværende/aktuelt
+                  Øvrige organsystemer
+                      Centralnervesystemet (CNS)
+                      Kardio-pulmonalt (C-P)
+                      Gastro-intestinalt (G-I)
+                      Uro-genitalt (U-G)
+                      Bevægeapparatet (B-A)
+                      Endokrinologisk
+                      Hud
+                  Medicin
+                  Tobak, alkohol m.m.
+                  Socialt
+
+  Objektivt       Alment
+                  Ydre kranie (calvaria)
+                  Ansigt
+                  Øjne
+                  Ører
+                  Mund og svælg (cavum oris et fauces)
+                  Hals (collum)
+                  Lymfeknuder
+                  Thorax
+                  Ryg (dorsum)
+                  Lungestetoskopi
+                    (st.p. = stetoskopia pulmones)
+                  Hjertestetoskopi
+                    (st.c. = stetoskopia cordis)
+                  Abdomen
+                  Lysker (regiones inguinales)
+                  Genitalia
+                  Rektaleksploration
+                  Ekstremiteter
+                  Neurologisk
+                  Hud
+
+  Assessment      Konklusion
+  (vurdering)     Diagnoser
+
+  Plan            Undersøgelser
+                  Behandling
+                  Patientinformation.
+
+Allergier
+---------
+
+Ved kendte allergier angives *allergenet*, og man beskriver nøje, hvilken
+*reaktion* der udløses. Ved lægemiddelallergier m.v., som er af væsentlig
+betydning for patientens eventuelle behandling, angives disse med ordet
+**cave** (latin for: tag dig i agt!), og teksten fremhæves med fed skrift, f.eks.:
+
+::
+
+  Allergier:
+  CAVE PENICILLIN: Patienten fik i 1996 et ildebefindende
+  med rødt udslet over hele kroppen umiddelbart efter
+  penicillinindsprøjtning.
+
+Under punktet **allergier** kan man også angive andre forhold, som
+man bør tage sig i agt for under indlæggelsen, f.eks.:
+
+::
+
+  Allergier:
+  Ingen kendte medicinallergier, tåler penicillin.
+  CAVE BLODTRANSFUSION: Patienten er Jehovas Vidne og
+  ønsker under ingen omstændigheder at modtage behandling
+  med blodprodukter.
+
+Såfremt patienten ikke mener at have allergier, skal dette også angives,
+idet man *altid* oplyser, om patienten tidligere har fået penicillin, uden at
+dette gav reaktion, f.eks.:
+
+::
+
+  Allergier:
+  Ingen kendte, tåler penicillin.
+
+Ofte forveksles bivirkninger ved medicinsk behandling med overfølsomhedsreaktioner:
+Således ses diaré, kvalme og ondt i maven ved antibiotisk
+behandling. Kvalme og kløe er almindelige bivirkninger til morfika,
+og et rødt, ikke-kløende udslæt kan ses efter behandling med ampicillinpræparater.
+
+Dispositioner
+-------------
+
+Ved kendte dispositioner angives disse med beskrivelse af *lidelsens art* og
+*familierelationen*, f.eks.:
+
+::
+
+  Dispositioner:
+  Morfar og en morbror har insulinkrævende sukkersyge.
+  Far har urinsyregigt. Ingen hjertesygdom i familien.
+
+Ved beskrivelse af familierelationer er det lettest at bruge de almindelige
+danske betegnelser. Undgå upræcise betegnelser som onkel eller bedstefar
+(mødrene eller fædrene side?). Punktet dispositioner udelades ofte i
+rutinejournalen, men bør medtages, hvor det er oplagt relevant, som
+f.eks. følgende hos en 38-årig mand, hvor egen læge tilfældigt har fundet
+et blodtryk på 170/105:
+
+::
+
+  Dispositioner:
+  Patienten er massivt disponeret for hjerte-kar-sygdom
+  gennem fars, farbrors og farfars tidlige død af blodprop
+  i hjertet,
+
+eller følgende hos en kvinde med en knude i brystet:
+
+::
+
+  Dispositioner:
+  Flere tilfælde af brystkræft på mødrene side, bl.a. en
+  moster og en kusine.
+
+Er der ingen kendte dispositioner, kan dette også angives, idet man som
+regel specifikt angiver, at man har spurgt om de væsentligste folkesygdomme,
+f.eks.:
+
+::
+
+  Dispositioner:
+  Ingen kendte til hjerte-kar- eller stofskiftesygdomme.
+
+Ekspositioner
+-------------
+
+Har patienten været udsat for miljøpåvirkninger, der har relevans til det
+aktuelle sygdomsforløb, angives dette, som f.eks. følgende hos en patient
+der hoster blod og har en »plet« på lungerøntgenbilledet:
+
+::
+
+  Ekspositioner:
+  Arbejdede fra 1953-59 med nedtagning af asbestisolerede
+  rør og kedler uden brug af åndedrætsværn
+
+– eller følgende hos en patient med feber af ukendt årsag:
+
+::
+
+  Ekspositioner:
+  Hjemkommet for 14 dage siden efter 3 måneders ophold i
+  Zimbabwe. Har taget chloroquin-tabletter hver uge, men
+  løb tør for tabl. Paludrine efter 2 måneder.
+
+Under ekspositioner nævnes ikke blot arbejdsmiljøforhold og udenlandsrejser,
+men også smitsomme sygdomme i nærmeste omgivelser (f.eks.
+meningitis i børnehaven) eller en relevant seksuel anamnese, f.eks. følgende
+hos en yngre mand med hævede lymfeknuder:
+
+::
+
+  Ekspositioner:
+  Homoseksuel med fast partner siden 1998, bruger kondom,
+  gik tidligere meget i byen og havde ofte en ny partner
+  med hjem.
+
+Tidligere
+---------
+
+Under denne overskrift angives væsentlige begivenheder i patientens tidligere
+sygehistorie – bagateller som **fået fjernet mandler som
+barn** eller **1942: nedgroet negl** kan udelades. Ved tidligere indlæggelser
+på sygehus angives *årstal* (evt. måned ved nylige indlæggelser),
+*sted*, evt. afdeling, *diagnose, behandling*, og evt. senfølger (*sequelae*),
+f.eks.:
+
+::
+
+  Tidligere:
+  1967, Rudkøbing, perforeret apppendicit, appendektomeret
+  1988, Svendborg, ort. kir., fract. cruris dxt., ingen sequelae.
+
+Man bør så vidt muligt angive, hvilken *kilde* man har til oplysningerne –
+enten direkte eller ved sit sprogvalg – f.eks.:
+
+::
+
+  Tidligere:
+  1996, Hvidovre, gas. kir., colitis ulcerosa, hemicolectomia,
+  iflg. op.beskr. blev der gjort primær transversorektal anastomose.
+
+Ved pågående kronisk sygdom angives *debuttidspunkt, behandling, status*
+samt sted og hyppighed for *kontrol*, f.eks.:
+
+::
+
+  Tidligere:
+  1962, Viborg, fjernet blindtarm,
+  – siden 1992 diætbehandlet sukkersyge, halvårlige kontroller
+  hos egen læge, angiveligt pæne blodsukkertal,
+  – siden 1994 forhøjet BT, angiveligt velbehandlet via
+  egen læge.
+
+Ved tidligere sygdom med recidivtilbøjelighed (f.eks. kræft eller tuberkulose)
+beskrives *diagnosetidspunkt*, evt. prognostisk klassifikation, behandling
+samt dato for seneste kontrol og status, f.eks.:
+
+::
+
+  Tidligere:
+  1992, Århus Kommunehospital, c. corporis uteri stadium
+  Ia, radikal hysterektomi, ingen strålebeh., seneste
+  kontrol oktober 1997 var uden tegn på recidiv.
+
+Traditionelt har man under **tidligere** udførligt beskrevet, om patienten
+har eller ikke har haft en række nærmere specificerede sygdomme:
+mæslinger, fåresyge, røde hunde, gigtfeber, difteri og skarlagensfeber.
+Denne remse giver i dag ingen mening som rutine, men det kan være
+relevant f.eks. at beskrive tidligere gigtfeber hos en hjertesyg eller tidligere
+rubella hos en gravid.
+
+Gynækologisk
+------------
+
+Under denne overskrift beskrives en kvindelig patients blødnings- og
+fertilitetsanamnese, idet man angiver *menarche* (første menstruation),
+*menopause* (overgangsalder); man beskriver *cyklus* (varighed og interval
+i dage), *sidste menstruations første dagØ (SM); hvis kvinden er gravid,
+anføres det, om graviditeten er ønsket, og man angiver gestationsalder
+(GA); man beskriver tidligere *graviditeter* og *fødsler*, og man oplyser om
+evt. hormonbehandling og antikonception. Eksempler:
+
+::
+
+  Gynækologisk:
+  Regelmæssigt menstruerende siden 12-års-alderen med en
+  cyklus på 5/28. Gravida III, para I med ab.pro x 2 og
+  en ukompliceret vaginal fødsel. Har spiral. SM 12/4.
+
+  Gynækologisk:
+  Menarche 1987. Regelmæssigt blødende på tabl. Minulet
+  indtil sep. af disse primo januar. Herefter uregelmæssig
+  cyklus på 2-5/25-30 indtil SM 23/7 sv.t. GA = 8 uger +
+  2 dage. Pos. grav.test. hos e.l. primo sept. Graviditeten
+  er ønsket, pt. er gravida 0.
+
+Den gynækologiske anamnese anføres kun, hvor det er relevant. F.eks. vil
+man undlade det ved en 21-årig kvindelig håndboldspiller, der møder til
+en ambulant knæartroskopi, mens man derimod bør gøre det hos en 48-årig 
+kvinde, der indlægges til udredning af anæmi.
+
+Nuværende/aktuelt
+-----------------
+
+Dette afsnit er kernen i anamnesen, hvor man beskriver de symptomer
+og forhold, der har forårsaget patientens indlæggelse, og hvor man fremhæver
+de subjektive informationer, man finder væsentlige for den videre
+diagnostik og behandling.Man tager ofte udgangspunkt i de symptomer
+og gener, som patienten selv finder vigtige (»hovedklagen«), men bør
+forsøge at redigere sygehistorien, så det lægefagligt relevante er velbelyst.
+Hvis anamnesen baseres på andre kilder end patienten selv, anføres
+dette, f.eks. **Anamnese suppleret ved samtale med patientens
+datter**. Er der sproglige problemer, anføres dette, f.eks. **Pt. forstår
+ikke dansk, og anamnese er optaget ved hjælp af tolk.**
+
+**Genindlæggelse**
+
+::
+
+  Er der tale om genindlæggelse i et længere forløb, kan dette
+  afsnit passende deles i to: Et, der kaldes nuværende, og ét, der
+  kaldes aktuelt eller siden sidst, f.eks.:
+
+  Nuværende:
+  Pt. er velkendt i afd. siden 1990 med diabetiske
+  fodsår. Fik d. 3/7-2000 foretaget højresidig forfodsamputation,
+  efterfølgende besværlig opheling, men
+  udskrives d. 27/8 med en pæn stump.
+
+  Aktuelt:
+  Indlægges på foranledning af hjemmeplejen, der ved
+  besøg i dag bemærker en rådden lugt fra foden.
+  Pt. er egentlig imod genindlæggelse, da han synes,
+  vi holdt for længe på ham sidst. Pt. har selv bemærket,
+  at foden er blevet sort den seneste uges
+  tid, men har ingen smerter fra den.
+
+Punktet **nuværende** har en noget løsere og mindre formel struktur end
+de øvrige journalpunkter. Man skal derfor passe på ikke at blive for sludrende
+og refererende, som i flg. eksempel:
+
+::
+
+  Nuværende:
+  Pt., som er på besøg hos en kusine, får pludselig meget
+  ondt i brystet, det trykker, og hun ringer 112.
+  Lægeambulancen kommer og giver pt. et drop og medicin,
+  pt. kan ikke huske hvilken (morfika?), men det hjælper.
+  Pt. har tidligere haft ondt, men ikke ligesom nu, det
+  trykker fortil bag sternum og stråler ud i venstre arm,
+  og pt. er bleg og klam. Pt. har kendt angina pectoris.
+  Pt. bliver kørt direkte på kardiologisk afsnit, hvor man
+  finder A M I på ekg’et. Efter konf. med bagvagt Henning
+  Rasmussen er der givet Streptase.
+
+Efter læsningen af dette sidder man tilbage med uvæsentlige oplysninger
+(f.eks.: på besøg hos kusinen), ubesvarede spørgsmål om både væsentligt
+(hvad tid startede smerterne?) og uvæsentligt (hvem ringer 112?), og
+man bliver forvirret over sammenblanding af subjektivt (smerter),
+objektivt (bleg og klam), vurdering (AMI) og plan (trombolyse).
+
+En mere systematik beskrivelse af sygehistorien i ovennævnte eksempel
+kunne se således ud:
+
+::
+
+  Nuværende:
+  Det sidste 1/2 år har pt. haft næsten daglige anfald af
+  brystsmerter ved anstrengelse, som dog altid lindres ved
+  1-2 nitrospray. I morges kl. halv ni, mens pt. er i gang
+  med lettere havearbejde, får han pludselig voldsomme
+  smerter midt i brystet med udstråling til venstre arm.
+  Anfaldet værre end vanligt. Pt. må lægge sig, har svært
+  ved at få vejret og føler sig som klemt under en damptromle.
+  Nitrospray uden effekt. Lægeambulancen tilkaldes,
+  og iflg. ambulancejournalen er der kl. 09.07 givet inj.
+  Morfin 10 mg i.v. med god effekt.
+
+#. **Kendte sygdomme eller tilstande** der er relevante for det aktuelle forløb:
+
+   - debuttidspunkt
+   - behandling
+   - status og kontrol
+
+#. **Aktuelle symptomer** med det væsentligste symptom først.
+
+   - For hvert symptom beskrives:
+
+     - *debut* (hvordan og hvornår)
+     - *alvor* (sammenlignet med tidligere; forstyrrer nattesøvn etc.)
+     - *optræden* (konstant, aftagende/tiltagende, anfaldsvist, hvor hyppigt)
+     - hvad *forværrer* eller *lindrer* symptomet.
+
+   - For det hyppige symptom smerte beskrives desuden:
+
+     - *lokalisation*
+     - *udstråling*
+     - *karakter* (jagende, trykkende, borende etc.).
+
+#. **Patientens egne overvejelser** over symptomernes betydning
+   og sygdommens art, herunder også patientens egne
+   »diagnoseforslag«. Selvom patientens egen prioritering af
+   symptomer og patientens egne diagnoseforslag kan virke
+   absurde set med lægeøjne, bør de som hovedregel nævnes.
+
+
+Øvrige organsystemer
+--------------------
+
+I dette afsnit beskrives sygdomme og klager, der ikke umiddelbart har
+relation til den primære indlæggelsesårsag, f.eks. gigtsmerter hos en hjertesyg.
+Man kan også »fange« symptomer, der har relation til den akutte
+sygdom, f.eks. hvilesmerter og kolde fødder hos en hjertesyg patient.
+
+Traditionelt gennemgår man de store organsystemer ét for ét i rækkefølgen
+hoved til storetå, og man koncentrerer sig om hovedsymptomerne
+på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
+
+::
+
+  Centralnervesystemet (CNS) (se kapitel 11): hovedpine?
+  svimmelhed? synsforstyrrelser? føleforstyrrelser og
+  lammelser? krampeanfald? mentale ændringer? humør? søvn?
+  hukommelsesbesvær?
+
+  Kardio-pulmonalt (K-P) (se kapitel 5 – 6): åndenød? brystsmerter?
+  hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
+
+  Gastro-intestinalt (G-I) (se kapitel 7): appetit? uønsket
+  vægttab? kvalme eller opkastninger? synkebesvær? halsbrand?
+  mavesmerter? ændret afføringsmønster?
+
+  Uro-genitalt (U-G) (se kapitel 8 – 9): svie og smerte ved
+  vandladning? vandladningsbesvær? ufrivillig vandladning?
+  blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser?
+  udflåd?)
+
+  Bevægeapparatet (B-A) (se kapitel 10 + 12): smerter i ekstremiteterne?
+  rygsmerter? stivhed? hævede led? sår? claudicatio?
+
+Disse 5 er den sædvanlige remse, men af og til overser man symptomer
+fra de »små« organsystemer:
+
+::
+
+  Hud (se kapitel 14): kløe? udslæt? sår?
+
+  Sanseorganer (se kapitel 15): høretab? øresusen? svimmelhed?
+  synstab?
+
+  Stofskifte (endokrinologisk)(se kapitel 13): appetit- og
+  vægtændringer? træthed? tørst? tisser meget? varme- eller
+  kuldefornemmelse? psykiske ændringer?
+
+Efter sin grundige udspørgen af patienten vil man ofte sidde tilbage med
+mange *negative* informationer, dvs. symptomer, som patienten *ikke* har.
+Dilemmaet er, om man skal omtale alle disse i sit journalnotat. Generelt
+må man sige, at jo mere uerfaren man er, jo flere negative informationer
+skal man nævne – så en senere læser er sikker på, at man har gjort sit
+arbejde grundigt. I øvrigt må man indrette sine beskrivelser efter forholdene.
+F.eks. vil det være fuldstændigt naturligt at man hos en 21-årig,
+fuldstændigt sund og rask håndboldspiller, der møder til ambulant
+artroskopi, blot anfører:
+
+::
+
+  Øvrige organsystemer:
+  Ingen klager ved systematisk udspørgen,
+
+hvor man får understreget, at man har spurgt om det hele, men at pt. er
+fuldstændig symptomfri. Hos hjertepatienten side 38 er det derimod
+relevant at få dækket bredt, da grundsygdommen *aterosklerose* har
+mange komplikationer og det hos en sådan patient er vigtigt at få et helhedssyn
+på patientens funktionsniveau:
+
+::
+
+  Øvrige organsystemer:
+  CNS: Ingen føleforstyrrelser, taleforstyrrelser eller
+  lammelser. Får hovedpine, når blodtrykket er for højt,
+  men har aldrig haft synsforstyrrelser.
+  K-P: Ingen hoste, i øvrigt som anført.
+  G-I: God appetit, normalt afføringsmønster. Har taget
+  11 kg på siden rygeophør for 1 år siden.
+  U-G: Nykturi x 2-4, slap stråle og igangsætningsbesvær.
+  Er henvist til urologisk ambulatorium.
+  B-A: Ingen klager, særligt ingen klager over hævede ben,
+  hvilesmerter eller kolde fødder.
+
+Medicin
+-------
+
+I dette afsnit anføres den medicin, som patienten tager, både lægeordineret
+og håndkøbsmedicin samt naturpræparater. Man anfører *præparatnavn,
+doseringsform* (tablet, mikstur etc.), *styrke, dosis og hyppighed*. Hos
+hjertepatienten i eksemplet side 38:
+
+::
+
+  Medicin:
+  tabl. Furix 40 mg x 3
+  tabl. Kaleorid 750 mg x 3
+  tabl. Digoxin 125 μg x 2
+  tabl. Capoten 12,5 mg x 2
+  mundspray Nitrolingual 0,4 mg/dosis p.n.
+  tabl. Magnyl 75 mg x 1
+  »Kräuterblut« jernmikstur.
+
+Har en patient intet medicinforbrug kan man anføre:
+
+::
+
+  Medicin:
+  Nihil
+
+Tobak, alkohol og øvrigt misbrug
+--------------------------------
+
+Man anfører størrelsen af det aktuelle, oplyste forbrug og evt. art. Det
+kan være relevant at anføre tidligere forbrug og dato for ophør. F.eks.:
+
+::
+
+  Tobak:
+  Røget 20-30 cigaretter dagligt fra 16-års-alderen,
+  ophørt 1993.
+
+Ofte ser man detaljerede beskrivelser af fuldstændigt gennemsnitlige
+alkoholvaner, som f.eks.:
+
+::
+
+  Alkohol:
+  Nyder ved festlige lejligheder gerne et glas rød- eller
+  hvidvin, men har intet regelmæssigt dagligt forbrug ud
+  over en øl til maden en gang imellem.
+
+hvor man lige så godt kunne nøjes med:
+
+::
+
+  Alkohol:
+  Intet misbrug.
+
+Oplysninger om indtagelse af euforiserende stoffer (heroin, kokain,
+speed, ecstasy, hash) anføres også på dette sted.
+
+Socialt
+-------
+
+Man anfører patientens *erhverv, civilstand, boligforhold, hjemmeboende
+børn, nærmeste pårørende* samt øvrige relevante oplysninger, herunder
+*sprogproblemer* og *væsentlige fritidsaktiviteter*. Eksempler:
+
+::
+
+  Socialt:
+  Pensioneret buschauffør, rask hustru, eget hus i ét plan,
+  stor nyttehave, som pt. passer, søn og svigerdatter bor
+  i nærheden.
+
+  Socialt:
+  Flygtet fra Somalia mar. 2001 med 2 børn via flygtningelejr
+  i Kenya. Ægtefælle i Somalia. Pt. netop udsluset fra
+  Sandholm-lejren til 2 vær. lejl. i Karlebo. Børnene på
+  3 og 5 år passes af svigerinde under indlæggelsen.
+  Pt. taler ikke dansk, forstår lidt fransk.
+
+Her kan man også anføre relevante oplysninger vedrørende patientens
+funktionsniveau:
+
+::
+
+  Socialt:
+  Enke siden 1987. Tidlg. syerske. Folkepens. Klarer
+  dårligt selv trapperne til lejligheden, indstillet til
+  beskyttet bolig. Klarer selv pers. hygiejne, hj.hjælp
+  til resten.
+
+Objektivt
+=========
+
+Beskrivelsen af den objektive undersøgelse indledes altid med en beskrivelse
+af almene kliniske fund og herefter i en traditionel rækkefølge fra
+»top til tå« de objektive fund. Væsentlige positive fund beskrives, og
+negative fund anføres, for så vidt de er relevante. Her gælder også, at jo
+mindre erfaren man er, jo flere negative fund skal man beskrive. Når
+man læser i sygehusjournaler, får man indtryk af, at det hyppigste objektive
+fund er **i.a.** der betyder: intet abnormt, dvs. alt er normalt. Det er
+en fristende frase at fyre af, når man er uerfaren og ikke synes, at man
+kan høre eller se noget unormalt. Skriv hellere hvad du faktisk *har* set
+eller hørt, så den mere erfarne kollega, der kommer efter dig, kan vurdere,
+hvad der skal efterundersøges. Ved en usikker hjertestetoskopi, hvor
+man næsten ikke kan høre hjertelydene, skal man ikke skrive
+**St.c.: i.a.**, men skrive, hvad man oplever, f.eks.:
+
+:: 
+
+  St.c.: Svage hjertelyde overdøvet af respirationen.
+  Der kan ikke sikkert vurderes mislyde.
+
+I det følgende gives en vejledning i *beskrivelsen* af den objektive undersøgelse
+– selve undersøgelsesteknikkerne er beskrevet i kapitlerne 4 til 15.
+For hvert organsystem anføres en systematik, der med fordel kan anvendes
+ved beskrivelsen, og de hyppigste fund nævnes.
+
+Man medtager sjældent alle de punkter, der gennemgås her, i den objektive
+undersøgelse, men prioriterer de enkelte dele i forhold til anamnesen
+og diagnostiske overvejelser.
+
+**Adfærdstermer:**
+
+Inspektion:
+  – den undersøgelse, hvor man ser.
+Palpation:
+  – den undersøgelse, hvor man føler.
+Eksploration:
+  – undersøgelsen af hulrum med sine fingre.
+Perkussion:
+  – den undersøgelse, hvor man banker på patienten.
+Auskultation:
+  – den undersøgelse, hvor man lytter med stetoskop.
+
+Almene fund
+-----------
+(se kapitel 4)
+
+I det indledende afsnit giver man et »signalement« af patientens aktuelle
+tilstand ved at beskrive følgende almene og umiddelbare kliniske fund:
+
+–  *Almentilstanden* (AT) bemærkes altid: upåvirket? oppegående? vågen
+   og klar? orienteret i tid, sted og egne data? påvirket bevidsthedstilstand?
+   psykisk påfaldende? dement? smerteforpint? beruset (ebrieret)?
+   kørestolsbunden? miseriespræget (misligeholdt)?
+–  *Ernæringstilstanden* (ET) kan anføres: Traditionelt anvendes betegnelserne
+   **ET middel/over middel/under middel**, men man kan
+   også skrive f.eks. **svært adipøs** (fed) eller **kakektisk** (radmager)
+   eller endnu bedre anføre patientens *højde* og *vægt*.
+– *Farve*: normale farver? solbrændt? rødblussende? bleg? perifer eller
+  central cyanose? ikterisk? tegn på anæmi? gusten (uræmi)?
+
+– *Perifer cirkulation*: varm og tør? kold og klamtsvedende?
+
+– *Hydreringsgrad*: normohydreret? nedsat hudturgor? halonering?
+  tørre slimhinder?
+– *Respiration*: naturlig respiration? respirationsbesværet? hyperventilerende?
+  overfladisk respiration? Kussmauls respiration?
+– *Værdier*: Man anfører blodtryk, puls og temperatur og evt., hvordan
+  disse er fremkommet (f.eks. BT liggende eller TP rektalt). Evt. kan
+  også anføres respirationsfrekvens og iltmætning (pulsoksimeter).
+– Resultater af *akutte parakliniske undersøgelser* bør også anføres hér;
+  f.eks. beskrives et akut ekg hos en patient med brystsmerter eller en
+  akut arteriepunktur (a-punktur) hos en respirationsbesværet patient.
+
+Ved hjertepatienten fra eksemplet (afsnit Nuværende/aktuelt) så den almene beskrivelse
+sådan ud:
+
+::
+
+  Objektivt
+  Vågen og klar, ej smerteforpint, bleg og klam. Nat.
+  respiration. Moderat adipøs med æblefacon.
+  BT 95/70, P 96 regelmæssig, Tp 37,2 (målt i øret).
+  Akut ekg viser sinusrytme med en frekvens på 100-110,
+  ascenderende ST-elevationer i V2-V3 og I, ingen abnorme
+  Q-takker eller negative T-takker.
+
+Ydre kranie (calvaria)
+----------------------
+(se kapitel 11)
+
+Beskrives f.eks. ved bevidsthedspåvirkede og traumepatienter: Er der
+ydre læsioner? Frakturmistanke (strepitus)?
+
+Ansigt
+------
+
+Ansigtet beskrives sjældent, men under denne overskrift kan man f.eks.
+se: Er der umiddelbare tegn på *facialisparese* (se s. 168)? Er der ømhed af
+*aa. temporales*? Hos traumepatienter: Er ansigtsskelettet intakt og uømt?
+Devierer *næsen*, og er der *udflåd* (blod, liquor)?
+
+Øjne
+----
+(se kapitel 15)
+
+Øjne undersøges ofte på patienter, der indlægges på sygehus: Er patienten
+*blind* eller har *glasøje*? Er der *periorbitale ødemer, exophthalmus*
+(udstående øjne) eller brillehæmatom? Er der i *sclerae* tegn på icterus
+(gulsot), eller er der i *conjunctivae* injektion eller tegn på anæmi? Er
+*øjenmedierne* klare, eller er der f.eks. katarakt (grå stær) eller hyphaema
+(blod)? Man beskriver *pupillernes* form (runde?), størrelse (egale eller af
+uens størrelse (anisokori)? knappenålspupiller?) og reaktion for lys (lysstive?
+normalt reagerende?). *Synsfeltet* noteres. Er *øjenbevægelserne* frie?
+Er der nystagmus eller strabismus (skelen)(se kapitel 11)?
+
+En øjenundersøgelse hos en beruset person, der havde slået hovedet
+og henvendt sig i skadestuen, var beskrevet således:
+
+::
+
+  Øjne: Conjunctivae let injicerede. Klare øjenmedier.
+  Pupiller runde, egale og naturligt reagerende for lys.
+  Frie øjenbevægelser i alle fire retninger. Latent
+  strabismus.
+
+Ører
+----
+(se kapitel 15)
+
+
+
+Mund og svælg (cavum oris et fauces)
+------------------------------------
+
+Halsen (collum)
+---------------
+
+Lymfeknuder
+-----------
+
+Thorax
+------
+
+Ryg og rygsøjle (dorsum et columna vertebralis)
+-----------------------------------------------
+
+Lungestetoskopi (St.p. stethoscopia pulmonum)
+---------------------------------------------
+
+Hjertestetoskopi (St.c. stethoscopia cordis)
+--------------------------------------------
+
+Abdomen
+-------
+
+Lysker (regiones inguinales)
+----------------------------
+
+Mandlige kønsorganer (genitalia masculina)
+------------------------------------------
+
+Gynækologisk undersøgelse (GU)
+------------------------------
+
+Rektaleksploration (exploratio rectalis)
+----------------------------------------
+
+Bækken (pelvis)
+---------------
+
+Ekstremiteter
+-------------
+
+Neurologisk
+-----------
+
+Hud
+---
+
+Konklusion og diagnoser
+=======================
+
+Plan
+====
+
+Undersøgelse og behandling
+--------------------------
+
+Patientinformation
+------------------
