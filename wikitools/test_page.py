@@ -8,6 +8,7 @@
 
 from wikitools import wiki, page
 import os.path
+from time import sleep
 
 site = wiki.Wiki("http://wiki.hoer-laegedansk.dk/api.php")
 site.login("tlinnet")
@@ -15,7 +16,7 @@ site.login("tlinnet")
 wpages = [
     "1_Mødet_mellem_læge_og_patient",
     "2_Sygehusjournalen",
-    "3_Indlaeggelsesnotatet"
+    "3_Indlæggelsesnotatet"
 ]
 
 # loop over pages
@@ -41,4 +42,5 @@ for wpage in wpages:
     #wpage_text = "Testing"
     p.edit(text=wpage_text, summary='Updating with script', minor=True, skipmd5=True)
     pagetext = p.getWikiText()
-    print(pagetext)    
+    print(pagetext)
+    sleep(1)
