@@ -32,11 +32,11 @@ anviste behandling).
   – de oftere brugte humor og latter,
   – de brugte ca. 20% længere tid til deres konsultationer,
   – de oftere kom med udsagn, der orienterede patienterne om
-  forløbet af konsultationen (f.eks.: >>Først skal jeg undersøge
-  dig, derefter skal du have taget blodprøver<<),
+  forløbet af konsultationen (f.eks.: »Først skal jeg undersøge
+  dig, derefter skal du have taget blodprøver«),
   – de oftere kom med udsagn, der lettede patientens fortælling
-  af sygehistorien (f.eks.: >>Ja ...<<, >>Fortæl mig om ...<<, >>Hvad
-  tror du, det er?>>.
+  af sygehistorien (f.eks.: »Ja ...«, »Fortæl mig om ...«, »Hvad
+  tror du, det er?».
                                               JAMA 1997; 277 : 553-559
 
 Rammerne for mødet med patienten
@@ -62,7 +62,7 @@ Hvis patienten tidligere har været indlagt, skal du altid sætte dig ind i
 *den gamle journal*. Har patienten været indlagt og behandlet under et
 lignende billede tidligere? Er patienten tidligere opereret i området?
 Hvad er der af konkurrerende lidelser osv. Desuden øger det trygheden
-hos patienterne, når de fornemmer at man >>kender<< deres sygehistorie.
+hos patienterne, når de fornemmer at man »kender« deres sygehistorie.
 Patienten kan medbringe en *mappe fra hjemmepleje eller plejehjem*,
 som kan give nogle oplysninger om patientens helbred og funktionsniveau.
 Den indeholder endvidere altid status over den aktuelle medicin.
@@ -75,17 +75,15 @@ du er usikker på.
 
 **Forbered dig til mødet med patienten**
 
-::
 
-  * Læs henvisningen fra den indlæggende læge. Stil supplerende
-  spørgsmål, hvis patienten indlægges pr. telefon.
-  * Sæt dig ind i den gamle journal.
-  * Hjemmeplejerapport, ambulancejournal, melding fra modtagende
-  sygeplejerske m.v. kan ofte give gode informationer
-  om patientens almentilstand og generelle funktionsniveau.
-  * Kast evt. et hastigt blik i en lærebog, så du husker at stille de
+* Læs henvisningen fra den indlæggende læge. 
+  Stil supplerende spørgsmål, hvis patienten indlægges pr. telefon.
+* Sæt dig ind i den gamle journal.
+* Hjemmeplejerapport, ambulancejournal, melding fra 
+  modtagende sygeplejerske m.v. kan ofte give gode informationer
+  om patientens almentilstand og generelle funktionsniveau. 
+* Kast evt. et hastigt blik i en lærebog, så du husker at stille de 
   relevante spørgsmål og foretage relevante undersøgelser.
-
 
 Omgivelser og remedier
 ----------------------
@@ -111,8 +109,8 @@ håndklæde.
      Tungespatel.
 
 Ved visse undersøgelser er det nødvendigt med en assistent. Dette kan
-være som en >>ekstra hånd<< (f.eks. ved immobile patienter, der skal lungestetoskoperes)
-eller til at >>holde hånd<< hos en ængstelig patient. Under
+være som en »ekstra hånd« (f.eks. ved immobile patienter, der skal lungestetoskoperes)
+eller til at »holde hånd« hos en ængstelig patient. Under
 alle omstændigheder skal du hente hjælp, hvis du ikke kan klare situationen
 alene.
 
@@ -120,17 +118,17 @@ Selve mødet
 -----------
 
 Start med at præsentere dig, giv hånd. Fortæl, at du er læge/lægestuderende
-og forklar derefter, hvad det er, der skal ske. Sig f.eks.: *>>Goddag, jeg
+og forklar derefter, hvad det er, der skal ske. Sig f.eks.: *»Goddag, jeg
 hedder Iben Jensen, og jeg er lægestuderende. Først skal jeg høre, hvorfor du
 er blevet indlagt, og om du tidligere har fejlet noget. Derefter skal jeg
-undersøge dig, men det forklarer jeg nærmere om, når vi når dertil<<.*
+undersøge dig, men det forklarer jeg nærmere om, når vi når dertil«.*
 
 Sæt dig bekvemt over for patienten uden for lang afstand imellem jer.
 Undgå at sidde bag et bord eller stå bag ved sengegærdet. Hvis patienten
 er sengeliggende, spørg da eventuelt, om du må sidde på sengekanten.
 Hav øjenkontakt med patienten, når I taler sammen. Hvis du må flytte
-dit blik til journalen, mens du taler med patienten, så sig f.eks.: *>>Jeg må
-lige se i journalen<<*, så patienten ikke opfatter dit flakkende blik som
+dit blik til journalen, mens du taler med patienten, så sig f.eks.: *»Jeg må
+lige se i journalen«*, så patienten ikke opfatter dit flakkende blik som
 manglende interesse. Er der dele af sygehistorien, du ikke umiddelbart
 forstår, eller er det svært at overskue kronologien, så hav et stykke papir,
 hvor du skriver stikord ned.
@@ -147,10 +145,10 @@ om at vente udenfor, til du har talt med og undersøgt patienten.
   * Sørg for rolige omgivelser, lukket dør, ingen uvedkommende
   personer.
   * Præsenter dig selv med navn og stilling og skitser forløbet af
-  jeres møde (>>Først skal jeg stille nogle spørgsmål, derefter
-  undersøge dig ...<<).
-  ** Placer dig i niveau med patienten, f.eks. på sengekanten.
-  >>Gem<< dig ikke bag sengehest eller bord.
+  jeres møde (»Først skal jeg stille nogle spørgsmål, derefter
+  undersøge dig ...«).
+  * Placer dig i niveau med patienten, f.eks. på sengekanten.
+  »Gem« dig ikke bag sengehest eller bord.
   * Hold hele tiden øjenkontakt med patienten, snak ikke ned i
   journalen.
   * Hent assistance, når du har brug for det (den immobile eller
@@ -189,7 +187,7 @@ forberedt, men langt de fleste kan på få minutter fortælle om det
 aktuelle problem. Giv patienten plads til tænkepauser, selvom de i
 begyndelsen kan føles som pinefuld tavshed.
 
-Ofte gør man den fejl, at man >>presser<< historien frem, fordi man har
+Ofte gør man den fejl, at man »presser« historien frem, fordi man har
 en idé om, hvad der er problemet. Men du risikerer, at der går vigtige
 elementer tabt, fordi det ikke er patientens egen fortælling, der kommer
 frem. Mange mennesker vil gerne give lægen ret, så hvis du fra starten
@@ -217,24 +215,24 @@ patienten til at gå videre, uden at der bliver givet en retning for, hvad
 han/hun skal fortsætte med. F.eks.:
 
 Patienten:
-  - *Jeg har så ondt i maven ...*
+  *Jeg har så ondt i maven ...*
 Lægen:
-  - *Fortæl mig lidt mere om dine smerter ...*
+  *Fortæl mig lidt mere om dine smerter ...*
 
 Der kan nu være en række svarmuligheder, som patienten selv vælger
-prioriteten af (f.eks.: *>>Smerten sidder til højre; smerten er murrende; det
-begyndte mandag, da jeg startede på mit ny arbejde<<* osv.), hvilket fortæller
+prioriteten af (f.eks.: *»Smerten sidder til højre; smerten er murrende; det
+begyndte mandag, da jeg startede på mit ny arbejde«* osv.), hvilket fortæller
 om, hvordan problemet opleves af patienten. Udvidende gensvar kan
-også være noget så simpelt som et *>>Ja ... ?<<* eller et *>>Mhmm ...<<*.
+også være noget så simpelt som et *»Ja ... ?«* eller et *»Mhmm ...«*.
 
 I det afgrænsende gensvar (hvor man bruger lukkede og konkrete
 spørgsmål) er det derimod lægen, der vælger, hvilke oplysninger der skal
 frem. F.eks.:
 
 Patienten:
-  - *Jeg har så ondt i maven ...*
+  *Jeg har så ondt i maven ...*
 Lægen:
-  - *Hvor i maven gør det ondt?*
+  *Hvor i maven gør det ondt?*
 
 Her ved lægen præcis, inden for hvilket område han/hun vil have information.
 De lukkede spørgsmål er gode, hvor man skal have en hurtig
@@ -281,18 +279,18 @@ de sidste 4-5 ord i patientens udsagn eller andre centrale ord i den sidste
 sætning. F.eks.:
 
 Patienten:
-  - *Jeg ved ikke, hvad det er, der er galt; jeg har bare så ondt i benene ...*
+  *Jeg ved ikke, hvad det er, der er galt; jeg har bare så ondt i benene ...*
 Læge:
-  - *Ondt i benen...?*
+  *Ondt i benen...?*
 Patienten:
-  - *Ja, det svier og gnaver ... især i skinnebenene ... det ligesom gnaver ...*
+  *Ja, det svier og gnaver ... især i skinnebenene ... det ligesom gnaver ...*
 Læge:
-    - *I skinnebenene ... ?* osv.
+  *I skinnebenene ... ?* osv.
 
 Hvis samtalen kører af sporet, kan man samle tråden op eller vende tilbage
 til et emne, man ønsker uddybet, ved at lave korte resuméer af patientens
-fortælling, f.eks.: *>>Du siger, at det, der generer dig mest, er, at du
-får ondt i maven, når du spiser ... (kan du fortælle lidt mere om det?) ...<<.*
+fortælling, f.eks.: *»Du siger, at det, der generer dig mest, er, at du
+får ondt i maven, når du spiser ... (kan du fortælle lidt mere om det?) ...«.*
 
 Rund af
 -------
@@ -300,9 +298,9 @@ Rund af
 Slut anamneseoptagelsen af med at spørge, om der er noget, I mangler at
 tale om. Det primære problem bliver måske udtrykt som smerter i storetåen,
 men hen imod slutningen kommer den egentlige grund til henvendelsen,
-ofte i en lidt henkastet bemærkning: *>>For resten er jeg begyndt at
-bløde lidt fra endetarmen …<<* eller *>>Tror du ikke, det ville være klogt at få
-taget en hiv-test, hvis det svider, når man tisser?<<.*
+ofte i en lidt henkastet bemærkning: *»For resten er jeg begyndt at
+bløde lidt fra endetarmen …«* eller *»Tror du ikke, det ville være klogt at få
+taget en hiv-test, hvis det svider, når man tisser?«.*
 
 Til sidst resumerer du sygehistorien for patienten, så der er mulighed
 for at korrigere, hvis du alligevel skulle have misforstået noget. Samtidig
@@ -322,7 +320,7 @@ resumere og gentage (jf. ovenstående).
 Er patienten meget tavs, kan det virke pinligt, og man kan blive usikker
 på, om man bærer sig helt forkert ad med denne patient. Nogle patienter
 er bare stille og/eller generte af natur. De er måske også bange for
-at sige noget, >>der er forkert<<, hvorfor de vælger at være stille. Den bedste
+at sige noget, »der er forkert«, hvorfor de vælger at være stille. Den bedste
 måde at gå til disse patienter på er at lade stilheden råde. Lad dig ikke
 knuge af tavsheden, men giv dig tid (selvom du har travlt) til at lytte.
 Svaret skal nok komme.
@@ -341,10 +339,10 @@ situation ved indlæggelse på et sygehus.
 Tit vil man opleve patienter, der umiddelbart virkede usympatiske
 eller frastødende ved indlæggelsen, ændre sig fuldstændigt, efter at smerte
 og angst er svundet. Omvendt vil nogle patienter være attraktive og
-tiltrækkende, og ofte strø om sig med komplimenter til >>den unge læge<<.
+tiltrækkende, og ofte strø om sig med komplimenter til »den unge læge«.
 Selvom du skulle føle dig smigret, er det vigtigt at gøre dig din rolle klar
-og optræde professionelt.Man kan f.eks. sige: *>>Tak for komplimentet, det
-er meget venligt af dig. Men nu er det altså ikke mig, det handler om<<.*
+og optræde professionelt.Man kan f.eks. sige: *»Tak for komplimentet, det
+er meget venligt af dig. Men nu er det altså ikke mig, det handler om«.*
 
 Specielle forhold
 =================

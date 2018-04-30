@@ -12,4 +12,5 @@ for fullfile in $RSTFILES; do
         echo "File not found!" "Copy Wiki file: " ${fullfile}
         cp ${fullfile} .
     fi
+    cp ${fullfile} .
 done

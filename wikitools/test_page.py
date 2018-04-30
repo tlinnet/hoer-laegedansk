@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Example
 # https://github.com/alexz-enwp/wikitools/blob/master/README.md
 # https://github.com/alexz-enwp/wikitools/wiki/wiki.Wiki
@@ -35,7 +38,7 @@ for wpage in wpages:
     # pagetext = p.getWikiText()
 
     # Edit the text
-    wpage_text = "Testing"
-    p.edit(text=wpage_text, summary='Updating with script', minor=True)
+    #wpage_text = "Testing"
+    p.edit(text=wpage_text, summary='Updating with script', minor=True, skipmd5=True)
     pagetext = p.getWikiText()
     print(pagetext)    
