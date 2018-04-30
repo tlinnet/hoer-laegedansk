@@ -611,24 +611,29 @@ Almene fund
 I det indledende afsnit giver man et »signalement« af patientens aktuelle
 tilstand ved at beskrive følgende almene og umiddelbare kliniske fund:
 
-–  *Almentilstanden* (AT) bemærkes altid: upåvirket? oppegående? vågen
-   og klar? orienteret i tid, sted og egne data? påvirket bevidsthedstilstand?
-   psykisk påfaldende? dement? smerteforpint? beruset (ebrieret)?
-   kørestolsbunden? miseriespræget (misligeholdt)?
-–  *Ernæringstilstanden* (ET) kan anføres: Traditionelt anvendes betegnelserne
-   **ET middel/over middel/under middel**, men man kan
-   også skrive f.eks. **svært adipøs** (fed) eller **kakektisk** (radmager)
-   eller endnu bedre anføre patientens *højde* og *vægt*.
-– *Farve*: normale farver? solbrændt? rødblussende? bleg? perifer eller
-  central cyanose? ikterisk? tegn på anæmi? gusten (uræmi)?
-
-– *Perifer cirkulation*: varm og tør? kold og klamtsvedende?
-
-– *Hydreringsgrad*: normohydreret? nedsat hudturgor? halonering?
+– Almentilstanden (AT) bemærkes altid:
+  upåvirket? oppegående? vågen
+  og klar? orienteret i tid, sted og egne data? påvirket bevidsthedstilstand?
+  psykisk påfaldende? dement? smerteforpint? beruset (ebrieret)?
+  kørestolsbunden? miseriespræget (misligeholdt)?
+– Ernæringstilstanden (ET) kan anføres: 
+  Traditionelt anvendes betegnelserne
+  **ET middel/over middel/under middel**, men man kan
+  også skrive f.eks. **svært adipøs** (fed) eller **kakektisk** (radmager)
+  eller endnu bedre anføre patientens *højde* og *vægt.*
+– Farve: 
+  normale farver? solbrændt? rødblussende? bleg? perifer eller central cyanose?
+  ikterisk? tegn på anæmi? gusten (uræmi)?
+– Perifer cirkulation:
+  varm og tør? kold og klamtsvedende?
+– Hydreringsgrad: 
+  normohydreret? nedsat hudturgor? halonering?
   tørre slimhinder?
-– *Respiration*: naturlig respiration? respirationsbesværet? hyperventilerende?
+– Respiration: 
+  naturlig respiration? respirationsbesværet? hyperventilerende?
   overfladisk respiration? Kussmauls respiration?
-– *Værdier*: Man anfører blodtryk, puls og temperatur og evt., hvordan
+– Værdier: 
+  Man anfører blodtryk, puls og temperatur og evt., hvordan
   disse er fremkommet (f.eks. BT liggende eller TP rektalt). Evt. kan
   også anføres respirationsfrekvens og iltmætning (pulsoksimeter).
 – Resultater af *akutte parakliniske undersøgelser* bør også anføres hér;
