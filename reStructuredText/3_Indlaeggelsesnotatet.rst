@@ -451,7 +451,7 @@ artroskopi, blot anfører:
   Ingen klager ved systematisk udspørgen,
 
 hvor man får understreget, at man har spurgt om det hele, men at pt. er
-fuldstændig symptomfri. Hos hjertepatienten (afsnit Nuværende/aktuelt) er det derimod
+fuldstændig symptomfri. Hos `hjertepatienten <#nuvaerende-aktuelt>`__ er det derimod
 relevant at få dækket bredt, da grundsygdommen *aterosklerose* har
 mange komplikationer og det hos en sådan patient er vigtigt at få et helhedssyn
 på patientens funktionsniveau:
@@ -475,8 +475,8 @@ Medicin
 
 I dette afsnit anføres den medicin, som patienten tager, både lægeordineret
 og håndkøbsmedicin samt naturpræparater. Man anfører *præparatnavn,
-doseringsform* (tablet, mikstur etc.), *styrke, dosis og hyppighed*. Hos
-hjertepatienten i eksemplet afsnit Nuværende/aktuelt:
+doseringsform* (tablet, mikstur etc.), *styrke, dosis og hyppighed*. Hos eksemplet
+`hjertepatienten <#nuvaerende-aktuelt>`__:
 
 ::
 
@@ -635,7 +635,7 @@ tilstand ved at beskrive følgende almene og umiddelbare kliniske fund:
   f.eks. beskrives et akut ekg hos en patient med brystsmerter eller en
   akut arteriepunktur (a-punktur) hos en respirationsbesværet patient.
 
-Ved hjertepatienten fra eksemplet (afsnit Nuværende/aktuelt) så den almene beskrivelse
+Ved `hjertepatienten <#nuvaerende-aktuelt>`__ eksemplet så den almene beskrivelse
 sådan ud:
 
 ::
@@ -851,7 +851,7 @@ system:
   evt. klingende tarmlyde? Manglende tarmlyde beskrives som tyst
   abdomen.
 
-Hos hjertepatienten fra eksemplet (afsnit Nuværende/aktuelt) var maven beskrevet på følgende
+Hos `hjertepatienten <#nuvaerende-aktuelt>`__ eksemplet var maven beskrevet på følgende
 måde i journalen:
 
 ::
@@ -965,7 +965,7 @@ Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling,
 strepitus (side 141))? Ved kroniske ekstremitetssmerter: er der
 ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
 
-Hos hjertepatienten blev ekstremiteterne beskrevet således:
+Hos `hjertepatienten <#nuvaerende-aktuelt>`__ blev ekstremiteterne beskrevet således:
 
 ::
 
@@ -1043,7 +1043,7 @@ bud på, hvad han fejler.Man skal ikke i sin konklusion gentage eller udpensle
 de informationer, der er anført i de subjektive og objektive afsnit,
 men snarere prøve at finde *syntesen* af disse informationer: Er der nogle
 logiske sammenhænge mellem patientens egne symptomer og diagnoseforslag
-og dine objektive fund? I eksemplet med hjertepatienten er det oplagt at skrive:
+og dine objektive fund? I eksemplet med `hjertepatienten <#nuvaerende-aktuelt>`__ er det oplagt at skrive:
 
 ::
 
