@@ -7,10 +7,10 @@ from wikitools import wiki, page
 import os.path
 
 site = wiki.Wiki("http://wiki.hoer-laegedansk.dk/api.php")
-site.login("tlinnet", password="xhwo1453Xl")
+site.login("tlinnet")
 
 wpages = [
-    "1_Moedet_mellem_laege_og_patient",
+    "1_Mødet_mellem_læge_og_patient",
     #"2_Sygehusjournalen",
     #"3_Indlaeggelsesnotatet"
 ]
