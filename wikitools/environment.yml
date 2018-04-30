@@ -1,0 +1,10 @@
+name: wikitools
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=2.7
+- simplejson
+- poster
+- pip:
+  - wikitools
