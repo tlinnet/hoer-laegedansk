@@ -41,7 +41,7 @@ af faneblade og kunne f.eks. indeholde følgende afsnit:
 **Sygehusjournalens opbygning**
 
 Kontinuationerne:
-  – de sider, der indeholder selve >>dagbogen<< med dag til dag-beskrivelserne
+  – de sider, der indeholder selve »dagbogen« med dag til dag-beskrivelserne
   af sygdomsforløbet.
 Specialkontinuationer:
   – særlige sider med f.eks. notater om
@@ -129,8 +129,8 @@ måske det fund, lægen gør hos samme patient.
 
 **A** for **assessment**, fordi man hér giver sin *vurdering* af de subjektive og
 objektive informationer.Man angiver her sit syn på patientens *status*,
-dvs. nuværende tilstand, der f.eks. kan være >>akut påvirket<< eller >>i
-bedring<<. Desuden kommer man med bud på *diagnoser* – hvad patienten
+dvs. nuværende tilstand, der f.eks. kan være »akut påvirket« eller »i
+bedring«. Desuden kommer man med bud på *diagnoser* – hvad patienten
 fejler – og *prognose* – udsigten til helbredelse, forbedring eller forværring.
 
 **P** for **plan**, fordi man hér skitserer, hvad der skal ske med patienten. Det
@@ -166,7 +166,7 @@ videre plan for patienten.
 
 SOAP-huskereglen sikrer, at man får alle relevante informationer
 med hver gang, og for at hjælpe sig selv og læseren i den proces kan man
-let >>indbygge<< SOAP i sine journalnotater som f.eks.:
+let »indbygge« SOAP i sine journalnotater som f.eks.:
 
 ::
 
@@ -196,11 +196,11 @@ og efterhånden også en del engelske ord og forkortelser (f.eks. IUD,
 ERCP, PTCA, COLD osv.). En forudsætning for at andre kan forstå,
 hvad man forsøger at udtrykke, er, at man selv behersker de ord og vendinger,
 man bruger. Det går altid galt når man – i sin iver efter at skrive
-journalnotater på >>doktorlatin<< – forsøger sig med fine begreber, man
+journalnotater på »doktorlatin« – forsøger sig med fine begreber, man
 ikke kender den præcise betydning af, eller vælger tillempede latinske
 fraser, fordi man ikke kan huske de korrekte betegnelser.
 
 Derfor: *Er du usikker, når du skal formulere dine journalnotater, så
-brug almindelige danske ord!* F.eks. kan man sagtens skrive: >>Der ses et
-udslæt med mange småblærer og enkelte små knopper<<, hvis man ikke
-kan huske frasen >>vesikulo-papuløst eksantem<<.
+brug almindelige danske ord!* F.eks. kan man sagtens skrive: »Der ses et
+udslæt med mange småblærer og enkelte små knopper«, hvis man ikke
+kan huske frasen »vesikulo-papuløst eksantem«.
