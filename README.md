@@ -1,33 +1,26 @@
--   [Kapitler](#kapitler)
+-   [Hør lægedansk - mens du læser!](#hør-lægedansk---mens-du-læser)
+    -   [Kapitler](#kapitler)
 -   [Udgivelses information](#udgivelses-information)
     -   [Indlæsere](#indlæsere)
+    -   [Copyright](#copyright)
     -   [Hjemmeside produktion](#hjemmeside-produktion)
 
-**Hør lægedansk - mens du læser!**
+Hør lægedansk - mens du læser!
+==============================
 
-Lydudgave cd af bogen **"Subjektivt & Objektivt -- anamnese,
-undersøgelse og journal"** af Søren Brostrøm & Niels Saxtrup Nielsen,
-Munksgaard 2001 (ISBN 87-16-12142-2)
+\<html5media\><File:BOKS-SIG.mp3>\</html5media\>
 
-Lydudgaven er indlæst af seks danske læger og udgivet af Center for
-Kompetenceudvikling, Nordjyllands Amt, efter aftale med Munksgaard
-Danmark, 2003.
-
--   Copyright: (C) Nedenstående forfattere og Center for
-    Kompetenceudvikling.
--   Med henblik på sprogundervisning må lyd-materiale fra denne side
-    kopieres på ikke-kommerciel basis.
--   Med henblik på sprogundervisning må tekst-materiale fra denne side
-    anvendes men **ikke kopieres** uden forudgående aftale fra
-    Munksgaard Danmark.
+Lydudgave af bogen **"Subjektivt & Objektivt -- anamnese, undersøgelse
+og journal"** af Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001
+(ISBN 87-16-12142-2)
 
 Kapitler
-========
+--------
 
 -   [1 Mødet mellem læge og
     patient](1_Mødet_mellem_læge_og_patient.rst#)
 -   [2 Sygehusjournalen](2_Sygehusjournalen.rst#)
--   [3 Indlæggelsesnotatet](3_Indlæggelsesnotatet#)
+-   [3 Indlæggelsesnotatet](3_Indlæggelsesnotatet.rst#)
 
 Udgivelses information
 ======================
@@ -41,8 +34,11 @@ Udgivelses information
 -   **Udgivelsesår:** 2003
 -   **Omfang:** 1 cd-rom, lyd, farve (ca. 7 t., 40 min.)
 -   **Anvendt sprog:** Med introduktion på dansk og engelsk
--   **ISBN:**
-    [87-989411-0-0](https://bibliotek.dk/da/work/870970-basis:24592510)
+-   **ISBN:** 87-989411-0-0
+
+Lydudgaven er indlæst af seks danske læger og udgivet af Center for
+Kompetenceudvikling, Nordjyllands Amt, efter aftale med Munksgaard
+Danmark, 2003.
 
 Indlæsere
 ---------
@@ -73,6 +69,17 @@ Povl Riis
 
 :   Introduktion, Mødet mellem læge og patient, Sygehusjournalen
     Bevægeapparatet
+
+Copyright
+---------
+
+-   Copyright: (C) Ovenstående forfattere og Center for
+    Kompetenceudvikling.
+-   Med henblik på sprogundervisning må **lyd-materiale** fra denne side
+    **gerne kopieres** på ikke-kommerciel basis.
+-   Med henblik på sprogundervisning må **tekst-materiale** fra denne
+    side anvendes men **ikke kopieres** uden forudgående aftale fra
+    Munksgaard Danmark.
 
 Hjemmeside produktion
 ---------------------
