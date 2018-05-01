@@ -1,4 +1,6 @@
 
+# cd reStructuredText && source 00_convert_rst_to_Wiki.sh && cd ../wikitools && rm -f *_*.Wiki && rm Forside.Wiki && source 00_cp_Wiki_here.sh && cd ..
+
 # Convert .rst files to .Wiki
 cd reStructuredText
 source 00_convert_rst_to_Wiki.sh
