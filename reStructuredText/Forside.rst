@@ -34,9 +34,7 @@ Udgivelses information
 * **Udgivelsesår:** 2003
 * **Omfang:** 1 cd-rom, lyd, farve (ca. 7 t., 40 min.)
 * **Anvendt sprog:** Med introduktion på dansk og engelsk
-* **ISBN:** 87-989411-0-0_
-
-.. _87-989411-0-0: https://bibliotek.dk/da/work/870970-basis:24592510
+* **ISBN:** `87-989411-0-0 <https://bibliotek.dk/da/work/870970-basis:24592510>`_
 
 Indlæsere
 ---------
