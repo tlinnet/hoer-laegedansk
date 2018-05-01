@@ -7,6 +7,8 @@ Forside
 Hør lægedansk - mens du læser!
 ==============================
 
+<html5media height="720" width="1280">File:BOKS-SIG.mp3</html5media>
+
 Lydudgave af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
 Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001 (ISBN 87-16-12142-2)
 

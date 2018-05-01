@@ -72,7 +72,24 @@ $wgFileExtensions = array_merge(
     );
 ```
 
+# Extension
+
 ## Sound on wiki without template
 
 * https://www.mediawiki.org/wiki/Extension:Html5mediator
 * https://github.com/lightbinder/Html5mediator/releases
+
+## MobileFrontend
+
+* http://www.mediawiki.org/wiki/Extension:MobileFrontend
+
+In LocalSettings.php
+
+```php
+# For mobile version to phone
+# MediaWiki Extension:MobileFrontend
+# http://www.mediawiki.org/wiki/Extension:MobileFrontend
+wfLoadExtension( 'MobileFrontend' );
+$wgMFAutodetectMobileView = true;
+$wgMFDefaultSkinClass = "SkinVector";
+```
