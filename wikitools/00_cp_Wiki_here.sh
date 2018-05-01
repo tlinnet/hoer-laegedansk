@@ -11,16 +11,15 @@ for fullfile in $RSTFILES; do
     if [ ! -f ${filename}.Wiki ]; then
         echo "File not found!" "Copy Wiki file: " ${fullfile}
         cp ${fullfile} .
+        # Replace
+        # brew install gnu-sed
+        # First make big
+        gsed -i 's/.rst#[a-z]/\U&/g' ${filename}.Wiki
+        # Then remove 
+        gsed -i 's/.RST#/#/g' ${filename}.Wiki
+        # # Then replace "-" with "_" between "[" and "|"
+        gsed -i -e :1 -e 's@\(\[.*\)-\(.*\|\)@\1_\2@;t1' ${filename}.Wiki
+        # If no section is added, then just replace
+        gsed -i 's/.rst#//g' ${filename}.Wiki
     fi
-    cp ${fullfile} .
-    # Replace
-    # brew install gnu-sed
-    # First make big
-    gsed -i 's/.rst#[a-z]/\U&/g' ${filename}.Wiki
-    # Then remove 
-    gsed -i 's/.RST#/#/g' ${filename}.Wiki
-    # # Then replace "-" with "_" between "[" and "|"
-    gsed -i -e :1 -e 's@\(\[.*\)-\(.*\|\)@\1_\2@;t1' ${filename}.Wiki
-    # If no section is added, then just replace
-    gsed -i 's/.rst#//g' ${filename}.Wiki
 done
