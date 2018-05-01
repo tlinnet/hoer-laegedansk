@@ -21,5 +21,8 @@ for fullfile in $RSTFILES; do
         gsed -i -e :1 -e 's@\(\[.*\)-\(.*\|\)@\1_\2@;t1' ${filename}.Wiki
         # If no section is added, then just replace
         gsed -i 's/.rst#//g' ${filename}.Wiki
+        # Fix < and >
+        gsed -i 's/&lt;html5media&gt;/<html5media>/g' ${filename}.Wiki
+        gsed -i 's/&lt;\/html5media&gt;/<\/html5media>/g' ${filename}.Wiki
     fi
 done
