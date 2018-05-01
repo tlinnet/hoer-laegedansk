@@ -4,20 +4,14 @@ Forside
 :date: 2018-05-01 12:59
 :category: Kapitler
 
-**Hør lægedansk - mens du læser!**
+Hør lægedansk - mens du læser!
+==============================
 
-Lydudgave cd af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
+Lydudgave af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
 Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001 (ISBN 87-16-12142-2)
 
-Lydudgaven er indlæst af seks danske læger og udgivet af Center for Kompetenceudvikling, Nordjyllands Amt,
-efter aftale med Munksgaard Danmark, 2003.
-
-* Copyright: (C) Nedenstående forfattere og Center for Kompetenceudvikling.
-* Med henblik på sprogundervisning må lyd-materiale fra denne side kopieres på ikke-kommerciel basis.
-* Med henblik på sprogundervisning må tekst-materiale fra denne side anvendes men **ikke kopieres** uden forudgående aftale fra Munksgaard Danmark.
-
 Kapitler
-========
+--------
 
 * `1 Mødet mellem læge og patient <1_Mødet_mellem_læge_og_patient.rst#>`__
 * `2 Sygehusjournalen <2_Sygehusjournalen.rst#>`__
@@ -34,7 +28,10 @@ Udgivelses information
 * **Udgivelsesår:** 2003
 * **Omfang:** 1 cd-rom, lyd, farve (ca. 7 t., 40 min.)
 * **Anvendt sprog:** Med introduktion på dansk og engelsk
-* **ISBN:** `87-989411-0-0 <https://bibliotek.dk/da/work/870970-basis:24592510>`_
+* **ISBN:** 87-989411-0-0
+
+Lydudgaven er indlæst af seks danske læger og udgivet af Center for Kompetenceudvikling, Nordjyllands Amt,
+efter aftale med Munksgaard Danmark, 2003.
 
 Indlæsere
 ---------
@@ -54,6 +51,13 @@ Anette Tønnes Pedersen
 Povl Riis
   Introduktion, Mødet mellem læge og patient, Sygehusjournalen
   Bevægeapparatet
+
+Copyright
+---------
+* Copyright: (C) Ovenstående forfattere og Center for Kompetenceudvikling.
+* Med henblik på sprogundervisning må **lyd-materiale** fra denne side **gerne kopieres** på ikke-kommerciel basis.
+* Med henblik på sprogundervisning må **tekst-materiale** fra denne side anvendes men **ikke kopieres** uden forudgående aftale fra Munksgaard Danmark.
+
 
 Hjemmeside produktion
 ---------------------
