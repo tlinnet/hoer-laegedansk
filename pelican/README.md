@@ -34,3 +34,27 @@ Settings
 > Do you want to upload your website using GitHub Pages? (y/N) 
 ```
 
+Then copy **.rst** files.
+
+```bash
+source 00_cp_RST_to_static.sh
+ls -la ../static/content
+```
+
+# Build
+
+```bash
+make devserver && open http://localhost:8000
+```
+
+# Update and build
+
+```bash
+cd static
+```
+
+```bash
+rm -f content/*.rst && cd .. && cd pelican \
+&& source 00_cp_RST_to_static.sh && cd .. && cd static \
+&& make devserver && open http://localhost:8000
+```
