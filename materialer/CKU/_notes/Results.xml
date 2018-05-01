@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1087</un:offset1>
+    <un:offset2>1172</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1443</un:offset1>
+    <un:offset2>1536</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1783</un:offset1>
+    <un:offset2>1869</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2111</un:offset1>
+    <un:offset2>2201</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1087</un:offset1>
+    <un:offset2>1172</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1443</un:offset1>
+    <un:offset2>1536</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1783</un:offset1>
+    <un:offset2>1869</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2111</un:offset1>
+    <un:offset2>2201</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SCRIPTwValidNOSCRIPT</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>4924</un:offset1>
+    <un:offset2>4980</un:offset2>
+    <un:linenum>163</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>Missing NOSCRIPT: There is no NOSCRIPT following the SCRIPT.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>65</un:offset1>
+    <un:offset2>4998</un:offset2>
+    <un:linenum>2</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>65</un:offset1>
+    <un:offset2>4998</un:offset2>
+    <un:linenum>2</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>495</un:offset1>
+    <un:offset2>567</un:offset2>
+    <un:linenum>13</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>681</un:offset1>
+    <un:offset2>4909</un:offset2>
+    <un:linenum>22</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>878</un:offset1>
+    <un:offset2>2297</un:offset2>
+    <un:linenum>28</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2363</un:offset1>
+    <un:offset2>2534</un:offset2>
+    <un:linenum>50</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2534</un:offset1>
+    <un:offset2>4840</un:offset2>
+    <un:linenum>56</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>81</un:offset1>
+    <un:offset2>374</un:offset2>
+    <un:linenum>4</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>582</un:offset1>
+    <un:offset2>4989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'BODY' element has an event attribute ('ONLOAD'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>974</un:offset1>
+    <un:offset2>1176</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>974</un:offset1>
+    <un:offset2>1176</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1341</un:offset1>
+    <un:offset2>1540</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1341</un:offset1>
+    <un:offset2>1540</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1681</un:offset1>
+    <un:offset2>1873</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>1681</un:offset1>
+    <un:offset2>1873</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2008</un:offset1>
+    <un:offset2>2205</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>2008</un:offset1>
+    <un:offset2>2205</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>582</un:offset1>
+    <un:offset2>4989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>582</un:offset1>
+    <un:offset2>4989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains GIF images: Are they causing the screen toflicker? If so, please modify or remove the images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>81</un:offset1>
+    <un:offset2>374</un:offset2>
+    <un:linenum>4</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>376</un:offset1>
+    <un:offset2>434</un:offset2>
+    <un:linenum>11</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>436</un:offset1>
+    <un:offset2>493</un:offset2>
+    <un:linenum>12</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>4924</un:offset1>
+    <un:offset2>4980</un:offset2>
+    <un:linenum>163</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>582</un:offset1>
+    <un:offset2>4989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///D|/Web/Lars/Templates/kapitel.dwt</un:fileurl>
+    <un:offset1>582</un:offset1>
+    <un:offset2>4989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>
