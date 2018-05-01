@@ -18,5 +18,9 @@ for fullfile in $RSTFILES; do
     if [ ! -f "../static/content/${filename}.rst" ]; then
         echo "File not found!" "Copy Wiki file: " ${fullfile}
         cp ${fullfile} ../static/content/
+        # brew install gnu-sed
+        # First make big
+        gsed -i 's/<[1-9]*_/{filename}&/g' ../static/content/${filename}.rst
+        gsed -i 's/{filename}</<{filename}/g' ../static/content/${filename}.rst
     fi
 done
