@@ -1,8 +1,8 @@
-Sygehusjournalen
-****************
+2 Sygehusjournalen
+******************
 
-`This <1_Mødet_mellem_læge_og_patient.rst#specielle-forhold>`__ is a reference to a section in file
-
+:date: 2018-05-01 12:00
+:category: Kapitler
 
 Formålet med patientjournalen
 =============================
