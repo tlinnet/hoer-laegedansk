@@ -1,7 +1,7 @@
 1 Mødet mellem læge og patient
 ******************************
 
-:date: 2018-05-01 12:00
+:date: 2018-05-01 12:58
 :category: Kapitler
 
 Som den læge, der optager journal, er du ofte den første læge, patienten

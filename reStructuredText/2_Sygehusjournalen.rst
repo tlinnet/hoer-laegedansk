@@ -1,7 +1,7 @@
 2 Sygehusjournalen
 ******************
 
-:date: 2018-05-01 12:00
+:date: 2018-05-01 12:57
 :category: Kapitler
 
 Formålet med patientjournalen
