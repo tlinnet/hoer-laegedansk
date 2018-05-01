@@ -1,7 +1,5 @@
 __TOC__
 
-[[1_Mødet_mellem_læge_og_patient#Specielle_forhold|This]] is a reference to a section in file
-
 = Formålet med patientjournalen =
 
 Når man indlægges på et sygehus og bliver til patient, får man en ''journal'' (af fransk: dagbog). Patientjournalen er et redskab for personalet i det daglige arbejde. Den indeholder alle relevante informationer om patientens undersøgelser og behandling, og den afspejler, hvad lægerne har tænkt og sagt. Journalen følger patienten rundt i systemet: Den er med ved de forskellige undersøgelser, patienten skal gennemgå, og den er med ved stuegang.
