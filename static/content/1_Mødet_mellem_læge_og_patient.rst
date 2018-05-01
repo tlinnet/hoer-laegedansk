@@ -1,5 +1,8 @@
-Mødet mellem læge og patient
-****************************
+1 Mødet mellem læge og patient
+******************************
+
+:date: 2018-05-01 12:58
+:category: Kapitler
 
 Som den læge, der optager journal, er du ofte den første læge, patienten
 møder på sygehuset. Uanset om indlæggelsen er akut eller kulminationen
