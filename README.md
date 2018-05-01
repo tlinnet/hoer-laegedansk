@@ -1,9 +1,3 @@
----
-category: Kapitler
-date: '2018-05-01 12:59'
-title: Forside
----
-
 -   [Kapitler](#kapitler)
 -   [Udgivelses information](#udgivelses-information)
     -   [Indlæsere](#indlæsere)
@@ -19,18 +13,18 @@ Lydudgaven er indlæst af seks danske læger og udgivet af Center for
 Kompetenceudvikling, Nordjyllands Amt, efter aftale med Munksgaard
 Danmark, 2003.
 
-| **Copyright:** (C) Nedenstående forfattere og Center for
-  Kompetenceudvikling.
-| Med henblik på sprogundervisning må lyd-materiale fra denne side
-  kopieres på ikke-kommerciel basis.
-| Med henblik på sprogundervisning må tekst-materiale fra denne side
-  anvendes men **ikke kopieres** uden forudgående aftale fra Munksgaard
-  Danmark.
+-   Copyright: (C) Nedenstående forfattere og Center for
+    Kompetenceudvikling.
+-   Med henblik på sprogundervisning må lyd-materiale fra denne side
+    kopieres på ikke-kommerciel basis.
+-   Med henblik på sprogundervisning må tekst-materiale fra denne side
+    anvendes men **ikke kopieres** uden forudgående aftale fra
+    Munksgaard Danmark.
 
 Kapitler
 ========
 
--   [1 Mødet\_mellem læge og
+-   [1 Mødet mellem læge og
     patient](1_Mødet_mellem_læge_og_patient.rst#)
 -   [2 Sygehusjournalen](2_Sygehusjournalen.rst#)
 -   [3 Indlæggelsesnotatet](3_Indlæggelsesnotatet#)
