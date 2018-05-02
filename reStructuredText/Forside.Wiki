@@ -2,12 +2,17 @@ __TOC__
 
 = Hør lægedansk - mens du læser! =
 
-&lt;html5media&gt;File:BOKS-SIG.mp3&lt;/html5media&gt;
+'''Spoken introduction in english'''<br />
+&lt;html5media&gt;File:INTRO_UK.mp3&lt;/html5media&gt;
 
-Lydudgave af bogen '''”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”''' af Søren Brostrøm &amp; Niels Saxtrup Nielsen, Munksgaard 2001 (ISBN 87-16-12142-2)
+'''Indtalt introduktion på dansk'''<br />
+&lt;html5media&gt;File:INTRO_DK.mp3&lt;/html5media&gt;
+
+[[Lydfiler.rst#|Lydudgave]] af bogen '''”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”''' af Søren Brostrøm &amp; Niels Saxtrup Nielsen, Munksgaard 2001, ISBN 87-16-12142-2
 
 == Kapitler ==
 
+* [[0_Forord.rst#|0 Forord]]
 * [[1_Mødet_mellem_læge_og_patient.rst#|1 Mødet mellem læge og patient]]
 * [[2_Sygehusjournalen.rst#|2 Sygehusjournalen]]
 * [[3_Indlæggelsesnotatet.rst#|3 Indlæggelsesnotatet]]

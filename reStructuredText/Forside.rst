@@ -1,5 +1,5 @@
-Forside 
-*********
+Forside
+*******
 
 :date: 2018-05-01 12:59
 :category: Kapitler
@@ -7,14 +7,19 @@ Forside
 Hør lægedansk - mens du læser!
 ==============================
 
-<html5media>File:BOKS-SIG.mp3</html5media>
+| **Spoken introduction in english**
+| <html5media>File:INTRO_UK.mp3</html5media>
 
-Lydudgave af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
-Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001 (ISBN 87-16-12142-2)
+| **Indtalt introduktion på dansk**
+| <html5media>File:INTRO_DK.mp3</html5media>
+
+`Lydudgave <Lydfiler.rst#>`__ af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
+Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001, ISBN 87\-16\-12142\-2
 
 Kapitler
 --------
 
+* `0 Forord <0_Forord.rst#>`__
 * `1 Mødet mellem læge og patient <1_Mødet_mellem_læge_og_patient.rst#>`__
 * `2 Sygehusjournalen <2_Sygehusjournalen.rst#>`__
 * `3 Indlæggelsesnotatet <3_Indlæggelsesnotatet.rst#>`__
@@ -30,7 +35,7 @@ Udgivelses information
 * **Udgivelsesår:** 2003
 * **Omfang:** 1 cd-rom, lyd, farve (ca. 7 t., 40 min.)
 * **Anvendt sprog:** Med introduktion på dansk og engelsk
-* **ISBN:** 87-989411-0-0
+* **ISBN:** 87\-989411\-0\-0
 
 Lydudgaven er indlæst af seks danske læger og udgivet af Center for Kompetenceudvikling, Nordjyllands Amt,
 efter aftale med Munksgaard Danmark, 2003.
