@@ -7,6 +7,8 @@
 Formålet med patientjournalen
 =============================
 
+<html5media>File:KAP2_25.mp3</html5media>
+
 Når man indlægges på et sygehus og bliver til patient, får man en *journal*
 (af fransk: dagbog). Patientjournalen er et redskab for personalet i det
 daglige arbejde. Den indeholder alle relevante informationer om patientens
@@ -30,6 +32,8 @@ anføre, hvilken information man har givet til patienten.
 Sygehusjournalens indhold og opbygning
 ======================================
 
+<html5media>File:KAP2_25_2.mp3</html5media>
+
 Opbygningen af patientjournalen varierer fra sygehus til sygehus. Som
 regel indeholder den en journalforside med oplysninger om patientens
 navn og adresse, patientens praktiserende læge, de diagnoser, patienten
@@ -39,6 +43,8 @@ ambulant forløb). Journalens krop er som regel inddelt i afsnit ved hjælp
 af faneblade og kunne f.eks. indeholde følgende afsnit:
 
 **Sygehusjournalens opbygning**
+
+<html5media>File:BOKS26.mp3</html5media>
 
 Kontinuationerne:
   – de sider, der indeholder selve »dagbogen« med dag til dag-beskrivelserne
@@ -71,6 +77,8 @@ på forskellige afdelinger.
 Journaltekstens disposition
 ===========================
 
+<html5media>File:KAP2_27.mp3</html5media>
+
 Kernen i patientjournalen er de kronologiske beskrivelser af sygdomsforløbet,
 der findes på *kontinuationerne* (af latin *continuatio* = fortsættelse).
 På journalkontinuationerne skrives journalnotaterne i kronologisk rækkefølge:
@@ -96,6 +104,8 @@ skrive direkte i den kronologiske journal.
 
 S·O·A·P-huskereglen
 ===================
+
+<html5media>File:KAP2_27_2.mp3</html5media>
 
 Journalteksten udgør en kronologisk beskrivelse af en enkelt patients
 sygdomsforløb – set med lægeøjne! Kilderne til denne information kan
@@ -189,6 +199,8 @@ strukturere sine journalnotater meget skematisk
 
 Om journalsproget
 =================
+
+<html5media>File:KAP2_29.mp3</html5media>
 
 Sygehusjournalen er – fordi den er et arbejdsredskab – fyldt med fagjargon.
 I journalerne finder man mange ord med græsk-latinsk oprindelse,
