@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:03
 :category: Kapitler
 
+<html5media>File:KAP3_31.mp3</html5media>
+
 I Danmark anvender de fleste læger en traditionel disposition for primærjournalen.
 Når man dikterer sin journal, vil man gøre det i en
 bestemt rækkefølge, og når sekretæren renskriver diktatet, vil hun sørge
@@ -19,6 +21,8 @@ frem, og hvordan man foretager den objektive undersøgelse.
 Subjektivt (Anamnesen)
 ======================
 
+<html5media>File:KAP3_31_2.mp3</html5media>
+
 Den første del af journalen baseres på patientens egne oplysninger om
 og opfattelse af det aktuelle sygdomsforløb og benævnes *anamnesen* eller
 sygehistorien. Primærjournalens anamnesedel underopdeles i op til 10-12
@@ -27,11 +31,15 @@ forskellige afsnit, hvoraf afsnittet **nuværende** er sygehistoriens kerne.
 Journalhovedet
 --------------
 
+<html5media>File:KAP3_31_3.mp3</html5media>
+
 Journalen indledes med en ganske kort beskrivelse af patientens *alder,
 køn, indlæggelsesmåde og årsag til indlæggelsen*, f.eks.:
 
 * 43-årig kvinde indkaldt over ventelisten til variceoperation
 * 27-årig bevidstløs mand indbringes af Falck fra trafikuheld på ringvejen.
+
+<html5media>File:BOKS32.mp3</html5media>
 
 ::
 
@@ -86,6 +94,8 @@ køn, indlæggelsesmåde og årsag til indlæggelsen*, f.eks.:
 Allergier
 ---------
 
+<html5media>File:KAP3_33.mp3</html5media>
+
 Ved kendte allergier angives *allergenet*, og man beskriver nøje, hvilken
 *reaktion* der udløses. Ved lægemiddelallergier m.v., som er af væsentlig
 betydning for patientens eventuelle behandling, angives disse med ordet
@@ -125,6 +135,8 @@ og et rødt, ikke-kløende udslæt kan ses efter behandling med ampicillinpræpa
 
 Dispositioner
 -------------
+
+<html5media>File:KAP3_33_2.mp3</html5media>
 
 Ved kendte dispositioner angives disse med beskrivelse af *lidelsens art* og
 *familierelationen*, f.eks.:
@@ -169,6 +181,8 @@ f.eks.:
 Ekspositioner
 -------------
 
+<html5media>File:KAP3_34.mp3</html5media>
+
 Har patienten været udsat for miljøpåvirkninger, der har relevans til det
 aktuelle sygdomsforløb, angives dette, som f.eks. følgende hos en patient
 der hoster blod og har en »plet« på lungerøntgenbilledet:
@@ -202,6 +216,8 @@ hos en yngre mand med hævede lymfeknuder:
 
 Tidligere
 ---------
+
+<html5media>File:KAP3_35.mp3</html5media>
 
 Under denne overskrift angives væsentlige begivenheder i patientens tidligere
 sygehistorie – bagateller som **fået fjernet mandler som
@@ -258,6 +274,8 @@ rubella hos en gravid.
 Gynækologisk
 ------------
 
+<html5media>File:KAP3_36.mp3</html5media>
+
 Under denne overskrift beskrives en kvindelig patients blødnings- og
 fertilitetsanamnese, idet man angiver *menarche* (første menstruation),
 *menopause* (overgangsalder); man beskriver *cyklus* (varighed og interval
@@ -288,6 +306,8 @@ kvinde, der indlægges til udredning af anæmi.
 Nuværende/aktuelt
 -----------------
 
+<html5media>File:KAP3_37.mp3</html5media>
+
 Dette afsnit er kernen i anamnesen, hvor man beskriver de symptomer
 og forhold, der har forårsaget patientens indlæggelse, og hvor man fremhæver
 de subjektive informationer, man finder væsentlige for den videre
@@ -300,6 +320,8 @@ datter**. Er der sproglige problemer, anføres dette, f.eks. **Pt. forstår
 ikke dansk, og anamnese er optaget ved hjælp af tolk.**
 
 **Genindlæggelse**
+
+<html5media>File:BOKS37.mp3</html5media>
 
 ::
 
@@ -362,6 +384,10 @@ kunne se således ud:
   og iflg. ambulancejournalen er der kl. 09.07 givet inj.
   Morfin 10 mg i.v. med god effekt.
 
+**Nuværende:**
+
+<html5media>File:BOKS39.mp3</html5media>
+
 #. **Kendte sygdomme eller tilstande** der er relevante for det aktuelle forløb:
 
    - debuttidspunkt
@@ -392,6 +418,8 @@ kunne se således ud:
 
 Øvrige organsystemer
 --------------------
+
+<html5media>File:KAP3_39.mp3</html5media>
 
 I dette afsnit beskrives sygdomme og klager, der ikke umiddelbart har
 relation til den primære indlæggelsesårsag, f.eks. gigtsmerter hos en hjertesyg.
@@ -476,6 +504,8 @@ på patientens funktionsniveau:
 Medicin
 -------
 
+<html5media>File:KAP3_41.mp3</html5media>
+
 I dette afsnit anføres den medicin, som patienten tager, både lægeordineret
 og håndkøbsmedicin samt naturpræparater. Man anfører *præparatnavn,
 doseringsform* (tablet, mikstur etc.), *styrke, dosis og hyppighed*. Hos eksemplet
@@ -501,6 +531,8 @@ Har en patient intet medicinforbrug kan man anføre:
 
 Tobak, alkohol og øvrigt misbrug
 --------------------------------
+
+<html5media>File:KAP3_42.mp3</html5media>
 
 Man anfører størrelsen af det aktuelle, oplyste forbrug og evt. art. Det
 kan være relevant at anføre tidligere forbrug og dato for ophør. F.eks.:
@@ -534,6 +566,8 @@ speed, ecstasy, hash) anføres også på dette sted.
 Socialt
 -------
 
+<html5media>File:KAP3_42_2.mp3</html5media>
+
 Man anfører patientens *erhverv, civilstand, boligforhold, hjemmeboende
 børn, nærmeste pårørende* samt øvrige relevante oplysninger, herunder
 *sprogproblemer* og *væsentlige fritidsaktiviteter*. Eksempler:
@@ -566,6 +600,8 @@ funktionsniveau:
 Objektivt
 =========
 
+<html5media>File:KAP3_43.mp3</html5media>
+
 Beskrivelsen af den objektive undersøgelse indledes altid med en beskrivelse
 af almene kliniske fund og herefter i en traditionel rækkefølge fra
 »top til tå« de objektive fund. Væsentlige positive fund beskrives, og
@@ -596,6 +632,8 @@ og diagnostiske overvejelser.
 
 **Adfærdstermer:**
 
+<html5media>File:BOKS44.mp3</html5media>
+
 Inspektion:
   – den undersøgelse, hvor man ser.
 Palpation:
@@ -610,6 +648,8 @@ Auskultation:
 Almene fund
 -----------
 (se kapitel 4)
+
+<html5media>File:KAP3_44.mp3</html5media>
 
 I det indledende afsnit giver man et »signalement« af patientens aktuelle
 tilstand ved at beskrive følgende almene og umiddelbare kliniske fund:
@@ -660,11 +700,15 @@ Ydre kranie (calvaria)
 ----------------------
 (se kapitel 11)
 
+<html5media>File:KAP3_45.mp3</html5media>
+
 Beskrives f.eks. ved bevidsthedspåvirkede og traumepatienter: Er der
 ydre læsioner? Frakturmistanke (strepitus)?
 
 Ansigt
 ------
+
+<html5media>File:KAP3_45_2.mp3</html5media>
 
 Ansigtet beskrives sjældent, men under denne overskrift kan man f.eks.
 se: Er der umiddelbare tegn på *facialisparese* (se s. 168)? Er der ømhed af
@@ -674,6 +718,8 @@ Devierer *næsen*, og er der *udflåd* (blod, liquor)?
 Øjne
 ----
 (se kapitel 15)
+
+<html5media>File:KAP3_45_3.mp3</html5media>
 
 Øjne undersøges ofte på patienter, der indlægges på sygehus: Er patienten
 *blind* eller har *glasøje*? Er der *periorbitale ødemer, exophthalmus*
@@ -699,12 +745,17 @@ og henvendt sig i skadestuen, var beskrevet således:
 ----
 (se kapitel 15)
 
+<html5media>File:KAP3_46.mp3</html5media>
+
 Beskrives f.eks. ved traumepatienter, patienter med øresmerter og patienter
 med feber af ukendt årsag: Er ydre øre intakt? Er der udflåd eller
 blod? Hvad viser otoskopi?
 
 Mund og svælg (cavum oris et fauces)
 ------------------------------------
+
+<html5media>File:KAP3_46_2.mp3</html5media>
+
 Mund og svælg beskrives ved alle patienter, der skal fuldbedøves og i
 øvrigt efter behov, f.eks. ved mistanke om cancer, anæmi eller feber af
 ukendt årsag.Man beskriver efter følgende systematik: Er *slimhinderne*
@@ -717,6 +768,8 @@ uøm?
 
 Halsen (collum)
 ---------------
+
+<html5media>File:KAP3_46_3.mp3</html5media>
 
 Halsen beskrives rutinemæssigt hos mange patienter: Er der *struma?* Er
 struma diffust forstørret, diffust knudret eller med enkelte lokaliserede
@@ -733,6 +786,8 @@ sig at have tyreotoksikose, stod der i indlæggelsesjournalen:
 Lymfeknuder
 -----------
 (se kapitel 4)
+
+<html5media>File:KAP3_46_4.mp3</html5media>
 
 Undersøges på vide indikationer f.eks. ved cancermistanke og feber af
 ukendt årsag. Hovedspørgsmålet er: Er der hævelse og ømhed af lymfeknuder
@@ -752,6 +807,8 @@ Thorax
 ------
 (se kapitel 6)
 
+<html5media>File:KAP3_47.mp3</html5media>
+
 Thorax’ *form* beskrives, hvis den er abnorm (f.eks. tøndeform, pectus
 excavatum). Thoraxhalvdelenes bevægelighed beskrives (symmetri?).
 Indtrækninger i jugulum og under ribbenskurvaturen? Medbevægelighed
@@ -764,6 +821,8 @@ Ryg og rygsøjle (dorsum et columna vertebralis)
 -----------------------------------------------
 (se kapitel 10)
 
+<html5media>File:KAP3_47_2.mp3</html5media>
+
 Ryggen beskrives sædvanligvis kun, hvis der er symptomer herfra.
 *Deformiteter* bemærkes (kyfose, skolioser, hyperlordose). Hvis der er
 *ømhed* ved palpation beskrives lokalisation og type (bankeøm, rokkeøm
@@ -772,6 +831,8 @@ etc.). Columnas *bevægelighed* beskrives.
 Lungestetoskopi (St.p. stethoscopia pulmonum)
 ---------------------------------------------
 (se kapitel 6)
+
+<html5media>File:KAP3_47_3.mp3</html5media>
 
 Lungestetoskopien beskrives hos alle hospitalsindlagte patienter: Resultatet
 af *perkussionen* beskrives: er der normale lungegrænser, er perkussionlyden
@@ -795,6 +856,8 @@ røget i 50 år, var følgende beskrevet i primærjournalen:
 Hjertestetoskopi (St.c. stethoscopia cordis)
 --------------------------------------------
 (se kapitel 5)
+
+<html5media>File:KAP3_48.mp3</html5media>
 
 Hjertestetoskopien beskrives hos alle hospitalsindlagte patienter efter flg.
 system:
@@ -824,6 +887,8 @@ hjertestetoskopi:
 Abdomen
 -------
 (se kapitel 7)
+
+<html5media>File:KAP3_48_2.mp3</html5media>
 
 Abdomen beskrives hos de fleste patienter, der indlægges på sygehus. Ved
 *inspektion* bemærkes, om abdomen er fladt, om det er indtrukket og
@@ -875,6 +940,8 @@ Lysker (regiones inguinales)
 ----------------------------
 (se kapitel 7)
 
+<html5media>File:KAP3_49.mp3</html5media>
+
 Lyskerne kan beskrives separat eller under afsnittet abdomen. Er der
 tegn på hernier, og hvor store er de? Ligger herniet over eller under *lig.
 inguinale?* Er det fuldt eller delvist reponibelt eller irreponibelt? Er der
@@ -888,6 +955,8 @@ Mandlige kønsorganer (genitalia masculina)
 ------------------------------------------
 (se kapitel 8)
 
+<html5media>File:KAP3_50.mp3</html5media>
+
 Beskrivelse af kønsorganerne er ofte relevant hos ældre mænd og i øvrigt
 ved symptomer: Har patienten *kateter à demeure?* Er forhuden til stede,
 og kan den retraheres, eller er der phimosis eller præputiale adhærencer?
@@ -899,6 +968,8 @@ af penis størrelse og facon – det er sjældent relevant.
 Gynækologisk undersøgelse (GU)
 ------------------------------
 (se kapitel 9)
+
+<html5media>File:KAP3_50_2.mp3</html5media>
 
 GU beskrives altid ved mistanke om gynækologisk sygdom og ved uafklaret
 abdominalia hos kvinder. Ved *inspektion* beskrives først vulva og
@@ -924,6 +995,8 @@ Rektaleksploration (exploratio rectalis)
 ----------------------------------------
 (se kapitel 7)
 
+<html5media>File:KAP3_50_3.mp3</html5media>
+
 Skal altid udføres hos mænd med urologiske problemer, hos alle patienter
 med mavesmerter, gastroentestinale problemer og i øvrigt på vide
 indikationer. Er der ved *inspektion* synlige hæmorider eller marisker? Er
@@ -938,11 +1011,15 @@ Bækken (pelvis)
 ---------------
 (se kapitel 10)
 
+<html5media>File:KAP3_51.mp3</html5media>
+
 Beskrives ved traumepatienten: Er bækkenet stabilt og uømt?
 
 Ekstremiteter
 -------------
 (se kapitel 10 + 12)
+
+<html5media>File:KAP3_51_2.mp3</html5media>
 
 Ekstremiteterne beskrives, hvor det er relevant ud fra anamnesen. Er alle
 fire ekstremiteter frit bevægelige (kan løftes fra lejet), eller er der sideforskel?
@@ -985,6 +1062,8 @@ Hos `hjertepatienten <#nuvaerende-aktuelt>`__ blev ekstremiteterne beskrevet så
 Neurologisk
 -----------
 (se kapitel 11)
+
+<html5media>File:KAP3_52.mp3</html5media>
 
 Ved beskrivelsen af neurologiske fund anvendes følgende systematik:
 
@@ -1031,6 +1110,8 @@ Hud
 ---
 (se kapitel 14)
 
+<html5media>File:KAP3_53.mp3</html5media>
+
 Generelt: Er huden intakt og uden udslæt (eksantem)? Ved traumer: Er
 der sår, ekskoriationer (hudafskrabninger) eller sugillationer (blå mærker)?
 Ved feber eller blødning: Er der petekkier eller ekkymoser (hudblødninger,
@@ -1044,6 +1125,8 @@ udseende.
 
 Konklusion og diagnoser
 =======================
+
+<html5media>File:KAP3_53_2.mp3</html5media>
 
 På baggrund af anamnesen og den objektive undersøgelser vil man i de
 fleste tilfælde kunne give en vurdering af patientens tilstand og et godt
@@ -1099,12 +1182,16 @@ imidlertid ved at gå over til normalt-sprogs diagnoser, som f.eks.:
 Plan
 ====
 
+<html5media>File:KAP3_54.mp3</html5media>
+
 Indlæggelsesjournalen afsluttes med lægens beslutninger (ordinationer)
 vedrørende den videre observation, undersøgelse og behandling af patienten,
 og man refererer sin information til patienten.
 
 Undersøgelse og behandling
 --------------------------
+
+<html5media>File:KAP3_54_2.mp3</html5media>
 
 Hvis diagnosen fortsat er uafklaret eller man vil have bekræftet sine
 diagnoseforslag, kan der være behov for yderligere undersøgelser eller
@@ -1157,6 +1244,8 @@ p.n.-medicinen, og det maksimale antal doser der må gives pr. døgn.
 
 Patientinformation
 ------------------
+
+<html5media>File:KAP3_56.mp3</html5media>
 
 Under denne overskrift anføres et ganske kort referat af den information,
 man har givet patienten.Man kan med fordel bruge »at..« sætninger.

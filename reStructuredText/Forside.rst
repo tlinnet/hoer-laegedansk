@@ -13,7 +13,7 @@ Hør lægedansk - mens du læser!
 | **Indtalt introduktion på dansk**
 | <html5media>File:INTRO_DK.mp3</html5media>
 
-`Lydudgave <Lydfiler.rst#>`__ af bogen **”Subjektivt & Objektivt – anamnese, undersøgelse og journal”** af
+`Lydudgave <Lydfiler.rst#>`__ af bogen `”Subjektivt & Objektivt – anamnese, undersøgelse og journal” <Media:Subjektivt_og_Objektivt_1udg_tekst_frigivet_til_undervisningsbrug.pdf>`__ af
 Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001, 1. udgave.
 
 Kapitler
@@ -87,4 +87,41 @@ Andet materiale
 **Opgaver til ”Hør lægedansk – mens du læser!”** - Idéer til sproglærere og introduktionsopgaver
   [[Media:Subjektivt\_og\_Objektivt\_Ide\_Opg\_ed09.pdf | Subjektivt\_og\_Objektivt\_Ide\_Opg\_ed09.pdf]]
 
+Abstract - “Listen to Danish in medicine – while you read!”
+===================================================================================================
+a usability and efficiency evaluation of an e-tool for vocational L2
 
+*By Lars Linnet - 2003*
+
+Good pronunciation is a prerequisite for a good communication between doctor and
+patient.
+
+Among other European languages Danish holds the largest distance between spoken and
+written forms, including medical professions’ Danish. Addressing this issue, an e-tool in
+the form of a cd was produced with the aim of enabling doctors with a non-Danish
+background to hear the spoken pronunciation of texts, while reading the printed edition
+of a small but comprehensive basic Danish medical book. This book, a coat pocket book
+often used by Danish junior doctors, had, in an integration programme, been chosen by
+us to be the language book for our foreign colleagues.
+
+Six of these doctors participated in a usability laboratory test, being recorded on video
+while working with 12 different clinical information tasks, constructed for their de novo
+use of the cd, such as preparing questions for taking a gynaecological history. While
+some problems were found, e.g. in relation to managing the media player, they were of
+no great magnitude. A questionnaire, answered by 30 doctors who had one month of
+experience with the cd, revealed that the problems had largely vanished. Almost all
+found the cd to be of great support to their efforts in learning the difficult pronunciation
+of the Danish language. Likewise, five teachers of medical vocational L2 found the cd to
+be of use for pronunciation development, and highly recommended it for homework.
+
+We further developed a pronunciation test with recorded words being scored by two
+experts. Six doctors pronounced 40 difficult words, with one week’s interval, using a
+blind setup. We were able to depict only small, statistically insignificant, improvements.
+But hope is that the recordings may be subjected to further digital work; work related
+to automatic speech recognition technology and development of fluency assessment tests.
+
+Plans are to make the cd available as a Web-application. The concept may easily be
+“translated” to other languages with the same need.
+
+The abstract above summarizes a 3rd year annual report in the educational programme:
+Master of Information Technology, Health Informatics, University of Aalborg, Denmark.
