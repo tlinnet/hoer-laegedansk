@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:58
 :category: Kapitler
 
+<html5media>File:KAP1_15.mp3</html5media>
+
 Som den læge, der optager journal, er du ofte den første læge, patienten
 møder på sygehuset. Uanset om indlæggelsen er akut eller kulminationen
 af et længere sygdomsforløb, har patienten gjort sig sine tanker og
@@ -14,6 +16,8 @@ også sygehistorien eller anamnesen.
 
 Anamnesens funktion
 ===================
+
+<html5media>File:KAP1_15_2.mp3</html5media>
 
 Anamnesen er patientens formulering af det problem, der bringer ham/
 hende til læge. Anamnesen hjælper lægen til en tentativ (foreløbig) diagnose,
@@ -45,6 +49,8 @@ anviste behandling).
 Rammerne for mødet med patienten
 ================================
 
+<html5media>File:KAP1_16.mp3</html5media>
+
 Vær altid forberedt før mødet med patienten. Som minimum skal du
 kende patientens navn og vide, hvorfor patientens skal ses af en læge.
 Men ofte kan man lette sit eget og patientens arbejde ved at forberede
@@ -52,6 +58,8 @@ sig lidt grundigere.
 
 Indhent oplysninger
 -------------------
+
+<html5media>File:KAP1_16_2.mp3</html5media>
 
 Før du går ind til patienten, skal du starte med at *læse henvisningen*
 (indlæggelsessedlen) fra den indlæggende læge grundigt. Indlæggelsessedlen
@@ -78,7 +86,6 @@ du er usikker på.
 
 **Forbered dig til mødet med patienten**
 
-
 * Læs henvisningen fra den indlæggende læge. 
   Stil supplerende spørgsmål, hvis patienten indlægges pr. telefon.
 * Sæt dig ind i den gamle journal.
@@ -90,6 +97,8 @@ du er usikker på.
 
 Omgivelser og remedier
 ----------------------
+
+<html5media>File:KAP1_17.mp3</html5media>
 
 Der skal være ro, tid og plads til at optage journal. Desværre er forholdene
 mange steder langt fra optimale, men der skal mindst være: en dør,
@@ -119,6 +128,8 @@ alene.
 
 Selve mødet
 -----------
+
+<html5media>File:KAP1_18.mp3</html5media>
 
 Start med at præsentere dig, giv hånd. Fortæl, at du er læge/lægestuderende
 og forklar derefter, hvad det er, der skal ske. Sig f.eks.: *»Goddag, jeg
@@ -171,12 +182,16 @@ dine oplysninger.*
 Samtaleteknik
 =============
 
+<html5media>File:KAP1_19.mp3</html5media>
+
 Det er ikke ligegyldigt, hvordan man som læge får patienten til at fortælle
 sin sygehistorie. Samtaleteknik læres bedst i praksis. I det følgende
 giver vi nogle praktiske anvisninger, man kan støtte sig til.
 
 At lytte
 --------
+
+<html5media>File:KAP1_19_2.mp3</html5media>
 
 Ved indledningen af samtalen med en patient er det vigtigt at skabe
 nogle trygge rammer, hvor patienten frit kan fortælle og føle, at netop
@@ -200,6 +215,8 @@ var et andet!
 
 Udvidende og afgrænsende gensvar
 --------------------------------
+
+<html5media>File:KAP1_19_3.mp3</html5media>
 
 Når man skal have en patient til at fortælle sin sygehistorie, er der stor
 forskel på, om man - som hos den akut dårlige patient - skal have nogle
@@ -251,6 +268,8 @@ hvad der er problemet.
 
 **Åbne spørgsmål er generelle**
 
+<html5media>File:BOKS21.mp3</html5media>
+
 ::
 
   * Hvad bringer dig til læge i dag?
@@ -260,6 +279,8 @@ hvad der er problemet.
   * Hvad vil du gerne have, at vi gør for dig?
 
 **Lukkede spørgsmål er konkrete** 
+
+<html5media>File:BOKS21B.mp3</html5media>
 
 ::
 
@@ -276,6 +297,8 @@ hvad der er problemet.
 
 Resumér og gentag
 -----------------
+
+<html5media>File:KAP1_21.mp3</html5media>
 
 Går patienten i stå, kan du hjælpe patienten i gang igen ved at gentage
 de sidste 4-5 ord i patientens udsagn eller andre centrale ord i den sidste
@@ -298,6 +321,8 @@ får ondt i maven, når du spiser ... (kan du fortælle lidt mere om det?) ...«
 Rund af
 -------
 
+<html5media>File:KAP1_22.mp3</html5media>
+
 Slut anamneseoptagelsen af med at spørge, om der er noget, I mangler at
 tale om. Det primære problem bliver måske udtrykt som smerter i storetåen,
 men hen imod slutningen kommer den egentlige grund til henvendelsen,
@@ -312,6 +337,8 @@ problem.
 
 Den talende og den tavse
 ------------------------
+
+<html5media>File:KAP1_22_2.mp3</html5media>
 
 Hos meget snakkende patienter, der besvarer alle spørgsmål med lange
 overdetaljerede svar, og hvor det – især for den uøvede – kan være svært
@@ -330,6 +357,8 @@ Svaret skal nok komme.
 
 Lægens reaktion på den indlagte
 -------------------------------
+
+<html5media>File:KAP1_22_3.mp3</html5media>
 
 Som læge vil der altid være nogle patienter, man føler sig tiltrukket af, og
 andre, man føler sig frastødt af. Det er uhyre vigtigt at optræde professionelt
@@ -350,9 +379,13 @@ er meget venligt af dig. Men nu er det altså ikke mig, det handler om«.*
 Specielle forhold
 =================
 
+<html5media>File:KAP1_23.mp3</html5media>
+
 Ikke alle patienter er ens, og nogle kræver særlige hensyn:
 
-**Patienter, der ikke taler dansk** 
+**Patienter, der ikke taler dansk**
+
+<html5media>File:BOKS23.mp3</html5media>
 
 ::
 
@@ -371,6 +404,8 @@ Ikke alle patienter er ens, og nogle kræver særlige hensyn:
 
 **Døve og tunghøre** 
 
+<html5media>File:BOKS24.mp3</html5media>
+
 ::
 
   * Sørg for god øjenkontakt og godt lys, så patienten kan se dit
@@ -384,6 +419,8 @@ Ikke alle patienter er ens, og nogle kræver særlige hensyn:
 
 
 **Blinde og svagtseende**
+
+<html5media>File:BOKS24B.mp3</html5media>
 
 ::
 

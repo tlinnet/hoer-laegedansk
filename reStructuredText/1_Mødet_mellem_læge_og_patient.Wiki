@@ -1,8 +1,12 @@
 __TOC__
 
+&lt;html5media&gt;File:KAP1_15.mp3&lt;/html5media&gt;
+
 Som den læge, der optager journal, er du ofte den første læge, patienten møder på sygehuset. Uanset om indlæggelsen er akut eller kulminationen af et længere sygdomsforløb, har patienten gjort sig sine tanker og har nogle forventninger til sygehusopholdet. En af dine vigtigste opgaver er at få patienten til at fortælle om sine oplevelser, tanker og forventninger vedrørende sin tilstand og sit livsforløb. Denne fortælling kalder vi også sygehistorien eller anamnesen.
 
 = Anamnesens funktion =
+
+&lt;html5media&gt;File:KAP1_15_2.mp3&lt;/html5media&gt;
 
 Anamnesen er patientens formulering af det problem, der bringer ham/ hende til læge. Anamnesen hjælper lægen til en tentativ (foreløbig) diagnose, som man derefter søger at be- eller afkræfte ved objektive og parakliniske undersøgelser. Anamnesen fortæller os altså, hvad vi skal lede efter og hvor. Anamneseoptagelsen er samtidig den første kontakt mellem patient og læge i en måske længerevarende indlæggelse. Hvis du giver patienten tid og plads til at fortælle sin sygehistorie, kan du forvente større patienttilfredshed og bedre komplians (at patienten følger den anviste behandling).
 
@@ -22,9 +26,13 @@ tror du, det er?».
                                             JAMA 1997; 277 : 553-559</pre>
 = Rammerne for mødet med patienten =
 
+&lt;html5media&gt;File:KAP1_16.mp3&lt;/html5media&gt;
+
 Vær altid forberedt før mødet med patienten. Som minimum skal du kende patientens navn og vide, hvorfor patientens skal ses af en læge. Men ofte kan man lette sit eget og patientens arbejde ved at forberede sig lidt grundigere.
 
 == Indhent oplysninger ==
+
+&lt;html5media&gt;File:KAP1_16_2.mp3&lt;/html5media&gt;
 
 Før du går ind til patienten, skal du starte med at ''læse henvisningen'' (indlæggelsessedlen) fra den indlæggende læge grundigt. Indlæggelsessedlen kan give dig vigtige oplysninger, som det ellers kan være svært at nå frem til selv, f.eks. om tidligere indlæggelser eller resultater af egen læges undersøgelser. Hvis du taler med den indlæggende læge, bed da altid om en udførlig indlæggelsesseddel inklusive patientens aktuelle medicinstatus (type, styrke og mængde).Mange patienter husker kun, at de får to blå piller til hjertet og én hvid til maven. Hvis patienten tidligere har været indlagt, skal du altid sætte dig ind i ''den gamle journal''. Har patienten været indlagt og behandlet under et lignende billede tidligere? Er patienten tidligere opereret i området? Hvad er der af konkurrerende lidelser osv. Desuden øger det trygheden hos patienterne, når de fornemmer at man »kender« deres sygehistorie. Patienten kan medbringe en ''mappe fra hjemmepleje eller plejehjem'', som kan give nogle oplysninger om patientens helbred og funktionsniveau. Den indeholder endvidere altid status over den aktuelle medicin. Når patienten er ankommet, få da en ''foreløbig melding'' fra sygeplejersken, der har modtaget patienten, evt. også fra ambulancefolkene. Hvordan er patientens almentilstand? Endelig kan det være en god idé lige at kaste et ''hurtigt blik i en lærebog'', inden du træder ind ad døren, hvis der er noget vedrørende indlæggelsesdiagnosen, du er usikker på.
 
@@ -36,6 +44,8 @@ Før du går ind til patienten, skal du starte med at ''læse henvisningen'' (in
 * Kast evt. et hastigt blik i en lærebog, så du husker at stille de relevante spørgsmål og foretage relevante undersøgelser.
 
 == Omgivelser og remedier ==
+
+&lt;html5media&gt;File:KAP1_17.mp3&lt;/html5media&gt;
 
 Der skal være ro, tid og plads til at optage journal. Desværre er forholdene mange steder langt fra optimale, men der skal mindst være: en dør, der kan lukkes; et undersøgelsesleje; de nødvendige undersøgelsesremedier til objektiv undersøgelse samt adgang til håndvask med sæbe og håndklæde.
 
@@ -53,6 +63,8 @@ minimum bruge:
 Ved visse undersøgelser er det nødvendigt med en assistent. Dette kan være som en »ekstra hånd« (f.eks. ved immobile patienter, der skal lungestetoskoperes) eller til at »holde hånd« hos en ængstelig patient. Under alle omstændigheder skal du hente hjælp, hvis du ikke kan klare situationen alene.
 
 == Selve mødet ==
+
+&lt;html5media&gt;File:KAP1_18.mp3&lt;/html5media&gt;
 
 Start med at præsentere dig, giv hånd. Fortæl, at du er læge/lægestuderende og forklar derefter, hvad det er, der skal ske. Sig f.eks.: ''»Goddag, jeg hedder Iben Jensen, og jeg er lægestuderende. Først skal jeg høre, hvorfor du er blevet indlagt, og om du tidligere har fejlet noget. Derefter skal jeg undersøge dig, men det forklarer jeg nærmere om, når vi når dertil«.''
 
@@ -79,9 +91,13 @@ Mange patienter spørger i løbet af deres sygehistorie, om de ikke kan fejle d�
 
 = Samtaleteknik =
 
+&lt;html5media&gt;File:KAP1_19.mp3&lt;/html5media&gt;
+
 Det er ikke ligegyldigt, hvordan man som læge får patienten til at fortælle sin sygehistorie. Samtaleteknik læres bedst i praksis. I det følgende giver vi nogle praktiske anvisninger, man kan støtte sig til.
 
 == At lytte ==
+
+&lt;html5media&gt;File:KAP1_19_2.mp3&lt;/html5media&gt;
 
 Ved indledningen af samtalen med en patient er det vigtigt at skabe nogle trygge rammer, hvor patienten frit kan fortælle og føle, at netop hans/hendes sygehistorie er den vigtigste nu. Brug almindeligt talesprog og undgå lægelatin og lægeslang, også selvom patienten selv skulle være ansat inden for sundhedsvæsenet.
 
@@ -90,6 +106,8 @@ Vær opmærksom på dit kropssprog. Vis at du lytter. Giv patienten tid til at f
 Ofte gør man den fejl, at man »presser« historien frem, fordi man har en idé om, hvad der er problemet. Men du risikerer, at der går vigtige elementer tabt, fordi det ikke er patientens egen fortælling, der kommer frem. Mange mennesker vil gerne give lægen ret, så hvis du fra starten tror, at diagnosen er blærebetændelse, kan du måske godt få patienten til at levere de symptomer, der passer, selvom det problem, hun kom med, var et andet!
 
 == Udvidende og afgrænsende gensvar ==
+
+&lt;html5media&gt;File:KAP1_19_3.mp3&lt;/html5media&gt;
 
 Når man skal have en patient til at fortælle sin sygehistorie, er der stor forskel på, om man - som hos den akut dårlige patient - skal have nogle konkrete oplysninger her og nu, eller om man har bedre tid til at få en fyldestgørende sygehistorie. Patientens fortælling af sygehistorien former sig dog altid som en dialog, hvor lægen indskyder spørgsmål, kommentarer, udråb og lyde – såkaldte gensvar. Generelt kan man tale om, at der findes en ''udvidende'' og en ''afgrænsende'' måde at give patienten dette gensvar.
 
@@ -115,12 +133,16 @@ Ofte vil man bruge en kombination af de udvidende (åbne) og afgrænsende (lukke
 
 '''Åbne spørgsmål er generelle'''
 
+&lt;html5media&gt;File:BOKS21.mp3&lt;/html5media&gt;
+
 <pre>* Hvad bringer dig til læge i dag?
 * Kan du fortælle lidt mere om det?
 * Hvad er det største problem for dig?
 * Hvad tror du selv, der er galt?
 * Hvad vil du gerne have, at vi gør for dig?</pre>
 '''Lukkede spørgsmål er konkrete'''
+
+&lt;html5media&gt;File:BOKS21B.mp3&lt;/html5media&gt;
 
 <pre>– f.eks. vedr. smerter:
 * Hvor gør det ondt? Udstråler smerten – og hvorhen til?
@@ -133,6 +155,8 @@ eller lettere den sidste tid?
 * Hvor lang tid har det stået på?
 * Har du taget smertestillende medicin? Hvilken? Hjalp det?</pre>
 == Resumér og gentag ==
+
+&lt;html5media&gt;File:KAP1_21.mp3&lt;/html5media&gt;
 
 Går patienten i stå, kan du hjælpe patienten i gang igen ved at gentage de sidste 4-5 ord i patientens udsagn eller andre centrale ord i den sidste sætning. F.eks.:
 
@@ -149,11 +173,15 @@ Hvis samtalen kører af sporet, kan man samle tråden op eller vende tilbage til
 
 == Rund af ==
 
+&lt;html5media&gt;File:KAP1_22.mp3&lt;/html5media&gt;
+
 Slut anamneseoptagelsen af med at spørge, om der er noget, I mangler at tale om. Det primære problem bliver måske udtrykt som smerter i storetåen, men hen imod slutningen kommer den egentlige grund til henvendelsen, ofte i en lidt henkastet bemærkning: ''»For resten er jeg begyndt at bløde lidt fra endetarmen …«'' eller ''»Tror du ikke, det ville være klogt at få taget en hiv-test, hvis det svider, når man tisser?«.''
 
 Til sidst resumerer du sygehistorien for patienten, så der er mulighed for at korrigere, hvis du alligevel skulle have misforstået noget. Samtidig får patienten et meget vigtigt signal om, at man har prøvet at forstå hans problem.
 
 == Den talende og den tavse ==
+
+&lt;html5media&gt;File:KAP1_22_2.mp3&lt;/html5media&gt;
 
 Hos meget snakkende patienter, der besvarer alle spørgsmål med lange overdetaljerede svar, og hvor det – især for den uøvede – kan være svært at få et ord indført, må man ofte ty til at spørge direkte og konkret. Alle svar skal følges af et nyt spørgsmål. Begynder patienten at gentage sig selv, skal du ikke være bange for at afbryde. Brug f.eks. metoden med at resumere og gentage (jf. ovenstående).
 
@@ -161,15 +189,21 @@ Er patienten meget tavs, kan det virke pinligt, og man kan blive usikker på, om
 
 == Lægens reaktion på den indlagte ==
 
+&lt;html5media&gt;File:KAP1_22_3.mp3&lt;/html5media&gt;
+
 Som læge vil der altid være nogle patienter, man føler sig tiltrukket af, og andre, man føler sig frastødt af. Det er uhyre vigtigt at optræde professionelt og se igennem disse umiddelbare fremtrædelsesformer. Har man selv lidt lampefeber eller er presset i tid, kan man let komme til at irriteres over patientens måde at udtrykke sig på eller hans/hendes fremtoning. Omvendt skal man være klar over, at patienten ''altid'' er i en presset situation ved indlæggelse på et sygehus.
 
 Tit vil man opleve patienter, der umiddelbart virkede usympatiske eller frastødende ved indlæggelsen, ændre sig fuldstændigt, efter at smerte og angst er svundet. Omvendt vil nogle patienter være attraktive og tiltrækkende, og ofte strø om sig med komplimenter til »den unge læge«. Selvom du skulle føle dig smigret, er det vigtigt at gøre dig din rolle klar og optræde professionelt.Man kan f.eks. sige: ''»Tak for komplimentet, det er meget venligt af dig. Men nu er det altså ikke mig, det handler om«.''
 
 = Specielle forhold =
 
+&lt;html5media&gt;File:KAP1_23.mp3&lt;/html5media&gt;
+
 Ikke alle patienter er ens, og nogle kræver særlige hensyn:
 
 '''Patienter, der ikke taler dansk'''
+
+&lt;html5media&gt;File:BOKS23.mp3&lt;/html5media&gt;
 
 <pre>* Forstår din patient ikke dansk, er det vigtigt at forsøge at
 fremskaffe en professionel tolk, der er neutral i forhold til
@@ -184,6 +218,8 @@ korte afrundede sætninger.
 ikke tolkens fortolkning af, hvad patienten mener.</pre>
 '''Døve og tunghøre'''
 
+&lt;html5media&gt;File:BOKS24.mp3&lt;/html5media&gt;
+
 <pre>* Sørg for god øjenkontakt og godt lys, så patienten kan se dit
 ansigt.
 * Tal tydeligt i roligt tempo.
@@ -193,6 +229,8 @@ ned i tragten. Papir og blyant kan bruges, men er meget tidskrævende.
 * Mange døve vil have en tegnsprogstolk med. Se ovenfor vedr.
 brug af tolk.</pre>
 '''Blinde og svagtseende'''
+
+&lt;html5media&gt;File:BOKS24B.mp3&lt;/html5media&gt;
 
 <pre>* Tal, som du plejer. En hyppig fejl over for synshandicappede
 er at overartikulere ord, tale højere eller bruge simplere ord
