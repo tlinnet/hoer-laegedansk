@@ -614,7 +614,8 @@ polydipsi 119
 polymenoré 128
 positiv smertebue 147
 primær amenoré 128
-primærjournalen 27, 31
+primærjournalen 27
+primærjournalen 31
 prognose 28
 prolapsus uteri 133
 proteseklik 78
@@ -631,7 +632,8 @@ purpura 196
 purulent 86
 pustel 198
 pyartron 152
-pyrosis 88, 99
+pyrosis 88
+pyrosis 99
 pyuri 119
 
 Bogstav: R
@@ -644,11 +646,15 @@ refluks 99
 regio glenohumerale 145
 regiones inguinales 49
 regurgitation 99
-rektaleksploration 50, 113-114
+rektaleksploration 50
+rektaleksploration 113
 rektalundersøgelse 113
 remedier 17
-respiration 44, 64, 89
-respirationsfrekvens 44, 64
+respiration 44
+respiration 64
+respiration 89
+respirationsfrekvens 44
+respirationsfrekvens 64
 retrosternalt 70
 revne 199
 rhonchi 96
@@ -656,9 +662,13 @@ rigiditet 169
 Rombergs prøve 172
 rp. 28
 ructus 99
-ryg 47, 142
-rygerlunger 60, 85
-rygsøjle 47, 142, 165
+ryg 47
+ryg 142
+rygerlunger 60
+rygerlunger 85
+rygsøjle 47
+rygsøjle 142
+rygsøjle 165
 
 Bogstav: S
 sammenklappet lunge 72
@@ -671,24 +681,26 @@ sekundær amenoré 128
 sensibilitet 174
 sensorisk 52
 sideløshed 152
-skjoldbruskkirtlen 187, 189
+skjoldbruskkirtlen 187
+skjoldbruskkirtlen 189
 skorper 200
 skuffeløshed 152
 skulder 145
 skulderluksation 145
 skæl 200
-slidgigt 59, 137
+slidgigt 59
+slidgigt 137
 slimhinder 46
 slipømhed 108
 snot 86
 socialt 42
-spasme-angina (Prinzmetals
-angina) 71
+spasme-angina (Prinzmetals angina) 71
 spasticitet 169
 specialkontinuationer 26
 spider naevi 196
 splenomegali 110
-sprog 52, 164
+sprog 52
+sprog 164
 sprogforstyrrelser 159
 sputum 86
 squammae 200
@@ -709,17 +721,22 @@ strakt arm-test 172
 strakt benløftningstest 144
 stranguri 116
 strepitus 141
-struma 46, 187, 188
+struma 46
+struma 187
 stum iskæmi 71
 styringsbesvær 161
 subaraknoidalblødning 156
-subjektivt 28, 31
+subjektivt 28
+subjektivt 31
 subkutant emfysem 92
-sugillation 196, 200
+sugillation 196
+sugillation 200
 supraspinatus-tendinitis 147
 sure opstød 99
 svagtseende 24
-svimmelhed 58, 156, 202
+svimmelhed 58
+svimmelhed 156
+svimmelhed 202
 svælg 104
 sygehistorie, se anamnese
 sygehusjournal 25
@@ -732,7 +749,8 @@ synsforstyrrelser 160
 synstab 203
 systoliske mislyde 81
 sædstrengene 122
-sår 195, 199
+sår 195
+sår 199
 S·O·A·P-huskereglen 27
 
 Bogstav: T
@@ -743,7 +761,8 @@ tandstatus 46
 tarmrejsning 106
 tarmslyng 98
 tbl 55
-telangiektasi 196, 200
+telangiektasi 196
+telangiektasi 200
 teloragi 191
 temperatur 44
 testiklerne 122
@@ -765,7 +784,8 @@ Trendelenburgs prøve 184
 tricepsrefleksen 173
 trigger-punkter 145
 trikuspidalinsufficiens 81
-trofik 169, 183
+trofik 169
+trofik 183
 træthed 58
 tumor mammae 193
 tungen 46
@@ -774,7 +794,8 @@ turgor 65
 tussis 85
 tympanisme 111
 tynd mave 101
-tyreotoksikose 102, 187
+tyreotoksikose 102
+tyreotoksikose 187
 tyst thorax 95
 
 Bogstav: U
@@ -787,12 +808,15 @@ udstående øjne 45
 udvidende gensvar 20
 ufrivillig vandladning 120
 ulcerationer 104
-ulcus 106, 195, 199
+ulcus 106
+ulcus 195
+ulcus 199
 ulcus cruris 181
 underlivssmerter 129
 undersøgelsesremedier 17
 urethra 118
-urge 116, 119
+urge 116
+urge 119
 urininkontinens 120
 urinsyregigt 153
 urinveje 116
@@ -802,11 +826,13 @@ ustabil angina pectoris 71
 
 Bogstav: V
 vandbrok 124
-varicer 180, 181
+varicer 180
 varicocele 124
 vas deferens 122
 ventrikelseptumdefekt 81
-vertigo 59, 156, 202
+vertigo 59
+vertigo 156
+vertigo 202
 vesikel 198
 vibrationssans 176
 vindueskiggersyndrom 180
@@ -820,9 +846,13 @@ Bogstav: Y
 ydre kranie (calvaria) 45
 
 Bogstav: Ø
-ødemer 73, 116, 122, 181
+ødemer 73
+ødemer 116
+ødemer 122
+ødemer 181
 øjenmedierne 45
-øjne 45, 204
+øjne 45
+øjne 204
 ører 46
 øresusen 202
 ørevoks 202
@@ -831,6 +861,8 @@ Bogstav: Ø
 
 Bogstav: Å
 åbne spørgsmål 20
-åndenød 69, 84
+åndenød 69
+åndenød 84
 årebrok 124
-åreforkalkning 68, 179
+åreforkalkning 68
+åreforkalkning 179
