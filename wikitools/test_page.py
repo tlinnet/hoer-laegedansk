@@ -14,11 +14,11 @@ site = wiki.Wiki("http://wiki.hoer-laegedansk.dk/api.php")
 site.login("tlinnet")
 
 wpages = [
-    #"Forside",
+    "Forside",
     #"0_Forord",
     #"1_Mødet_mellem_læge_og_patient",
     #"2_Sygehusjournalen",
-    "3_Indlæggelsesnotatet"
+    #"3_Indlæggelsesnotatet"
 ]
 
 # loop over pages

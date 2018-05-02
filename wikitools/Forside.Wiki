@@ -8,7 +8,7 @@ __TOC__
 '''Indtalt introduktion på dansk'''<br />
 <html5media>File:INTRO_DK.mp3</html5media>
 
-[[Lydfiler|Lydudgave]] af bogen '''”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”''' af Søren Brostrøm &amp; Niels Saxtrup Nielsen, Munksgaard 2001, ISBN 87_16_12142_2
+[[Lydfiler|Lydudgave]] af bogen '''”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”''' af Søren Brostrøm &amp; Niels Saxtrup Nielsen, Munksgaard 2001, 1. udgave.
 
 == Kapitler ==
 
@@ -16,6 +16,7 @@ __TOC__
 * [[1_Mødet_mellem_læge_og_patient|1 Mødet mellem læge og patient]]
 * [[2_Sygehusjournalen|2 Sygehusjournalen]]
 * [[3_Indlæggelsesnotatet|3 Indlæggelsesnotatet]]
+* [[16_Stikordsregister|16 Stikordsregister]]
 
 = Udgivelses information =
 
@@ -60,3 +61,12 @@ Udført maj 2018 af Troels Schwarz-Linnet, København
 * Bogen ”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal” er manuelt blevet konverteret til ''reStructuredText'' format.
 * Scripts er skrevet til udgive text filerne til hjemmeside ved hjælp af Python pelican og wikimedia.
 * Projekt folder for materiale: [https://github.com/tlinnet/hoer_laegedansk github.com/tlinnet/hoer_laegedansk]
+
+= Andet materiale =
+
+; '''”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”''' - Søren Brostrøm &amp; Niels Saxtrup Nielsen, 2001
+: [[Media:Subjektivt_og_Objektivt_1udg_tekst_frigivet_til_undervisningsbrug.pdf | Subjektivt_og_Objektivt_1udg_tekst_frigivet_til_undervisningsbrug.pdf]]
+; '''”Hør lægedansk – mens du læser!”- et e-sprogredskabs brugbarhed og nytte''' - Lars Linnet, Master 2003
+: [[Media:Hør_lægedansk_Mens_du_læser_Lars_Linnet_Master_2003.pdf | Hør_lægedansk_Mens_du_læser_Lars_Linnet_Master_2003.pdf]]
+; '''Opgaver til ”Hør lægedansk – mens du læser!”''' - Idéer til sproglærere og introduktionsopgaver
+: [[Media:Subjektivt_og_Objektivt_Ide_Opg_ed09.pdf | Subjektivt_og_Objektivt_Ide_Opg_ed09.pdf]]
