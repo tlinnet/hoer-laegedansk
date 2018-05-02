@@ -1,0 +1,460 @@
+! Filnavn !! Type !! Kapitel !! Nr !! Side !! Sektion !! Lyd
+| FORORD || Forord ||  ||  || 1 || 0 || <html5media>File:FORORD.mp3</html5media>
+| INTRO_DK || Forord ||  ||  || 1 || 0 || <html5media>File:INTRO_DK.mp3</html5media>
+| INTRO_UK || Forord ||  ||  || 1 || 0 || <html5media>File:INTRO_UK.mp3</html5media>
+| OP-JOUR || Forord ||  ||  || 1 || 0 || <html5media>File:OP-JOUR.mp3</html5media>
+| KAP1_15 || Kapitel || 1 ||  || 15 || 1 || <html5media>File:KAP1_15.mp3</html5media>
+| KAP1_15_2 || Kapitel || 1 || 2 || 15 || 1 || <html5media>File:KAP1_15_2.mp3</html5media>
+| KAP1_16 || Kapitel || 1 ||  || 16 || 1.2 || <html5media>File:KAP1_16.mp3</html5media>
+| KAP1_16_2 || Kapitel || 1 || 2 || 16 || 1.2 || <html5media>File:KAP1_16_2.mp3</html5media>
+| KAP1_17 || Kapitel || 1 ||  || 17 || 1.2.2 || <html5media>File:KAP1_17.mp3</html5media>
+| KAP1_18 || Kapitel || 1 ||  || 18 || 1.2.3 || <html5media>File:KAP1_18.mp3</html5media>
+| KAP1_19 || Kapitel || 1 ||  || 19 || 1.3 || <html5media>File:KAP1_19.mp3</html5media>
+| KAP1_19_2 || Kapitel || 1 || 2 || 19 || 1.3 || <html5media>File:KAP1_19_2.mp3</html5media>
+| KAP1_19_3 || Kapitel || 1 || 3 || 19 || 1.3 || <html5media>File:KAP1_19_3.mp3</html5media>
+| KAP1_21 || Kapitel || 1 ||  || 21 || 1.3.3 || <html5media>File:KAP1_21.mp3</html5media>
+| KAP1_22 || Kapitel || 1 ||  || 22 || 1.3.4 || <html5media>File:KAP1_22.mp3</html5media>
+| KAP1_22_2 || Kapitel || 1 || 2 || 22 || 1.3.4 || <html5media>File:KAP1_22_2.mp3</html5media>
+| KAP1_22_3 || Kapitel || 1 || 3 || 22 || 1.3.4 || <html5media>File:KAP1_22_3.mp3</html5media>
+| KAP1_23 || Kapitel || 1 ||  || 23 || 1.4 || <html5media>File:KAP1_23.mp3</html5media>
+| KAP2_25 || Kapitel || 2 ||  || 25 || 2 || <html5media>File:KAP2_25.mp3</html5media>
+| KAP2_25_2 || Kapitel || 2 || 2 || 25 || 2 || <html5media>File:KAP2_25_2.mp3</html5media>
+| KAP2_27 || Kapitel || 2 ||  || 27 || 2.3 || <html5media>File:KAP2_27.mp3</html5media>
+| KAP2_27_2 || Kapitel || 2 || 2 || 27 || 2.3 || <html5media>File:KAP2_27_2.mp3</html5media>
+| KAP2_29 || Kapitel || 2 ||  || 29 || 2.5 || <html5media>File:KAP2_29.mp3</html5media>
+| KAP3_31 || Kapitel || 3 ||  || 31 || 3 || <html5media>File:KAP3_31.mp3</html5media>
+| KAP3_31_2 || Kapitel || 3 || 2 || 31 || 3 || <html5media>File:KAP3_31_2.mp3</html5media>
+| KAP3_31_3 || Kapitel || 3 || 3 || 31 || 3 || <html5media>File:KAP3_31_3.mp3</html5media>
+| KAP3_33 || Kapitel || 3 ||  || 33 || 3.1.2 || <html5media>File:KAP3_33.mp3</html5media>
+| KAP3_33_2 || Kapitel || 3 || 2 || 33 || 3.1.2 || <html5media>File:KAP3_33_2.mp3</html5media>
+| KAP3_34 || Kapitel || 3 ||  || 34 || 3.1.4 || <html5media>File:KAP3_34.mp3</html5media>
+| KAP3_35 || Kapitel || 3 ||  || 35 || 3.1.5 || <html5media>File:KAP3_35.mp3</html5media>
+| KAP3_36 || Kapitel || 3 ||  || 36 || 3.1.6 || <html5media>File:KAP3_36.mp3</html5media>
+| kap3_37 || Kapitel || 3 ||  || 37 || 3.1.7 || <html5media>File:kap3_37.mp3</html5media>
+| KAP3_39 || Kapitel || 3 ||  || 39 || 3.1.8 || <html5media>File:KAP3_39.mp3</html5media>
+| KAP3_41 || Kapitel || 3 ||  || 41 || 3.1.9 || <html5media>File:KAP3_41.mp3</html5media>
+| KAP3_42 || Kapitel || 3 ||  || 42 || 3.1.10 || <html5media>File:KAP3_42.mp3</html5media>
+| KAP3_42_2 || Kapitel || 3 || 2 || 42 || 3.1.10 || <html5media>File:KAP3_42_2.mp3</html5media>
+| KAP3_43 || Kapitel || 3 ||  || 43 || 3.2 || <html5media>File:KAP3_43.mp3</html5media>
+| KAP3_44 || Kapitel || 3 ||  || 44 || 3.2.1 || <html5media>File:KAP3_44.mp3</html5media>
+| KAP3_45 || Kapitel || 3 ||  || 45 || 3.2.2 || <html5media>File:KAP3_45.mp3</html5media>
+| KAP3_45_2 || Kapitel || 3 || 2 || 45 || 3.2.2 || <html5media>File:KAP3_45_2.mp3</html5media>
+| KAP3_45_3 || Kapitel || 3 || 3 || 45 || 3.2.2 || <html5media>File:KAP3_45_3.mp3</html5media>
+| KAP3_46 || Kapitel || 3 ||  || 46 || 3.2.5 || <html5media>File:KAP3_46.mp3</html5media>
+| KAP3_46_2 || Kapitel || 3 || 2 || 46 || 3.2.5 || <html5media>File:KAP3_46_2.mp3</html5media>
+| KAP3_46_3 || Kapitel || 3 || 3 || 46 || 3.2.5 || <html5media>File:KAP3_46_3.mp3</html5media>
+| KAP3_46_4 || Kapitel || 3 || 4 || 46 || 3.2.5 || <html5media>File:KAP3_46_4.mp3</html5media>
+| KAP3_47 || Kapitel || 3 ||  || 47 || 3.2.9 || <html5media>File:KAP3_47.mp3</html5media>
+| KAP3_47_2 || Kapitel || 3 || 2 || 47 || 3.2.9 || <html5media>File:KAP3_47_2.mp3</html5media>
+| KAP3_47_3 || Kapitel || 3 || 3 || 47 || 3.2.9 || <html5media>File:KAP3_47_3.mp3</html5media>
+| KAP3_48 || Kapitel || 3 ||  || 48 || 3.2.12 || <html5media>File:KAP3_48.mp3</html5media>
+| KAP3_48_2 || Kapitel || 3 || 2 || 48 || 3.2.12 || <html5media>File:KAP3_48_2.mp3</html5media>
+| KAP3_49 || Kapitel || 3 ||  || 49 || 3.2.14 || <html5media>File:KAP3_49.mp3</html5media>
+| KAP3_50 || Kapitel || 3 ||  || 50 || 3.2.15 || <html5media>File:KAP3_50.mp3</html5media>
+| KAP3_50_2 || Kapitel || 3 || 2 || 50 || 3.2.15 || <html5media>File:KAP3_50_2.mp3</html5media>
+| KAP3_50_3 || Kapitel || 3 || 3 || 50 || 3.2.15 || <html5media>File:KAP3_50_3.mp3</html5media>
+| KAP3_51 || Kapitel || 3 ||  || 51 || 3.2.18 || <html5media>File:KAP3_51.mp3</html5media>
+| KAP3_51_2 || Kapitel || 3 || 2 || 51 || 3.2.18 || <html5media>File:KAP3_51_2.mp3</html5media>
+| KAP3_52 || Kapitel || 3 ||  || 52 || 3.2.20 || <html5media>File:KAP3_52.mp3</html5media>
+| KAP3_53 || Kapitel || 3 ||  || 53 || 3.2.21 || <html5media>File:KAP3_53.mp3</html5media>
+| KAP3_53_2 || Kapitel || 3 || 2 || 53 || 3.2.21 || <html5media>File:KAP3_53_2.mp3</html5media>
+| KAP3_54 || Kapitel || 3 ||  || 54 || 3.4 || <html5media>File:KAP3_54.mp3</html5media>
+| KAP3_54_2 || Kapitel || 3 || 2 || 54 || 3.4 || <html5media>File:KAP3_54_2.mp3</html5media>
+| KAP3_56 || Kapitel || 3 ||  || 56 || 3.4.2 || <html5media>File:KAP3_56.mp3</html5media>
+| KAP4_57 || Kapitel || 4 ||  || 57 || 4 || <html5media>File:KAP4_57.mp3</html5media>
+| KAP4_57_2 || Kapitel || 4 || 2 || 57 || 4 || <html5media>File:KAP4_57_2.mp3</html5media>
+| KAP4_58 || Kapitel || 4 ||  || 58 || 4.1.2 || <html5media>File:KAP4_58.mp3</html5media>
+| KAP4_59 || Kapitel || 4 ||  || 59 || 4.1.3 || <html5media>File:KAP4_59.mp3</html5media>
+| KAP4_60 || Kapitel || 4 ||  || 60 || 4.1.4 || <html5media>File:KAP4_60.mp3</html5media>
+| KAP4_60_2 || Kapitel || 4 || 2 || 60 || 4.1.4 || <html5media>File:KAP4_60_2.mp3</html5media>
+| KAP4_61 || Kapitel || 4 ||  || 61 || 4.2 || <html5media>File:KAP4_61.mp3</html5media>
+| KAP4_62 || Kapitel || 4 ||  || 62 || 4.2.1 || <html5media>File:KAP4_62.mp3</html5media>
+| KAP4_62_2 || Kapitel || 4 || 2 || 62 || 4.2.1 || <html5media>File:KAP4_62_2.mp3</html5media>
+| KAP4_63 || Kapitel || 4 ||  || 63 || 4.2.3 || <html5media>File:KAP4_63.mp3</html5media>
+| KAP4_64 || Kapitel || 4 ||  || 64 || 4.2.4 || <html5media>File:KAP4_64.mp3</html5media>
+| KAP4_64_2 || Kapitel || 4 || 2 || 64 || 4.2.4 || <html5media>File:KAP4_64_2.mp3</html5media>
+| KAP4_64_3 || Kapitel || 4 || 3 || 64 || 4.2.4 || <html5media>File:KAP4_64_3.mp3</html5media>
+| KAP4_65 || Kapitel || 4 ||  || 65 || 4.2.3 || <html5media>File:KAP4_65.mp3</html5media>
+| KAP4_67 || Kapitel || 4 ||  || 67 || 4.2.4 || <html5media>File:KAP4_67.mp3</html5media>
+| KAP5_68 || Kapitel || 5 ||  || 68 || 5 || <html5media>File:KAP5_68.mp3</html5media>
+| KAP5_68_2 || Kapitel || 5 || 2 || 68 || 5 || <html5media>File:KAP5_68_2.mp3</html5media>
+| KAP5_69 || Kapitel || 5 ||  || 69 || 5.1.1 || <html5media>File:KAP5_69.mp3</html5media>
+| KAP5_69_2 || Kapitel || 5 || 2 || 69 || 5.1.1 || <html5media>File:KAP5_69_2.mp3</html5media>
+| KAP5_69_3 || Kapitel || 5 || 3 || 69 || 5.1.1 || <html5media>File:KAP5_69_3.mp3</html5media>
+| KAP5_72 || Kapitel || 5 ||  || 72 || 5.1.4 || <html5media>File:KAP5_72.mp3</html5media>
+| KAP5_73 || Kapitel || 5 ||  || 73 || 5.1.5 || <html5media>File:KAP5_73.mp3</html5media>
+| KAP5_73_2 || Kapitel || 5 || 2 || 73 || 5.1.5 || <html5media>File:KAP5_73_2.mp3</html5media>
+| KAP5_74 || Kapitel || 5 ||  || 74 || 5.2.1 || <html5media>File:KAP5_74.mp3</html5media>
+| KAP5_75 || Kapitel || 5 ||  || 75 || 5.2.2 || <html5media>File:KAP5_75.mp3</html5media>
+| kap5_76 || Kapitel || 5 ||  || 76 || 5.2.2 || <html5media>File:kap5_76.mp3</html5media>
+| KAP5_78 || Kapitel || 5 ||  || 78 || 5.2.2 || <html5media>File:KAP5_78.mp3</html5media>
+| KAP5_78_2 || Kapitel || 5 || 2 || 78 || 5.2.2 || <html5media>File:KAP5_78_2.mp3</html5media>
+| KAP6_83 || Kapitel || 6 ||  || 83 || 6 || <html5media>File:KAP6_83.mp3</html5media>
+| KAP6_83_2 || Kapitel || 6 || 2 || 83 || 6 || <html5media>File:KAP6_83_2.mp3</html5media>
+| KAP6_84 || Kapitel || 6 ||  || 84 || 6.1.1 || <html5media>File:KAP6_84.mp3</html5media>
+| KAP6_85 || Kapitel || 6 ||  || 85 || 6.1.2 || <html5media>File:KAP6_85.mp3</html5media>
+| KAP6_85_2 || Kapitel || 6 || 2 || 85 || 6.1.2 || <html5media>File:KAP6_85_2.mp3</html5media>
+| KAP6_86 || Kapitel || 6 ||  || 86 || 6.1.4 || <html5media>File:KAP6_86.mp3</html5media>
+| KAP6_87 || Kapitel || 6 ||  || 87 || 6.1.5 || <html5media>File:KAP6_87.mp3</html5media>
+| KAP6_89 || Kapitel || 6 ||  || 89 || 6.2 || <html5media>File:KAP6_89.mp3</html5media>
+| KAP6_91 || Kapitel || 6 ||  || 91 || 6.2.1 || <html5media>File:KAP6_91.mp3</html5media>
+| KAP6_92 || Kapitel || 6 ||  || 92 || 6.2.2 || <html5media>File:KAP6_92.mp3</html5media>
+| KAP6_92_2 || Kapitel || 6 || 2 || 92 || 6.2.2 || <html5media>File:KAP6_92_2.mp3</html5media>
+| KAP6_94 || Kapitel || 6 ||  || 94 || 6.2.4 || <html5media>File:KAP6_94.mp3</html5media>
+| KAP7_101 || Kapitel || 7 ||  || 101 || 7.1.5 || <html5media>File:KAP7_101.mp3</html5media>
+| KAP7_103 || Kapitel || 7 ||  || 103 || 7.1.6 || <html5media>File:KAP7_103.mp3</html5media>
+| KAP7_103_2 || Kapitel || 7 || 2 || 103 || 7.1.6 || <html5media>File:KAP7_103_2.mp3</html5media>
+| KAP7_104 || Kapitel || 7 ||  || 104 || 7.2.1 || <html5media>File:KAP7_104.mp3</html5media>
+| KAP7_105 || Kapitel || 7 ||  || 105 || 7.2.2 || <html5media>File:KAP7_105.mp3</html5media>
+| KAP7_107 || Kapitel || 7 ||  || 107 || 7.2.2 || <html5media>File:KAP7_107.mp3</html5media>
+| KAP7_111 || Kapitel || 7 ||  || 111 || 7.2.2 || <html5media>File:KAP7_111.mp3</html5media>
+| KAP7_112 || Kapitel || 7 ||  || 112 || 7.2.3 || <html5media>File:KAP7_112.mp3</html5media>
+| KAP7_112_2 || Kapitel || 7 || 2 || 112 || 7.2.3 || <html5media>File:KAP7_112_2.mp3</html5media>
+| KAP7_113 || Kapitel || 7 ||  || 113 || 7.2.4 || <html5media>File:KAP7_113.mp3</html5media>
+| KAP7_97 || Kapitel || 7 ||  || 97 || 7 || <html5media>File:KAP7_97.mp3</html5media>
+| KAP7_97_2 || Kapitel || 7 || 2 || 97 || 7 || <html5media>File:KAP7_97_2.mp3</html5media>
+| KAP7_98 || Kapitel || 7 ||  || 98 || 7.1.1 || <html5media>File:KAP7_98.mp3</html5media>
+| KAP7_98_2 || Kapitel || 7 || 2 || 98 || 7.1.1 || <html5media>File:KAP7_98_2.mp3</html5media>
+| KAP7_99 || Kapitel || 7 ||  || 99 || 7.1.3 || <html5media>File:KAP7_99.mp3</html5media>
+| KAP7_99_2 || Kapitel || 7 || 2 || 99 || 7.1.3 || <html5media>File:KAP7_99_2.mp3</html5media>
+| KAP8_116 || Kapitel || 8 ||  || 116 || 8 || <html5media>File:KAP8_116.mp3</html5media>
+| KAP8_116_2 || Kapitel || 8 || 2 || 116 || 8 || <html5media>File:KAP8_116_2.mp3</html5media>
+| KAP8_117 || Kapitel || 8 ||  || 117 || 8.1.2 || <html5media>File:KAP8_117.mp3</html5media>
+| KAP8_118 || Kapitel || 8 ||  || 118 || 8.1.3 || <html5media>File:KAP8_118.mp3</html5media>
+| KAP8_119 || Kapitel || 8 ||  || 119 || 8.1.4 || <html5media>File:KAP8_119.mp3</html5media>
+| KAP8_119_2 || Kapitel || 8 || 2 || 119 || 8.1.4 || <html5media>File:KAP8_119_2.mp3</html5media>
+| KAP8_120 || Kapitel || 8 ||  || 120 || 8.1.6 || <html5media>File:KAP8_120.mp3</html5media>
+| KAP8_120_2 || Kapitel || 8 || 2 || 120 || 8.1.6 || <html5media>File:KAP8_120_2.mp3</html5media>
+| KAP8_122 || Kapitel || 8 ||  || 122 || 8.1.8 || <html5media>File:KAP8_122.mp3</html5media>
+| KAP8_122_2 || Kapitel || 8 || 2 || 122 || 8.1.8 || <html5media>File:KAP8_122_2.mp3</html5media>
+| KAP8_122_3 || Kapitel || 8 || 3 || 122 || 8.1.8 || <html5media>File:KAP8_122_3.mp3</html5media>
+| KAP8_123 || Kapitel || 8 ||  || 123 || 8.1.8 || <html5media>File:KAP8_123.mp3</html5media>
+| KAP8_123_2 || Kapitel || 8 || 2 || 123 || 8.1.8 || <html5media>File:KAP8_123_2.mp3</html5media>
+| KAP8_125 || Kapitel || 8 ||  || 125 || 8.2.2 || <html5media>File:KAP8_125.mp3</html5media>
+| KAP9_127 || Kapitel || 9 ||  || 127 || 9 || <html5media>File:KAP9_127.mp3</html5media>
+| KAP9_127_2 || Kapitel || 9 || 2 || 127 || 9 || <html5media>File:KAP9_127_2.mp3</html5media>
+| KAP9_128 || Kapitel || 9 ||  || 128 || 9.1.1 || <html5media>File:KAP9_128.mp3</html5media>
+| KAP9_129 || Kapitel || 9 ||  || 129 || 9.1.2 || <html5media>File:KAP9_129.mp3</html5media>
+| KAP9_129_2 || Kapitel || 9 || 2 || 129 || 9.1.2 || <html5media>File:KAP9_129_2.mp3</html5media>
+| KAP9_130 || Kapitel || 9 ||  || 130 || 9.1.4 || <html5media>File:KAP9_130.mp3</html5media>
+| KAP9_130_2 || Kapitel || 9 || 2 || 130 || 9.1.4 || <html5media>File:KAP9_130_2.mp3</html5media>
+| KAP9_131 || Kapitel || 9 ||  || 131 || 9.2 || <html5media>File:KAP9_131.mp3</html5media>
+| KAP9_131_2 || Kapitel || 9 || 2 || 131 || 9.2 || <html5media>File:KAP9_131_2.mp3</html5media>
+| KAP9_132 || Kapitel || 9 ||  || 132 || 9.2 || <html5media>File:KAP9_132.mp3</html5media>
+| KAP9_134 || Kapitel || 9 ||  || 134 || 9.2 || <html5media>File:KAP9_134.mp3</html5media>
+| KAP10_136 || Kapitel || 10 ||  || 136 || 10 || <html5media>File:KAP10_136.mp3</html5media>
+| kap10_136_2 || Kapitel || 10 || 2 || 136 || 10 || <html5media>File:kap10_136_2.mp3</html5media>
+| KAP10_137 || Kapitel || 10 ||  || 137 || 10.1.1 || <html5media>File:KAP10_137.mp3</html5media>
+| KAP10_138 || Kapitel || 10 ||  || 138 || 10.1.2 || <html5media>File:KAP10_138.mp3</html5media>
+| KAP10_139 || Kapitel || 10 ||  || 139 || 10.1.3 || <html5media>File:KAP10_139.mp3</html5media>
+| KAP10_139_2 || Kapitel || 10 || 2 || 139 || 10.1.3 || <html5media>File:KAP10_139_2.mp3</html5media>
+| KAP10_140 || Kapitel || 10 ||  || 140 || 10.2 || <html5media>File:KAP10_140.mp3</html5media>
+| KAP10_140_2 || Kapitel || 10 || 2 || 140 || 10.2 || <html5media>File:KAP10_140_2.mp3</html5media>
+| KAP10_140_3 || Kapitel || 10 || 3 || 140 || 10.2 || <html5media>File:KAP10_140_3.mp3</html5media>
+| KAP10_141 || Kapitel || 10 ||  || 141 || 10.2.3 || <html5media>File:KAP10_141.mp3</html5media>
+| KAP10_141_2 || Kapitel || 10 || 2 || 141 || 10.2.3 || <html5media>File:KAP10_141_2.mp3</html5media>
+| KAP10_142 || Kapitel || 10 ||  || 142 || 10.2.5 || <html5media>File:KAP10_142.mp3</html5media>
+| KAP10_145 || Kapitel || 10 ||  || 145 || 10.2.7 || <html5media>File:KAP10_145.mp3</html5media>
+| KAP10_147 || Kapitel || 10 ||  || 147 || 10.2.8 || <html5media>File:KAP10_147.mp3</html5media>
+| KAP10_148 || Kapitel || 10 ||  || 148 || 10.2.9 || <html5media>File:KAP10_148.mp3</html5media>
+| KAP10_148_2 || Kapitel || 10 || 2 || 148 || 10.2.9 || <html5media>File:KAP10_148_2.mp3</html5media>
+| KAP10_151 || Kapitel || 10 ||  || 151 || 10.2.11 || <html5media>File:KAP10_151.mp3</html5media>
+| KAP10_152 || Kapitel || 10 ||  || 152 || 10.2.12 || <html5media>File:KAP10_152.mp3</html5media>
+| KAP10_153 || Kapitel || 10 ||  || 153 || 10.2.13 || <html5media>File:KAP10_153.mp3</html5media>
+| KAP11_154 || Kapitel || 11 ||  || 154 || 11 || <html5media>File:KAP11_154.mp3</html5media>
+| KAP11_154_2 || Kapitel || 11 || 2 || 154 || 11 || <html5media>File:KAP11_154_2.mp3</html5media>
+| KAP11_155 || Kapitel || 11 ||  || 155 || 11.1.1 || <html5media>File:KAP11_155.mp3</html5media>
+| KAP11_156 || Kapitel || 11 ||  || 156 || 11.1.2 || <html5media>File:KAP11_156.mp3</html5media>
+| KAP11_156_2 || Kapitel || 11 || 2 || 156 || 11.1.2 || <html5media>File:KAP11_156_2.mp3</html5media>
+| KAP11_158 || Kapitel || 11 ||  || 158 || 11.1.4 || <html5media>File:KAP11_158.mp3</html5media>
+| KAP11_159 || Kapitel || 11 ||  || 159 || 11.1.5 || <html5media>File:KAP11_159.mp3</html5media>
+| KAP11_160 || Kapitel || 11 ||  || 160 || 11.1.6 || <html5media>File:KAP11_160.mp3</html5media>
+| KAP11_160_2 || Kapitel || 11 || 2 || 160 || 11.1.6 || <html5media>File:KAP11_160_2.mp3</html5media>
+| KAP11_161 || Kapitel || 11 ||  || 161 || 11.1.8 || <html5media>File:KAP11_161.mp3</html5media>
+| KAP11_161_2 || Kapitel || 11 || 2 || 161 || 11.1.8 || <html5media>File:KAP11_161_2.mp3</html5media>
+| KAP11_161_3 || Kapitel || 11 || 3 || 161 || 11.1.8 || <html5media>File:KAP11_161_3.mp3</html5media>
+| KAP11_162 || Kapitel || 11 ||  || 162 || 11.2 || <html5media>File:KAP11_162.mp3</html5media>
+| KAP11_162_2 || Kapitel || 11 || 2 || 162 || 11.2 || <html5media>File:KAP11_162_2.mp3</html5media>
+| KAP11_163 || Kapitel || 11 ||  || 163 || 11.2.2 || <html5media>File:KAP11_163.mp3</html5media>
+| KAP11_164 || Kapitel || 11 ||  || 164 || 11.2.3 || <html5media>File:KAP11_164.mp3</html5media>
+| KAP11_165 || Kapitel || 11 ||  || 165 || 11.2.4 || <html5media>File:KAP11_165.mp3</html5media>
+| KAP11_166 || Kapitel || 11 ||  || 166 || 11.2.5 || <html5media>File:KAP11_166.mp3</html5media>
+| KAP11_169 || Kapitel || 11 ||  || 169 || 11.2.6 || <html5media>File:KAP11_169.mp3</html5media>
+| KAP11_174 || Kapitel || 11 ||  || 174 || 11.2.7 || <html5media>File:KAP11_174.mp3</html5media>
+| KAP12_178 || Kapitel || 12 ||  || 178 || 12 || <html5media>File:KAP12_178.mp3</html5media>
+| KAP12_179 || Kapitel || 12 ||  || 179 || 12.1 || <html5media>File:KAP12_179.mp3</html5media>
+| KAP12_180 || Kapitel || 12 ||  || 180 || 12.1.1 || <html5media>File:KAP12_180.mp3</html5media>
+| KAP12_181 || Kapitel || 12 ||  || 181 || 12.1.2 || <html5media>File:KAP12_181.mp3</html5media>
+| KAP12_181_2 || Kapitel || 12 || 2 || 181 || 12.1.2 || <html5media>File:KAP12_181_2.mp3</html5media>
+| KAP12_182 || Kapitel || 12 ||  || 182 || 12.1.4 || <html5media>File:KAP12_182.mp3</html5media>
+| KAP12_182_2 || Kapitel || 12 || 2 || 182 || 12.1.4 || <html5media>File:KAP12_182_2.mp3</html5media>
+| KAP12_183 || Kapitel || 12 ||  || 183 || 12.2.1 || <html5media>File:KAP12_183.mp3</html5media>
+| KAP12_185 || Kapitel || 12 ||  || 185 || 12.2.2 || <html5media>File:KAP12_185.mp3</html5media>
+| KAP12_185_2 || Kapitel || 12 || 2 || 185 || 12.2.2 || <html5media>File:KAP12_185_2.mp3</html5media>
+| KAP13_187 || Kapitel || 13 ||  || 187 || 13 || <html5media>File:KAP13_187.mp3</html5media>
+| KAP13_187_2 || Kapitel || 13 || 2 || 187 || 13 || <html5media>File:KAP13_187_2.mp3</html5media>
+| KAP13_187_3 || Kapitel || 13 || 3 || 187 || 13 || <html5media>File:KAP13_187_3.mp3</html5media>
+| KAP13_188 || Kapitel || 13 ||  || 188 || 13.2.2 || <html5media>File:KAP13_188.mp3</html5media>
+| KAP13_188_2 || Kapitel || 13 || 2 || 188 || 13.2.2 || <html5media>File:KAP13_188_2.mp3</html5media>
+| KAP13_189 || Kapitel || 13 ||  || 189 || 13.3 || <html5media>File:KAP13_189.mp3</html5media>
+| KAP13_189_2 || Kapitel || 13 || 2 || 189 || 13.3 || <html5media>File:KAP13_189_2.mp3</html5media>
+| KAP13_189_3 || Kapitel || 13 || 3 || 189 || 13.3 || <html5media>File:KAP13_189_3.mp3</html5media>
+| KAP13_190 || Kapitel || 13 ||  || 190 || 13.4 || <html5media>File:KAP13_190.mp3</html5media>
+| KAP13_190_2 || Kapitel || 13 || 2 || 190 || 13.4 || <html5media>File:KAP13_190_2.mp3</html5media>
+| KAP13_190_3 || Kapitel || 13 || 3 || 190 || 13.4 || <html5media>File:KAP13_190_3.mp3</html5media>
+| KAP13_191 || Kapitel || 13 ||  || 191 || 13.5.3 || <html5media>File:KAP13_191.mp3</html5media>
+| KAP13_191_2 || Kapitel || 13 || 2 || 191 || 13.5.3 || <html5media>File:KAP13_191_2.mp3</html5media>
+| KAP13_191_3 || Kapitel || 13 || 3 || 191 || 13.5.3 || <html5media>File:KAP13_191_3.mp3</html5media>
+| KAP13_192 || Kapitel || 13 ||  || 192 || 13.6.1 || <html5media>File:KAP13_192.mp3</html5media>
+| KAP13_192_2 || Kapitel || 13 || 2 || 192 || 13.6.1 || <html5media>File:KAP13_192_2.mp3</html5media>
+| KAP14_194 || Kapitel || 14 ||  || 194 || 14 || <html5media>File:KAP14_194.mp3</html5media>
+| KAP14_194_2 || Kapitel || 14 || 2 || 194 || 14 || <html5media>File:KAP14_194_2.mp3</html5media>
+| KAP14_194_3 || Kapitel || 14 || 3 || 194 || 14 || <html5media>File:KAP14_194_3.mp3</html5media>
+| KAP14_195 || Kapitel || 14 ||  || 195 || 12.2.3 || <html5media>File:KAP14_195.mp3</html5media>
+| KAP14_195_2 || Kapitel || 14 || 2 || 195 || 12.2.3 || <html5media>File:KAP14_195_2.mp3</html5media>
+| KAP14_195_3 || Kapitel || 14 || 3 || 195 || 12.2.3 || <html5media>File:KAP14_195_3.mp3</html5media>
+| KAP14_196 || Kapitel || 14 ||  || 196 || 14.2.1 || <html5media>File:KAP14_196.mp3</html5media>
+| KAP15_201 || Kapitel || 15 ||  || 201 || 15 || <html5media>File:KAP15_201.mp3</html5media>
+| KAP15_201_2 || Kapitel || 15 || 2 || 201 || 15 || <html5media>File:KAP15_201_2.mp3</html5media>
+| KAP15_201_3 || Kapitel || 15 || 3 || 201 || 15 || <html5media>File:KAP15_201_3.mp3</html5media>
+| KAP15_202 || Kapitel || 15 ||  || 202 || 15.1.2 || <html5media>File:KAP15_202.mp3</html5media>
+| KAP15_202_2 || Kapitel || 15 || 2 || 202 || 15.1.2 || <html5media>File:KAP15_202_2.mp3</html5media>
+| KAP15_203 || Kapitel || 15 ||  || 203 || 15.1.4 || <html5media>File:KAP15_203.mp3</html5media>
+| KAP15_203_2 || Kapitel || 15 || 2 || 203 || 15.1.4 || <html5media>File:KAP15_203_2.mp3</html5media>
+| KAP15_203_3 || Kapitel || 15 || 3 || 203 || 15.1.4 || <html5media>File:KAP15_203_3.mp3</html5media>
+| KAP15_204 || Kapitel || 15 ||  || 204 || 15.2.2 || <html5media>File:KAP15_204.mp3</html5media>
+| BOKS-SIG || Bokse ||  ||  || 1 || 0 || <html5media>File:BOKS-SIG.mp3</html5media>
+| BOKS21 || Bokse ||  ||  || 21 || 1.3.3 || <html5media>File:BOKS21.mp3</html5media>
+| BOKS21B || Bokse ||  || B || 21 || 1.3.3 || <html5media>File:BOKS21B.mp3</html5media>
+| BOKS23 || Bokse ||  ||  || 23 || 1.4 || <html5media>File:BOKS23.mp3</html5media>
+| BOKS24 || Bokse ||  ||  || 24 || 1.4 || <html5media>File:BOKS24.mp3</html5media>
+| BOKS24B || Bokse ||  || B || 24 || 1.4 || <html5media>File:BOKS24B.mp3</html5media>
+| BOKS26 || Bokse ||  ||  || 26 || 2 || <html5media>File:BOKS26.mp3</html5media>
+| BOKS32 || Bokse ||  ||  || 32 || 3 || <html5media>File:BOKS32.mp3</html5media>
+| BOKS37 || Bokse ||  ||  || 37 || 3.1.7 || <html5media>File:BOKS37.mp3</html5media>
+| BOKS39 || Bokse ||  ||  || 39 || 3.1.8 || <html5media>File:BOKS39.mp3</html5media>
+| BOKS44 || Bokse ||  ||  || 44 || 3.2.1 || <html5media>File:BOKS44.mp3</html5media>
+| BOKS57 || Bokse ||  ||  || 57 || 4 || <html5media>File:BOKS57.mp3</html5media>
+| BOKS58 || Bokse ||  ||  || 58 || 4.1.2 || <html5media>File:BOKS58.mp3</html5media>
+| BOKS58B || Bokse ||  || B || 58 || 4.1.2 || <html5media>File:BOKS58B.mp3</html5media>
+| BOKS59 || Bokse ||  ||  || 59 || 4.1.3 || <html5media>File:BOKS59.mp3</html5media>
+| BOKS60 || Bokse ||  ||  || 60 || 4.1.4 || <html5media>File:BOKS60.mp3</html5media>
+| BOKS61 || Bokse ||  ||  || 61 || 4.2 || <html5media>File:BOKS61.mp3</html5media>
+| BOKS62 || Bokse ||  ||  || 62 || 4.2.1 || <html5media>File:BOKS62.mp3</html5media>
+| BOKS63A || Bokse ||  || A || 63 || 4.2.3 || <html5media>File:BOKS63A.mp3</html5media>
+| BOKS63B || Bokse ||  || B || 63 || 4.2.3 || <html5media>File:BOKS63B.mp3</html5media>
+| BOKS64 || Bokse ||  ||  || 64 || 4.2.4 || <html5media>File:BOKS64.mp3</html5media>
+| BOKS66A || Bokse ||  || A || 66 || 4.2.3 || <html5media>File:BOKS66A.mp3</html5media>
+| BOKS66B || Bokse ||  || B || 66 || 4.2.3 || <html5media>File:BOKS66B.mp3</html5media>
+| BOKS68 || Bokse ||  ||  || 68 || 5 || <html5media>File:BOKS68.mp3</html5media>
+| BOKS69 || Bokse ||  ||  || 69 || 5.1.1 || <html5media>File:BOKS69.mp3</html5media>
+| BOKS70A || Bokse ||  || A || 70 || 5.1.1 || <html5media>File:BOKS70A.mp3</html5media>
+| BOKS70B || Bokse ||  || B || 70 || 5.1.1 || <html5media>File:BOKS70B.mp3</html5media>
+| BOKS71 || Bokse ||  ||  || 71 || 5.1.1 || <html5media>File:BOKS71.mp3</html5media>
+| BOKS72 || Bokse ||  ||  || 72 || 5.1.4 || <html5media>File:BOKS72.mp3</html5media>
+| BOKS74 || Bokse ||  ||  || 74 || 5.2.1 || <html5media>File:BOKS74.mp3</html5media>
+| BOKS77 || Bokse ||  ||  || 77 || 5.2.2 || <html5media>File:BOKS77.mp3</html5media>
+| BOKS80A || Bokse ||  || A || 80 || 5.2.2 || <html5media>File:BOKS80A.mp3</html5media>
+| BOKS80B || Bokse ||  || B || 80 || 5.2.2 || <html5media>File:BOKS80B.mp3</html5media>
+| BOKS81 || Bokse ||  ||  || 81 || 5.2.2 || <html5media>File:BOKS81.mp3</html5media>
+| BOKS82 || Bokse ||  ||  || 82 || 5.2.2 || <html5media>File:BOKS82.mp3</html5media>
+| BOKS83 || Bokse ||  ||  || 83 || 6 || <html5media>File:BOKS83.mp3</html5media>
+| BOKS84 || Bokse ||  ||  || 84 || 6.1.1 || <html5media>File:BOKS84.mp3</html5media>
+| BOKS84B || Bokse ||  || B || 84 || 6.1.1 || <html5media>File:BOKS84B.mp3</html5media>
+| BOKS85 || Bokse ||  ||  || 85 || 6.1.2 || <html5media>File:BOKS85.mp3</html5media>
+| BOKS86 || Bokse ||  ||  || 86 || 6.1.4 || <html5media>File:BOKS86.mp3</html5media>
+| BOKS86B || Bokse ||  || B || 86 || 6.1.4 || <html5media>File:BOKS86B.mp3</html5media>
+| BOKS87 || Bokse ||  ||  || 87 || 6.1.5 || <html5media>File:BOKS87.mp3</html5media>
+| BOKS88 || Bokse ||  ||  || 88 || 6.1.5 || <html5media>File:BOKS88.mp3</html5media>
+| BOKS88B || Bokse ||  || B || 88 || 6.1.5 || <html5media>File:BOKS88B.mp3</html5media>
+| BOKS89 || Bokse ||  ||  || 89 || 6.2 || <html5media>File:BOKS89.mp3</html5media>
+| BOKS90 || Bokse ||  ||  || 90 || 6.2 || <html5media>File:BOKS90.mp3</html5media>
+| BOKS91 || Bokse ||  ||  || 91 || 6.2.1 || <html5media>File:BOKS91.mp3</html5media>
+| BOKS93 || Bokse ||  ||  || 93 || 6.2.2 || <html5media>File:BOKS93.mp3</html5media>
+| BOKS95 || Bokse ||  ||  || 95 || 6.2.4 || <html5media>File:BOKS95.mp3</html5media>
+| BOKS96 || Bokse ||  ||  || 96 || 6.2.4 || <html5media>File:BOKS96.mp3</html5media>
+| BOKS97 || Bokse ||  ||  || 97 || 7 || <html5media>File:BOKS97.mp3</html5media>
+| BOKS98 || Bokse ||  ||  || 98 || 7.1.1 || <html5media>File:BOKS98.mp3</html5media>
+| BOKS99 || Bokse ||  ||  || 99 || 7.1.3 || <html5media>File:BOKS99.mp3</html5media>
+| BOKS100 || Bokse ||  ||  || 100 || 7.1.3 || <html5media>File:BOKS100.mp3</html5media>
+| BOKS101 || Bokse ||  ||  || 101 || 7.1.5 || <html5media>File:BOKS101.mp3</html5media>
+| BOKS102A || Bokse ||  || A || 102 || 7.1.5 || <html5media>File:BOKS102A.mp3</html5media>
+| BOKS102B || Bokse ||  || B || 102 || 7.1.5 || <html5media>File:BOKS102B.mp3</html5media>
+| BOKS103 || Bokse ||  ||  || 103 || 7.1.6 || <html5media>File:BOKS103.mp3</html5media>
+| BOKS106 || Bokse ||  ||  || 106 || 7.2.2 || <html5media>File:BOKS106.mp3</html5media>
+| BOKS107 || Bokse ||  ||  || 107 || 7.2.2 || <html5media>File:BOKS107.mp3</html5media>
+| BOKS109 || Bokse ||  ||  || 109 || 7.2.2 || <html5media>File:BOKS109.mp3</html5media>
+| BOKS111 || Bokse ||  ||  || 111 || 7.2.2 || <html5media>File:BOKS111.mp3</html5media>
+| BOKS112 || Bokse ||  ||  || 112 || 7.2.3 || <html5media>File:BOKS112.mp3</html5media>
+| BOKS113 || Bokse ||  ||  || 113 || 7.2.4 || <html5media>File:BOKS113.mp3</html5media>
+| BOKS117 || Bokse ||  ||  || 117 || 8.1.2 || <html5media>File:BOKS117.mp3</html5media>
+| BOKS117B || Bokse ||  || B || 117 || 8.1.2 || <html5media>File:BOKS117B.mp3</html5media>
+| BOKS118 || Bokse ||  ||  || 118 || 8.1.3 || <html5media>File:BOKS118.mp3</html5media>
+| BOKS119 || Bokse ||  ||  || 119 || 8.1.4 || <html5media>File:BOKS119.mp3</html5media>
+| BOKS120 || Bokse ||  ||  || 120 || 8.1.6 || <html5media>File:BOKS120.mp3</html5media>
+| BOKS121A || Bokse ||  || A || 121 || 8.1.6 || <html5media>File:BOKS121A.mp3</html5media>
+| BOKS121B || Bokse ||  || B || 121 || 8.1.6 || <html5media>File:BOKS121B.mp3</html5media>
+| BOKS123 || Bokse ||  ||  || 123 || 8.1.8 || <html5media>File:BOKS123.mp3</html5media>
+| BOKS127 || Bokse ||  ||  || 127 || 9 || <html5media>File:BOKS127.mp3</html5media>
+| BOKS128A || Bokse ||  || A || 128 || 9.1.1 || <html5media>File:BOKS128A.mp3</html5media>
+| BOKS128B || Bokse ||  || B || 128 || 9.1.1 || <html5media>File:BOKS128B.mp3</html5media>
+| BOKS129 || Bokse ||  ||  || 129 || 9.1.2 || <html5media>File:BOKS129.mp3</html5media>
+| BOKS130A || Bokse ||  || A || 130 || 9.1.4 || <html5media>File:BOKS130A.mp3</html5media>
+| BOKS130B || Bokse ||  || B || 130 || 9.1.4 || <html5media>File:BOKS130B.mp3</html5media>
+| BOKS132 || Bokse ||  ||  || 132 || 9.2 || <html5media>File:BOKS132.mp3</html5media>
+| BOKS133 || Bokse ||  ||  || 133 || 9.2 || <html5media>File:BOKS133.mp3</html5media>
+| BOKS136 || Bokse ||  ||  || 136 || 10 || <html5media>File:BOKS136.mp3</html5media>
+| BOKS137 || Bokse ||  ||  || 137 || 10.1.1 || <html5media>File:BOKS137.mp3</html5media>
+| BOKS139 || Bokse ||  ||  || 139 || 10.1.3 || <html5media>File:BOKS139.mp3</html5media>
+| BOKS139B || Bokse ||  || B || 139 || 10.1.3 || <html5media>File:BOKS139B.mp3</html5media>
+| BOKS143 || Bokse ||  ||  || 143 || 10.2.5 || <html5media>File:BOKS143.mp3</html5media>
+| BOKS149 || Bokse ||  ||  || 149 || 10.2.9 || <html5media>File:BOKS149.mp3</html5media>
+| BOKS15 || Bokse ||  ||  || 15 || 1 || <html5media>File:BOKS15.mp3</html5media>
+| BOKS155 || Bokse ||  ||  || 155 || 11.1.1 || <html5media>File:BOKS155.mp3</html5media>
+| BOKS155B || Bokse ||  || B || 155 || 11.1.1 || <html5media>File:BOKS155B.mp3</html5media>
+| BOKS156 || Bokse ||  ||  || 156 || 11.1.2 || <html5media>File:BOKS156.mp3</html5media>
+| BOKS157 || Bokse ||  ||  || 157 || 11.1.2 || <html5media>File:BOKS157.mp3</html5media>
+| BOKS157B || Bokse ||  || B || 157 || 11.1.2 || <html5media>File:BOKS157B.mp3</html5media>
+| BOKS158 || Bokse ||  ||  || 158 || 11.1.4 || <html5media>File:BOKS158.mp3</html5media>
+| BOKS159 || Bokse ||  ||  || 159 || 11.1.5 || <html5media>File:BOKS159.mp3</html5media>
+| BOKS159B || Bokse ||  || B || 159 || 11.1.5 || <html5media>File:BOKS159B.mp3</html5media>
+| BOKS160A || Bokse ||  || A || 160 || 11.1.6 || <html5media>File:BOKS160A.mp3</html5media>
+| BOKS160B || Bokse ||  || B || 160 || 11.1.6 || <html5media>File:BOKS160B.mp3</html5media>
+| BOKS162 || Bokse ||  ||  || 162 || 11.2 || <html5media>File:BOKS162.mp3</html5media>
+| BOKS163 || Bokse ||  ||  || 163 || 11.2.2 || <html5media>File:BOKS163.mp3</html5media>
+| BOKS163B || Bokse ||  || B || 163 || 11.2.2 || <html5media>File:BOKS163B.mp3</html5media>
+| BOKS164 || Bokse ||  ||  || 164 || 11.2.3 || <html5media>File:BOKS164.mp3</html5media>
+| BOKS165 || Bokse ||  ||  || 165 || 11.2.4 || <html5media>File:BOKS165.mp3</html5media>
+| BOKS166 || Bokse ||  ||  || 166 || 11.2.5 || <html5media>File:BOKS166.mp3</html5media>
+| BOKS17 || Bokse ||  ||  || 17 || 1.2.2 || <html5media>File:BOKS17.mp3</html5media>
+| BOKS170 || Bokse ||  ||  || 170 || 11.2.6 || <html5media>File:BOKS170.mp3</html5media>
+| BOKS171 || Bokse ||  ||  || 171 || 11.2.6 || <html5media>File:BOKS171.mp3</html5media>
+| BOKS171B || Bokse ||  || B || 171 || 11.2.6 || <html5media>File:BOKS171B.mp3</html5media>
+| BOKS172 || Bokse ||  ||  || 172 || 11.2.6 || <html5media>File:BOKS172.mp3</html5media>
+| BOKS177 || Bokse ||  ||  || 177 || 11.2.7 || <html5media>File:BOKS177.mp3</html5media>
+| BOKS178 || Bokse ||  ||  || 178 || 12 || <html5media>File:BOKS178.mp3</html5media>
+| BOKS179A || Bokse ||  || A || 179 || 12.1 || <html5media>File:BOKS179A.mp3</html5media>
+| BOKS179B || Bokse ||  || B || 179 || 12.1 || <html5media>File:BOKS179B.mp3</html5media>
+| BOKS17B || Bokse ||  || B || 17 || 1.2.2 || <html5media>File:BOKS17B.mp3</html5media>
+| BOKS18 || Bokse ||  ||  || 18 || 1.2.3 || <html5media>File:BOKS18.mp3</html5media>
+| BOKS180 || Bokse ||  ||  || 180 || 12.1.1 || <html5media>File:BOKS180.mp3</html5media>
+| BOKS181 || Bokse ||  ||  || 181 || 12.1.2 || <html5media>File:BOKS181.mp3</html5media>
+| BOKS183 || Bokse ||  ||  || 183 || 12.2.1 || <html5media>File:BOKS183.mp3</html5media>
+| BOKS185 || Bokse ||  ||  || 185 || 12.2.2 || <html5media>File:BOKS185.mp3</html5media>
+| BOKS188 || Bokse ||  ||  || 188 || 13.2.2 || <html5media>File:BOKS188.mp3</html5media>
+| BOKS188B || Bokse ||  || B || 188 || 13.2.2 || <html5media>File:BOKS188B.mp3</html5media>
+| BOKS190 || Bokse ||  ||  || 190 || 13.4 || <html5media>File:BOKS190.mp3</html5media>
+| BOKS191 || Bokse ||  ||  || 191 || 13.5.3 || <html5media>File:BOKS191.mp3</html5media>
+| BOKS193 || Bokse ||  ||  || 193 || 13.6.1 || <html5media>File:BOKS193.mp3</html5media>
+| BOKS194 || Bokse ||  ||  || 194 || 14 || <html5media>File:BOKS194.mp3</html5media>
+| BOKS195 || Bokse ||  ||  || 195 || 12.2.3 || <html5media>File:BOKS195.mp3</html5media>
+| BOKS196A || Bokse ||  || A || 196 || 14.2.1 || <html5media>File:BOKS196A.mp3</html5media>
+| BOKS196B || Bokse ||  || B || 196 || 14.2.1 || <html5media>File:BOKS196B.mp3</html5media>
+| BOKS201 || Bokse ||  ||  || 201 || 15 || <html5media>File:BOKS201.mp3</html5media>
+| BOKS202 || Bokse ||  ||  || 202 || 15.1.2 || <html5media>File:BOKS202.mp3</html5media>
+| BOKS203 || Bokse ||  ||  || 203 || 15.1.4 || <html5media>File:BOKS203.mp3</html5media>
+| BOKS205 || Bokse ||  ||  || 205 || 15.2.2 || <html5media>File:BOKS205.mp3</html5media>
+| FIG4-1 || Figur || 4 || 1 || 65 || 4.2.3 || <html5media>File:FIG4-1.mp3</html5media>
+| FIG4-2 || Figur || 4 || 2 || 65 || 4.2.3 || <html5media>File:FIG4-2.mp3</html5media>
+| FIG5-1 || Figur || 5 || 1 || 70 || 5.1.1 || <html5media>File:FIG5-1.mp3</html5media>
+| FIG5-2 || Figur || 5 || 2 || 75 || 5.2.2 || <html5media>File:FIG5-2.mp3</html5media>
+| FIG5-3 || Figur || 5 || 3 || 75 || 5.2.2 || <html5media>File:FIG5-3.mp3</html5media>
+| FIG5-4 || Figur || 5 || 4 || 76 || 5.2.2 || <html5media>File:FIG5-4.mp3</html5media>
+| FIG5-5 || Figur || 5 || 5 || 77 || 5.2.2 || <html5media>File:FIG5-5.mp3</html5media>
+| FIG5-6 || Figur || 5 || 6 || 79 || 5.2.2 || <html5media>File:FIG5-6.mp3</html5media>
+| FIG5-7 || Figur || 5 || 7 || 79 || 5.2.2 || <html5media>File:FIG5-7.mp3</html5media>
+| FIG6-1 || Figur || 6 || 1 || 92 || 6.2.2 || <html5media>File:FIG6-1.mp3</html5media>
+| FIG6-2 || Figur || 6 || 2 || 93 || 6.2.2 || <html5media>File:FIG6-2.mp3</html5media>
+| FIG6-3 || Figur || 6 || 3 || 93 || 6.2.2 || <html5media>File:FIG6-3.mp3</html5media>
+| FIG6-4 || Figur || 6 || 4 || 94 || 6.2.4 || <html5media>File:FIG6-4.mp3</html5media>
+| FIG7-1 || Figur || 7 || 1 || 100 || 7.1.3 || <html5media>File:FIG7-1.mp3</html5media>
+| FIG7-2 || Figur || 7 || 2 || 104 || 7.2.1 || <html5media>File:FIG7-2.mp3</html5media>
+| FIG7-3 || Figur || 7 || 3 || 105 || 7.2.2 || <html5media>File:FIG7-3.mp3</html5media>
+| FIG7-4 || Figur || 7 || 4 || 106 || 7.2.2 || <html5media>File:FIG7-4.mp3</html5media>
+| FIG7-5 || Figur || 7 || 5 || 107 || 7.2.2 || <html5media>File:FIG7-5.mp3</html5media>
+| FIG7-6 || Figur || 7 || 6 || 108 || 7.2.2 || <html5media>File:FIG7-6.mp3</html5media>
+| FIG7-7 || Figur || 7 || 7 || 110 || 7.2.2 || <html5media>File:FIG7-7.mp3</html5media>
+| FIG7-8 || Figur || 7 || 8 || 115 || 7.2.4 || <html5media>File:FIG7-8.mp3</html5media>
+| FIG8-1 || Figur || 8 || 1 || 118 || 8.1.3 || <html5media>File:FIG8-1.mp3</html5media>
+| FIG8-2 || Figur || 8 || 2 || 124 || 8.1.8 || <html5media>File:FIG8-2.mp3</html5media>
+| FIG8-3 || Figur || 8 || 3 || 125 || 8.2.2 || <html5media>File:FIG8-3.mp3</html5media>
+| FIG8-4 || Figur || 8 || 4 || 126 || 8.2.2 || <html5media>File:FIG8-4.mp3</html5media>
+| FIG8-5 || Figur || 8 || 5 || 126 || 8.2.2 || <html5media>File:FIG8-5.mp3</html5media>
+| FIG9-1 || Figur || 9 || 1 || 131 || 9.2 || <html5media>File:FIG9-1.mp3</html5media>
+| FIG9-2 || Figur || 9 || 2 || 133 || 9.2 || <html5media>File:FIG9-2.mp3</html5media>
+| FIG9-3 || Figur || 9 || 3 || 133 || 9.2 || <html5media>File:FIG9-3.mp3</html5media>
+| FIG9-4 || Figur || 9 || 4 || 134 || 9.2 || <html5media>File:FIG9-4.mp3</html5media>
+| FIG9-5 || Figur || 9 || 5 || 135 || 9.2 || <html5media>File:FIG9-5.mp3</html5media>
+| FIG9-6 || Figur || 9 || 6 || 135 || 9.2 || <html5media>File:FIG9-6.mp3</html5media>
+| FIG10-1 || Figur || 10 || 1 || 142 || 10.2.5 || <html5media>File:FIG10-1.mp3</html5media>
+| FIG10-2 || Figur || 10 || 2 || 142 || 10.2.5 || <html5media>File:FIG10-2.mp3</html5media>
+| FIG10-3 || Figur || 10 || 3 || 143 || 10.2.5 || <html5media>File:FIG10-3.mp3</html5media>
+| FIG10-4 || Figur || 10 || 4 || 144 || 10.2.5 || <html5media>File:FIG10-4.mp3</html5media>
+| FIG10-5 || Figur || 10 || 5 || 145 || 10.2.7 || <html5media>File:FIG10-5.mp3</html5media>
+| FIG10-6 || Figur || 10 || 6 || 146 || 10.2.7 || <html5media>File:FIG10-6.mp3</html5media>
+| FIG10-7 || Figur || 10 || 7 || 147 || 10.2.8 || <html5media>File:FIG10-7.mp3</html5media>
+| FIG10-8 || Figur || 10 || 8 || 147 || 10.2.8 || <html5media>File:FIG10-8.mp3</html5media>
+| FIG10-9 || Figur || 10 || 9 || 148 || 10.2.9 || <html5media>File:FIG10-9.mp3</html5media>
+| FIG10-10 || Figur || 10 || 10 || 148 || 10.2.9 || <html5media>File:FIG10-10.mp3</html5media>
+| FIG10-11 || Figur || 10 || 11 || 149 || 10.2.9 || <html5media>File:FIG10-11.mp3</html5media>
+| FIG10-12 || Figur || 10 || 12 || 150 || 10.2.9 || <html5media>File:FIG10-12.mp3</html5media>
+| FIG10-13 || Figur || 10 || 13 || 150 || 10.2.9 || <html5media>File:FIG10-13.mp3</html5media>
+| FIG10-14 || Figur || 10 || 14 || 150 || 10.2.9 || <html5media>File:FIG10-14.mp3</html5media>
+| FIG10-15 || Figur || 10 || 15 || 150 || 10.2.9 || <html5media>File:FIG10-15.mp3</html5media>
+| FIG10-16 || Figur || 10 || 16 || 151 || 10.2.11 || <html5media>File:FIG10-16.mp3</html5media>
+| FIG10-17 || Figur || 10 || 17 || 152 || 10.2.12 || <html5media>File:FIG10-17.mp3</html5media>
+| FIG10-18 || Figur || 10 || 18 || 152 || 10.2.12 || <html5media>File:FIG10-18.mp3</html5media>
+| FIG10-19 || Figur || 10 || 19 || 152 || 10.2.12 || <html5media>File:FIG10-19.mp3</html5media>
+| FIG10-20 || Figur || 10 || 20 || 153 || 10.2.13 || <html5media>File:FIG10-20.mp3</html5media>
+| FIG11-1 || Figur || 11 || 1 || 165 || 11.2.4 || <html5media>File:FIG11-1.mp3</html5media>
+| FIG11-2 || Figur || 11 || 2 || 167 || 11.2.5 || <html5media>File:FIG11-2.mp3</html5media>
+| FIG11-3 || Figur || 11 || 3 || 167 || 11.2.5 || <html5media>File:FIG11-3.mp3</html5media>
+| FIG11-4 || Figur || 11 || 4 || 168 || 11.2.5 || <html5media>File:FIG11-4.mp3</html5media>
+| FIG11-5 || Figur || 11 || 5 || 170 || 11.2.6 || <html5media>File:FIG11-5.mp3</html5media>
+| FIG11-6 || Figur || 11 || 6 || 171 || 11.2.6 || <html5media>File:FIG11-6.mp3</html5media>
+| FIG11-7 || Figur || 11 || 7 || 172 || 11.2.6 || <html5media>File:FIG11-7.mp3</html5media>
+| FIG11-8 || Figur || 11 || 8 || 173 || 11.2.6 || <html5media>File:FIG11-8.mp3</html5media>
+| FIG11-9 || Figur || 11 || 9 || 173 || 11.2.6 || <html5media>File:FIG11-9.mp3</html5media>
+| FIG11-10 || Figur || 11 || 10 || 173 || 11.2.6 || <html5media>File:FIG11-10.mp3</html5media>
+| FIG11-11 || Figur || 11 || 11 || 174 || 11.2.7 || <html5media>File:FIG11-11.mp3</html5media>
+| FIG11-12 || Figur || 11 || 12 || 174 || 11.2.7 || <html5media>File:FIG11-12.mp3</html5media>
+| FIG11-13 || Figur || 11 || 13 || 175 || 11.2.7 || <html5media>File:FIG11-13.mp3</html5media>
+| FIG11-15 || Figur || 11 || 15 || 176 || 11.2.7 || <html5media>File:FIG11-15.mp3</html5media>
+| FIG12-1 || Figur || 12 || 1 || 184 || 12.2.1 || <html5media>File:FIG12-1.mp3</html5media>
+| FIG12-2 || Figur || 12 || 2 || 185 || 12.2.2 || <html5media>File:FIG12-2.mp3</html5media>
+| FIG12-3 || Figur || 12 || 3 || 186 || 12.2.2 || <html5media>File:FIG12-3.mp3</html5media>
+| FIG13-1 || Figur || 13 || 1 || 189 || 13.3 || <html5media>File:FIG13-1.mp3</html5media>
+| FIG13-2 || Figur || 13 || 2 || 192 || 13.6.1 || <html5media>File:FIG13-2.mp3</html5media>
+| FIG13-3 || Figur || 13 || 3 || 192 || 13.6.1 || <html5media>File:FIG13-3.mp3</html5media>
+| FIG13-4 || Figur || 13 || 4 || 193 || 13.6.1 || <html5media>File:FIG13-4.mp3</html5media>
+| FIG14-1 || Figur || 14 || 1 || 197 || 14.2.1 || <html5media>File:FIG14-1.mp3</html5media>
+| FIG14-2 || Figur || 14 || 2 || 198 || 14.2.1 || <html5media>File:FIG14-2.mp3</html5media>
+| FIG14-3 || Figur || 14 || 3 || 199 || 14.2.1 || <html5media>File:FIG14-3.mp3</html5media>
+| FIG14-4 || Figur || 14 || 4 || 200 || 14.2.1 || <html5media>File:FIG14-4.mp3</html5media>
+| FIG14-5 || Figur || 14 || 5 || 200 || 14.2.1 || <html5media>File:FIG14-5.mp3</html5media>
+| FIG15-1 || Figur || 15 || 1 || 204 || 15.2.2 || <html5media>File:FIG15-1.mp3</html5media>
+| FIG15-2 || Figur || 15 || 2 || 204 || 15.2.2 || <html5media>File:FIG15-2.mp3</html5media>
+| FIG15-3 || Figur || 15 || 3 || 205 || 15.2.2 || <html5media>File:FIG15-3.mp3</html5media>
+| STIK-A || Stikordsregister ||  || A || 207 || 16 || <html5media>File:STIK-A.mp3</html5media>
+| STIK-AA || Stikordsregister ||  || AA || 216 || 16 || <html5media>File:STIK-AA.mp3</html5media>
+| STIK-B || Stikordsregister ||  || B || 207 || 16 || <html5media>File:STIK-B.mp3</html5media>
+| STIK-C || Stikordsregister ||  || C || 208 || 16 || <html5media>File:STIK-C.mp3</html5media>
+| STIK-D || Stikordsregister ||  || D || 208 || 16 || <html5media>File:STIK-D.mp3</html5media>
+| STIK-E || Stikordsregister ||  || E || 209 || 16 || <html5media>File:STIK-E.mp3</html5media>
+| STIK-F || Stikordsregister ||  || F || 209 || 16 || <html5media>File:STIK-F.mp3</html5media>
+| STIK-G || Stikordsregister ||  || G || 209 || 16 || <html5media>File:STIK-G.mp3</html5media>
+| STIK-H || Stikordsregister ||  || H || 210 || 16 || <html5media>File:STIK-H.mp3</html5media>
+| STIK-I || Stikordsregister ||  || I || 210 || 16 || <html5media>File:STIK-I.mp3</html5media>
+| STIK-J || Stikordsregister ||  || J || 211 || 16 || <html5media>File:STIK-J.mp3</html5media>
+| STIK-K || Stikordsregister ||  || K || 211 || 16 || <html5media>File:STIK-K.mp3</html5media>
+| STIK-L || Stikordsregister ||  || L || 211 || 16 || <html5media>File:STIK-L.mp3</html5media>
+| STIK-M || Stikordsregister ||  || M || 211 || 16 || <html5media>File:STIK-M.mp3</html5media>
+| STIK-N || Stikordsregister ||  || N || 212 || 16 || <html5media>File:STIK-N.mp3</html5media>
+| STIK-O || Stikordsregister ||  || O || 212 || 16 || <html5media>File:STIK-O.mp3</html5media>
+| STIK-OE || Stikordsregister ||  || OE || 216 || 16 || <html5media>File:STIK-OE.mp3</html5media>
+| STIK-P || Stikordsregister ||  || P || 213 || 16 || <html5media>File:STIK-P.mp3</html5media>
+| STIK-R || Stikordsregister ||  || R || 213 || 16 || <html5media>File:STIK-R.mp3</html5media>
+| STIK-S || Stikordsregister ||  || S || 214 || 16 || <html5media>File:STIK-S.mp3</html5media>
+| STIK-T || Stikordsregister ||  || T || 215 || 16 || <html5media>File:STIK-T.mp3</html5media>
+| STIK-U || Stikordsregister ||  || U || 215 || 16 || <html5media>File:STIK-U.mp3</html5media>
+| STIK-V || Stikordsregister ||  || V || 216 || 16 || <html5media>File:STIK-V.mp3</html5media>
