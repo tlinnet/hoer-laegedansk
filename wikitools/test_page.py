@@ -17,8 +17,8 @@ wpages = [
     #"Forside",
     #"0_Forord",
     #"1_Mødet_mellem_læge_og_patient",
-    "2_Sygehusjournalen",
-    #"3_Indlæggelsesnotatet"
+    #"2_Sygehusjournalen",
+    "3_Indlæggelsesnotatet"
 ]
 
 # loop over pages
