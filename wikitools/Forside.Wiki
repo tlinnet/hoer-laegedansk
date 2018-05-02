@@ -16,6 +16,7 @@ __TOC__
 * [[1_Mødet_mellem_læge_og_patient|1 Mødet mellem læge og patient]]
 * [[2_Sygehusjournalen|2 Sygehusjournalen]]
 * [[3_Indlæggelsesnotatet|3 Indlæggelsesnotatet]]
+* [[4_Almene_symptomer_og_fund|4 Almene symptomer og fund]]
 * [[16_Stikordsregister|16 Stikordsregister]]
 
 = Udgivelses information =

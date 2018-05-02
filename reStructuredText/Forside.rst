@@ -23,6 +23,7 @@ Kapitler
 * `1 Mødet mellem læge og patient <1_Mødet_mellem_læge_og_patient.rst#>`__
 * `2 Sygehusjournalen <2_Sygehusjournalen.rst#>`__
 * `3 Indlæggelsesnotatet <3_Indlæggelsesnotatet.rst#>`__
+* `4 Almene symptomer og fund <4_Almene_symptomer_og_fund.rst#>`__
 * `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
 Udgivelses information
