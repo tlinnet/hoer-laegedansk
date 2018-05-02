@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP4_57.mp3</html5media>
+
 * Ved akut indlagte patienter fokuserer man naturligt sin udspørgen
   og sin objektive undersøgelse på det problem, der er årsagen til, at
   patienten blev indlagt. Samtidig skal man altid foretage en vurdering
@@ -18,15 +20,19 @@ Almene symptomer
 ================
 
 **Almene symptomer**
-
+
+<html5media>File:BOKS57.mp3</html5media>
+
 * Feber
-* Træthed
-* Appetitløshed
-* Vægttab
-* Angst
+* Træthed
+* Appetitløshed
+* Vægttab
+* Angst
 
 Feber
 -----
+
+<html5media>File:KAP4_57_2.mp3</html5media>
 
 Feber er både et subjektivt symptom og et objektivt fund og defineres
 som en forhøjelse af legemstemperaturen (morgentemperatur > 37°C
@@ -40,6 +46,8 @@ tromboflebit, DVT*). Der skal ofte kun enkle spørgsmål og undersøgelsesmetode
 til at afsløre årsagen til patientens feber.
 
 **Feber**
+
+<html5media>File:BOKS58.mp3</html5media>
 
 * Er den konstant, eller veksler det med perioder, hvor du
   ikke har feber?
@@ -60,11 +68,15 @@ NSAID eller steroider. Det kan også skyldes forkert temperaturmåling
 Træthed og svimmelhed
 ---------------------
 
+<html5media>File:KAP4_58.mp3</html5media>
+
 De fleste mennesker oplever træthed, hvis de har fået for lidt nattesøvn,
 eller når vinteren har været mørk og lang. Ved anamneseoptagelsen skal
 man forsøge at skelne den almindelige, fysiologiske træthed – der kan
 
 **Årsager til patologisk træthed**
+
+<html5media>File:BOKS58B.mp3</html5media>
 
 * Anæmi
 * Cancer
@@ -80,6 +92,8 @@ uspecifikke symptomer:
 
 | **»Svimmelhed«** 
 | *– dækker måske over noget andet end vertigo:*
+
+<html5media>File:BOKS59.mp3</html5media>
 
 * Dårlig gangfunktion
 * Træthed
@@ -107,6 +121,8 @@ stær? bruger stok?).
 Appetitløshed
 -------------
 
+<html5media>File:KAP4_59.mp3</html5media>
+
 Appetitløshed er manglende lyst til mad (madlede) og derfor ikke det
 samme som kvalme (se kapitel 7), hvor patienten måske nok er sulten og
 har lyst til mad, men undlader fødeindtagelse fordi det giver ubehag.
@@ -118,10 +134,14 @@ kræft, leversygdom, nyresvigt, aids og depression.
 Vægttab
 -------
 
+<html5media>File:KAP4_60.mp3</html5media>
+
 Et uønsket vægttab er tegn på alvorlig sygdom. Med sine uddybende
 spørgsmål forsøger man at kvantificere vægttabet og identificere årsagen.
 
 **Vægttab**
+
+<html5media>File:BOKS60.mp3</html5media>
 
 * Hvad plejer du at veje?
 * Er tøjet »blevet for stort«?
@@ -138,6 +158,8 @@ et betydeligt vægttab, men fornægter dette – tænk på *anorexia nervosa*
 
 Angst
 -----
+
+<html5media>File:KAP4_60_2.mp3</html5media>
 
 De fleste mennesker, der bliver indlagt akut på et sygehus, er bange for,
 at der er noget alvorligt galt, og de er usikre på, hvad der skal ske på
@@ -156,6 +178,8 @@ spørgeteknik, der er beskrevet i kapitel 1.
 
 **Angst**
 
+<html5media>File:BOKS61.mp3</html5media>
+
 * Er du bange?
 * ➝ Hvad er du bange for?
 * ➝ Er du bange for, det er noget alvorligt?
@@ -164,6 +188,8 @@ spørgeteknik, der er beskrevet i kapitel 1.
 
 Objektiv undersøgelse	
 =====================
+
+<html5media>File:KAP4_61.mp3</html5media>
 
 Den objektive undersøgelse indledes i samme øjeblik, du eller patienten
 træder ind i lokalet: *Hvordan går patienten? Hvordan trækker han vejret?
@@ -190,6 +216,8 @@ information hos en akut syg patient.
 Almentilstand
 -------------
 
+<html5media>File:KAP4_62.mp3</html5media>
+
 Ved mødet med patienten vil man straks lave et hurtigt skøn over patientens
 almene helbredstilstand: *Ser patienten overhovedet syg ud?* Vær
 meget opmærksom på, hvad der er sket, *før* du ser patienten: En relativt
@@ -198,6 +226,8 @@ rask patient kan hurtigt – og i den bedste mening – være blevet »sygeliggj
 saturationsmåler påsat.
 
 **Almentilstand**
+
+<html5media>File:BOKS62.mp3</html5media>
 
 * Er pt. vågen? *Eller kan han vækkes?*
 * Er han klar? *Eller er hans sensorium sløret?*
@@ -217,6 +247,8 @@ præget af usle sociale forhold med dårlig hygiejne, fejlernæring osv.
 Ernæringstilstand
 -----------------
 
+<html5media>File:KAP4_62_2.mp3</html5media>
+
 Patientens ernæringstilstand er ikke blot et spørgsmål om, hvorvidt patienten
 er for tyk eller for tynd. Ved en mere nuanceret vurdering kan
 man danne sig et klinisk skøn over, om der er tale om fejlernæring med
@@ -224,6 +256,8 @@ fedt (fedme = *adipositas*), proteinmangel (muskelatrofi, ascites, ødemer)
 eller vitaminmangel (glossit, stomatit).
 
 **Ernæringstilstand**
+
+<html5media>File:BOKS63A.mp3</html5media>
 
 * Fedme (adipositas)?
 * Muskelatrofi?
@@ -235,6 +269,8 @@ Den kliniske vurdering suppleres med en præcis angivelse af højde og
 vægt i primær journalen.
 
 **Body mass index (BMI)**
+
+<html5media>File:BOKS63B.mp3</html5media>
 
 Kender man patientens højde og vægt, kan man beregne, om han er normalvægtig:
 
@@ -253,6 +289,8 @@ Kender man patientens højde og vægt, kan man beregne, om han er normalvægtig:
 Farve
 -----
 
+<html5media>File:KAP4_63.mp3</html5media>
+
 Den universelle misfarvning, der udvikler sig gradvist, bemærkes ofte
 ikke af patienten selv. Det er ikke ualmindeligt, at en patient med gulsot
 (*icterus*) ikke selv har set, at hun er blevet citrongul! Spørg de pårørende,
@@ -268,6 +306,8 @@ Hos en patient med mørk hud ser man bedst icterus i sclerae,
 anæmi i conjunctivae og cyanose på læber og håndflader.
 
 **Universelle misfarvninger**
+
+<html5media>File:BOKS64.mp3</html5media>
 
 =============  =====   ===================   =====================
 Betegnelse     Farve   Årsag                 Eksempel
@@ -285,6 +325,8 @@ Betegnelse     Farve   Årsag                 Eksempel
 Perifer cirkulation
 -------------------
 
+<html5media>File:KAP4_64.mp3</html5media>
+
 Den akut svært syge patient kan være *bleg og klamtsvedende* som udtryk
 for perifer vasokonstriktion og øget svedsekretion pga. hyperaktivering
 af *sympatikus.* Ved andre tilstande kan patienten være *rødblussende* som
@@ -296,6 +338,8 @@ hvor man finder en pulsløs eller hævet fod (se kapitel 12).
 Hydrering
 ---------
 
+<html5media>File:KAP4_64_2.mp3</html5media>
+
 Er patienten *dehydreret*, findes nedsat hudturgor (se Fig. 4.1), indfaldne
 (*halonerede*) øjne og tørre slimhinder. Er patienten *overhydreret*, ses ødemer
 og lungestase (se kapitel 5).
@@ -303,10 +347,14 @@ og lungestase (se kapitel 5).
 Respiration
 -----------
 
+<html5media>File:KAP4_64_3.mp3</html5media>
+
 En vurdering af respirationen hører med til en vurdering af patientens
 almene helbredstilstand. Er respirationen normal, anstrengt/besværet, er
 patienten hyperventilerende? *Respirationsfrekvensen* kan tælles over et
 minut (normal i hvile: 12-16 × min–1). Se i øvrigt kapitel 6.
+
+<html5media>File:FIG4-1.mp3</html5media>
 
 **Fig. 4.1** *Turgor er hudens normale, elastiske konsistens.
 Man kniber i huden på håndryg, underarm eller thorax’
@@ -319,11 +367,15 @@ mennesker pga. en nedsat mængde elastisk bindevæv.*
 Lymfeknuder
 -----------
 
+<html5media>File:KAP4_65.mp3</html5media>
+
 Lymfeknuderne undersøges på vide indikationer, f.eks. ved mistanke om
 kræftsygdom eller feber af ukendt årsag. Lymfeknuderne er kun tilgængelige
 for palpation få steder på kroppen (se Fig. 4.2).Man palperer med
 sine fingerspidser i regionerne; de normale lymfeknuder er ikke palpable.
 Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
+
+<html5media>File:FIG4-2.mp3</html5media>
 
 **Fig. 4.2** *De overfladiske lymfeglandler er tilgængelige
 for palpation på halsen (submandibulært,
@@ -333,6 +385,8 @@ lateralt for m. sternocleidomastoideus), i
 aksillen og i lyskerne.*
 
 **Lymfadenopati**
+
+<html5media>File:BOKS66A.mp3</html5media>
 
 * Størrelse?
 * Antal?
@@ -353,6 +407,8 @@ beskrives i journalen.
 
 **Årsager til universel lymfadenopati**
 
+<html5media>File:BOKS66B.mp3</html5media>
+
 * Leukæmi og lymfom
 * HIV
 * Mononukleose
@@ -364,6 +420,8 @@ beskrives i journalen.
 
 Asymmetrier og dysproportioner
 ------------------------------
+
+<html5media>File:KAP4_67.mp3</html5media>
 
 Menneskekroppen findes i et utal af variationer, men er i grove træk
 symmetrisk med en proportionering af truncus, ekstremiteter og caput,
