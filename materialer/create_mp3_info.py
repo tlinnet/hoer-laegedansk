@@ -1,3 +1,5 @@
+import pandas as pd
+
 wfiles_all = [
         "FORORD",
         "INTRO_DK",
@@ -458,13 +460,38 @@ wfiles_all = [
         "STIK-U",
         "STIK-V",]
 
+coll = []
 for i, w in enumerate(wfiles_all):
+    w_b = w
+    w_r = ""
     page = ""
     nr = ""
     kap = ""
 
+    w4 = w[:4]
+    w3 = w[:3]
+    
+    type = ""
+    fil = w + ".mp3"
 
-    if w[:4] == "BOKS":
+    if w3 != "KAP" and w3 != "kap" and w4 != "BOKS" and w3 != "FIG" and w4 != "STIK":
+        type = "Forord"
+        #print(w, type, w_r)        
+
+    elif w3 == "KAP" or w3 == "kap":
+        type = "Kapitel"
+        w_b = w3
+        w_r = w[3:]
+        s = w_r.split("_")
+        kap = s[0]
+        page = s[1]
+        if len(s) > 2:
+            nr = s[2]
+        #print(w, type, w_r, kap, page, nr)
+
+    elif w4 == "BOKS":
+        type = "Bokse"
+        w_b = w4
         w_r = w[4:]
         if w_r == "-SIG":
             page = ""
@@ -474,14 +501,36 @@ for i, w in enumerate(wfiles_all):
                 nr = "A"
             elif "B" in w_r:
                 nr = "B"
+        #print(w, type, w_r, page, nr)
 
-        #print(w, w_r, page, nr)
-    
-    elif w[:3] == "KAP" or w[:3] == "kap":
+    elif w3 == "FIG":
+        type = "Figur"
+        w_b = w3
         w_r = w[3:]
-        s = w_r.split("_")
+        s = w_r.split("-")
         kap = s[0]
-        page = s[1]
-        if len(s) > 2:
-            nr = s[2]
-        print(w, w_r, page, nr, kap)
+        nr = s[1]
+        #print(w, type, w_r, kap, nr)
+
+    elif w4 == "STIK":
+        type = "Stikordsregister"
+        w_b = w4
+        w_r = w[4:]
+        s = w_r.split("-")
+        kap = s[0]
+        nr = s[1]
+        #print(w, type, w_r, nr)
+    
+    col_i = [w, fil, type, w_b, w_r, kap, page, nr]
+    #print(col_i)
+
+    coll.append(col_i)
+
+headers = ["Filnavn", "Fil_mp3", "Type", "F_before", "F_rest", "Kapitel", "Side", "Nr"]
+df = pd.DataFrame(coll, columns=headers)
+
+#print(df)
+
+writer = pd.ExcelWriter('create_mp3_info.xlsx')
+df.to_excel(writer,'Sheet1')
+writer.save()
