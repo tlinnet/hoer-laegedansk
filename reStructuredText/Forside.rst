@@ -7,6 +7,13 @@ Forside
 Hør lægedansk - mens du læser!
 ==============================
 
+.. figure:: Figurer/CD_billede_or.png
+   :height: 200px
+   :width: 200 px
+   :alt: Hør lægedansk - mens du læser!
+
+   ..
+
 | **Spoken introduction in english**
 | <html5media>File:INTRO_UK.mp3</html5media>
 
