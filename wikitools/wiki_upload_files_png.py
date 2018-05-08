@@ -14,15 +14,15 @@ site = wiki.Wiki("http://wiki.hoer-laegedansk.dk/api.php")
 site.login("tlinnet")
 
 wfiles_all = [
-    "FIG4-1_png",
-    "FIG4-2_png",
-    "FIG5-1_png",
-    "FIG5-2_png",
-    "FIG5-3_png",
-    "FIG5-4_png",
-    "FIG5-5_png",
-    "FIG5-6_png",
-    "FIG5-7_png",
+    #"FIG4-1_png",
+    #"FIG4-2_png",
+    #"FIG5-1_png",
+    #"FIG5-2_png",
+    #"FIG5-3_png",
+    #"FIG5-4_png",
+    #"FIG5-5_png",
+    #"FIG5-6_png",
+    #"FIG5-7_png",
     ]
 
 #wfiles = wfiles_all[:2]
