@@ -24,5 +24,8 @@ for fullfile in $RSTFILES; do
         # Fix < and >
         gsed -i 's/&lt;html5media&gt;/<html5media>/g' ${filename}.Wiki
         gsed -i 's/&lt;\/html5media&gt;/<\/html5media>/g' ${filename}.Wiki
+
+        # Fix Image
+        gsed -i 's/\[\[File:Figurer\//[[File:/g' ${filename}.Wiki
     fi
 done
