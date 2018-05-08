@@ -2,6 +2,8 @@ __TOC__
 
 = Hør lægedansk - mens du læser! =
 
+[[File:Figurer/CD_billede_or.png|frame|none|200x200px]]
+
 '''Spoken introduction in english'''<br />
 <html5media>File:INTRO_UK.mp3</html5media>
 

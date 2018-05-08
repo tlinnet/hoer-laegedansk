@@ -12,8 +12,6 @@ Hør lægedansk - mens du læser!
    :width: 200 px
    :alt: Hør lægedansk - mens du læser!
 
-   ..
-
 | **Spoken introduction in english**
 | <html5media>File:INTRO_UK.mp3</html5media>
 

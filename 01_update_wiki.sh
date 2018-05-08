@@ -16,7 +16,7 @@ source 00_cp_Wiki_here.sh
 # Aktivate python
 source activate wikitools
 # Run script for upload
-python test_page.py
+python wiki_upload_pages.py
 
 # Deactivate
 source deactivate wikitools
