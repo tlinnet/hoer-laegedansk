@@ -356,13 +356,17 @@ minut (normal i hvile: 12-16 × min–1). Se i øvrigt kapitel 6.
 
 <html5media>File:FIG4-1.mp3</html5media>
 
-**Fig. 4.1** *Turgor er hudens normale, elastiske konsistens.
-Man kniber i huden på håndryg, underarm eller thorax’
-forflade. Ved normal turgor springer huden hurtigt tilbage
-i facon, når man slipper; ved nedsat turgor nærmest
-»smelter« huden langsomt tilbage i facon. Nedsat turgor ses
-ved dehydrering, men er et usikkert tegn hos meget gamle
-mennesker pga. en nedsat mængde elastisk bindevæv.*
+.. figure:: Figurer/FIG4-1_png.png
+   :width: 400 px
+   :alt:  Fig. 4.1 Turgor er hudens normale, elastiske konsistens.
+
+   **Fig. 4.1** Turgor er hudens normale, elastiske konsistens.
+   Man kniber i huden på håndryg, underarm eller thorax’
+   forflade. Ved normal turgor springer huden hurtigt tilbage
+   i facon, når man slipper; ved nedsat turgor nærmest
+   »smelter« huden langsomt tilbage i facon. Nedsat turgor ses
+   ved dehydrering, men er et usikkert tegn hos meget gamle
+   mennesker pga. en nedsat mængde elastisk bindevæv.
 
 Lymfeknuder
 -----------
@@ -377,12 +381,16 @@ Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
 
 <html5media>File:FIG4-2.mp3</html5media>
 
-**Fig. 4.2** *De overfladiske lymfeglandler er tilgængelige
-for palpation på halsen (submandibulært,
-occipitalt og vertikalt langs m. sternocleidomastoideus’
-bageste kant), supraklavikulært (umiddelbart
-lateralt for m. sternocleidomastoideus), i
-aksillen og i lyskerne.*
+.. figure:: Figurer/FIG4-2_png.png
+   :width: 200 px
+   :alt:  Fig. 4.2 De overfladiske lymfeglandler er tilgængelige for palpation på halsen.
+
+   **Fig. 4.2** De overfladiske lymfeglandler er tilgængelige
+   for palpation på halsen (submandibulært,
+   occipitalt og vertikalt langs m. sternocleidomastoideus’
+   bageste kant), supraklavikulært (umiddelbart
+   lateralt for m. sternocleidomastoideus), i
+   aksillen og i lyskerne.
 
 **Lymfadenopati**
 

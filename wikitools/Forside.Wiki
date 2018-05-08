@@ -1,8 +1,22 @@
 __TOC__
 
+<div class="sidebar">
+
+'''Kapitler'''
+
+* [[0_Forord|0 Forord]]
+* [[1_Mødet_mellem_læge_og_patient|1 Mødet mellem læge og patient]]
+* [[2_Sygehusjournalen|2 Sygehusjournalen]]
+* [[3_Indlæggelsesnotatet|3 Indlæggelsesnotatet]]
+* [[4_Almene_symptomer_og_fund|4 Almene symptomer og fund]]
+* [[5_Hjertet|5 Hjertet]]
+* [[16_Stikordsregister|16 Stikordsregister]]
+
+
+</div>
 = Hør lægedansk - mens du læser! =
 
-[[File:CD_billede_or.png|none|200x200px]]
+[[File:CD_billede_or.png|none|200px]]
 
 '''Spoken introduction in english'''<br />
 <html5media>File:INTRO_UK.mp3</html5media>
@@ -11,15 +25,6 @@ __TOC__
 <html5media>File:INTRO_DK.mp3</html5media>
 
 [[Lydfiler|Lydudgave]] af bogen [[Media:Subjektivt_og_Objektivt_1udg_tekst_frigivet_til_undervisningsbrug.pdf|”Subjektivt &amp; Objektivt – anamnese, undersøgelse og journal”]] af Søren Brostrøm &amp; Niels Saxtrup Nielsen, Munksgaard 2001, 1. udgave.
-
-== Kapitler ==
-
-* [[0_Forord|0 Forord]]
-* [[1_Mødet_mellem_læge_og_patient|1 Mødet mellem læge og patient]]
-* [[2_Sygehusjournalen|2 Sygehusjournalen]]
-* [[3_Indlæggelsesnotatet|3 Indlæggelsesnotatet]]
-* [[4_Almene_symptomer_og_fund|4 Almene symptomer og fund]]
-* [[16_Stikordsregister|16 Stikordsregister]]
 
 = Udgivelses information =
 

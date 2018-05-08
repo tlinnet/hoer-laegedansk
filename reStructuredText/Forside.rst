@@ -4,11 +4,20 @@ Forside
 :date: 2018-05-01 12:59
 :category: Kapitler
 
+.. sidebar:: Kapitler
+
+   * `0 Forord <0_Forord.rst#>`__
+   * `1 Mødet mellem læge og patient <1_Mødet_mellem_læge_og_patient.rst#>`__
+   * `2 Sygehusjournalen <2_Sygehusjournalen.rst#>`__
+   * `3 Indlæggelsesnotatet <3_Indlæggelsesnotatet.rst#>`__
+   * `4 Almene symptomer og fund <4_Almene_symptomer_og_fund.rst#>`__
+   * `5 Hjertet <5_Hjertet.rst#>`__
+   * `16 Stikordsregister <16_Stikordsregister.rst#>`__
+
 Hør lægedansk - mens du læser!
 ==============================
 
 .. figure:: Figurer/CD_billede_or.png
-   :height: 200px
    :width: 200 px
    :alt: Hør lægedansk - mens du læser!
 
@@ -20,16 +29,6 @@ Hør lægedansk - mens du læser!
 
 `Lydudgave <Lydfiler.rst#>`__ af bogen `”Subjektivt & Objektivt – anamnese, undersøgelse og journal” <Media:Subjektivt_og_Objektivt_1udg_tekst_frigivet_til_undervisningsbrug.pdf>`__ af
 Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001, 1. udgave.
-
-Kapitler
---------
-
-* `0 Forord <0_Forord.rst#>`__
-* `1 Mødet mellem læge og patient <1_Mødet_mellem_læge_og_patient.rst#>`__
-* `2 Sygehusjournalen <2_Sygehusjournalen.rst#>`__
-* `3 Indlæggelsesnotatet <3_Indlæggelsesnotatet.rst#>`__
-* `4 Almene symptomer og fund <4_Almene_symptomer_og_fund.rst#>`__
-* `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
 Udgivelses information
 ======================
