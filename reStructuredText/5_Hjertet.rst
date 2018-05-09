@@ -29,6 +29,8 @@ hjertebanken og vand i benene (ødemer).
 
 **Hjertesygdom**
 
+<html5media>File:BOKS68.mp3</html5media>
+
 * Har du åndenød?
 * Har du brystsmerter?
 * Har du hjertebanken?
@@ -61,6 +63,8 @@ er de alvorligste grader af åndenød.
 
 **Åndenød**
 
+<html5media>File:BOKS69.mp3</html5media>
+
 * Bliver du let forpustet?
 * Forværres din åndenød, når du ligger fladt i sengen?
 * Lindres den af et par ekstra puder under hovedet?
@@ -90,6 +94,8 @@ hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 
 **Hjertekrampe (angina pectoris)**
 
+<html5media>File:BOKS70A.mp3</html5media>
+
 * Hvornår kommer dine smerter (ved anstrengelse, i hvile, måltidsrelateret)?
 * Hvor lang tid varer smerten – er det anderledes denne gang?
 * Er der noget, der får dem til at lette (hvile, nitroglycerin)?
@@ -97,6 +103,8 @@ hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 * Hvor sidder den i brystet? Stråler den nogen steder hen?
 
 **Karakteristika for stabil angina pectoris**
+
+<html5media>File:BOKS70B.mp3</html5media>
 
 * Udløses af anstrengelse
 * Lindres af hvile og nitrater
@@ -119,9 +127,11 @@ forsnævring af aorta-ostiet (*aortastenose*) eller forstørret hjerte
 
 **Iskæmiske brystsmerter**
 
+<html5media>File:BOKS71.mp3</html5media>
+
 ======================================   ===============================   ===================
 **Type**                                 **Karakteristika**
---------------------------------------   -----------------------------------------------------
+--------------------------------------   -------------------------------   -------------------
 **Stabil angina pectoris**               Udløses af anstrengelse,          Lindres af hvile og
                                          som regel reproducérbart          nitrater
 
@@ -188,6 +198,8 @@ efter en pause og (derfor) er mere kraftfuldt.
 
 **Hjertebanken**
 
+<html5media>File:BOKS72.mp3</html5media>
+
 * Kan du banke din hjerterytme i bordet, som den er, når du har hjertebanken?
 * Er rytmen ensartet, eller er der ikke nogen rytme i slagene?
 * I hvilken grad er du generet ved anfaldene (simpelt ubehag, smerte, besvimelse eller f.eks. må stoppe aktivitet)?
@@ -242,6 +254,8 @@ og altid afklædt. Hjertestetoskopi kan *ikke* gennemføres igennem tøjet.
 Ved mistanke om hjertesygdom suppleres den objektive undersøgelse
 
 **Hjerteinsufficiens**
+
+<html5media>File:BOKS74.mp3</html5media>
 
 ===================================   ==========================  ========================
 **Type**                              **Symptomer**               **Fund**
@@ -338,7 +352,7 @@ Ved rutinestetoskopien registreres systematisk og i nævnte rækkefølge:
 
 **Hjerterytme**
 
-<html5media>File:KAP5_76.mp3</html5media>
+<html5media>File:kap5_76.mp3</html5media>
 
 Hjerterytmen registres ved det første stop på rutinestetoskopien: over
 apex. Radialispulsen palperes samtidig med, at man lytter. Normalt falder
@@ -353,6 +367,10 @@ skyldes som regel atrieflimren. Falder uregelmæssighederne imellem
 perioder med regelmæssig rytme, er det oftest ekstrasystoler.
 
 Ved det første stop på rutinestetoskopien sikrer man sig, at man har
+
+**Hjertestetoskopi**
+
+<html5media>File:BOKS77.mp3</html5media>
 
 =================   ====================================================================
 **Rytmen:**         * regelmæssig eller uregelmæssig?
@@ -441,6 +459,8 @@ venstre side eller under inspirationen.
    **Fig. 5.6** Hjertesteoskopi.
    De mest almindelige mislyde – maksimum og projektion.
 
+<html5media>File:FIG5-7.mp3</html5media>
+
 .. figure:: Figurer/FIG5-7_png.png
    :width: 500 px
    :alt:  Fig. 5.7 Hjertesteoskopi.
@@ -456,6 +476,8 @@ den høres bedst (»maksimum«), og dens placering i hjertecyklus.
 
 **Mislyde – styrke**
 
+<html5media>File:BOKS80A.mp3</html5media>
+
 **grad 1**
   Kan lige høres med et godt stetoskop i et stille lokale
 **grad 2**
@@ -467,7 +489,9 @@ den høres bedst (»maksimum«), og dens placering i hjertecyklus.
 **grad 5**
   Meget høj mislyd, der ikke bare høres over prækordiet,
   men også over andre dele af kroppen
-  
+
+<html5media>File:BOKS80B.mp3</html5media>
+
 * **Ikke alle mislyde er udtryk for sygdom.**
 * **Ikke alle hjertesygdomme giver mislyde.**
 * **Mislydens styrke siger ikke noget om graden af sygdom.**
@@ -477,6 +501,8 @@ patologi kan udledes ud fra mislydens lokalisationen på prækordiet og
 placering i hjertecyklus.
 
 **Systoliske mislyde**
+
+<html5media>File:BOKS81.mp3</html5media>
 
 +------------------------+-------------------+------------------+-----------------+
 | **Årsag**              | **Høres bedst**   | **Karakter**     | **Høres bedst** |
@@ -519,6 +545,8 @@ placering i hjertecyklus.
 +------------------------+-------------------+------------------+-----------------+
 
 **Diastoliske mislyde**
+
+<html5media>File:BOKS82.mp3</html5media>
 
 +--------------------------+-------------------+--------------------+-----------------+
 | **Årsag**                | **Høres bedst**   | **Karakter**       | **Høres bedst** |

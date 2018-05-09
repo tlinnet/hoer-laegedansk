@@ -16,6 +16,8 @@ De vigtigste symptomer ved hjertelidelser er træthed, åndenød, brystsmerter, 
 
 '''Hjertesygdom'''
 
+<html5media>File:BOKS68.mp3</html5media>
+
 * Har du åndenød?
 * Har du brystsmerter?
 * Har du hjertebanken?
@@ -37,6 +39,8 @@ Hjertepatienter oplever typisk åndenød ved anstrengelse (''funktionsdyspnø'')
 
 '''Åndenød'''
 
+<html5media>File:BOKS69.mp3</html5media>
+
 * Bliver du let forpustet?
 * Forværres din åndenød, når du ligger fladt i sengen?
 * Lindres den af et par ekstra puder under hovedet?
@@ -53,6 +57,8 @@ Hjertekrampe (''angina pectoris'' eller ''stenocardia'') er kardinalsymptomet ve
 
 '''Hjertekrampe (angina pectoris)'''
 
+<html5media>File:BOKS70A.mp3</html5media>
+
 * Hvornår kommer dine smerter (ved anstrengelse, i hvile, måltidsrelateret)?
 * Hvor lang tid varer smerten – er det anderledes denne gang?
 * Er der noget, der får dem til at lette (hvile, nitroglycerin)?
@@ -60,6 +66,8 @@ Hjertekrampe (''angina pectoris'' eller ''stenocardia'') er kardinalsymptomet ve
 * Hvor sidder den i brystet? Stråler den nogen steder hen?
 
 '''Karakteristika for stabil angina pectoris'''
+
+<html5media>File:BOKS70B.mp3</html5media>
 
 * Udløses af anstrengelse
 * Lindres af hvile og nitrater
@@ -74,24 +82,35 @@ De forskellige typer af iskæmiske brystsmerter karakteriseres ved deres udløse
 
 '''Iskæmiske brystsmerter'''
 
+<html5media>File:BOKS71.mp3</html5media>
+
 {|
 ! '''Type'''
 ! '''Karakteristika'''
+!
+
 |-
 | '''Stabil angina pectoris'''
-| Udløses af anstrengelse, Lindres af hvile og som regel reproducérbart nitrater
+| Udløses af anstrengelse, som regel reproducérbart
+| Lindres af hvile og nitrater
 |-
 | '''Ustabil angina pectoris'''
-| Forværring af stabil angina. Nitrater kan give Ses i hvile eller ved nogen lindring. minimal anstrengelse. Kræver hospitals-Kan progrediere til AMI. indlæggelse.
+| Forværring af stabil angina. Ses i hvile eller ved minimal anstrengelse. Kan progrediere til AMI.
+| Nitrater kan give nogen lindring. Kræver hospitals-indlæggelse.
 |-
 | '''Akut myo-kardieinfarkt''' (AMI)
-| Ofte forudgået af fysisk Typisk ingen effekt eller psykisk belastning, af sædvanlig eller periode med ustabil nitratbehandling. angina. Evt. kendt arteriosklerotisk hjertesygdom. Intens, sammentrykkende brystsmerte. Dødsangst.
+| Ofte forudgået af fysisk eller psykisk belastning, eller periode med ustabil angina. Evt. kendt arteriosklerotisk hjertesygdom. Intens, sammentrykkende brystsmerte. Dødsangst.
+| Typisk ingen effekt af sædvanlig nitratbehandling.
 |-
-| '''Spasme-angina''' (Prinzmetals-angina)
-| Optræder i hvile og ofte Lindres af nitrater om natten. Kan udløses af hyper-ventilation.
-|-
-| '''Stum iskæmi'''
-| Ses hos patienter med verificeret iskæmisk hjerte-sygdom og ekg-forandringer, uden brystsmerter. Kan have »angina-ækviva-lenter« som åndenød, hoste eller træthed. Hyppigst diabetikere og rygere.
+|
+'''Spasme-angina''' (Prinzmetals-angina)
+
+'''Stum iskæmi'''
+|
+Optræder i hvile og ofte om natten. Kan udløses af hyper-ventilation.
+
+Ses hos patienter med verificeret iskæmisk hjerte-sygdom og ekg-forandringer, uden brystsmerter. Kan have »angina-ækviva-lenter« som åndenød, hoste eller træthed. Hyppigst diabetikere og rygere.
+| Lindres af nitrater
 |}
 
 Brystsmerter ses også ved lidelser i mave-tarm-systemet, f.eks. refluksøsofagit, mavesår, galdesten og pankreatit (betændelse i bugspytkirtlen) (se kapitel 7). Smerter fra brystvæg og rygsøjle kan give smerter, der fejltolkes som ''angina''. Objektivt finder man da lokaliseret ømhed ved palpation af thorax-skelettet (se side 92). En overfladisk, brændende smerte i brystvæggen kan være helvedesild (''herpes zoster'').
@@ -105,6 +124,8 @@ En vigtig differentialdiagnose ved smerter i brystet er selvfølgelig lidelser i
 Hjertebanken er patientens oplevelse af unormale hjerteslag. Oftest er årsagen, at hjerterytmen er for hurtig (''takykardi'') eller uregelmæssig (''arytmiØ), men hjertebanken kan også skyldes, at patienten har en angstpræget øget bevidsthed af en i øvrigt normal hjerterytme. Hjertebanken ses også ved øget hjertearbejde, f.eks. på grund af vasodilatation. Symptomet hjertebanken beskrives af patienten f.eks., som at hjertet »''slår kolbøtter*«, »*banker i halsen*«, »*slår ekstraslag*«, eller »*går kortvarigt i stå*«. Det sidste kan skyldes en ekstrasystole; det er dog ikke selve ekstrasystolen, patienten mærker, men derimod det efterfølgende slag, der kommer efter en pause og (derfor) er mere kraftfuldt.
 
 '''Hjertebanken'''
+
+<html5media>File:BOKS72.mp3</html5media>
 
 * Kan du banke din hjerterytme i bordet, som den er, når du har hjertebanken?
 * Er rytmen ensartet, eller er der ikke nogen rytme i slagene?
@@ -133,6 +154,8 @@ En akut påvirket patient, der er bleg, klamtsvedende, forpint og angst kan have
 Hjertepatienten undersøges bedst liggende med eleveret hovedgærde og altid afklædt. Hjertestetoskopi kan ''ikke'' gennemføres igennem tøjet. Ved mistanke om hjertesygdom suppleres den objektive undersøgelse
 
 '''Hjerteinsufficiens'''
+
+<html5media>File:BOKS74.mp3</html5media>
 
 {|
 ! '''Type'''
@@ -184,13 +207,17 @@ Ved rutinestetoskopien registreres systematisk og i nævnte rækkefølge: 1) ryt
 
 '''Hjerterytme'''
 
-<html5media>File:KAP5_76.mp3</html5media>
+<html5media>File:kap5_76.mp3</html5media>
 
 Hjerterytmen registres ved det første stop på rutinestetoskopien: over apex. Radialispulsen palperes samtidig med, at man lytter. Normalt falder der et pulsslag for hvert hjerteslag, men pulsen kan falde ud ved hurtige og uregelmæssige hjerterytmer, hvor hjertekamrene ikke når at fyldes mellem slagene.Man taler om et ''pulsdeficit'', der beskrives ved at tælle hhv. hjertefrekvensen og den perifere puls for sig.
 
 Hjerterytmen er uregelmæssig, når hjerteslagene ikke falder med et konstant interval. En uregelmæssig rytme uden ophør (''arrhythmia perpetua'') skyldes som regel atrieflimren. Falder uregelmæssighederne imellem perioder med regelmæssig rytme, er det oftest ekstrasystoler.
 
 Ved det første stop på rutinestetoskopien sikrer man sig, at man har
+
+'''Hjertestetoskopi'''
+
+<html5media>File:BOKS77.mp3</html5media>
 
 {|
 | '''Rytmen:'''
@@ -241,11 +268,15 @@ Finder man en unormal lyd, bevæges stetoskopet rundt over prækordiet med små 
 
 [[File:FIG5-6_png.png|thumb|none|500px|alt=| '''Fig. 5.6''' Hjertesteoskopi. De mest almindelige mislyde – maksimum og projektion.]]
 
+<html5media>File:FIG5-7.mp3</html5media>
+
 [[File:FIG5-7_png.png|thumb|none|500px|alt=| '''Fig. 5.7''' Hjertesteoskopi. Den diastoliske mislyd ved aortainsufficiens høres bedst langs venstre sternalrand, mens patienten bøjer sig forover og holder vejret i eksspirationen. Den diastoliske mislyd ved mitralstenose høres bedst over apex med patienten i venstre sideleje efter 10 knæbøjninger.]]
 
 For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor den høres bedst (»maksimum«), og dens placering i hjertecyklus.
 
 '''Mislyde – styrke'''
+
+<html5media>File:BOKS80A.mp3</html5media>
 
 ; '''grad 1'''
 : Kan lige høres med et godt stetoskop i et stille lokale
@@ -258,6 +289,8 @@ For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor den h�
 ; '''grad 5'''
 : Meget høj mislyd, der ikke bare høres over prækordiet, men også over andre dele af kroppen
 
+<html5media>File:BOKS80B.mp3</html5media>
+
 * '''Ikke alle mislyde er udtryk for sygdom.'''
 * '''Ikke alle hjertesygdomme giver mislyde.'''
 * '''Mislydens styrke siger ikke noget om graden af sygdom.'''
@@ -265,6 +298,8 @@ For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor den h�
 Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende 81 patologi kan udledes ud fra mislydens lokalisationen på prækordiet og placering i hjertecyklus.
 
 '''Systoliske mislyde'''
+
+<html5media>File:BOKS81.mp3</html5media>
 
 {|
 !width="30%"| '''Årsag'''
@@ -330,6 +365,8 @@ Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende 81 patologi 
 |}
 
 '''Diastoliske mislyde'''
+
+<html5media>File:BOKS82.mp3</html5media>
 
 {|
 !width="31%"| '''Årsag'''
