@@ -1,5 +1,9 @@
 __TOC__
 
+= Hør lægedansk - mens du læser! =
+
+== Kapitler ==
+
 <div class="sidebar">
 
 '''Kapitler'''
@@ -14,9 +18,9 @@ __TOC__
 
 
 </div>
-= Hør lægedansk - mens du læser! =
+[[File:CD_billede_or.png|thumb|none|200px]]
 
-[[File:CD_billede_or.png|none|200px]]
+== Introduction / Introduktion ==
 
 '''Spoken introduction in english'''<br />
 <html5media>File:INTRO_UK.mp3</html5media>

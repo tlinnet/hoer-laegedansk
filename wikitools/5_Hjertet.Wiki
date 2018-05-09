@@ -68,7 +68,7 @@ Hjertekrampe (''angina pectoris'' eller ''stenocardia'') er kardinalsymptomet ve
 
 <html5media>File:FIG5-1.mp3</html5media>
 
-[[File:FIG5_1_png.png|none|200px|alt=|caption '''Fig. 5.1''' Den karakteristiske udbredelse af angina pectoris.]]
+[[File:FIG5-1_png.png|thumb|none|200px|alt=| '''Fig. 5.1''' Den karakteristiske udbredelse af angina pectoris.]]
 
 De forskellige typer af iskæmiske brystsmerter karakteriseres ved deres udløsende og lindrende faktorer. Den hyppigste form for angina pectoris er ''stabil angina pectoris''. ''Angina pectoris'' kan også være et symptom på forsnævring af aorta-ostiet (''aortastenose'') eller forstørret hjerte (''hypertensiv hjertesygdom, hypertrofisk kardiomyopati'').
 
@@ -162,11 +162,11 @@ Thorax’ form og bevægelse bemærkes, og lungegrænserne udperkuteres (se kapi
 
 <html5media>File:FIG5-2.mp3</html5media>
 
-[[File:FIG5_2_png.png|none|500px|alt=|caption '''Fig. 5.2''' Halsvenestase. Patienten lejres med hovedgærdet eleveret 45º, med hovedet ganske let drejet dog uden at spænde m. sternocleidomasteoideus. V. jugularis interna identificeres: den ligger umiddelbart lateralt for sternocleidomasteoideus og over klaviklen. Den normale venepuls kan netop anes over klavikelkanten, mens fyldning herover er patologisk.]]
+[[File:FIG5-2_png.png|thumb|none|500px|alt=| '''Fig. 5.2''' Halsvenestase. Patienten lejres med hovedgærdet eleveret 45º, med hovedet ganske let drejet dog uden at spænde m. sternocleidomasteoideus. V. jugularis interna identificeres: den ligger umiddelbart lateralt for sternocleidomasteoideus og over klaviklen. Den normale venepuls kan netop anes over klavikelkanten, mens fyldning herover er patologisk.]]
 
 <html5media>File:FIG5-3.mp3</html5media>
 
-[[File:FIG5_3_png.png|none|500px|alt=|caption '''Fig. 5.3''' Hjertesteoskopi. Patienten undersøges med let eleveret hovedgærde og afklædt overkrop. Før stetoskopien identificerer man fikspunkterne. 2. interkostalrum identificeres let – det er det første lige under klaviklen.]]
+[[File:FIG5-3_png.png|thumb|none|500px|alt=| '''Fig. 5.3''' Hjertesteoskopi. Patienten undersøges med let eleveret hovedgærde og afklædt overkrop. Før stetoskopien identificerer man fikspunkterne. 2. interkostalrum identificeres let – det er det første lige under klaviklen.]]
 
 == Auskultation (stethoscopia cordis, st.c., hjertestetoskopi) ==
 
@@ -178,7 +178,7 @@ Man bør indøve sig en rutine for hjertestetoskopien, der sikrer, at man ikke m
 
 <html5media>File:FIG5-4.mp3</html5media>
 
-[[File:FIG5_4_png.png|none|500px|alt=|caption '''Fig. 5.4''' Hjertesteoskopi. Indøv en rutine, hvor du bevæger stetoskopet fra apex, langs venstre sternalrand og til først venstre derefter højre 2. interkostalrum. Palper samtidig radialispulsen.]]
+[[File:FIG5-4_png.png|thumb|none|500px|alt=| '''Fig. 5.4''' Hjertesteoskopi. Indøv en rutine, hvor du bevæger stetoskopet fra apex, langs venstre sternalrand og til først venstre derefter højre 2. interkostalrum. Palper samtidig radialispulsen.]]
 
 Ved rutinestetoskopien registreres systematisk og i nævnte rækkefølge: 1) rytmen, 2) ekstralyde og 3) mislyde.
 
@@ -215,7 +215,7 @@ Ved det første stop på rutinestetoskopien sikrer man sig, at man har
 
 <html5media>File:FIG5-5.mp3</html5media>
 
-[[File:FIG5_5_png.png|none|500px|alt=|caption '''Fig. 5.5''' Hjertesteoskopi. 1. hjertelyd skyldes lukning af mitral_ og trikuspidalklapperne i starten af systolen. 2. hjertelyd skyldes lukningen af aorta_ og pulmonalklapperne i slutningen af systolen.]]
+[[File:FIG5-5_png.png|thumb|none|500px|alt=| '''Fig. 5.5''' Hjertesteoskopi. 1. hjertelyd skyldes lukning af mitral- og trikuspidalklapperne i starten af systolen. 2. hjertelyd skyldes lukningen af aorta- og pulmonalklapperne i slutningen af systolen.]]
 
 identificeret 1. og 2. hjertelyd og dermed systole og diastole (Fig. 5.5). Den normale hjertelyd kan beskrives som et »lup-dup«, hvor »lup« er 1. tone og »dup« er 2. tone.Man kan også kende dem på, at der er kortere mellem 1. og 2. lyd, end der er mellem 2. og 1. lyd. Første tone indleder systolen og 2. tone indleder diastolen. Palper radialispulsen samtidig med, at du lytter – pulsslaget falder midt mellem 1. og 2. hjertelyd.
 
@@ -239,9 +239,9 @@ Finder man en unormal lyd, bevæges stetoskopet rundt over prækordiet med små 
 
 <html5media>File:FIG5-6.mp3</html5media>
 
-[[File:FIG5_6_png.png|none|500px|alt=|caption '''Fig. 5.6''' Hjertesteoskopi. De mest almindelige mislyde – maksimum og projektion.]]
+[[File:FIG5-6_png.png|thumb|none|500px|alt=| '''Fig. 5.6''' Hjertesteoskopi. De mest almindelige mislyde – maksimum og projektion.]]
 
-[[File:FIG5_7_png.png|none|500px|alt=|caption '''Fig. 5.7''' Hjertesteoskopi. Den diastoliske mislyd ved aortainsufficiens høres bedst langs venstre sternalrand, mens patienten bøjer sig forover og holder vejret i eksspirationen. Den diastoliske mislyd ved mitralstenose høres bedst over apex med patienten i venstre sideleje efter 10 knæbøjninger.]]
+[[File:FIG5-7_png.png|thumb|none|500px|alt=| '''Fig. 5.7''' Hjertesteoskopi. Den diastoliske mislyd ved aortainsufficiens høres bedst langs venstre sternalrand, mens patienten bøjer sig forover og holder vejret i eksspirationen. Den diastoliske mislyd ved mitralstenose høres bedst over apex med patienten i venstre sideleje efter 10 knæbøjninger.]]
 
 For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor den høres bedst (»maksimum«), og dens placering i hjertecyklus.
 
@@ -267,73 +267,106 @@ Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende 81 patologi 
 '''Systoliske mislyde'''
 
 {|
-| '''Årsag'''
-| '''Høres bedst''' '''over'''
-| '''Karakter'''
-| '''Høres bedst''' '''med'''
+!width="30%"| '''Årsag'''
+!width="24%"| '''Høres bedst''' '''over'''
+!width="22%"| '''Karakter'''
+!width="22%"| '''Høres bedst''' '''med'''
 |-
-| --------------------'''Midt-systoliske:'''
+| '''Midt-systoliske:'''
 |
 
------
 |
 
------
 |
 
------
 |-
-|
-
------
-|
-
------
-|
-
------
-|
-
------
-|-
-| Aortastenose
+| ''Aortastenose''
 | 2. højre inter-kostalrum, udstråler til karotider
 |
 * ru, kraftig (grad 3-5)
 * crescendo-decrescendo
 | klokke el. membran
 |-
-| Pulmonal-
-| 2. venstre inter-
-| * ru, kraftig,
-| klokke el.
-|-
-| stenose
-| kostalrum, udstråling til venstre sternal-rand
+| ''Pulmonal-'' ''stenose''
+| 2. venstre inter-kostalrum, udstråling til venstre sternal-rand
 |
+* ru, kraftig,
 * crescendo-decrescendo
 * øges umiddel-bart efter inspiration
-| membran
+| klokke el. membran
 |-
-|
-Fysiologisk mislyd (eg. gravide, anæmi, tyrotoksikose)
-
-'''Holo-systoliske:'''
+| ''Fysiologisk'' ''mislyd (eg.'' ''gravide, anæmi,'' ''tyrotoksikose)''
 | venstre sternalrand
 |
 * blød, grad 2-3
 | klokke
 |-
+| '''Holo-systoliske:'''
 |
 
------
 |
 
------
 |
 
------
+|-
+| ''Mitralin-'' ''sufficiens''
+| apex, udstråling til venstre aksil
+|
+* blæsende
+| membran
+|-
+| ''Ventrikel-'' ''septumdefekt'' ''(VSD)''
+| venstre sternalrand
+|
+* ru, kraftig, mellemfrekvent
+| klokke el. membran
+|-
+| ''Trikuspidal-'' ''insufficiens''
+| venstre sternalrand
+|
+* blæsende, lavfrekvent
+* aftager umiddelbart efter inspiration
+| klokke
+|}
+
+'''Diastoliske mislyde'''
+
+{|
+!width="31%"| '''Årsag'''
+!width="23%"| '''Høres bedst''' '''over'''
+!width="24%"| '''Karakter'''
+!width="20%"| '''Høres bedst''' '''med'''
+|-
+| '''Tidligt diastoliske:'''
 |
 
------
+|
+
+|
+
+|-
+| ''Aortain-'' ''sufficiens''
+| 3. venstre inter-kostalrum,
+|
+* blæsende
+* decrescendo,
+* øges ved foroverbøjning
+| membran
+|-
+| '''Midt-diastoliske:'''
+|
+
+|
+
+|
+
+|-
+| ''Mitralstenose''
+| apex,
+|
+* rumlende
+* lavfrekvent
+* crescendo-decrescendo
+* øges ved venstre sideleje
+| klokke
 |}

@@ -19,7 +19,7 @@ wpages = [
     #"1_Mødet_mellem_læge_og_patient",
     #"2_Sygehusjournalen",
     #"3_Indlæggelsesnotatet",
-    #"4_Almene_symptomer_og_fund",
+    "4_Almene_symptomer_og_fund",
     "5_Hjertet"
 ]
 

@@ -478,32 +478,65 @@ placering i hjertecyklus.
 
 **Systoliske mislyde**
 
-====================  ==================   ================   ===============
-**Årsag**             **Høres bedst**      **Karakter**       **Høres bedst**
-                      **over**                                **med**
---------------------  ------------------   ----------------   ---------------
-**Midt-systoliske:**
------------------------------------------------------------------------------
++------------------------+-------------------+------------------+-----------------+
+| **Årsag**              | **Høres bedst**   | **Karakter**     | **Høres bedst** |
+|                        | **over**          |                  | **med**         |
++========================+===================+==================+=================+
+| **Midt-systoliske:**   |                                                        |
++------------------------+-------------------+------------------+-----------------+
+| *Aortastenose*         | 2\. højre inter-  | * ru, kraftig    | klokke el.      |
+|                        | kostalrum,        |   (grad 3-5)     | membran         |
+|                        | udstråler til     | * crescendo-     |                 |
+|                        | karotider         |   decrescendo    |                 |
++------------------------+-------------------+------------------+-----------------+
+| *Pulmonal-*            | 2\. venstre inter-| * ru, kraftig,   | klokke el.      |
+| *stenose*              | kostalrum,        | * crescendo-     | membran         |
+|                        | udstråling til    |   decrescendo    |                 |
+|                        | venstre sternal-  | * øges umiddel-  |                 |
+|                        | rand              |   bart efter     |                 |
+|                        |                   |   inspiration    |                 |
++------------------------+-------------------+------------------+-----------------+
+| *Fysiologisk*          | venstre           | * blød, grad 2-3 | klokke          |
+| *mislyd (eg.*          | sternalrand       |                  |                 |
+| *gravide, anæmi,*      |                   |                  |                 |
+| *tyrotoksikose)*       |                   |                  |                 |
++------------------------+-------------------+------------------+-----------------+
+| **Holo-systoliske:**   |                                                        |
++------------------------+-------------------+------------------+-----------------+
+| *Mitralin-*            | apex, udstråling  | * blæsende       | membran         |
+| *sufficiens*           | til venstre aksil |                  |                 |
++------------------------+-------------------+------------------+-----------------+
+| *Ventrikel-*           | venstre           | * ru, kraftig,   | klokke el.      |
+| *septumdefekt*         | sternalrand       |   mellemfrekvent | membran         |
+| *(VSD)*                |                   |                  |                 |
++------------------------+-------------------+------------------+-----------------+
+| *Trikuspidal-*         | venstre           | * blæsende,      | klokke          |
+| *insufficiens*         | sternalrand       |   lavfrekvent    |                 |
+|                        |                   | * aftager        |                 |
+|                        |                   |   umiddelbart    |                 |
+|                        |                   |   efter          |                 |
+|                        |                   |   inspiration    |                 |
++------------------------+-------------------+------------------+-----------------+
 
-Aortastenose          2\. højre inter-     * ru, kraftig      klokke el.
-                      kostalrum,             (grad 3-5)       membran
-                      udstråler til        * crescendo-
-                      karotider              decrescendo
+**Diastoliske mislyde**
 
-Pulmonal-             2\. venstre inter-   * ru, kraftig,     klokke el.
-stenose               kostalrum,           * crescendo-       membran
-                      udstråling til         decrescendo
-                      venstre sternal-     * øges umiddel-
-                      rand                   bart efter
-                                             inspiration
-
-
-Fysiologisk           venstre              * blød, grad 2-3   klokke
-mislyd (eg.           sternalrand
-gravide, anæmi,
-tyrotoksikose)
-
-**Holo-systoliske:**
------------------------------------------------------------------------------
-
-====================  ==================   ================   ===============  
++--------------------------+-------------------+--------------------+-----------------+
+| **Årsag**                | **Høres bedst**   | **Karakter**       | **Høres bedst** |
+|                          | **over**          |                    | **med**         |
++==========================+===================+====================+=================+
+| **Tidligt diastoliske:** |                                                          |
++--------------------------+-------------------+--------------------+-----------------+
+| *Aortain-*               | 3\. venstre inter-| * blæsende         | membran         |
+| *sufficiens*             | kostalrum,        | * decrescendo,     |                 |
+|                          |                   | * øges ved         |                 |
+|                          |                   |   foroverbøjning   |                 |
++--------------------------+-------------------+--------------------+-----------------+
+| **Midt-diastoliske:**    |                                                          |
++--------------------------+-------------------+--------------------+-----------------+
+| *Mitralstenose*          | apex,             | * rumlende         | klokke          |
+|                          |                   | * lavfrekvent      |                 |
+|                          |                   | * crescendo-       |                 |
+|                          |                   |   decrescendo      |                 |
+|                          |                   | * øges ved         |                 |
+|                          |                   |   venstre sideleje |                 |
++--------------------------+-------------------+--------------------+-----------------+

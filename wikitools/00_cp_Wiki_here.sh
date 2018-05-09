@@ -27,6 +27,9 @@ for fullfile in $RSTFILES; do
 
         # Fix Image
         gsed -i 's/\[\[File:Figurer\//[[File:/g' ${filename}.Wiki
-        gsed -i 's/|frame|none|/|none|/g' ${filename}.Wiki
+        gsed -i '/FIG[0-9]*_[0-9]/s/_/-/g' ${filename}.Wiki
+        gsed -i 's/-png.png/_png.png/g' ${filename}.Wiki
+        gsed -i 's/|frame|/|thumb|/g' ${filename}.Wiki
+        gsed -i 's/|caption/|/g' ${filename}.Wiki
     fi
 done

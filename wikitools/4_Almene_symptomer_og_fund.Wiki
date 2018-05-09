@@ -241,7 +241,7 @@ En vurdering af respirationen hører med til en vurdering af patientens almene h
 
 <html5media>File:FIG4-1.mp3</html5media>
 
-[[File:FIG4_1_png.png|none|400px|alt=|caption '''Fig. 4.1''' Turgor er hudens normale, elastiske konsistens. Man kniber i huden på håndryg, underarm eller thorax’ forflade. Ved normal turgor springer huden hurtigt tilbage i facon, når man slipper; ved nedsat turgor nærmest »smelter« huden langsomt tilbage i facon. Nedsat turgor ses ved dehydrering, men er et usikkert tegn hos meget gamle mennesker pga. en nedsat mængde elastisk bindevæv.]]
+[[File:FIG4-1_png.png|thumb|none|400px|alt=| '''Fig. 4.1''' Turgor er hudens normale, elastiske konsistens. Man kniber i huden på håndryg, underarm eller thorax’ forflade. Ved normal turgor springer huden hurtigt tilbage i facon, når man slipper; ved nedsat turgor nærmest »smelter« huden langsomt tilbage i facon. Nedsat turgor ses ved dehydrering, men er et usikkert tegn hos meget gamle mennesker pga. en nedsat mængde elastisk bindevæv.]]
 
 == Lymfeknuder ==
 
@@ -251,7 +251,7 @@ Lymfeknuderne undersøges på vide indikationer, f.eks. ved mistanke om kræftsy
 
 <html5media>File:FIG4-2.mp3</html5media>
 
-[[File:FIG4_2_png.png|none|200px|alt=|caption '''Fig. 4.2''' De overfladiske lymfeglandler er tilgængelige for palpation på halsen (submandibulært, occipitalt og vertikalt langs m. sternocleidomastoideus’ bageste kant), supraklavikulært (umiddelbart lateralt for m. sternocleidomastoideus), i aksillen og i lyskerne.]]
+[[File:FIG4-2_png.png|thumb|none|200px|alt=| '''Fig. 4.2''' De overfladiske lymfeglandler er tilgængelige for palpation på halsen (submandibulært, occipitalt og vertikalt langs m. sternocleidomastoideus’ bageste kant), supraklavikulært (umiddelbart lateralt for m. sternocleidomastoideus), i aksillen og i lyskerne.]]
 
 '''Lymfadenopati'''
 

@@ -4,6 +4,12 @@ Forside
 :date: 2018-05-01 12:59
 :category: Kapitler
 
+Hør lægedansk - mens du læser!
+==============================
+
+Kapitler
+--------
+
 .. sidebar:: Kapitler
 
    * `0 Forord <0_Forord.rst#>`__
@@ -14,12 +20,12 @@ Forside
    * `5 Hjertet <5_Hjertet.rst#>`__
    * `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
-Hør lægedansk - mens du læser!
-==============================
-
 .. figure:: Figurer/CD_billede_or.png
    :width: 200 px
    :alt: Hør lægedansk - mens du læser!
+
+Introduction / Introduktion
+---------------------------
 
 | **Spoken introduction in english**
 | <html5media>File:INTRO_UK.mp3</html5media>

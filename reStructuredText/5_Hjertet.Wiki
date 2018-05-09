@@ -267,73 +267,106 @@ Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende 81 patologi 
 '''Systoliske mislyde'''
 
 {|
-| '''Årsag'''
-| '''Høres bedst''' '''over'''
-| '''Karakter'''
-| '''Høres bedst''' '''med'''
+!width="30%"| '''Årsag'''
+!width="24%"| '''Høres bedst''' '''over'''
+!width="22%"| '''Karakter'''
+!width="22%"| '''Høres bedst''' '''med'''
 |-
-| --------------------'''Midt-systoliske:'''
+| '''Midt-systoliske:'''
 |
 
------
 |
 
------
 |
 
------
 |-
-|
-
------
-|
-
------
-|
-
------
-|
-
------
-|-
-| Aortastenose
+| ''Aortastenose''
 | 2. højre inter-kostalrum, udstråler til karotider
 |
 * ru, kraftig (grad 3-5)
 * crescendo-decrescendo
 | klokke el. membran
 |-
-| Pulmonal-
-| 2. venstre inter-
-| * ru, kraftig,
-| klokke el.
-|-
-| stenose
-| kostalrum, udstråling til venstre sternal-rand
+| ''Pulmonal-'' ''stenose''
+| 2. venstre inter-kostalrum, udstråling til venstre sternal-rand
 |
+* ru, kraftig,
 * crescendo-decrescendo
 * øges umiddel-bart efter inspiration
-| membran
+| klokke el. membran
 |-
-|
-Fysiologisk mislyd (eg. gravide, anæmi, tyrotoksikose)
-
-'''Holo-systoliske:'''
+| ''Fysiologisk'' ''mislyd (eg.'' ''gravide, anæmi,'' ''tyrotoksikose)''
 | venstre sternalrand
 |
 * blød, grad 2-3
 | klokke
 |-
+| '''Holo-systoliske:'''
 |
 
------
 |
 
------
 |
 
------
+|-
+| ''Mitralin-'' ''sufficiens''
+| apex, udstråling til venstre aksil
+|
+* blæsende
+| membran
+|-
+| ''Ventrikel-'' ''septumdefekt'' ''(VSD)''
+| venstre sternalrand
+|
+* ru, kraftig, mellemfrekvent
+| klokke el. membran
+|-
+| ''Trikuspidal-'' ''insufficiens''
+| venstre sternalrand
+|
+* blæsende, lavfrekvent
+* aftager umiddelbart efter inspiration
+| klokke
+|}
+
+'''Diastoliske mislyde'''
+
+{|
+!width="31%"| '''Årsag'''
+!width="23%"| '''Høres bedst''' '''over'''
+!width="24%"| '''Karakter'''
+!width="20%"| '''Høres bedst''' '''med'''
+|-
+| '''Tidligt diastoliske:'''
 |
 
------
+|
+
+|
+
+|-
+| ''Aortain-'' ''sufficiens''
+| 3. venstre inter-kostalrum,
+|
+* blæsende
+* decrescendo,
+* øges ved foroverbøjning
+| membran
+|-
+| '''Midt-diastoliske:'''
+|
+
+|
+
+|
+
+|-
+| ''Mitralstenose''
+| apex,
+|
+* rumlende
+* lavfrekvent
+* crescendo-decrescendo
+* øges ved venstre sideleje
+| klokke
 |}
