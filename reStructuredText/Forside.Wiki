@@ -14,6 +14,7 @@ __TOC__
 * [[3_Indlæggelsesnotatet.rst#|3 Indlæggelsesnotatet]]
 * [[4_Almene_symptomer_og_fund.rst#|4 Almene symptomer og fund]]
 * [[5_Hjertet.rst#|5 Hjertet]]
+* [[6_Lunger_og_luftveje.rst#|6 Lunger og luftveje]]
 * [[16_Stikordsregister.rst#|16 Stikordsregister]]
 
 
