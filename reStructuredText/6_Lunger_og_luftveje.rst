@@ -205,30 +205,32 @@ f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
 
 **Brystsmerter**
 
-+---------------------+-----------------------+------------------------+ 
-|Symptomer               Smertetyper             Diagnoseforslag
-|Skarp, stikkende,       Pleural smerte          Infektion, pneumo
-|forværres ved dybe                              thorax, thorax
-|vejrtrækninger og                               læsioner og sekundært
-|hoste.                                          til abdominal sygdom
-|                                                (f.eks. cholecystitis)
-+---------------------+----------------------+-------------------------+
-Dyb og dump,            Parenkymatøs            Lungecancer,
-konstant                smerte                  mediastinum-lidelse
-
-Forværres ved be-       Smerte fra              Traume, costafraktur,
-vægelse (i sengen)      brystvæggen             myoser, influenza,
-                                                knoglemetastaser
-
-Overfladisk,            Neurogen smerte         Herpes zoster,
-brændende, evt.                                 torakal discusprolaps
-jagende
-
-Knugende, udstråling    Hjertekrampe            Iskæmiske hjertesygdom
-til arm/hals            (*angina*)
-
-Svien og brænden        Halsbrand               Reflukssygdom
-bag sternum             (*pyrosis*)
++----------------------+-----------------+------------------------+
+| Symptomer            | Smertetyper     | Diagnoseforslag        |
++======================+=================+========================+
+| Skarp, stikkende,    | Pleural smerte  | Infektion, pneumo      |
+| forværres ved dybe   |                 | thorax, thorax         |
+| vejrtrækninger og    |                 | læsioner og sekundært  |
+| hoste.               |                 | til abdominal sygdom   |
+|                      |                 | (f.eks. cholecystitis) |
++----------------------+-----------------+------------------------+
+| Dyb og dump,         | Parenkymatøs    | Lungecancer,           |
+| konstant             | smerte          | mediastinum-lidelse    |
++----------------------+-----------------+------------------------+
+| Forværres ved be-    | Smerte fra      | Traume, costafraktur,  |
+| vægelse (i sengen)   | brystvæggen     | myoser, influenza,     |
+|                      |                 | knoglemetastaser       |
++----------------------+-----------------+------------------------+
+| Overfladisk,         | Neurogen smerte | Herpes zoster,         |
+| brændende, evt.      |                 | torakal discusprolaps  |
+| jagende              |                 |                        |
++----------------------+-----------------+------------------------+
+| Knugende, udstråling | Hjertekrampe    | Iskæmiske hjertesygdom |
+| til arm/hals         | (*angina*)      |                        |
++----------------------+-----------------+------------------------+
+| Svien og brænden     | Halsbrand       | Reflukssygdom          |
+| bag sternum          | (*pyrosis*)     |                        |
++----------------------+-----------------+------------------------+
 
 za) kan give endog ganske kraftige muskelsmerter i brystvæggen. *Tietzes
 syndrom* er en smertefuld inflammation i de øvre ribbensbruske. *Herpes
@@ -237,11 +239,124 @@ spinalrøddernes cutane innervation.
 Ved akut opståede brystsmerter skal man altid overveje *iskæmisk
 hjertesygdom* som differentialdiagnose (se side 69-71).
 
-Objektiv undersøgelse	
+Objektiv undersøgelse
 =====================
+
+Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen
+af *almentilstanden* med speciel fokus på farve, perifer cirkulation,
+respiration og hydrering, ligesom man altid skal måle puls, blodtryk,
+temperatur og respirationsfrekvens (se kapitel 4). *Central cyanose* er
+et kardinaltegn på inkompenseret lungesygdom.
+
+**Ændret vejrtrækningsmønster**
+
++---------------+--------------------------+----------------------------+
+| Betegnelse    | Type                     | Årsag                      |
++===============+==========================+============================+
+| Kussmauls     | Meget dybe og            | Metabolisk acidose         |
+| respiration   | »sukkende« respirationer | (f.eks. nyreinsufficiens,  |
+|               | (prøver at udlufte CO2)  | diabetisk ketoacidose      |
+|               |                          | og acetylsyreforgiftning)  |
++---------------+--------------------------+----------------------------+
+| Hyper-        | Hurtig, dyb og forceret  | Psykisk                    |
+| ventilation   | in- og eksspiration      |                            |
++---------------+--------------------------+----------------------------+
+| Cheyne-Stokes’| Dybe, hyppige vejrtræk-  | CNS-skade, døende          |
+| respiration   | ninger vekslende med     |                            |
+|               | ophævet vejrtrækning     |                            |
+|               | (apnø-perioder)          |                            |
++---------------+--------------------------+----------------------------+
+
+Ved vurderingen af respirationen bemærkes, om den er rolig og ubesværet,
+eller om patienten har en anstrengt og forceret respiration.
+Antallet af respirationer pr. minut tælles. Den normale respirationsfrekvens
+er i hvile 12-16 × min–1. En hurtig respiration benævnes *takypnø.*
+
+**Cyanose (blålig misfarvning)**
+
++---------------+---------------------------+--------------------------+
+| Betegnelse    | Type                      | Årsag                    |
++===============+===========================+==========================+
+| Central       | På slimhinde, tunge       | Alvorlig hjerte og/eller |
+| cyanose       | og læber                  | lungesygdom              |
++---------------+---------------------------+--------------------------+
+| Perifer       | Perifert på ekstremiteter | Nedsat blodforsyning til |
+| cyanose       | (fingre og tæer)          | ekstremiteterne. Ses ved |
+|               |                           | blødningsshock, kolde    |
+|               |                           | omgivelser, Raynauds     |
+|               |                           | fænomen eller perifer    |
+|               |                           | vaskulær sygdom          |
++---------------+---------------------------+--------------------------+
+
+En akut påvirket patient med cyanose og besværet respiration kræver
+hurtig vurdering og behandling. For den uøvede kan det være svært at
+skelne f.eks. lungeødem fra obstruktiv lungelidelse, og nogle patienter
+kan have både hjerte- og lungelidelse. Føler du dig ikke rutineret, så tilkald
+hjælp!
+
+Lungepatienten undersøges bedst siddende – så lettes hans vejrtrækning,
+og du kan komme rundt om hele thorax. Er patienten sengeliggende
+uden kræfter til at komme i siddende stilling, skal du altid bede om
+hjælp til at løfte patienten, således at du kan lave en ordentlig undersøgelse.
+Lungepatienten undersøges altid afklædt, stetoskopi kan *ikke* gennemføres
+igennem tøjet.
+
+Den objektive undersøgelse af lungepatienten suppleres som regel
+med røntgenbillede af thorax og blodprøver, herunder blodgasanalyse
+(arteriepunktur, se »Remedier og Teknik«). Ofte monitorerer astmapatienter
+selv deres sygdom med et *peak flow*-meter, som er en let og hurtig
+undersøgelse, der også kan udføres ved indlæggelsen på sygehuset. Som
+regel bør man også ved indlæggelsen af lungepatienten monitorere blodets
+iltmætning ved hjælp af et *pulsoksimeter*.
+
+En grundig undersøgelse af lungepatienten omfatter også undersøgelse
+af hjertet (specielt halsvenestase, hepatomegali og ascites som kan
+være tegn på *højresidigt hjertesvigt* (se kapitel 5)), abdomen (se kapitel 7)
+og lymfeglandlerne på halsen (se kapitel 4).
 
 Inspektion
 ----------
+
+Thorax’ *form* bemærkes. Et hyperinflateret, tøndeformet thorax er
+karakteristisk for patienten med rygerlunger. Andre synlige deformiteter
+af brystvæggen beskrives. *Pectus excavatum* eller »tragtbryst« er ikke helt
+sjældent, men giver som regel kun kosmetiske symptomer. *Kyfoser* og
+*skolioser* bemærkes ligeledes (se kapitel 10).
+
+*Bevægeligheden* af thorax beskrives. Normalt trækker man vejret med
+diaphragma, således at såvel brystkassen som abdomen udvider sig ved
+inspirationen. Patienter med obstruktiv lungelidelse bruger ofte de
+accessoriske respirationsmuskler på halsen, mens costa holdes vandrette
+og fikserede. Ved udtrætning af diaphragma ses indtrækning af abdomen
+under ribbenskurvaturen. Ved akut abdomen kan der ses ophævet medbevægelighed
+af abdomen, der holdes fladt og fikseret ved kontraktion af
+rectusmuskulaturen, mens respirationsarbejdet udføres af interkostalmuskulaturen.
+Ved smerter i brystvæggen (f.eks. pleurit eller costafrakturer)
+er respirationen hovedsageligt diafragmatisk.
+
+**Inspektion**
+
+* Thorax’ form?
+* Egal bevægelighed?
+* Medbevægelighed af abdomen?
+* Indtrækninger?
+* Brug af accessoriske respirationsmuskler?
+
+*Paradoks respiration*, hvor thorax bevæger sig modsat det normale (indad
+ved inspiration), ses ved løs thoraxvæg pga. multiple costafrakturer.
+*Uegale thoraxbevægelser* kan ses ved pneumothorax og multiple costafrakturer,
+men kan også være smertebetinget som ved lokal pleurit.
+Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og
+man kan med fordel palpere symmetrien (se Fig. 6.1).
+
+.. figure:: Figurer/FIG6-1_png.png
+   :width: 700 px
+   :alt:  Fig. 6.1 Vurdering af asymmetri i thorax’ bevægelighed.
+
+   **Fig. 6.1** Vurdering af asymmetri i thorax’ bevægelighed. Placer dine hænder om
+   patientens bryst, så tommelfingrene netop mødes i eksspirationen. Men pas på at
+   holde dine tommelfingre fuldstændigt i ro under inspirationen.
+
 
 Palpation
 ---------
