@@ -19,6 +19,7 @@ Kapitler
    * `4 Almene symptomer og fund <4_Almene_symptomer_og_fund.rst#>`__
    * `5 Hjertet <5_Hjertet.rst#>`__
    * `6 Lunger og luftveje <6_Lunger_og_luftveje.rst#>`__
+   * `7 Mave-tarm-systemet <7_Mave-tarm-systemet.rst#>`__
    * `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
 .. figure:: Figurer/CD_billede_or.png
