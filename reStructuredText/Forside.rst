@@ -21,6 +21,7 @@ Kapitler
    * `6 Lunger og luftveje <6_Lunger_og_luftveje.rst#>`__
    * `7 Mave-tarm-systemet <7_Mave-tarm-systemet.rst#>`__
    * `8 Nyrer, urinveje og mandlige kønsorganer <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__
+   * `9 Kvindelige kønsorganer <9_Kvindelige_kønsorganer.rst#>`__
    * `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
 .. figure:: Figurer/CD_billede_or.png
