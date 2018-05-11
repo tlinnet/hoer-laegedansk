@@ -447,7 +447,7 @@ ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
 
 **Palpation**
 
-<html5media>File:KAP6_93.mp3</html5media>
+<html5media>File:BOKS93.mp3</html5media>
 
 * Trachea midtstillet?
 * Stabilt thorax?
@@ -551,7 +551,7 @@ og pleurale gnidningslyde.
 
 **Lungestetoskopi**
 
-<html5media>File:KAP6_95.mp3</html5media>
+<html5media>File:BOKS95.mp3</html5media>
 
 * Vesikulære eller bronkiale respirationslyde?
 * Afsvækkede respirationslyde?
@@ -561,7 +561,7 @@ og pleurale gnidningslyde.
 
 **Bilyde**
 
-<html5media>File:KAP6_96.mp3</html5media>
+<html5media>File:BOKS96.mp3</html5media>
 
 +-------------------+-------------------------------+-----------------------------------+
 | **Betegnelse**    | **Type**                      | **Årsag**                         |

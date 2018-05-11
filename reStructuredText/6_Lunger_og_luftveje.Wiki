@@ -293,7 +293,7 @@ Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der l
 
 '''Palpation'''
 
-&lt;html5media&gt;File:KAP6_93.mp3&lt;/html5media&gt;
+&lt;html5media&gt;File:BOKS93.mp3&lt;/html5media&gt;
 
 * Trachea midtstillet?
 * Stabilt thorax?
@@ -331,7 +331,7 @@ Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. 
 
 '''Lungestetoskopi'''
 
-&lt;html5media&gt;File:KAP6_95.mp3&lt;/html5media&gt;
+&lt;html5media&gt;File:BOKS95.mp3&lt;/html5media&gt;
 
 * Vesikulære eller bronkiale respirationslyde?
 * Afsvækkede respirationslyde?
@@ -341,7 +341,7 @@ Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. 
 
 '''Bilyde'''
 
-&lt;html5media&gt;File:KAP6_96.mp3&lt;/html5media&gt;
+&lt;html5media&gt;File:BOKS96.mp3&lt;/html5media&gt;
 
 {|
 !width="22%"| '''Betegnelse'''
