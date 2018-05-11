@@ -565,25 +565,156 @@ normalt er perkussionsfundet tympanitisk hele vejen. En forstørret blære
 erkendes som en dæmpning, og udbredelsen angives (som f.eks.
 »2 cm under umbilicus«).
 
-+-----------------------------------------------------------------+
-| **Perkussion af abdomen**                                       | 
-|                                                                 |
-| * Patienten i rygleje. Bevæg de perkuterende fingre fra områder |
-|   med tympanisme til områder med dæmpning.                      |
-| * Hepatomegali: dæmpning under højre kurvatur i MCL             |
-|   (medio-claviculær-linjen).                                    |
-| * Splenomegali: dæmpning på en linie strækkende sig fra         |
-|   spidsen af IC IX sin. mod umbilicus.                          |
-| * Urinretention: dæmpning over symfysen.                        |
-| * Ascites: dekliv flankedæmpning, flytbar ved lejeskift.        |
-+-----------------------------------------------------------------+
+**Perkussion af abdomen**
+
+* Patienten i rygleje. Bevæg de perkuterende fingre fra områder
+  med tympanisme til områder med dæmpning.
+* Hepatomegali: dæmpning under højre kurvatur i MCL
+  (medio-claviculær-linjen).
+* Splenomegali: dæmpning på en linie strækkende sig fra 
+  spidsen af IC IX sin. mod umbilicus.
+* Urinretention: dæmpning over symfysen.
+* Ascites: dekliv flankedæmpning, flytbar ved lejeskift.
 
 Manglende leverdæmpning er et uspecifikt fund, men kan skyldes fri luft
 i abdomen (perforeret hulorgan, nylig operation).
 
+**Auskultation**
+
+Ved auskultation af abdomen placeres stetoskopets membranside over
+umiblicus. Den normale tarmperistaltik giver normalt nogle boblende
+eller gurglende lyde med intervaller på op til 10 sek.Manglende tarmlyde
+(»tyst abdomen«) hos en patient med udspilet abdomen og udbredt
+tympanitisk perkussionlyd er karakteristisk for paralytisk ileus. Ved obstruktiv
+ileus er tarmlydene sparsomme og metallisk-klingende, og ofte
+høres disse lyde samtidig med, at patienten angiver kolikagtige smerter.
 
 Lyskerne (regiones inguinales)
 ------------------------------
 
+De væsentligste objektive fund i lyskerne er lymfadenopati og *hernier*
+(brok). Enkelte små, smuttende og uømme glandler er et normalt fund
+(kapitel 4). Forstørrede lymfeknuder hviler som regel på *ligamentum inguinale*, 
+mens hernier buler ud over eller under ligamentet. Start din
+lyskeundersøgelse med at lokalisere *ligamentum inguinale*: Det løber
+mellem *spina iliaca anterior superior* og *tuberculum pubicum*. Hernier,
+der buler ud *under* ligamentet, kaldes lårbrok eller *hernia femoralis* og
+ses kun sjældent. De hyppigste hernier buler ud *over* ligamentet og kaldes
+lyskebrok eller *hernia inguinales*. Ved inspektionen vil man typisk
+kunne se lyskebrokket som en aflang frembuling over ligamentum inguinale,
+der evt. kan strække sig ned i scrotum. Andre lyskenære udfyldninger
+kan være åreknuder eller arterielle aneurismer.
+
+Et brok kan genere patienten, selvom det ikke umiddelbart kan ses
+ved inspektion. Hernier undersøges derfor bedst hos den stående patient,
+og ved at bede patienten bruge bugpressen (hoste, presse, løfte noget
+tungt) kan man ofte få et hernie til at bule frem mod ens fingerspidser
+over brokportene (de svage steder i bugvæggen). Hos mænd kan man
+palpere med en lillefingerspids, der invagineres igennem scrotum og
+føres ind i ingvinalkanalen. Føles herniet som et lille stød mod fingerspidsen
+ved bugpresseaktivering, taler man om »anslag ved hoste«. Et
+hernie skal altid undersøges for ømhed, man skal stetoskopere det for
+tarmlyde, og man skal forsøge om det er *reponibelt*, dvs. om det kan
+stoppes tilbage i abdominalhulen.Med en eller flere fingerspidser forsøger
+man forsigtigt at massere herniet ind igennem brokportene; man
+skal ikke bruge voldsomme kræfter, og det skal ikke gøre ondt på patienten.
+Hos mænd med lyskebrok skal man altid palpere scrotum: Er der
+brokindhold i scrotum? Er begge testes i scrotum, eller er der manglende
+descensus?
+
+**Lyske- og lårbrok**
+
+* Undersøg den stående patient.
+* Identificér lig. inguinale.
+* Frembuling over eller under ligamentet?
+* Bugpresseaktivering: Hoste, løfte noget tungt.
+* Reponiblet eller irreponibelt? Ømhed? Tarmlyde?
+* Scrotum: Hernie? Begge testes i scrotum?
+
+Et hernie kan afklemmes (inkarcerere) og give voldsomme smerter og
+evt. symptomer på obstruktiv ileus. Lyskeundersøgelse er derfor obligatorisk
+hos alle patienter med akut abdomen.
+
 Endetarm (rectum)
 -----------------
+
+Rektalundersøgelse er obligatorisk hos alle mænd med urinvejssymptomer,
+hos alle patienter med akut abdomen, og hos patienter med diaré,
+blod og slim i afføringen og med symptomer fra anus (kløe, smerter).
+Ved akutte tilfælde af lænderygssmerter med radikulære symptomer er
+en rektalundersøgelse nødvendig for at udelukke *cauda equina*-syndrom
+(afklemning af cauda eqvina, der medfører slap sfinkter ani og nedsat
+sensibilitet i ridebukseområdet). Rektalundersøgelse gennemføres bedst
+med patienten i venstre sideleje, med sædet skudt ud til kanten af undersøgelsesbriksen
+og benene trukket op. Alternativt kan man gøre det med
+patienten i rygleje med let optrukne og spredte ben. Ligger patienten på
+flersengsstue, skal man *altid* sørge for en afskærmning eller flytte patienten
+på enestue.
+
+**Inspektion**
+
+Nates (ballerne) spredes, så analåbningen blottes. Lokaliseringen af forandringer
+i analomgivelserne beskrives ud fra en imaginær urskive (Fig.
+7.8.). Hyppigt ses et *perianalt eksem* som eventuelt kan give patienten
+kløe (*pruritus ani*). En *analfissur* ses typisk kl. 6 med en lille hudlap
+(»sentinel pile«) for enden af fissuren; fissurer er udtalt ømme. *Marisker*
+er små hudlapper i analkanten, der repræsenterer en sammenfalden, ekstern
+hæmoride. *Tromboserede eksterne hæmorider* findes som små,
+ømme, blåviolette og spændte »bær« i analkanten. Hos patienter med
+pludseligt opståede radikulære symptomer testes for anokutan-refleks og
+sensibilitet i ridebukseområdet.
+
+**Eksploration (exploratio rectalis)**
+
+Ved rektaleksploration bruges højre hånds pegefinger. Påfør rigeligt
+eksplorationscreme og pres forsigtigt finger\ *pulpa* mod analåbningen.
+Sfinkter skal ikke forceres med kraft, men relakserer sig ved et langsomt,
+forsigtigt pres. Snak til patienten imens og forklar, hvad du gør.
+En overrumplende rektaleksploration er en meget ubehagelig oplevelse
+for patienten. Efter at sphincter er relakseret, indføres fingeren forsigtigt
+– men så dybt som muligt – i retning kranielt-bagud med fingerpulpa
+mod os sacrums forflade. Efter at fingeren er indført, venter man et øjeblik
+med selve eksplorationen og kan eventuelt bede patienten om at
+knibe kraftigt om fingeren imens: Herved slapper patienten ofte bedre
+af, og man får samtidig testet sphincterfunktionen.
+
+Selve eksplorationen indledes med en vifteformet palpation af rectums
+bagvæg mod os sacrum. Man eksplorerer for udfyldninger. Interne
+hæmorider kan ikke mærkes ved eksplorationen – de skal ses ved en
+senere anoskopi. Ved obstipation kan man ved eksplorationen mærke
+hårde faecesknolde i rectum. Ved at føre fingeren lateralt til begge sider
+kan man finde ømhed ved f.eks. appendicitis, salpingitis eller ekstrauterin
+graviditet.
+
+<html5media>File:FIG7-8.mp3</html5media>
+
+.. figure:: Figurer/FIG7-8_png.png
+   :width: 500 px
+   :alt:  Fig. 7.8 Lokaliseringen af forandringer i analomgivelserne beskrives ud fra en imaginær urskive.
+
+   **Fig. 7.8** Lokaliseringen af forandringer i analomgivelserne
+   beskrives ud fra en imaginær urskive. På billedet ses en
+   ekstern hæmoride kl. ca. 5.
+
+Herefter drejes fingeren 180°, og man undersøger rectums forvæg i
+vifteformede bevægelser under tilbagetrækning af fingeren. 
+
+Hos *mænd* bemærkes prostatas størrelse, form og konsistens. Den normale prostata
+er af størrelse som en kastanje (2 × 3 × 4 cm); man kan som regel nå
+overkanten, bagfladen er symmetrisk med en tydelig median fure og
+konsistensen er fast elastisk (gummiagtig). Er prostatas bagflade asymmetrisk,
+evt. med »vingedannelser«, udslettet midterfure og en hård,
+knudret konsistens, kan dette tyde på cancer prostata. Ved prostatitis er
+prostata øm, og ved betændelse i vesicula seminalis kan disse palperes
+som forstørrede og ømme (de normale sædblærer kan ikke palperes).
+
+Hos *kvinder* kan man dybt gennem rectums forvæg palpere portio som
+en rund, fast udfyldning. En bagoverbøjet (retroflekteret) uterus eller et
+fibrom er andre fund hos kvinder ved rektaleksploration. Af og til udføres
+rektaleksploration hos kvinder som en del af GU (rektalvaginaleksploration)
+(se side 131).
+
+Efter at fingeren er fjernet fra anus, inspiceres den, og man bemærker,
+om der er normalt udseende faeces på handsken, eller om der er melaena,
+frisk blod eller slim. Efter undersøgelsen hjælper man patienten til at
+tørre sig bagi med blødt papir.
