@@ -1,0 +1,19 @@
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* Kapitler
+** 0_Forord|0 Forord
+** 1_Mødet_mellem_læge_og_patient|1 Mødet mellem læge og patient
+** 2_Sygehusjournalen|2 Sygehusjournalen
+** 3_Indlæggelsesnotatet|3 Indlæggelsesnotatet
+** 4_Almene_symptomer_og_fund|4 Almene symptomer og fund
+** 5_Hjertet|5 Hjertet
+** 6_Lunger_og_luftveje|6 Lunger og luftveje
+** 7_Mave-tarm-systemet|7 Mave-tarm-systemet
+** 8_Nyrer,_urinveje_og_mandlige_kønsorganer|8 Nyrer, urinveje og mandlige kønsorganer
+** 16_Stikordsregister|16 Stikordsregister
+* SEARCH
+* TOOLBOX
+* LANGUAGES
