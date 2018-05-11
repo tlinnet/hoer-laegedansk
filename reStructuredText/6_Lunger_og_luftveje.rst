@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP6_83.mp3</html5media>
+
 * Åndedrætsorganerne inddeles i de øvre luftveje, der strækker sig fra
   næsen til struben, og de nedre luftveje, der går til lungernes alveoli.
 * En besværet og hvæsende vejrtrækning er karakteristisk for lungepatienten.
@@ -20,10 +22,14 @@
 Symptomer
 =========
 
+<html5media>File:KAP6_83_2.mp3</html5media>
+
 De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
 
 **Luftveje**
 
+<html5media>File:BOKS83.mp3</html5media>
+
 * Har du åndenød?
 * Piber og hvæser det, når du trækker vejret? Gør det ondt?
 * Har du hoste?
@@ -31,6 +37,8 @@ De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
 
 Åndenød (dyspnø)
 ----------------
+
+<html5media>File:KAP6_84.mp3</html5media>
 
 De fleste lungesygdomme giver åndenød. Patienten oplever det typisk
 som besværet eller anstrengt vejtrækning og bruger udtryk som 
@@ -41,6 +49,8 @@ lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniv
 
 **Åndenød**
 
+<html5media>File:BOKS84.mp3</html5media>
+
 * Er vejrtrækningsbesværet nyligt opstået?
 * Har du konstant åndenød, eller kommer det i anfald?
 * Hvilke gøremål har du svært ved på grund af åndenød?
@@ -48,6 +58,8 @@ lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniv
 * Er der noget, der gør din vejrtrækning bedre?
 
 **Årsager til åndenød – akut eller kronisk?**
+
+<html5media>File:BOKS84B.mp3</html5media>
 
 +---------------+-----------+----------+----------------------------+
 | **Minutter**  | **Timer** | **Dage** |  **Måneder/år**            |
@@ -70,6 +82,8 @@ hjerte- og lungesygdom.
 
 **Hyperventilationstilfælde**
 
+<html5media>File:BOKS85.mp3</html5media>
+
 * Åndenød uafhængig af fysisk aktivitetsniveau
 * Inspiratorisk åndenød
 * Paræstesier i fingre og omkring munden
@@ -78,6 +92,8 @@ hjerte- og lungesygdom.
 
 Hvæsen og piben
 ---------------
+
+<html5media>File:KAP6_85.mp3</html5media>
 
 Pibende eller hvæsende vejtrækning er et symptom på forsnævring af de
 nedre luftveje. Patienterne er ikke altid selv opmærksomme på, at deres
@@ -93,6 +109,8 @@ trachea eller slimhindeødem i strubehovedet (*laryngitis*).
 
 Hoste (tussis)
 --------------
+
+<html5media>File:KAP6_85_2.mp3</html5media>
 
 Hoste er et almindeligt symptom og en hyppig årsag til henvendelse hos
 praktiserende læge. Hoste udløses af receptorer i phraynx, larynx, trachea
@@ -112,6 +130,8 @@ symptom på en lungecancer. En ikke ualmindelig – men ofte overset –
 
 **Hoste**
 
+<html5media>File:BOKS86.mp3</html5media>
+
 * Er det en tør hoste, eller kommer der slim med op?
 * Ryger du?
 * Har du halsbrand eller for meget mavesyre?
@@ -126,6 +146,8 @@ f.eks. føre til udredning for tuberkulose.
 
 Opspyt (sputum og haemoptysis)
 ------------------------------
+
+<html5media>File:KAP6_86.mp3</html5media>
 
 Slim, der hostes op fra bronkierne, kaldes *sputum* eller *ekspektorat*, men
 har desværre fået den dårlige danske betegnelse »opspyt«. Det kan være
@@ -143,12 +165,16 @@ initialt en tør hoste, senere evt. rustrødt ekspektorat.
 
 **Opspyt**
 
+<html5media>File:BOKS86B.mp3</html5media>
+
 * Hvilken farve har opspyttet?
 * Hvor ofte har du opspyt – er det altid eller kun af og til?
 * Hvor meget kommer der?
 * Sejt eller tyndt? (Er det svært at få det op?)
 
 **Opspyt**
+
+<html5media>File:BOKS87.mp3</html5media>
 
 ==========================  ==========================
 **Udseende**                **Diagnoseforslag**
@@ -175,6 +201,8 @@ af kvalme og hæmoptyse er ofte ledsaget af hoste.
 Brystmerter
 -----------
 
+<html5media>File:KAP6_87.mp3</html5media>
+
 Lungerne og det viscerale blad af pleura har ingen smertereceptorer. Det
 har derimod det parietale blad, brystvæggen og strukturerne i mediastinum.
 Typiske årsager til irritation af *pleura parietalis* er lungebetændelse
@@ -199,11 +227,15 @@ f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
 
 **Brystsmerter**
 
+<html5media>File:BOKS88.mp3</html5media>
+
 * Kan du beskrive smerterne (skarpe og stikkende; dybe og
   borende eller overfladiske og brændende)?
 * Er de konstante eller i takt med, at du trækker vejret?
 
 **Brystsmerter**
+
+<html5media>File:BOKS88B.mp3</html5media>
 
 +----------------------+-----------------+------------------------+
 | Symptomer            | Smertetyper     | Diagnoseforslag        |
@@ -242,6 +274,8 @@ hjertesygdom* som differentialdiagnose (se side 69-71).
 Objektiv undersøgelse
 =====================
 
+<html5media>File:KAP6_89.mp3</html5media>
+
 Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen
 af *almentilstanden* med speciel fokus på farve, perifer cirkulation,
 respiration og hydrering, ligesom man altid skal måle puls, blodtryk,
@@ -249,6 +283,8 @@ temperatur og respirationsfrekvens (se kapitel 4). *Central cyanose* er
 et kardinaltegn på inkompenseret lungesygdom.
 
 **Ændret vejrtrækningsmønster**
+
+<html5media>File:BOKS89.mp3</html5media>
 
 +---------------+--------------------------+----------------------------+
 | Betegnelse    | Type                     | Årsag                      |
@@ -273,6 +309,8 @@ Antallet af respirationer pr. minut tælles. Den normale respirationsfrekvens
 er i hvile 12-16 × min–1. En hurtig respiration benævnes *takypnø.*
 
 **Cyanose (blålig misfarvning)**
+
+<html5media>File:BOKS90.mp3</html5media>
 
 +---------------+---------------------------+--------------------------+
 | Betegnelse    | Type                      | Årsag                    |
@@ -317,6 +355,8 @@ og lymfeglandlerne på halsen (se kapitel 4).
 Inspektion
 ----------
 
+<html5media>File:KAP6_91.mp3</html5media>
+
 Thorax’ *form* bemærkes. Et hyperinflateret, tøndeformet thorax er
 karakteristisk for patienten med rygerlunger. Andre synlige deformiteter
 af brystvæggen beskrives. *Pectus excavatum* eller »tragtbryst« er ikke helt
@@ -336,6 +376,8 @@ er respirationen hovedsageligt diafragmatisk.
 
 **Inspektion**
 
+<html5media>File:BOKS91.mp3</html5media>
+
 * Thorax’ form?
 * Egal bevægelighed?
 * Medbevægelighed af abdomen?
@@ -349,6 +391,8 @@ men kan også være smertebetinget som ved lokal pleurit.
 Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og
 man kan med fordel palpere symmetrien (se Fig. 6.1).
 
+<html5media>File:FIG6-1.mp3</html5media>
+
 .. figure:: Figurer/FIG6-1_png.png
    :width: 700 px
    :alt:  Fig. 6.1 Vurdering af asymmetri i thorax’ bevægelighed.
@@ -359,6 +403,8 @@ man kan med fordel palpere symmetrien (se Fig. 6.1).
 
 Palpation
 ---------
+
+<html5media>File:KAP6_92.mp3</html5media>
 
 Start palpationen med at føle tracheas position. Trachea kan være forskudt
 ved udfyldninger i mediastinum (f.eks. struma og cancer) og ved
@@ -383,9 +429,13 @@ costa er en årsag man altid bør have for øje hos cancerpatienten.
 Perkussion
 ----------
 
+<html5media>File:KAP6_92_2.mp3</html5media>
+
 Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der
 ligger umiddelbart over lungeapex. Herefter arbejder du dig symmetrisk
 ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
+
+<html5media>File:FIG6-2.mp3</html5media>
 
 .. figure:: Figurer/FIG6-2_png.png
    :width: 700 px
@@ -397,11 +447,15 @@ ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
 
 **Palpation**
 
+<html5media>File:KAP6_93.mp3</html5media>
+
 * Trachea midtstillet?
 * Stabilt thorax?
 * Ømhed?
 * Andre frakturtegn?
 * Subkutant emfysem?
+
+<html5media>File:FIG6-3.mp3</html5media>
 
 .. figure:: Figurer/FIG6-3_png.png
    :width: 500 px
@@ -443,9 +497,13 @@ kan f.eks. ikke udelukke pneumothorax eller pneumoni ved undersøgelsen
 Auskultation (stethoscopia pulmonum; st.p., lungestetoskopi)
 ------------------------------------------------------------
 
+<html5media>File:KAP6_94.mp3</html5media>
+
 De fleste foretrækker at bruge membransiden af stetoskopet ved lungestetoskopi,
 men hos tynde, benede patienter eller meget behårede patienter
 kan det være en fordel at bruge klokken. Bed patienten om at tage
+
+<html5media>File:FIG6-4.mp3</html5media>
 
 .. figure:: Figurer/FIG6-4_png.png
    :width: 500 px
@@ -493,6 +551,8 @@ og pleurale gnidningslyde.
 
 **Lungestetoskopi**
 
+<html5media>File:KAP6_95.mp3</html5media>
+
 * Vesikulære eller bronkiale respirationslyde?
 * Afsvækkede respirationslyde?
 * Stemmefænomener?
@@ -500,6 +560,8 @@ og pleurale gnidningslyde.
 * Bilyde?
 
 **Bilyde**
+
+<html5media>File:KAP6_96.mp3</html5media>
 
 +-------------------+-------------------------------+-----------------------------------+
 | **Betegnelse**    | **Type**                      | **Årsag**                         |
