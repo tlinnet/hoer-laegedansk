@@ -22,7 +22,7 @@ wpages = [
     #"4_Almene_symptomer_og_fund",
     #"5_Hjertet",
     #"6_Lunger_og_luftveje",
-    #"7_Mave-tarm-systemet"
+    "7_Mave-tarm-systemet"
     "8_Nyrer,_urinveje_og_mandlige_kønsorganer",
 ]
 

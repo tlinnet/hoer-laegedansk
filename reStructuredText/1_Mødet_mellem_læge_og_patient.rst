@@ -31,6 +31,8 @@ anviste behandling).
 
 **Patienttilfredshed**
 
+<html5media>File:BOKS15.mp3</html5media>
+
 ::
 
   En stor amerikansk undersøgelse af videooptagede konsultationer

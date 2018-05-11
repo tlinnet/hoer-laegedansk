@@ -12,6 +12,8 @@ Anamnesen er patientens formulering af det problem, der bringer ham/ hende til l
 
 '''Patienttilfredshed'''
 
+&lt;html5media&gt;File:BOKS15.mp3&lt;/html5media&gt;
+
 <pre>En stor amerikansk undersøgelse af videooptagede konsultationer
 viste, at læger, der aldrig havde haft klagesager, adskilte
 sig signifikant fra læger med klagesager ved at:
