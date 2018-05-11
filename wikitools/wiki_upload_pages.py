@@ -21,7 +21,8 @@ wpages = [
     #"3_Indlæggelsesnotatet",
     #"4_Almene_symptomer_og_fund",
     #"5_Hjertet",
-    "6_Lunger_og_luftveje"
+    "6_Lunger_og_luftveje",
+    "7_Mave-tarm-systemet"
 ]
 
 # loop over pages

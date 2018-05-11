@@ -27,7 +27,7 @@ Symptomer
 De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
 
 **Luftveje**
-
+
 <html5media>File:BOKS83.mp3</html5media>
 
 * Har du åndenød?
