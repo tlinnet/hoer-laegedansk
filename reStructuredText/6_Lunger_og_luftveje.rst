@@ -357,12 +357,193 @@ man kan med fordel palpere symmetrien (se Fig. 6.1).
    patientens bryst, så tommelfingrene netop mødes i eksspirationen. Men pas på at
    holde dine tommelfingre fuldstændigt i ro under inspirationen.
 
-
 Palpation
 ---------
+
+Start palpationen med at føle tracheas position. Trachea kan være forskudt
+ved udfyldninger i mediastinum (f.eks. struma og cancer) og ved
+pneumothorax, hvor trachea forskydes *væk* fra den syge side. Thorax
+skal *altid* palperes hos traumepatienten. Det vigtigste er vurderingen af,
+om thorax er stabilt (eller ustabilt pga. multiple costafrakturer), og om
+der er smerte. En grov undersøgelse for indirekte ømhed (tegn på brud)
+af ribben er at trykke ind på sternum. Hos traumepatienten skal man
+palpere alle ribben i hele deres forløb. *Costafrakturer* (brækkede ribben)
+afslører sig ved smerte, løshed og *strepitus* (grov skuren, der føles eller
+høres, når de to knogleender skraber mod hinanden). Costafrakturen er
+primært en klinisk diagnose – hovedformålet med det efterfølgende
+røntgenbillede er ikke at finde frakturerne, men at udelukke pneumothorax!
+Ved mistanke om pneumothorax er det også vigtigt at palpere
+huden på øvre thorax for *subkutant emfysem* (udsivning af luft i underhuden),
+der har en knitrende »sneboldsagtig« fornemmelse.
+
+Lokal ømhed af brystvæggen kan også skyldes forandringer i brusk,
+bindevæv og muskler.Myoser er langt den hyppigste årsag.Metastaser til
+costa er en årsag man altid bør have for øje hos cancerpatienten.
 
 Perkussion
 ----------
 
+Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der
+ligger umiddelbart over lungeapex. Herefter arbejder du dig symmetrisk
+ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
+
+.. figure:: Figurer/FIG6-2_png.png
+   :width: 700 px
+   :alt:  Fig. 6.2 De normale lungegrænser.
+
+   **Fig. 6.2** De normale lungegrænser.
+   Læg mærke til, at lungerne når længere ned bagtil end på
+   forfladen, hvor de kun når til 6. costa.
+
+**Palpation**
+
+* Trachea midtstillet?
+* Stabilt thorax?
+* Ømhed?
+* Andre frakturtegn?
+* Subkutant emfysem?
+
+.. figure:: Figurer/FIG6-3_png.png
+   :width: 500 px
+   :alt:  Fig. 6.3 Perkussion af lungerne.
+
+   **Fig. 6.3** Perkussion af lungerne.
+   Højre hånds strakte langfinger
+   holdes parallelt med en forventet
+   linje for, hvor man kan finde evt.
+   dæmpning, det vil som regel sige
+   vandret. Brug venstre hånds
+   langfinger til at slå (perkutere)
+   over den første hånds langfinger.
+   Perkutér i intercostalrummene.
+   Start oppefra, sammenlign hele
+   tiden de to sider på samme
+   niveau, og bevæg dig distalt.
+
+over kors ved perkussion af bagfladen, så scapulae drejes fri.
+Sammenlign hele tiden de to siders perkussionslyd.
+
+Det normale fund ved perkussion af lungerne er en *resonant* perkussionslyd,
+dvs. en svag, kortvarig genklang af dit slag med fingeren. Ved
+øget mængde luft i lungerne – som det det ses ved pneumothorax og
+lungeemfysem – kan der være øget resonans, med en nærmest rungende
+lyd. Tænk på en tom tønde! Hvis luften er fortrængt, som det ses ved
+pneumoni, fibrose eller *atelektase* (sammenklappet lungelap), er der
+*dæmpning*, dvs. nedsat eller manglende genklang.Mest udtalt er dæmpningen
+ved pleurale effusioner, dvs. væske imellem de to pleurablade.
+Tænk på en fyldt tønde!
+
+Graden af resonans afhænger af thoraxvæggens beskaffenhed. Hos
+tykke og muskuløse patienter er der mindre resonans, men denne
+dæmpning vil være symmetrisk på begge sider af thorax. Perkussion af
+thorax er under alle omstændigheder en uspecifik undersøgelse.Man
+kan f.eks. ikke udelukke pneumothorax eller pneumoni ved undersøgelsen
+– et røntgenbillede af thorax er obligat ved mistanken.
+
 Auskultation (stethoscopia pulmonum; st.p., lungestetoskopi)
 ------------------------------------------------------------
+
+De fleste foretrækker at bruge membransiden af stetoskopet ved lungestetoskopi,
+men hos tynde, benede patienter eller meget behårede patienter
+kan det være en fordel at bruge klokken. Bed patienten om at tage
+
+.. figure:: Figurer/FIG6-4_png.png
+   :width: 500 px
+   :alt:  Fig. 6.4 Auskultation af lungerne.
+
+   **Fig. 6.4** Auskultation af lungerne.
+   Flyt systematisk stetoskopet
+   i en zig-zag bevægelse,
+   så du hele tiden sammenligner
+   siderne. Lyt hvert sted over en
+   hel in- og eksspiration.
+   
+dybe ind- og udåndinger i roligt tempo, gerne med åben mund. Det
+nemmeste er at vise patienten, hvad man mener, ved selv at demonstrere
+det. Start fra apices og bevæg dig systematisk ned langs forfladen, mens
+du hele tiden sammenligner de to sider. Stetoskoper herefter side- og
+bagflader med samme systematik.
+
+Den normale respirationslyd benævnes *vesikulær respiration*. Den høres
+som en svag, hvislende lyd i inspirationen, men taber sig i eksspirationen.
+Respirationslydene produceres i trachea og bronkier, men afsvækkes
+ved passagen igennem lungevævet. Hvis vævet er lufttomt og konsolideret,
+som f.eks. ved pneumoni eller *atelektase* (sammenklappet lungelap),
+vil lydene høres tydeligere som *bronkial respirationslyd*. Den høres som
+en tydeligere lyd, der virker »tættere på«, og som høres ligeligt i inspiration
+og eksspiration, men med en pause imellem de to faser. Lyden kan
+simuleres ved at lytte med stetoskopet over trachea. Et tilsvarende fund
+er *vokal resonans* (også kaldet *stemmefænomen*).Man beder patienten
+sige »33« mens man stetoskoperer. Lyden vil være forøget over et lufttomt
+og konsolideret område og være afsvækket ved pneumothorax og
+pleural ansamling.
+
+Respirationslydene kan være kraftigt svækket hos f.eks. adipøse mennesker
+eller ved pneumothorax og pleurale ansamlinger. Respirationslydene
+kan også helt mangle (»tyst thorax«) som det f.eks. ses ved alvorlig
+akut astma, hvor luftpassagen er reduceret så meget, at der ikke produceres
+lyde. Undlad at bruge frasen »nedsat luftskifte«, når der er svækkede
+respirationslyde – det er ikke nødvendigvis det samme. Ved KOL er
+eksspirationsfasen forlænget (»forlænget eksspirium«).
+
+Den bronkiale respirationslyd er en *mislyd*, dvs. en abnorm respirationslyd.
+*Bilydene* er derimod ekstralyde, der kan høres oven i enten
+bronkial eller vesikulær respiration. De vigtigste bilyde er rhonchi, rallelyde
+og pleurale gnidningslyde.
+
+**Lungestetoskopi**
+
+* Vesikulære eller bronkiale respirationslyde?
+* Afsvækkede respirationslyde?
+* Stemmefænomener?
+* Forlænget eksspiration?
+* Bilyde?
+
+**Bilyde**
+
++-------------------+-------------------------------+-----------------------------------+
+| **Betegnelse**    | **Type**                      | **Årsag**                         |
++===================+===============================+===================================+ 
+| **Rallelyde:**    |                               |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| *sekretraslen*    | Grove lyde fra sekret i de    | * Bronkitis (= snot)              |
+|                   | store bronkier, der rasler    |                                   |
+|                   | frem og tilbage under         |                                   |
+|                   | respirationen.                |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| *krepitationer*   | Finere, knitrende lyde i      | * Lungestase                      |
+|                   | inspirationen, som når        | * Pneumoni                        |
+|                   | man ruller lidt hovedhår      | * Lungefibrose                    |
+|                   | eller vat mellem fingrene.    | * Som udfoldelses-                |
+|                   | Frembringes, når små,         |   krepitationer hos rygere        |
+|                   | sammenklistrede rum           |   forsvinder efter et par         |
+|                   | blæses op eller åbnes.        |   dybe indåndinger.               |
++-------------------+-------------------------------+-----------------------------------+
+| **Rhonchi:**      |                               |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| *sibilerende*     | Fløjtende eller pibende       | * astma anfald                    |
+|                   | lyde                          | * kronisk obstruktiv              |
+|                   |                               |   lungelidelse (KOL)              |
+|                   | Rhonchi høres                 | * en enkelt rhonchi               |
+|                   | hovedsageligt i               |   kan skyldes forsnævring         |
+|                   | eksspirationen. Ofte          |   pga. tumor eller fremmedlegeme  |
+|                   | som en hel »koncert«*         | * der er ingen sammenhæng         |
+|                   | eller *kakofoni*              |   mellem mængden                  |
+|                   | af forskellige lyde.          |   og typen af rhonchi og          |
+|                   | Frembringes                   |   graden af lungesygdom           |
+|                   | af forsnævringer              |                                   |
+|                   | i bronkietræet.               |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| *sonore*          | Snorkende og brummende,       |                                   |
+|                   | »musikalske« lyde             |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| **Pleurale**      | En skrabende lyd, som         | * Pleurit,                        |
+| **gnidningslyde** | hvis du lægger en             | * pneumoni,                       |
+|                   | håndflade over dit øre,       | * lungeemboli.                    |
+|                   | og gnider med den anden       | * Ofte høres bilyden              |
+|                   | hånds fingre ovenpå.          |   tydeligst der, hvor             |
+|                   | Skyldes inflammation          |   patienten har sine              |
+|                   | mellem de pleurale blade,     |   smerter.                        |
+|                   | der skraber mod hinanden      |                                   |
+|                   | ved respirationen.            |                                   |
++-------------------+-------------------------------+-----------------------------------+
