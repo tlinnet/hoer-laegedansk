@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP9_127.mp3</html5media>
+
 * Mavesmerter hos kvinder kan differentialdiagnostisk være svære.
   Tænk på både sygdomme i de kvindelige kønsorganer og på sygdomme
   i mave-tarm-kanal og i urinveje.
@@ -19,6 +21,8 @@
 Symptomer
 =========
 
+<html5media>File:KAP9_127_2.mp3</html5media>
+
 De vigtigste symptomer ved lidelser i de kvindelige kønsorganer er blødningsforstyrrelser,
 smerter og udflåd. Urinvejssymptomer er meget hyppige
 ved gynækologiske lidelser, hvorfor der også skal spørges til disse (se
@@ -26,6 +30,8 @@ kapitel 8). Det er altid vigtigt at vide, om en kvindelig patient er gravid –
 uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 
 **Gynækologi**
+
+<html5media>File:BOKS127.mp3</html5media>
 
 * Har du regelmæssige menstruationer?
 * Har du underlivssmerter?
@@ -37,11 +43,15 @@ uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 Blødningsforstyrrelser
 ----------------------
 
+<html5media>File:KAP9_128.mp3</html5media>
+
 Den normale menstruation varer 2-7 dage med et interval på 21-35 dage.
 Tager kvinden p-piller, bør hendes cyklus følge pillepakkens »cyklus«.
 Omkring menarche og menopause samt ved store vægtændringer er det
 
 **Blødningsforstyrrelser**
+
+<html5media>File:BOKS128A.mp3</html5media>
 
 * Hvor mange dage varer dine menstruationer, og hvor mange
   dage er der imellem?
@@ -49,6 +59,9 @@ Omkring menarche og menopause samt ved store vægtændringer er det
   forventet tid?
 * Hvor kraftige er dine blødninger? (antal bind, klares med trusseindlæg)
 * Hvordan ser det ud? (klumper? vævsrester?)
+
+
+<html5media>File:BOKS128B.mp3</html5media>
 
 +---------------------------+------------------------------------+
 | **Blødningsterminologi**  |                                    |
@@ -85,6 +98,8 @@ hos speciallæge eller på sygehus.
 Underlivssmerter
 ----------------
 
+<html5media>File:KAP9_129.mp3</html5media>
+
 Ved underlivssmerter kan differentialdiagnosen være svær over for smerter
 pga. lidelser i mave-tarm-kanalen eller urinvejene.
 
@@ -93,6 +108,8 @@ hvorfor der skal laves graviditetstest hos alle, uanset hvad kvinden oplyser om 
 og uanset om hun anvender antikonception eller er steriliseret.
 
 **Underlivssmerter**
+
+<html5media>File:BOKS129.mp3</html5media>
 
 * Hvor sidder smerterne (er der sideforskel)?
 * Opstod smerterne pludseligt eller gradvist?
@@ -110,6 +127,8 @@ typisk ses midt imellem to menstruationer.
 Udflåd (fluor)
 --------------
 
+<html5media>File:KAP9_129_2.mp3</html5media>
+
 Det er vigtigt at skelne nyopstået, patologisk udflåd fra gradvise ændringer
 i det fysiologiske udflåd, som ses ved hormonelle forandringer. Udflådets
 udseende (f.eks. grynet og hvidt ved *candida*) og lugt (f.eks.
@@ -119,6 +138,8 @@ feber ved salpingitis.
 
 **Udflåd**
 
+<html5media>File:BOKS130A.mp3</html5media>
+
 * Hvor kraftigt er det (bind eller trusseindlæg)?
 * Beskriv det (farve, konsistens, lugt)!
 * Er der kløe eller brænden ved skedeåbningen?
@@ -126,6 +147,8 @@ feber ved salpingitis.
 
 Hormoner og antikonception
 --------------------------
+
+<html5media>File:KAP9_130.mp3</html5media>
 
 Der skal spørges specifikt til hormonbehandling, dvs. post-menopausal
 østrogensubstitution, p-piller eller fertilitetsbehandling.Mange betragter
@@ -137,6 +160,8 @@ en spiral er måske årsagen til patientens mavesmerter.
 Den gravide patient
 -------------------
 
+<html5media>File:KAP9_130_2.mp3</html5media>
+
 En kvindelig patient i den fertile alder skal altid udspørges om graviditet.
 En evt. graviditet kan måske forklare symptomerne.Men også selvom
 selve graviditeten er symptomfri, er det væsentligt for den videre undersøgelse
@@ -146,6 +171,8 @@ problemer i selve graviditeten, og man skal *altid* anføre i journalen, hvor
 langt hun er henne i graviditeten.
 
 **Den gravide patient**
+
+<html5media>File:BOKS130B.mp3</html5media>
 
 * Kunne du være gravid?
 * Hvor langt er du henne/Hvornår har du termin?
@@ -163,6 +190,8 @@ skedesvamp, åreknuder, hæmorider, forstoppelse og blødende tandkød.
 Objektivt	
 =========
 
+<html5media>File:KAP9_131.mp3</html5media>
+
 Man starter altid med en almindelig ydre undersøgelse af abdomen
 (se kapitel 7). Måske kan man umiddelbart erkende f.eks. en forstørret
 uterus. Ved lidelser i genitalia interna vil man typisk finde ømhed ved
@@ -170,6 +199,8 @@ palpation lavt i nedre abdomen lige over symfysen og ingvinal-ligamenterne.
 
 Den gynækologiske undersøgelse (GU)
 -----------------------------------
+
+<html5media>File:KAP9_131_2.mp3</html5media>
 
 Kvinder med gynækologiske symptomer eller mavesmerter (uanset om
 man mistænker en gynækologisk årsag) skal have foretaget en gynækologisk
@@ -196,6 +227,8 @@ til den immobile patient.
 
 **Den vellykkede GU**
 
+<html5media>File:BOKS132.mp3</html5media>
+
 * Uforstyrret lokale med et afskærmet hjørne, hvor pt. kan klæde sig af.
 * Hav altid en assistent.
 * Sørg for at instrumenter, podepinde m.v. er inden for
@@ -218,6 +251,8 @@ til den immobile patient.
   
 **Inspektion**
 
+<html5media>File:KAP9_132.mp3</html5media>
+
 Hudomgivelserne undersøges for tegn på hud- og kønssygdomme, f.eks.
 *kondylomer* (kønsvorter) eller herpes genitalis. Labia majores undersøges
 for tegn på infektion i Bartholins kirtel (*bartholinitis*). Labia spredes med
@@ -227,6 +262,9 @@ fugtig som tegn på adækvat østrogentilførsel, eller om slimhinden er
 atrofisk (tør og »sprukken«).Man beder patienten hoste eller presse og
 bemærker, om der er nedsynkning eller fremfald af genitalia.
 Inspektionen af vagina og portio foregår ved hjælp af instrumenter
+
+
+<html5media>File:BOKS133.mp3</html5media>
 
 +-------------------------------+--------------------------------------------------+
 | **Nedsynkning og fremfald**   |                                                  |
@@ -306,6 +344,8 @@ rødt med koagler og evt. vævsklumper.Man vil ofte afslutte sin inspektion
 med at tage podninger eller celleskrab fra cervix.
 
 **Eksploration**
+
+<html5media>File:KAP9_134.mp3</html5media>
 
 Ved eksplorationen anvendes højre hånds 2. og 3. finger. Drej tommelfingeren
 væk fra clitoris (se Fig. 9.6). Fingrene indføres langsomt, mens
