@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP7_97.mp3</html5media>
+
 * Mave-tarm-systemet omfatter fordøjelseskanalen fra mund til anus
   med de tilhørende store kirtelsystemer: lever, galdeveje og pancreas.
 * Kvalme, opkastning og forstoppelse skyldes hyppigt lidelser i mave-
@@ -19,11 +21,15 @@
 Symptomer
 =========
 
+<html5media>File:KAP7_97_2.mp3</html5media>
+
 De vigtigste symptomer fra mave-tarm-systemet er kvalme, opkastninger,
 synkebesvær, mavesmerter samt ændret afføringsmønster, herunder
 blødning.
 
 **Mave-tarm-systemet**
+
+<html5media>File:BOKS97.mp3</html5media>
 
 * Har du kastet op eller haft kvalme?
 * Har du problemer med at synke maden?
@@ -42,12 +48,16 @@ mave-tarm-lidelser (se kapitel 4).
 Kvalme (nausea) og opkastning (emesis)
 --------------------------------------
 
+<html5media>File:KAP7_98.mp3</html5media>
+
 Kvalme er fornemmelsen af, at man skal kaste op, men den behøver ikke
 at være ledsaget af opkastninger. Opkastning er en voldsom sammentrækning
 og udtømmelse af mavesækken; som regel lindres kvalmen ved
 opkastninger.
 
 **Kvalme og opkastning**
+
+<html5media>File:BOKS98.mp3</html5media>
 
 * Har du kvalme konstant eller kun en gang imellem?
 * Hvordan ser opkastet ud? Føderester? Frisk blod?
@@ -68,6 +78,8 @@ brunt, ildelugtende opkast, der typisk ses ved ileus-tilstande (tarmslyng).
 Synkebesvær (dysfagi)
 ---------------------
 
+<html5media>File:KAP7_98_2.mp3</html5media>
+
 Synkebesvær er, når maden »sidder fast« i halsen. Det kan være det første
 symptom på kræft i spiserøret, udposninger på spiserøret eller
 inflammation i mund eller hals.
@@ -77,6 +89,8 @@ måltiderne indtages uden problemer. Ofte findes ingen organisk årsag.
 
 Halsbrand (pyrosis)
 -------------------
+
+<html5media>File:KAP7_99.mp3</html5media>
 
 Halsbrand er en sviende og brændende smerte bag brystbenet. Symptomet
 er et tegn på irritation af slimhinden i oesophagus, og den hyppigste
@@ -91,6 +105,8 @@ halsbrand, der ses efter overdådige måltider (julefrokosten!) fra
 symptomer på behandlingskrævende reflukssygdom eller alvorlig oesophaguslidelse.
 
 **Halsbrand**
+
+<html5media>File:BOKS99.mp3</html5media>
 
 * Beskriv smerten! Er den brændende/sviende eller
   voldsom/trykkende?
@@ -108,10 +124,14 @@ hjertesygdom (se kapitel 6).
 Mavesmerter (abdominalia)
 -------------------------
 
+<html5media>File:KAP7_99_2.mp3</html5media>
+
 Forsøg at få en præcis karakteristik af smerterne inkl. forværrende og
 lindrende faktorer.
 
 **Mavesmerter**
+
+<html5media>File:BOKS100.mp3</html5media>
 
 * Hvilken tid på dagen har du ondt?
 * Hvor sidder smerterne? Stråler de nogen steder hen?
@@ -149,6 +169,8 @@ helt ved mavesår.
 Afføringsmønster
 ----------------
 
+<html5media>File:KAP7_101.mp3</html5media>
+
 Nylige ændringer i afføringsmønster, særligt med ledsagende smerter, er
 ofte tegn på organisk sygdom. De vigtigste ændringer i afføringsmønster
 er forstoppelse, diaré og blod i afføringen.
@@ -162,6 +184,8 @@ livsstil (stillesiddende arbejde, fiberfattig kost osv.), og om der er
 umiddelbare forklaringer på eventuelle ændringer (f.eks. medicin).
 
 **Obstipation**
+
+<html5media>File:BOKS101.mp3</html5media>
 
 * Skal du presse meget, eller har du smerter ved afføring?
 * Hvornår havde du sidst afføring?
@@ -185,6 +209,8 @@ denne har normal mængde og udseende. Der er derfor vigtigt med sin
 anamnese at få præciseret problemets omfang.
 
 **Diaré**
+
+<html5media>File:BOKS102A.mp3</html5media>
 
 * Hvor hyppigt har du afføring?
 * Må du skynde dig på toilettet, eller kan du holde dig til en passende lejlighed?
@@ -211,6 +237,8 @@ melaena (som er fælt ildelugtende).
 
 **Blod i afføringen**
 
+<html5media>File:BOKS102B.mp3</html5media>
+
 * Er blodet blandet ind i afføringen, eller er det som striber
   uden på? Er der blodigt kummesprøjt eller blod på toiletpapiret?
 * Har du tidligere haft mave-tarm-sygdomme, f.eks. mavesår,
@@ -225,6 +253,8 @@ ano-rektoskopi (se »Remedier & Teknik«) og evt. gastroskopi og koloskopi.
 Gulsot (icterus)
 ----------------
 
+<html5media>File:KAP7_103.mp3</html5media>
+
 Gulsot er gulfarvning af hud og øjne. *Icterus* er det kliniske fund af gulfarvet
 hud og sclerae. *Hyperbilirubinæmi* er det tilsvarende parakliniske
 fund. Hyppige ledsagesymptomer er kløe og appetitløshed. Anamnesen
@@ -235,6 +265,8 @@ smitsom hepatitis: indvandrere og flygtninge fra endemiske områder,
 intravenøse stofmisbrugere osv.
 
 **Gulsot**
+
+<html5media>File:BOKS103.mp3</html5media>
 
 * Hvilken farve har urin og afføring? Har du hudkløe? Har du
   pludseligt fået svært ved at passe bukserne (ascites)?
@@ -249,6 +281,8 @@ intravenøse stofmisbrugere osv.
 Objektiv undersøgelse	
 =====================
 
+<html5media>File:KAP7_103_2.mp3</html5media>
+
 Mave-tarm-systemet er tilgængelig for direkte klinisk undersøgelse ved
 dets ydre åbninger – mund og endetarm – og for indirekte undersøgelse
 gennem bugvæggen. Hos kvinder med abdominale symptomer foretages
@@ -261,6 +295,8 @@ kan manifestere sig med mavesmerter.
 
 Mund og svælg (cavum oris et fauces)
 ------------------------------------
+
+<html5media>File:KAP7_104.mp3</html5media>
 
 **Inspektion**
 
@@ -307,6 +343,8 @@ Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at sp
 
 Abdomen
 -------
+
+<html5media>File:KAP7_105.mp3</html5media>
 
 Abdomen afgrænses opadtil af ribbenskurvaturen og processus xiphoideus,
 nedadtil af lyskerne og symfysen.
@@ -356,6 +394,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
 
 **Inspektion af abdomen**
 
+<html5media>File:BOKS106.mp3</html5media>
+
 * Fladt eller udspilet?
 * Normal respirationsbevægelighed eller rigidt/indtrukket abdomen?
 * Symmetrisk eller toppet?
@@ -386,6 +426,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
 
 **Palpation af abdomen**
 
+<html5media>File:BOKS107.mp3</html5media>
+
 * Patienten i rygleje med bøjede ben.
 * Afled opmærksomheden fra undersøgelsen. Start længst væk fra smerten.
 * Let palpation: Direkte eller indirekte trykømhed? Slipømhed? *Defénse?*
@@ -394,6 +436,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
   størrelse, form, overflade, konsistens og mobilitet.
 
 **Palpation**
+
+<html5media>File:KAP7_107.mp3</html5media>
 
 Patienten ligger fladt i sengen med let bøjede knæ og hofter og med
 hænderne ned langs siden eller under lænd og sæde. En venlig og interesseret
@@ -461,6 +505,8 @@ omkring sigmoideum (*perisigmoiditis*), som det ses ved f.eks. *diverticulitis c
 Ømhed i nedre abdomen hos en fertil kvinde skal betragtes som
 
 **Stigmata ved leversygdom**
+
+<html5media>File:BOKS109.mp3</html5media>
 
 * *Hos patienter med kronisk leversygdom ser man ofte en række karakteristiske fund (stigmata):*
 * Hepato- og splenomegali
@@ -534,6 +580,8 @@ derfor ofte med en ultralydsundersøgelse.
 
 **Årsager til splenomegali**
 
+<html5media>File:BOKS111.mp3</html5media>
+
 * Mononukleose
 * Levercirrose
 * Leukæmi, lymfomer og myeloproliferative sygdomme
@@ -546,6 +594,8 @@ derfor ofte med en ultralydsundersøgelse.
 I flankerne kan nyrerne palperes (kapitel 8, side 125).
 
 **Perkussion**
+
+<html5media>File:KAP7_111.mp3</html5media>
 
 Teknikken ved perkussion er som beskrevet for lungerne (side 93). Det
 normale perkussionsfund i abdomen er overalt en lyd, som når man slår
@@ -567,6 +617,8 @@ erkendes som en dæmpning, og udbredelsen angives (som f.eks.
 
 **Perkussion af abdomen**
 
+<html5media>File:BOKS112.mp3</html5media>
+
 * Patienten i rygleje. Bevæg de perkuterende fingre fra områder
   med tympanisme til områder med dæmpning.
 * Hepatomegali: dæmpning under højre kurvatur i MCL
@@ -581,6 +633,8 @@ i abdomen (perforeret hulorgan, nylig operation).
 
 **Auskultation**
 
+<html5media>File:KAP7_112.mp3</html5media>
+
 Ved auskultation af abdomen placeres stetoskopets membranside over
 umiblicus. Den normale tarmperistaltik giver normalt nogle boblende
 eller gurglende lyde med intervaller på op til 10 sek.Manglende tarmlyde
@@ -591,6 +645,8 @@ høres disse lyde samtidig med, at patienten angiver kolikagtige smerter.
 
 Lyskerne (regiones inguinales)
 ------------------------------
+
+<html5media>File:KAP7_112_2.mp3</html5media>
 
 De væsentligste objektive fund i lyskerne er lymfadenopati og *hernier*
 (brok). Enkelte små, smuttende og uømme glandler er et normalt fund
@@ -624,6 +680,8 @@ descensus?
 
 **Lyske- og lårbrok**
 
+<html5media>File:BOKS113.mp3</html5media>
+
 * Undersøg den stående patient.
 * Identificér lig. inguinale.
 * Frembuling over eller under ligamentet?
@@ -637,6 +695,8 @@ hos alle patienter med akut abdomen.
 
 Endetarm (rectum)
 -----------------
+
+<html5media>File:KAP7_112_2.mp3</html5media>
 
 Rektalundersøgelse er obligatorisk hos alle mænd med urinvejssymptomer,
 hos alle patienter med akut abdomen, og hos patienter med diaré,

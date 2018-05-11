@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP8_116.mp3</html5media>
+
 * De øvre urinveje omfatter nyrebækkenet og urinlederne (ureteres).
   De nedre urinveje omfatter urinblæren og urinrøret (urethra). De
   mandlige genitalier omfatter penis, pungen, testiklerne og epididymis.
@@ -23,6 +25,8 @@
 Subjektivt
 ==========
 
+<html5media>File:KAP8_116_2.mp3</html5media>
+
 Parenkymatøse nyresygdomme manifesterer sig med almene og uspecifikke
 symptomer som f.eks. træthed og appetitløshed, eller det kliniske
 billede kan være domineret af den primære sygdom, der er årsag til patientens
@@ -36,6 +40,8 @@ blæretømning, *inkontinens*, *hæmaturi* (blod i urinen), og *ødemer*
 (væskeophobning i kroppen).
 
 **Nyrer og urinveje**
+
+<html5media>File:BOKS117.mp3</html5media>
 
 * Svier det, eller gør det ondt, når du tisser?
 * Er du generet af pludselig vandladningstrang?
@@ -56,9 +62,13 @@ nedre urinveje er den gynækologiske anamnese vigtig (kapitel 9).
 Smerter
 -------
 
+<html5media>File:KAP8_117.mp3</html5media>
+
 Smerter er hyppige ved lidelser i urinvejene som nyresten og infektion.
 
 **Smerte**
+
+<html5media>File:BOKS117B.mp3</html5media>
 
 * Er smerten konstant eller turevis?
 * Kom den pludseligt eller snigende?
@@ -94,10 +104,14 @@ manifesterer sig sjældent med smerter.
 Svie og smerte ved vandlanding (dysuri)
 ---------------------------------------
 
+<html5media>File:KAP8_118.mp3</html5media>
+
 Dysuri forårsages af lidelser i urethra eller blære. Anamnesen forsøger at
 afdække øvrige symptomer, der kan give et fingerpeg om diagnosen:
 
 **Dysuri**
+
+<html5media>File:BOKS118.mp3</html5media>
 
 * Er der udflåd fra urinrøret?
 * Er der blodig urin?
@@ -120,6 +134,8 @@ uretersten er andre differentialdiagnoser ved dysuri, urge og hæmaturi.
 Pludselig vandlandingstrang (urge) og hyppige vandladninger (pollakisuri, nykturi)
 ----------------------------------------------------------------------------------
 
+<html5media>File:KAP8_119.mp3</html5media>
+
 En pludselig og uimodståelig (imperiøs) vandladningstrang, *urge*, kan
 være ledsaget af ufrivillig vandladning (*urge-inkontinens*). *Urge*\ -symptomer
 er ofte ledsaget af hyppige vandladninger om dagen (*pollakisuri*) og
@@ -135,6 +151,8 @@ forstyrrelser (f.eks. *diabetes mellitus*).
 Vandladningsbesvær
 ------------------
 
+<html5media>File:KAP8_119_2.mp3</html5media>
+
 Vandladningsbesvær er hyppigst hos mænd, og som regel er årsagen en
 benign prostatahypertrofi. En række symptomer er typiske for denne
 infravesikale (»under blæren«) obstruktion, og symptomkomplekset
@@ -144,6 +162,8 @@ Man kan ikke alene på anamnesen og objektiv undersøgelse afgøre, om
 der er tale om infravesikal obstruktion. Lignende symptomer kan ses ved
 
 **Prostatisme**
+
+<html5media>File:BOKS119.mp3</html5media>
 
 * Hyppig vandladning (*pollakisuri*)
 * Natlig vandladning (*nykturi*)
@@ -163,6 +183,8 @@ ved *cauda equina*-syndrom eller epidural analgesi.
 Ufrivillig vandladning (urininkontinens)
 ----------------------------------------
 
+<html5media>File:KAP8_120.mp3</html5media>
+
 Ufrivillig vandladning (urininkontinens) er hyppigst hos kvinder, men
 ses også hos mænd med prostatisme og hos neurologiske patienter af
 begge køn. Formålet med anamnesen er at få afklaret, hvilken type der er
@@ -170,6 +192,8 @@ tale om, hvor stort et problem det er for patienten, og om der er reversible
 årsager som f.eks. cystitis eller diuretisk behandling.
 
 **Urininkontinens**
+
+<html5media>File:BOKS120.mp3</html5media>
 
 * Er du utæt for urin ved host, hop el. lignende ?
 * Oplever du en pludselig, voldsom vandladningstrang, hvor
@@ -189,6 +213,8 @@ urininkontinens fra en overfyldt blære, der ikke kan tømme sig.
 Blodig urin (hæmaturi)
 ----------------------
 
+<html5media>File:KAP8_120_2.mp3</html5media>
+
 Er blødningen så kraftig, at den misfarver urinen, taler man om *makroskopisk hæmaturi*.
 Ved svær hæmaturi kan der være koagler, urinretention
 og evt. blæretamponade. *Mikroskopisk hæmaturi* er ikke synlig med
@@ -198,6 +224,8 @@ mistænk altid urologisk cancer. Anamnesen fokuserer på at udlede ledsagesympto
 der kan afdække årsagen.
 
 **Hæmaturi**
+
+<html5media>File:BOKS121A.mp3</html5media>
 
 * Svie og smerte ved vandladning?
 * Flankesmerter?
@@ -215,6 +243,8 @@ ikke sige noget specifikt om blødningskildens placering.
 
 **Årsager til hæmaturi**
 
+<html5media>File:BOKS121B.mp3</html5media>
+
 * Urologisk cancer
 * Nyresten
 * Urinvejsinfektion
@@ -228,6 +258,8 @@ Hæmaturi skal altid udredes.
 Vand i kroppen (ødemer)
 -----------------------
 
+<html5media>File:KAP8_122.mp3</html5media>
+
 Vand i kroppen bemærkes af patienten som hævede ankler og fødder
 eller sko og fingerringe, der ikke passer. Ved mere udtalt væskeophobning
 kan patienten også klage over vejrtrækningsbesvær pga. ophobning
@@ -240,6 +272,8 @@ og 12). Det kan være svært alene på anamnesen at afgøre årsagen til ødemer
 
 Objektiv undersøgelse
 =====================
+
+<html5media>File:KAP8_122_2.mp3</html5media>
 
 Man starter altid med en almindelig ydre undersøgelse af abdomen (se
 kapitel 7). Måske kan man umiddelbart erkende f.eks. en fyldt blære.
@@ -264,6 +298,8 @@ relevant.
 Mandlige kønsorganer (genitalia masculina)
 ------------------------------------------
 
+<html5media>File:KAP8_122_3.mp3</html5media>
+
 De mandlige genitalier undersøges ikke rutinemæssigt; kun hvor det er
 relevant. De er let tilgængelige for undersøgelse, og omfatter lemmet
 (*penis*) samt pungen (*scrotum*) med dens indhold: testiklerne (*testes*),
@@ -271,6 +307,8 @@ bitestiklerne (*epididymis*) og sædstrengene (*vas deferens*). Undersøgelsen
 af de mandlige kønsorganer omfatter også en undersøgelse af lyskerne (se side 112).
 
 **Inspektion**
+
+<html5media>File:KAP8_123.mp3</html5media>
 
 Inspicér patienten stående uden benklæder. Er der forandringer af *huden*,
 som f.eks. det karakteristiske røde, skællende udslæt ved lyskesvamp
@@ -289,6 +327,8 @@ uretrit (*chlamydia* eller *gonoré*).
 
 **Palpation**
 
+<html5media>File:KAP8_123_2.mp3</html5media>
+
 Ved palpation af scrotum skal du gå forsigtigt frem. Ved akutte skrotallidelser
 – specielt *torsio testis*, men også ved *epididymitis* (s. 124) – kan
 der være betydelig ømhed. Testes undersøges systematisk – og hele tiden
@@ -299,6 +339,8 @@ konsistens. Er testes forstørret og hård evt. med puklet overflade
 tyder det på *cancer*. Ved testiscancer er testiklen ikke nødvendigvis øm.
 
 **Testiklerne (palpation)**
+
+<html5media>File:BOKS123.mp3</html5media>
 
 * Lejring
 * Mobilitet
@@ -351,6 +393,8 @@ kirurgisk eksploration ved mistanke om torsio eller inkarcereret hernie.
 
 Nyrer og urinveje
 -----------------
+
+<html5media>File:KAP8_125.mp3</html5media>
 
 De øvre urinveje omfatter nyrebækkenet og urinlederne (*ureteres*). De
 nedre urinveje omfatter urinblæren og urinrøret (*urethra*). Nyrerne og

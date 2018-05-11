@@ -23,6 +23,8 @@ Journalen indledes med en ganske kort beskrivelse af patientens ''alder, køn, i
 
 &lt;html5media&gt;File:BOKS32.mp3&lt;/html5media&gt;
 
+&lt;html5media&gt;File:OP-JOUR.mp3&lt;/html5media&gt;
+
 <pre>Subjektivt      Journalhoved
 (anamnesen)     Allergier
                 Dispositioner

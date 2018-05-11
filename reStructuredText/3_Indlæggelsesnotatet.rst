@@ -41,6 +41,8 @@ køn, indlæggelsesmåde og årsag til indlæggelsen*, f.eks.:
 
 <html5media>File:BOKS32.mp3</html5media>
 
+<html5media>File:OP-JOUR.mp3</html5media>
+
 ::
 
   Subjektivt      Journalhoved
