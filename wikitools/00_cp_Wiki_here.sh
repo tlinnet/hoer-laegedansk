@@ -17,8 +17,10 @@ for fullfile in $RSTFILES; do
         gsed -i 's/.rst#[a-z]/\U&/g' ${filename}.Wiki
         # Then remove 
         gsed -i 's/.RST#/#/g' ${filename}.Wiki
-        # # Then replace "-" with "_" between "[" and "|"
+        # Then replace "-" with "_" between "[" and "|"
         gsed -i -e :1 -e 's@\(\[.*\)-\(.*\|\)@\1_\2@;t1' ${filename}.Wiki
+        # Fix for 7_Mave_tarm_systemet
+        gsed -i 's/Mave_tarm_systemet/Mave-tarm-systemet/g' ${filename}.Wiki
         # If no section is added, then just replace
         gsed -i 's/.rst#//g' ${filename}.Wiki
         # Fix < and >

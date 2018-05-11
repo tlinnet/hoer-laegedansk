@@ -15,7 +15,7 @@ __TOC__
 * [[4_Almene_symptomer_og_fund|4 Almene symptomer og fund]]
 * [[5_Hjertet|5 Hjertet]]
 * [[6_Lunger_og_luftveje|6 Lunger og luftveje]]
-* [[7_Mave_tarm_systemet|7 Mave_tarm_systemet]]
+* [[7_Mave-tarm-systemet|7 Mave-tarm-systemet]]
 * [[16_Stikordsregister|16 Stikordsregister]]
 
 
