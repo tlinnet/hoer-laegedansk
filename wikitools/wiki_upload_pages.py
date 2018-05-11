@@ -14,7 +14,7 @@ site = wiki.Wiki("http://wiki.hoer-laegedansk.dk/api.php")
 site.login("tlinnet")
 
 wpages = [
-    "Forside",
+    #"Forside",
     #"0_Forord",
     #"1_Mødet_mellem_læge_og_patient",
     #"2_Sygehusjournalen",
@@ -22,7 +22,7 @@ wpages = [
     #"4_Almene_symptomer_og_fund",
     #"5_Hjertet",
     "6_Lunger_og_luftveje",
-    "7_Mave-tarm-systemet"
+    #"7_Mave-tarm-systemet"
 ]
 
 # loop over pages

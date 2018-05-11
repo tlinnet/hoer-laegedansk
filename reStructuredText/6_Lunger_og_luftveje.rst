@@ -583,8 +583,14 @@ og pleurale gnidningslyde.
 +-------------------+-------------------------------+-----------------------------------+
 | **Rhonchi:**      |                               |                                   |
 +-------------------+-------------------------------+-----------------------------------+
-| *sibilerende*     | Fløjtende eller pibende       | * astma anfald                    |
-|                   | lyde                          | * kronisk obstruktiv              |
+| *sibilerende*     | Fløjtende eller pibende       |                                   |
+|                   | lyde                          |                                   |
++-------------------+-------------------------------+-----------------------------------+
+| *sonore*          | Snorkende og brummende,       |                                   |
+|                   | »musikalske« lyde             |                                   |
++-------------------+-------------------------------+-----------------------------------+
+|                   |                               | * astma anfald                    |
+|                   |                               | * kronisk obstruktiv              |
 |                   |                               |   lungelidelse (KOL)              |
 |                   | Rhonchi høres                 | * en enkelt rhonchi               |
 |                   | hovedsageligt i               |   kan skyldes forsnævring         |
@@ -595,9 +601,6 @@ og pleurale gnidningslyde.
 |                   | Frembringes                   |   graden af lungesygdom           |
 |                   | af forsnævringer              |                                   |
 |                   | i bronkietræet.               |                                   |
-+-------------------+-------------------------------+-----------------------------------+
-| *sonore*          | Snorkende og brummende,       |                                   |
-|                   | »musikalske« lyde             |                                   |
 +-------------------+-------------------------------+-----------------------------------+
 | **Pleurale**      | En skrabende lyd, som         | * Pleurit,                        |
 | **gnidningslyde** | hvis du lægger en             | * pneumoni,                       |

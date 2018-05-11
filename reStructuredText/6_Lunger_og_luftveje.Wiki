@@ -374,20 +374,23 @@ Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. 
 
 |-
 | ''sibilerende''
+| Fløjtende eller pibende lyde
 |
-Fløjtende eller pibende lyde
 
-Rhonchi høres hovedsageligt i eksspirationen. Ofte som en hel »koncert«* eller ''kakofoni'' af forskellige lyde. Frembringes af forsnævringer i bronkietræet.
-|
-* astma anfald
-* kronisk obstruktiv lungelidelse (KOL)
-* en enkelt rhonchi kan skyldes forsnævring pga. tumor eller fremmedlegeme
-* der er ingen sammenhæng mellem mængden og typen af rhonchi og graden af lungesygdom
 |-
 | ''sonore''
 | Snorkende og brummende, »musikalske« lyde
 |
 
+|-
+|
+
+| Rhonchi høres hovedsageligt i eksspirationen. Ofte som en hel »koncert«* eller ''kakofoni'' af forskellige lyde. Frembringes af forsnævringer i bronkietræet.
+|
+* astma anfald
+* kronisk obstruktiv lungelidelse (KOL)
+* en enkelt rhonchi kan skyldes forsnævring pga. tumor eller fremmedlegeme
+* der er ingen sammenhæng mellem mængden og typen af rhonchi og graden af lungesygdom
 |-
 | '''Pleurale''' '''gnidningslyde'''
 | En skrabende lyd, som hvis du lægger en håndflade over dit øre, og gnider med den anden hånds fingre ovenpå. Skyldes inflammation mellem de pleurale blade, der skraber mod hinanden ved respirationen.
