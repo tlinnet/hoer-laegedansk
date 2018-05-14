@@ -146,20 +146,19 @@ af funktionsnedsættelsen:
 * Går du med stok eller gangstativ?
 * Skal du have hjælp til at komme ud af sengen?
 
-+-----------------------------------------------------+-------------------------------------------------+
-| Funktionsnedsættelse                                |                                                 |
-| (American Rheumatism Associations klassifikation)   |                                                 |
-+=====================================================+=================================================+
-| *Klasse 1*                                          | Uafhængig og selvhjulpen.                       |
-+-----------------------------------------------------+-------------------------------------------------+
-| *Klasse 2*                                          | Selvhjulpen, men med gener og tilpasninger      |
-|                                                     | (f.eks. aktivitetsnedsættelse og hjælpemidler). |
-+-----------------------------------------------------+-------------------------------------------------+
-| *Klasse 3*                                          | Skal have hjælp til daglige nødvendigheder,     |
-|                                                     | f.eks. påklædning og badning.                   |
-+-----------------------------------------------------+-------------------------------------------------+
-| *Klasse 4*                                          | Bundet til seng eller kørestol.                 |
-+-----------------------------------------------------+-------------------------------------------------+
++-----------------------------------------------------+---------------------------------------------------+
+| Funktionsnedsættelse                                | (American Rheumatism Associations klassifikation) |
++=====================================================+===================================================+
+| *Klasse 1*                                          | Uafhængig og selvhjulpen.                         |
++-----------------------------------------------------+---------------------------------------------------+
+| *Klasse 2*                                          | Selvhjulpen, men med gener og tilpasninger        |
+|                                                     | (f.eks. aktivitetsnedsættelse og hjælpemidler).   |
++-----------------------------------------------------+---------------------------------------------------+
+| *Klasse 3*                                          | Skal have hjælp til daglige nødvendigheder,       |
+|                                                     | f.eks. påklædning og badning.                     |
++-----------------------------------------------------+---------------------------------------------------+
+| *Klasse 4*                                          | Bundet til seng eller kørestol.                   |
++-----------------------------------------------------+---------------------------------------------------+
 
 Objektiv undersøgelse	
 =====================
@@ -296,18 +295,17 @@ columnas længde, fra nakke til sæde.
 
 Til sidst vurderes *bevægeligheden* af columna.
 
-+-------------------------------------------------------+-----+----------------------------------------------------+
-| Bevægelighed i columna cervicalis                     |     |                                                    |
-| Patienten undersøges siddende med fikserede skuldre   |     |                                                    |
-+=======================================================+=====+====================================================+
-| Rotation                                              | 75° | »Kig bagud over skulderen uden at vende dig«       |
-+-------------------------------------------------------+-----+----------------------------------------------------+
-| Fleksion                                              | 45° | »Kig ned, så hagen når brystet«                    |
-+-------------------------------------------------------+-----+----------------------------------------------------+
-| Ekstension                                            | 45° | »Kig op i loftet, lige så langt bagud du kan«      |
-+-------------------------------------------------------+-----+----------------------------------------------------+
-| Lateral fleksion                                      | 45° | »Læg øret til skulderen – uden at løfte skulderen« |
-+-------------------------------------------------------+-----+----------------------------------------------------+
++-------------------------------------------------------+-----+-----------------------------------------------------+
+| Bevægelighed i columna cervicalis                     |     | Patienten undersøges siddende med fikserede skuldre |
++=======================================================+=====+=====================================================+
+| Rotation                                              | 75° | »Kig bagud over skulderen uden at vende dig«        |
++-------------------------------------------------------+-----+-----------------------------------------------------+
+| Fleksion                                              | 45° | »Kig ned, så hagen når brystet«                     |
++-------------------------------------------------------+-----+-----------------------------------------------------+
+| Ekstension                                            | 45° | »Kig op i loftet, lige så langt bagud du kan«       |
++-------------------------------------------------------+-----+-----------------------------------------------------+
+| Lateral fleksion                                      | 45° | »Læg øret til skulderen – uden at løfte skulderen«  |
++-------------------------------------------------------+-----+-----------------------------------------------------+
 
 <html5media>File:FIG10-3.mp3</html5media>
 
@@ -363,26 +361,399 @@ undersøgelse af columna hos disse patienter omfatter derfor også en
 neurologisk undersøgelse af over- eller underekstremiteterne, samt
 sfinkterforhold (exploratio rectalis, side 113) ved mistanke om 
 *cauda equina-syndrom* (se kapitel 11). Ved mistanke om discusprolpas eller
-anden columnalidelse med rodaffektion udføres **Lasègues prøve** og
-**omvendt Lasègue**.
+anden columnalidelse med rodaffektion udføres *Lasègues prøve* og
+*omvendt Lasègue*.
 
 Skulder (regio glenohumerale)
 -----------------------------
 
+Patienten undersøges siddende med afklædt overkrop. Skuldrene inspiceres.
+Asymmetrier beskrives, f.eks. deformiteter ved frakturer eller *luksationer*
+(ledskred) (se Fig. 10.5). Eventuel atrofi af muskulaturen beskrives.
+
+Det er vigtigt at sammenligne de to sider: En atrofi af supraspinatusmusklen
+
+<html5media>File:FIG10-5.mp3</html5media>
+
+.. figure:: Figurer/FIG10-5_png.png
+   :width: 300 px
+   :alt:  Fig. 10.5 Skulderluksation.
+
+   **Fig. 10.5** Skulderluksation. 
+   Ved forreste skulderluksation ses såkaldt
+   »epauletskulder« med fordybning
+   under acromion.
+
+ses måske først tydeligt ved sammenligning med den raske side.
+Skulderen palperes systematisk: knogler, led og muskler for sig, så vidt
+det er muligt. Klaviklen og akromioklavikulærleddet er let tilgængelige;
+ømhed af disse kan ses ved frakturer og luksationer. Biscepsmusklens
+udspring er ligeledes tilgængelig for palpation på forsiden af leddet;
+ømhed kan ses ved inflammation af senen (*bicepstendinitis*). Muskelømhed
+i skulderregionen ses utroligt hyppigt.Myoser er ofte lokaliseret
+til *m. levator scapulae* og trapezius. Ved kroniske smertesyndromer (f.eks.
+*fibromyalgi* ) kan findes distinkte *trigger*-punkter med smerteudstråling
+til overarmen.
+
+Bevægeligheden i skulderen testes både aktivt og passivt. Husk på, at
+
+<html5media>File:FIG10-6.mp3</html5media>
+
+.. |logo1| image:: Figurer/FIG10-6A_png.png
+   :width: 150 px
+.. |logo2| image:: Figurer/FIG10-6B_png.png
+   :width: 300 px
+.. |logo3| image:: Figurer/FIG10-6C_png.png
+   :width: 300 px
+
++---------------+--------------------+---------------------------+---------------------------+
+|               | Maksimum           | Aktiv                     | Passiv                    |
++===============+====================+===========================+===========================+
+| **Abduktion** | Total: 180°        | »Før den strakte arm      | Scapula fikseres for at   |
+|               | glenohumeral: 90°  | op til øret og langsomt   | isolere den glenohumerale |
+|               |                    | tilbage igen.«            | bevægelse.                |
+|               |                    |                           |                           |
+|               |                    | |logo1|                   | |logo2|                   |
++---------------+--------------------+---------------------------+---------------------------+
+| **Adduktion** | 50°                | »Før hånden til modsatte  | (Kan undlades, såfremt    |
+|               |                    | lomme.«                   | patienten mestrer aktiv   |
+|               |                    |                           | rotation.)                |
++---------------+--------------------+---------------------------+---------------------------+
+| **Fleksion**  | 90°                | »Før den strakte arm      | (Kan undlades, såfremt    |
+|               |                    | frem og op som ved        | patienten mestrer aktiv   |
+|               |                    | march.«                   | rotation.)                |
++---------------+--------------------+---------------------------+---------------------------+
+| **Ekstension**| 65°                | »… og helt tilbage igen«  | (Kan undlades, såfremt    |
+|               |                    |                           | patienten mestrer aktiv   |
+|               |                    |                           | rotation.)                |
++---------------+--------------------+---------------------------+---------------------------+
+| **Indad-**    | 90°                | »Før tommelfingeren       | (Kan undlades, såfremt    |
+| **rotation**  |                    | op langs ryggen.«         | patienten mestrer aktiv   |
+|               |                    |                           | rotation.)                |
++---------------+--------------------+---------------------------+---------------------------+
+| **Udad-**     | 60°                | »Hold albuen vinkelret    | Albuen fikseres.          |
+| **rotation**  |                    | og tæt til kroppen og før |                           |
+|               |                    | hånden ud som en          |                           |
+|               |                    | fugleunge.«               | |logo3|                   |
++---------------+--------------------+---------------------------+---------------------------+
+
+**Fig. 10.6** *Undersøgelse af skulderens bevægelighed*
+
+<html5media>File:FIG10-7.mp3</html5media>
+
+.. figure:: Figurer/FIG10-7_png.png
+   :width: 300 px
+   :alt:  Fig. 10.7 Positiv smertebue.
+
+   **Fig. 10.7** Positiv smertebue. Patienten oplever
+   smerter omkring vandret, når den
+   aktivt løftede, strakte arm sænkes. Den
+   hyppigste årsag er supraspinatus-tendinitis.
+   Smertebue kan også ses ved supraspinatusruptur,
+   hvor der tillige vil være positiv droparm-
+   test: Armen falder tungt, når undersøgeren
+   slipper støtten omkring vandret.
+   Ved inflammation i bursa subacromialis
+   (bursitis) er der positiv smertebue og lokaliseret
+   ømhed omkring acromeon.
+
+de fleste skulderbevægelser er sammensat af både bevægelse i det glenohumerale
+led og scapulas gliden hen over thoraxvæggen. Ved undersøgelse
+af passiv abduktion er det derfor nødvendigt at stabilisere scapula
+for at isolere den glenohumerale bevægelighed (se Fig. 10.6). Ved aktiv
+abduktion er det vigtigt at bede patienten angive forekomsten af smerter
+ved bevægelsen (se Fig. 10.7). Ved undersøgelse af aktiv skulderbevægelighed
+instrueres patienten ved, at man viser bevægelserne på sig selv.
+
 Albuen (cubitus)
 ----------------
+
+Albuerne inspiceres lettest ved, at man beder den siddende patient
+flektere begge albuer og strække dem frem mod undersøgeren. Herved
+kan man let sammenligne symmetrien af de to sider: Epikondyler og
+olecranon danner en trekant. Intraartikulær ansamling vil vise sig som
+en udbuling ved siden af olecranon. Hævelse og deformering kan være
+tegn på fraktur eller luksation. Ved inspektion (og evt. palpation) af
+huden over ulnas proksimale ende kan man evt. afsløre *noduli rheumatici*
+(subkutane knuder ved ledegigt). Ved palpationen bemærkes ømhed
+og løshed af leddet som tegn på fraktur. Ved golf- og tennisalbue er der
+ømhed af muskelinsertionerne på mediale hhv. laterale epikondyl 
+(*epicondylitis medialis/laterialis*, se Fig. 10.8).
+
+<html5media>File:FIG10-8.mp3</html5media>
+
+.. figure:: Figurer/FIG10-8_png.png
+   :width: 500 px
+   :alt:  Fig. 10.8 Tennisalbue.
+
+   **Fig. 10.8** Tennisalbue. Ved epicondylitits
+   lateralis findes ømhed
+   ved palpation over den laterale
+   epikondyl. Der er desuden smerter
+   ved aktiv dorsofleksion af
+   håndleddet mod modstand.
+
+<html5media>File:FIG10-9.mp3</html5media>
+
+.. figure:: Figurer/FIG10-9_png.png
+   :width: 500 px
+   :alt:  Fig. 10.9 Colles’ fraktur.
+
+   **Fig. 10.9** Colles’ fraktur. Ved
+   fraktur af distale radius ses
+   hævelse og eventuel dorsal
+   dislokation, der giver en karakteristisk
+   »bajonetfejlstilling«.
+
+Bevægeligheden i albuen undersøges ved fleksion (150°), ekstension (0°),
+pronation (80°) og supination (90°).
 
 Underarm og håndled (antebrachium et carpus)
 --------------------------------------------
 
+Hævelse og deformitet af distale underarm og håndled kan være tegn på
+fraktur (se Fig. 10.9).Men hævelse eller bevægeindskrænkning af håndleddet
+er også hyppige ved inflammatoriske sygdomme som ledegigt
+(reumatoid artrit) eller seneskedehindebetændelse (tendovaginitis).
+
+Ved palpation kan der findes ømhed og strepitus af knoglerne som tegn
+på fraktur. Husk altid at palpere i *tabatièren* (fordybningen ved roden af
+1. finger, når den ekstenderes), hvis der er tale om et faldtraume, hvor
+patienten har taget fra med hånden: Ømhed hér er et tegn på scaphoideum-
+fraktur.
+
+Bevægelserne i håndleddet omfatter palmar fleksion (80°), volar ekstension
+(70°), radial deviation (20°) og ulnar deviation (30°). Indskrænket
+bevægelighed er et hyppigt fund ved ledegigt (reumatoid artrit).
+
 Hånden (manus)
 --------------
+
+Bemærk, hvordan patienten bruger hånden til at knappe knapper, skrive
+og samle småting op med. Se efter ledhævelse, og vær præcis i din
+
+<html5media>File:FIG10-10.mp3</html5media>
+
+.. figure:: Figurer/FIG10-10_png.png
+   :width: 600 px
+   :alt:  Fig. 10.10 Håndleddets bevægelighed.
+
+   **Fig. 10.10** Håndleddets bevægelighed. Håndleddenes bevægeudslag og
+   – symmetri kan let undersøges ved at bede patienten sætte håndflader
+   hhv. – rygge mod hinanden.
+
+beskrivelse af, hvilke led der er afficerede (se Fig. 10.11). Fejlstilling af 149
+fingrene ses typisk ved gigtsygdomme (se boks og Fig. 10.12) og som
+følge af knoglefraktur. *Dupuytrens kontraktur* er en fleksionsfejlstilling af
+typisk 4. og 5. finger pga. skrumpning af fascia palmaris. Muskelatrofi
+
+<html5media>File:FIG10-11.mp3</html5media>
+
+.. figure:: Figurer/FIG10-11_png.png
+   :width: 600 px
+   :alt:  Fig. 10.11 Benævnelse af håndens led.
+
+   **Fig. 10.11** Benævnelse af håndens led.
+   (MCP = metakarpofalangealled, PIP = proksimale interfalangealled,
+   DIP = distale interfalangealled).
+
+**Håndmanifestationer ved gigtsygdomme**
+
++-----------+-----------------------+---------------------------+-----------------+
+|           | Slidgigt              | Ledegigt                  | Psoriasisartrit |
+|           | (osteoartrose)        | (reumatoid artrit)        |                 |
++===========+=======================+===========================+=================+
+| Led-      | * Tommelens rodled    | * MCP+PIP-led             | * DIP-led       |
+| hævelse   |   og 2.-5. DIP-led    | * Symmetrisk              | * Asymmetrisk   |
+|           | * Ossøse prominenser  | * Fjedrende,              |                 |
+|           |   (Heberdens knuder)  |   periartikulært          |                 |
+|           | * Minimal ømhed       |   ødem                    |                 |
+|           |                       | * Betydelig ømhed         |                 |
++-----------+-----------------------+---------------------------+-----------------+
+| Defor-    | * Palmar subluksation |  * Ulnar deviation        |  * Negle-       |
+| mitet     |   og knogleprominens  |    af fingre med          |    forandringer |
+|           |   i tommelens rodled  |    »svanehals«- og        |                 |
+|           |   giver               |    »knaphuls«-            |                 |
+|           |   »firkantet hånd«.   |    deformiteter           |                 |
+|           |                       |    (se Fig. 10.12).       |                 |
++-----------+-----------------------+---------------------------+-----------------+
+
+<html5media>File:FIG10-12.mp3</html5media>
+
+.. figure:: Figurer/FIG10-12_png.png
+   :width: 400 px
+   :alt:  Fig. 10.12 Svanehals og knaphuls-deformitet.
+
+   **Fig. 10.12** A: »svanehals«- og
+   B: »knaphuls«-deformitet ved ledegigt
+   (reumatoid artrit).
+
+<html5media>File:FIG10-13.mp3</html5media>
+
+.. figure:: Figurer/FIG10-13_png.png
+   :width: 400 px
+   :alt:  Fig. 10.13 Benævnelse af håndens led.
+
+   **Fig. 10.13** Ved undersøgelse for ruptur
+   af det ulnare kollaterale ligament er
+   det vigtigt, at grundleddet er ca. 30° flekteret.
+
+ses ved inspektion af håndryggen som fordybninger mellem ekstensorsenerne
+og i håndfladen som manglende prominens af thenar og hypothenar.
+Håndmuskelatrofi ses ved fremskreden slid- og ledegigt, men også
+ved affektion af n. ulnaris (håndryggen) og n. medianus (thenar), f.eks.
+karpaltunnelsyndrom.
+
+Ved palpationen bemærkes ømhed af knogler og led som tegn på artrit
+
+<html5media>File:FIG10-14.mp3</html5media>
+
+.. figure:: Figurer/FIG10-14_png.png
+   :width: 600 px
+   :alt:  Fig. 10.14 En grov vurdering af den aktive fingerbevægelighed.
+
+   **Fig. 10.14** En grov
+   vurdering af den aktive fingerbevægelighed ved
+   **A:** samle-sprede-,
+   **B:** opposition og
+   **C:** knythånd.
+
+<html5media>File:FIG10-15.mp3</html5media>
+
+.. figure:: Figurer/FIG10-15_png.png
+   :width: 600 px
+   :alt:  Fig. 10.15 Benævnelse af håndens led.
+
+   **Fig. 10.15** Den motoriske innervation af underarm og hånd.
+   **A:** N. medianus undersøges ved at bede patienten abducere
+   tommelen mod modstand. B: N. ulnaris undersøges ved abduktion
+   i 2. MCP-led. C: N. radialis undersøges ved ekstension i 2. MCP-led.
+
+eller fraktur. Leddene undersøges for løshed. Ved håndskader er det sær- 151
+ligt vigtigt at undersøge det ulnare kollaterale ligament i tommelfingerens
+grundled (se Fig. 10.13).
+
+En grov vurdering af fingerbevægeligheden fås ved at bede patienten om
+at foretage samle-sprede-bevægelser af fingrene, opposition af tommelen
+og at knytte hånden (se Fig. 10.14). Ved traumer på hals og overekstremitet
+og i øvrigt ved symptomer på nerveaffektion (f.eks. smerter og
+føleforstyrrelser) er det obligatorisk at foretage en grundig undersøgelse
+af den perifere sensibilitet på hånden (se side 171 og 174). Desuden vurderes
+kraften i håndmusklerne (se Fig. 10.15).
 
 Hofte og bækken
 ---------------
 
+Start med at inspicere patienten stående og gående kun iført underbenklæder.
+Er gangen påfaldende? Står bækkenet lige? Er der fejlstilling af
+underekstremiteten? Er patienten for smertepåvirket til at stå, undersøges
+han selvfølgelig i sengen. Iagttag, om der er oplagt tegn på hoftenær
+fraktur (se Fig. 10.16).
+
+Bækkenet palperes ved at trykke henholdsvis ind fra siden mod hoftekammen
+(ved spina illiaca anterior
+superior) og direkte på symfysen.
+Smerter kan ses ved fraktur,
+inflammation af sakroiliakaled
+(*mb. Bechterew*) og bækkenløsning
+hos gravide. Hoften undersøges for
+direkte og indirekte ømhed som
+tegn på hoftenær fraktur 
+(*collum femoris-fraktur*). Ved vurdering af
+den passive bevægelighed i hofteleddet
+undersøges fleksion og rotation,
+evt. tillige ekstension, abduktion
+og adduktion (se Fig. 10.17).
+Indskrænket bevægelighed i hoften
+ses f.eks. ved osteoartrose.
+
+<html5media>File:FIG10-16.mp3</html5media>
+
+.. figure:: Figurer/FIG10-16_png.png
+   :width: 300 px
+   :alt:  Fig. 10.16 Benævnelse af håndens led.
+
+   **Fig. 10.16** Ved hoftenær fraktur ses
+   typisk oprykket og udadroteret underekstremitet.
+   Patienten kan hverken stå eller løfte ekstremiteten.
+
+<html5media>File:FIG10-17.mp3</html5media>
+
+.. figure:: Figurer/FIG10-17_png.png
+   :width: 600 px
+   :alt:  Fig. 10.17 Undersøgelse af passiv bevægelighed i hofteleddet.
+
+   **Fig. 10.17** Undersøgelse af passiv bevægelighed i hofteleddet.
+   **A:** Ved fleksionen kan femur normalt føres til abdomen, i alt ca. 120°.
+   **B:** Ved undersøgelse af rotation holdes hoften flekteret 90°. Rotationsbevægeligheden
+   udgør ca. 45° i hver retning.
+
 Knæet (genu)
 ------------
 
+Knæet undersøges lettest på den liggende patient. Ved inspektionen bemærkes
+hævelse og evt. rødme som tegn på inflammation og/eller intraartikulær
+ansamling (serøs = *hydartron*, blodig = *hæmartron*, purulent =
+*pyartron*). Adduktionsdeformitet benævnes *genu varum* (hjulben), og
+
+<html5media>File:FIG10-18.mp3</html5media>
+
+.. figure:: Figurer/FIG10-18_png.png
+   :width: 500 px
+   :alt:  Fig. 10.18 Anslag af patella er tegn på intraartikulær ansamling.
+
+   **Fig. 10.18** Anslag af patella er tegn på intraartikulær ansamling.
+
+<html5media>File:FIG10-19.mp3</html5media>
+
+.. figure:: Figurer/FIG10-19_png.png
+   :width: 700 px
+   :alt:  Fig. 10.19 Undersøgelse for skuffe- og sideløshed som tegn på læsion af korsbånd hhv. kollaterale ligamenter.
+
+   **Fig. 10.19** Undersøgelse for skuffe- og sideløshed som tegn på læsion af korsbånd
+   hhv. kollaterale ligamenter.
+
+abduktionsdeformitet benævnes *genu valgum* (kalveknæ). Eventuel muskelatrofi
+bemærkes: Ved kroniske knælidelser ses specielt atrofi af 
+*m. vastus medialis m. quadriceps*. Sammenlign altid med den raske side; brug
+eventuelt et målebånd til at måle lårets omkreds 10 cm proksimalt for
+patellas overkant. Ved palpationen bemærkes intraartikulær ansamling
+ved at undersøge for anslag af patella (se Fig. 10.18). Ømhed langs ledrande
+og ligamenter kan ses ved forstuvninger, ligamentrupturer, meniskskader
+og osteoartrose. Stabiliteten i knæet vurderes ved at undersøge
+for skuffe- og sideløshed (se Fig. 10.19). Ved vurdering af den passive
+bevægelighed i knæet undersøges fleksionen, som normalt udgør 135°.
+Der er normalt kun få graders ekstension, og ingen abduktion/adduktion
+i knæet. Ved fleksionsundersøgelse bemærkes en eventuel skurren
+(*krepitation*), som imidlertid er et uspecifikt tegn (på f.eks. slidgigt eller
+*kondromalaci*).
+
 Ankel og fod (pes)
 ------------------
+
+Hævelse af anklen kan ses ved forstuvninger, fraktur og artritter (f.eks.
+reumatoid artrit). Ved den forstuvede fod ses typisk hævelse over den
+laterale malleol. Typiske foddeformiteter er platfod (*pes planus*), knyster
+(*hallux valgus*) og hammertå (*digitus malleus*). Urinsyregigt 
+(*arthritis urica*) manifesterer sig klassisk med hævelse, rødme og betydelig ømhed
+i storetåens grundled (= *podagra*). Ved mistanke om achillesseneruptur
+undersøger man, om patienten kan stå på tæer.
+Ved palpationen bemærkes smerter; ved den forstuvede fod kan smerterne
+være betydelige, og fraktur kun udelukkes ved røntgenfotografering.
+Ved forstuvning
+undersøges stabiliteten
+af ankelleddet ved
+at teste for skuffeløshed
+(se Fig. 10.20).
+Bevægeligheden i
+ankelleddet udgør
+normalt 25° ekstension
+og 45° fleksion.
+
+<html5media>File:FIG10-20.mp3</html5media>
+
+.. figure:: Figurer/FIG10-20_png.png
+   :width: 600 px
+   :alt:  Fig. 10.20 Undersøgelse for skuffeløshed.
+
+   **Fig. 10.20** Undersøgelse for skuffeløshed.
