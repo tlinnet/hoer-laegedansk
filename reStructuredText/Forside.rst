@@ -23,6 +23,11 @@ Kapitler
    * `8 Nyrer, urinveje og mandlige kønsorganer <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__
    * `9 Kvindelige kønsorganer <9_Kvindelige_kønsorganer.rst#>`__
    * `10 Bevægeapparatet <10_Bevægeapparatet.rst#>`__
+   * `11 Centralnervesystemet <11_Centralnervesystemet.rst#>`__
+   * `12 Det perifere karsystem <12_Det_perifere_karsystem.rst#>`__
+   * `13 Kirtler <13_Kirtler.rst#>`__
+   * `14 Hud <14_Hud.rst#>`__
+   * `15 Sanseorganer <15_Sanseorganer.rst#>`__
    * `16 Stikordsregister <16_Stikordsregister.rst#>`__
 
 .. figure:: Figurer/CD_billede_or.png
