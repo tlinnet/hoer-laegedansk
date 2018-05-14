@@ -2,6 +2,8 @@ __TOC__
 
 '''Nøglepunkter'''
 
+&lt;html5media&gt;File:KAP10_136.mp3&lt;/html5media&gt;
+
 * Til bevægeapparatet regnes skelettet, skeletmuskulaturen og led.
 * Kardinalsymptomerne ved lidelse i bevægeapparatet er smerte, stivhed, hævelse og funktionsnedsættelse.
 * Kardinalpunkterne i den objektive undersøgelse er at afsløre:
@@ -14,9 +16,13 @@ __TOC__
 
 = Symptomer =
 
+&lt;html5media&gt;File:kap10_136_2.mp3&lt;/html5media&gt;
+
 De vigtigste klager fra bevægeapparatet er smerter, stivhed, hævelse og funktionsnedsættelse.
 
 '''Bevægeapparatet'''
+
+&lt;html5media&gt;File:BOKS136.mp3&lt;/html5media&gt;
 
 * Har du smerter i ryg, nakke, skuldre, arme, ben eller hofter?
 * Har du stive eller hævede led?
@@ -28,9 +34,13 @@ Ofte er årsagen til hospitalsindlæggelse et broget klinisk billede med akut fo
 
 == Smerter ==
 
+&lt;html5media&gt;File:KAP10_137.mp3&lt;/html5media&gt;
+
 Hovedformålet med anamnesen er at afgøre, om smerten skyldes traume/ belastning, eller om den er opstået spontant. Dernæst forsøger man at indkredse forværrende eller lindrende faktorer og evt. ledsagesymptomer, der kan bidrage til diagnosen.
 
 '''Smerte'''
+
+&lt;html5media&gt;File:BOKS137.mp3&lt;/html5media&gt;
 
 * Hvor sidder smerterne? Stråler de nogen steder hen?
 * Lammelser og føleforstyrrelser?
@@ -53,17 +63,25 @@ Virale sygdomme som influenza kan give diffuse muskel og ledsmerter. Både akutt
 
 == Stivhed ==
 
+&lt;html5media&gt;File:KAP10_138.mp3&lt;/html5media&gt;
+
 Ledstivhed – særligt som morgenstivhed – er et kardinalsymptom ved inflammatoriske og degenerative ledsygdomme. Ved ledegigt (''reumatoid artrit'') har patienten typisk morgenstivhed af flere timers varighed. Ved slidgigt (''osteoartrose'') varer morgenstivheden sjældent over 1/2 time, eller stivheden kommer måske først op ad dagen efter aktivitet. Ved ''polymyalgia rheumatica'' (»muskelgigt«) kan patienten have en muskelbetinget smerte og træthed i skulder- og hofteled, der beskrives som »stivhed«. ''Aflåsningstilfælde'' i knæet er karakteristisk for meniskskader.
 
 == Hævelse ==
+
+&lt;html5media&gt;File:KAP10_139.mp3&lt;/html5media&gt;
 
 Ledhævelse kan være traumatisk eller spontan, hvorfor anamnesen er utroligt vigtig. Ved traumatisk ledhævelse kan hævelsen både skyldes ansamlinger uden for ledkapsel som f.eks. ved den forstuvede ankel og inden i leddet, som det ses ved korsbåndsskade. Pludseligt opstået ledhævelse ledsages ofte af ledsmerter, og differentialdiagnostikken er som nævnt ovenfor.
 
 == Funktionsnedsættelse ==
 
+&lt;html5media&gt;File:KAP10_139_2.mp3&lt;/html5media&gt;
+
 Årsagen til funktionsnedsættelse ved bevægeapparatslidelser er oftest multifaktoriel: ledstivhed, smertebetinget bevægeindskrænkning og sekundær muskelsvækkelse. Anamnesen fokuserer på at afdække graden af funktionsnedsættelsen:
 
 '''Funktionsnedsættelse'''
+
+&lt;html5media&gt;File:BOKS139.mp3&lt;/html5media&gt;
 
 * Kan du klare dit arbejde ?
 * Må du have hjælp til madlavning, tøjvask eller indkøb?
@@ -71,6 +89,8 @@ Ledhævelse kan være traumatisk eller spontan, hvorfor anamnesen er utroligt vi
 * Må du have hjælp til at tage tøj på eller binde snørebånd?
 * Går du med stok eller gangstativ?
 * Skal du have hjælp til at komme ud af sengen?
+
+&lt;html5media&gt;File:BOKS139B.mp3&lt;/html5media&gt;
 
 {|
 !width="50%"| Funktionsnedsættelse
@@ -91,6 +111,8 @@ Ledhævelse kan være traumatisk eller spontan, hvorfor anamnesen er utroligt vi
 
 = Objektiv undersøgelse =
 
+&lt;html5media&gt;File:KAP10_140.mp3&lt;/html5media&gt;
+
 Indled den objektive undersøgelse af bevægeapparatet med at iagttage patienten i sin helhed. Kan han gå? Er gangen normal? Kan han trykke hånd? Er han forpint? Ofte kan man med fordel starte sin undersøgelse der, hvor patienten har sit problem. Husk, at fundet af én fraktur hos traumepatienten ikke udelukker andre (og måske alvorligere) skader.
 
 En forudsætning for undersøgelse af bevægeapparatet er, at patienten er fuldt afklædt. Gå ikke på kompromis! Det er samtidig utroligt vigtigt, at du har patientens fulde medvirken (kooperation), så vær omhyggelig med at skabe en god patientkontakt, hvor du hele tiden fortæller, hvad du ønsker at gøre.
@@ -99,17 +121,25 @@ En grundig undersøgelse af patienten med klager fra bevægeapparatet omfatter o
 
 == Generelle principper ==
 
+&lt;html5media&gt;File:KAP10_140_2.mp3&lt;/html5media&gt;
+
 Bevægeapparatet bør undersøges regionsvist, idet man hele tiden sammenligner syg og rask side. Samtidig forsøger man at afgøre, om forandringerne er lokaliserede til knogle, led eller muskler, og man kan ofte indarbejde en vurdering af den regionale kar- og nerveforsyningen i undersøgelsen.
 
 == Inspektion ==
+
+&lt;html5media&gt;File:KAP10_140_3.mp3&lt;/html5media&gt;
 
 ''Huden'' i regionen vurderes: Er der rødme som tegn på infektion/inflammation? Ved traumer kan huden være læderet, og udbredelse og dybde af hudlæsionen beskrives nøje. Ved lukkede frakturer kan knogleenderne prominere og true huden. ''Deformiteter'' af regionen beskrives: Er der fejlstilling af knoglerne som ved fraktur, eller er der tale om kongenitte forandringer (f.eks. skoliose, se Fig. 10.2) eller degenerative forandringer (f.eks. reumatoide fingerdeformiteter, se Fig. 10.12)? ''Hævelse'' beskrives, idet man forsøger at afgrænse hævelsen: begrænset inden for ledkapslen, periartikulært ødem osv. ''Atrofi'' af musklerne vurderes også (se side 169).
 
 == Palpation ==
 
+&lt;html5media&gt;File:KAP10_141.mp3&lt;/html5media&gt;
+
 ''Varme'' af leddet tyder på inflammation/infektion og mærkes bedst med bagsiden af dine fingre; sammenlign med den raske side. ''Hævelse'' vurderes også ved palpation. Ved ledansamling inden for ledkapslen (''intraartikulært'') føles ledkapslen spændt, og der kan være anslag, som når patella trykkes mod femurenden (se Fig. 10.18). Ved hævelse uden for leddet – f.eks. den forstuvede fod – føles hævelsen mere dejagtig, som ved perifere ødemer. Ved kroniske forandringer kan ledsvulsten være fast som ved de lednære knogleforandringer, der ses ved artrose. Ved myogene forandringer er der som regel hævelse og øget spænding (''tonus'') af den afficerede muskel. ''Ømhed'' undersøges ved at palpere ledkanter, ligamenter og den tilstødende knogle, idet man forsøger at bestemme, om ømheden er inden i eller uden for leddet. ''Direkte ømhed'' er ømhed, der udløses ved direkte palpation af den pågældende struktur. ''Indirekte ømhed'' er ømhed, der udløses ved mobilisering af fjernere strukturer, f.eks. hoftesmerter, der udløses ved at skubbe underekstremiteten i proksimal retning. ''Strepitus'' er den skurren, man føler eller hører, når to frakturender skraber mod hinanden. Direkte og indirekte ømhed (med eller uden strepitus) er tegn på ''fraktur'' (knoglebrud) og skal altid udløse radiologisk undersøgelse.
 
 == Funktionsvurdering ==
+
+&lt;html5media&gt;File:KAP10_141_2.mp3&lt;/html5media&gt;
 
 Ved objektiv vurdering af muskelfunktionen vurderes ''kraftnedsættelsen'' (se side 161). Ved vurdering af led og lednære forandringer er kernen i funktionsundersøgelsen en vurdering af leddets ''bevægelighed'' og ''stabilitet''.
 
@@ -125,6 +155,8 @@ Al ledbevægelighed vurderes ud fra en imaginær neutralposition på en 360 grad
 
 == Regional undersøgelse ==
 
+&lt;html5media&gt;File:KAP10_142.mp3&lt;/html5media&gt;
+
 == Ryg og rygsøjle (dorsum et columna vertebralis) ==
 
 Indledningsvist inspiceres for ''deformiteter'' (se Fig. 10.2). Strukturelle skolioser ses hyppigst hos piger, og der findes som regel også en torsionsprominens (»pukkel«) til skoliosens konvekse side. Lette grader af strukturelle skolioser afsløres måske først, når man beder patienten bøje sig forover. Ikke-strukturelle skolioser kan skyldes forskellig benlængde (anisomeli) eller være smertebetinget pga. discusprolaps. Vurder hoftekammens stilling, og forsøg om du kan reducere skoliosen ved at lægge klodser under patientens ben. ''Gibbus'' er en lokal prominens af columna som følge af fraktur (osteoporose eller knoglemetastaser).
@@ -136,6 +168,8 @@ Indledningsvist inspiceres for ''deformiteter'' (se Fig. 10.2). Strukturelle sko
 Columna palperes systematisk, idet man banker på processi spinosi én 143 efter én. Bankeømhed giver mistanke om fraktur eller ''metastase'' (spredning af cancer) i en ryghvirvel (corpus vertebra). Palpationsømhed og ømhed i den paravertebrale muskulatur giver mistanke om discuslidelse eller ''spondylitis'' (betændelse i rygsøjlens led). Palpér systematisk i hele columnas længde, fra nakke til sæde.
 
 Til sidst vurderes ''bevægeligheden'' af columna.
+
+&lt;html5media&gt;File:BOKS143.mp3&lt;/html5media&gt;
 
 {|
 !width="48%"| Bevægelighed i columna cervicalis
@@ -218,6 +252,8 @@ Patienter med symptomer fra columna kan ofte have udstrålende smerter i ekstrem
 
 == Skulder (regio glenohumerale) ==
 
+&lt;html5media&gt;File:KAP10_145.mp3&lt;/html5media&gt;
+
 Patienten undersøges siddende med afklædt overkrop. Skuldrene inspiceres. Asymmetrier beskrives, f.eks. deformiteter ved frakturer eller ''luksationer'' (ledskred) (se Fig. 10.5). Eventuel atrofi af muskulaturen beskrives.
 
 Det er vigtigt at sammenligne de to sider: En atrofi af supraspinatusmusklen
@@ -289,6 +325,8 @@ de fleste skulderbevægelser er sammensat af både bevægelse i det glenohumeral
 
 == Albuen (cubitus) ==
 
+&lt;html5media&gt;File:KAP10_147.mp3&lt;/html5media&gt;
+
 Albuerne inspiceres lettest ved, at man beder den siddende patient flektere begge albuer og strække dem frem mod undersøgeren. Herved kan man let sammenligne symmetrien af de to sider: Epikondyler og olecranon danner en trekant. Intraartikulær ansamling vil vise sig som en udbuling ved siden af olecranon. Hævelse og deformering kan være tegn på fraktur eller luksation. Ved inspektion (og evt. palpation) af huden over ulnas proksimale ende kan man evt. afsløre ''noduli rheumatici'' (subkutane knuder ved ledegigt). Ved palpationen bemærkes ømhed og løshed af leddet som tegn på fraktur. Ved golf- og tennisalbue er der ømhed af muskelinsertionerne på mediale hhv. laterale epikondyl (''epicondylitis medialis/laterialis'', se Fig. 10.8).
 
 &lt;html5media&gt;File:FIG10-8.mp3&lt;/html5media&gt;
@@ -303,6 +341,8 @@ Bevægeligheden i albuen undersøges ved fleksion (150°), ekstension (0°), pro
 
 == Underarm og håndled (antebrachium et carpus) ==
 
+&lt;html5media&gt;File:KAP10_148.mp3&lt;/html5media&gt;
+
 Hævelse og deformitet af distale underarm og håndled kan være tegn på fraktur (se Fig. 10.9).Men hævelse eller bevægeindskrænkning af håndleddet er også hyppige ved inflammatoriske sygdomme som ledegigt (reumatoid artrit) eller seneskedehindebetændelse (tendovaginitis).
 
 Ved palpation kan der findes ømhed og strepitus af knoglerne som tegn på fraktur. Husk altid at palpere i ''tabatièren'' (fordybningen ved roden af 1. finger, når den ekstenderes), hvis der er tale om et faldtraume, hvor patienten har taget fra med hånden: Ømhed hér er et tegn på scaphoideum-fraktur.
@@ -310,6 +350,8 @@ Ved palpation kan der findes ømhed og strepitus af knoglerne som tegn på frakt
 Bevægelserne i håndleddet omfatter palmar fleksion (80°), volar ekstension (70°), radial deviation (20°) og ulnar deviation (30°). Indskrænket bevægelighed er et hyppigt fund ved ledegigt (reumatoid artrit).
 
 == Hånden (manus) ==
+
+&lt;html5media&gt;File:KAP10_148_2.mp3&lt;/html5media&gt;
 
 Bemærk, hvordan patienten bruger hånden til at knappe knapper, skrive og samle småting op med. Se efter ledhævelse, og vær præcis i din
 
@@ -324,6 +366,8 @@ beskrivelse af, hvilke led der er afficerede (se Fig. 10.11). Fejlstilling af 14
 [[File:Figurer/FIG10-11_png.png|frame|none|600px|alt=|caption '''Fig. 10.11''' Benævnelse af håndens led. (MCP = metakarpofalangealled, PIP = proksimale interfalangealled, DIP = distale interfalangealled).]]
 
 '''Håndmanifestationer ved gigtsygdomme'''
+
+&lt;html5media&gt;File:BOKS149.mp3&lt;/html5media&gt;
 
 {|
 !width="14%"|
@@ -346,15 +390,13 @@ beskrivelse af, hvilke led der er afficerede (se Fig. 10.11). Fejlstilling af 14
 * DIP-led
 * Asymmetrisk
 |-
-| Defor-mitet
+| Deformitet
 |
 * Palmar subluksation og knogleprominens i tommelens rodled giver »firkantet hånd«.
 |
-<blockquote>* Ulnar deviation af fingre med »svanehals«- og »knaphuls«-deformiteter (se Fig. 10.12).
-</blockquote>
+* Ulnar deviation af fingre med »svanehals«- og »knaphuls«-deformiteter (se Fig. 10.12).
 |
-<blockquote>* Negle-forandringer
-</blockquote>
+* Negle-forandringer
 |}
 
 &lt;html5media&gt;File:FIG10-12.mp3&lt;/html5media&gt;
@@ -383,6 +425,8 @@ En grov vurdering af fingerbevægeligheden fås ved at bede patienten om at fore
 
 == Hofte og bækken ==
 
+&lt;html5media&gt;File:KAP10_151.mp3&lt;/html5media&gt;
+
 Start med at inspicere patienten stående og gående kun iført underbenklæder. Er gangen påfaldende? Står bækkenet lige? Er der fejlstilling af underekstremiteten? Er patienten for smertepåvirket til at stå, undersøges han selvfølgelig i sengen. Iagttag, om der er oplagt tegn på hoftenær fraktur (se Fig. 10.16).
 
 Bækkenet palperes ved at trykke henholdsvis ind fra siden mod hoftekammen (ved spina illiaca anterior superior) og direkte på symfysen. Smerter kan ses ved fraktur, inflammation af sakroiliakaled (''mb. Bechterew'') og bækkenløsning hos gravide. Hoften undersøges for direkte og indirekte ømhed som tegn på hoftenær fraktur (''collum femoris-fraktur''). Ved vurdering af den passive bevægelighed i hofteleddet undersøges fleksion og rotation, evt. tillige ekstension, abduktion og adduktion (se Fig. 10.17). Indskrænket bevægelighed i hoften ses f.eks. ved osteoartrose.
@@ -397,6 +441,8 @@ Bækkenet palperes ved at trykke henholdsvis ind fra siden mod hoftekammen (ved 
 
 == Knæet (genu) ==
 
+&lt;html5media&gt;File:KAP10_152.mp3&lt;/html5media&gt;
+
 Knæet undersøges lettest på den liggende patient. Ved inspektionen bemærkes hævelse og evt. rødme som tegn på inflammation og/eller intraartikulær ansamling (serøs = ''hydartron'', blodig = ''hæmartron'', purulent = ''pyartron''). Adduktionsdeformitet benævnes ''genu varum'' (hjulben), og
 
 &lt;html5media&gt;File:FIG10-18.mp3&lt;/html5media&gt;
@@ -410,6 +456,8 @@ Knæet undersøges lettest på den liggende patient. Ved inspektionen bemærkes 
 abduktionsdeformitet benævnes ''genu valgum'' (kalveknæ). Eventuel muskelatrofi bemærkes: Ved kroniske knælidelser ses specielt atrofi af ''m. vastus medialis m. quadriceps''. Sammenlign altid med den raske side; brug eventuelt et målebånd til at måle lårets omkreds 10 cm proksimalt for patellas overkant. Ved palpationen bemærkes intraartikulær ansamling ved at undersøge for anslag af patella (se Fig. 10.18). Ømhed langs ledrande og ligamenter kan ses ved forstuvninger, ligamentrupturer, meniskskader og osteoartrose. Stabiliteten i knæet vurderes ved at undersøge for skuffe- og sideløshed (se Fig. 10.19). Ved vurdering af den passive bevægelighed i knæet undersøges fleksionen, som normalt udgør 135°. Der er normalt kun få graders ekstension, og ingen abduktion/adduktion i knæet. Ved fleksionsundersøgelse bemærkes en eventuel skurren (''krepitation''), som imidlertid er et uspecifikt tegn (på f.eks. slidgigt eller ''kondromalaci'').
 
 == Ankel og fod (pes) ==
+
+&lt;html5media&gt;File:KAP10_153.mp3&lt;/html5media&gt;
 
 Hævelse af anklen kan ses ved forstuvninger, fraktur og artritter (f.eks. reumatoid artrit). Ved den forstuvede fod ses typisk hævelse over den laterale malleol. Typiske foddeformiteter er platfod (''pes planus''), knyster (''hallux valgus'') og hammertå (''digitus malleus''). Urinsyregigt (''arthritis urica'') manifesterer sig klassisk med hævelse, rødme og betydelig ømhed i storetåens grundled (= ''podagra''). Ved mistanke om achillesseneruptur undersøger man, om patienten kan stå på tæer. Ved palpationen bemærkes smerter; ved den forstuvede fod kan smerterne være betydelige, og fraktur kun udelukkes ved røntgenfotografering. Ved forstuvning undersøges stabiliteten af ankelleddet ved at teste for skuffeløshed (se Fig. 10.20). Bevægeligheden i ankelleddet udgør normalt 25° ekstension og 45° fleksion.
 

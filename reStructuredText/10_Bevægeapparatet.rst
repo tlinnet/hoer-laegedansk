@@ -23,7 +23,7 @@
 Symptomer
 =========
 
-<html5media>File:KAP10_136_2.mp3</html5media>
+<html5media>File:kap10_136_2.mp3</html5media>
 
 De vigtigste klager fra bevægeapparatet er smerter, stivhed, hævelse og
 funktionsnedsættelse.
@@ -629,22 +629,22 @@ typisk 4. og 5. finger pga. skrumpning af fascia palmaris. Muskelatrofi
 <html5media>File:BOKS149.mp3</html5media>
 
 +-----------+-----------------------+---------------------------+-----------------+
-|           | Slidgigt              | Ledegigt                  | Psoriasisartrit |
-|           | (osteoartrose)        | (reumatoid artrit)        |                 |
+|           |Slidgigt               |Ledegigt                   |Psoriasisartrit  |
+|           |(osteoartrose)         |(reumatoid artrit)         |                 |
 +===========+=======================+===========================+=================+
-| Led-      | * Tommelens rodled    | * MCP+PIP-led             | * DIP-led       |
-| hævelse   |   og 2.-5. DIP-led    | * Symmetrisk              | * Asymmetrisk   |
-|           | * Ossøse prominenser  | * Fjedrende,              |                 |
-|           |   (Heberdens knuder)  |   periartikulært          |                 |
-|           | * Minimal ømhed       |   ødem                    |                 |
-|           |                       | * Betydelig ømhed         |                 |
+|Led-       |* Tommelens rodled     |* MCP+PIP-led              |* DIP-led        |
+|hævelse    |  og 2.-5. DIP-led     |* Symmetrisk               |* Asymmetrisk    |
+|           |* Ossøse prominenser   |* Fjedrende,               |                 |
+|           |  (Heberdens knuder)   |  periartikulært           |                 |
+|           |* Minimal ømhed        |  ødem                     |                 |
+|           |                       |* Betydelig ømhed          |                 |
 +-----------+-----------------------+---------------------------+-----------------+
-| Defor-    | * Palmar subluksation |  * Ulnar deviation        |  * Negle-       |
-| mitet     |   og knogleprominens  |    af fingre med          |    forandringer |
-|           |   i tommelens rodled  |    »svanehals«- og        |                 |
-|           |   giver               |    »knaphuls«-            |                 |
-|           |   »firkantet hånd«.   |    deformiteter           |                 |
-|           |                       |    (se Fig. 10.12).       |                 |
+|Deformitet |* Palmar subluksation  |* Ulnar deviation          |* Negle-         |
+|           |  og knogleprominens   |  af fingre med            |  forandringer   |
+|           |  i tommelens rodled   |  »svanehals«- og          |                 |
+|           |  giver                |  »knaphuls«-              |                 |
+|           |  »firkantet hånd«.    |  deformiteter             |                 |
+|           |                       |  (se Fig. 10.12).         |                 |
 +-----------+-----------------------+---------------------------+-----------------+
 
 <html5media>File:FIG10-12.mp3</html5media>
