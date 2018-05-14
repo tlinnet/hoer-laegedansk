@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP11_154.mp3</html5media>
+
 * Nervesystemet omfatter centralnervesystemet (hjerne og rygmarv)
   og det perifere nervesystem (sensoriske, motoriske og autonome
   nerver).
@@ -19,6 +21,8 @@
 Symptomer
 =========
 
+<html5media>File:KAP11_154_2.mp3</html5media>
+
 De vigtigste symptomer ved lidelser i nervesystemet er hovedpine, svimmelhed,
 syns- og føleforstyrrelser, lammelser, anfald, ændret sprog, hukommelsesbesvær
 og mentale ændringer.
@@ -27,6 +31,8 @@ Nogle gange er patienten så syg, at han ikke kan bidrage til anamnesen,
 og man må derfor spørge pårørende eller vidner.
 
 **Nervesystemet – spørgsmål til pt.**
+
+<html5media>File:BOKS155.mp3</html5media>
 
 * Har du hyppige eller voldsomme anfald af hovedpine?
 * Har du nogensinde oplevet at miste bevidstheden, eller har
@@ -42,6 +48,8 @@ og man må derfor spørge pårørende eller vidner.
 
 **Nervesystemet – spørgsmål til vidner og pårørende**
 
+<html5media>File:BOKS155B.mp3</html5media>
+
 * Lider patienten af sygdomme, der giver anfald, f.eks. epilepsi
   eller sukkersyge?
 * Har patienten haft kramper? Beskriv krampeanfaldet!
@@ -54,6 +62,8 @@ og man må derfor spørge pårørende eller vidner.
 
 Hovedpine (cephalalgia)
 -----------------------
+
+<html5media>File:KAP11_155.mp3</html5media>
 
 Hovedpine kan være et symptom på akut opstået neurologisk lidelse, og
 anamnesen fokuserer derfor på at afdække *nylig ændring eller forværring*.
@@ -71,6 +81,8 @@ hovedpine som hovedsymptom.
 
 **Hovedpine**
 
+<html5media>File:BOKS156.mp3</html5media>
+
 * Er din hovedpine opstået pludseligt eller gradvist?
 * Er den konstant eller anfaldsvis?
 * Hvilke faktorer udløser eller forværrer hovedpinen?
@@ -82,12 +94,16 @@ hovedpine som hovedsymptom.
 Svimmelhed (vertigo)
 --------------------
 
+<html5media>File:KAP11_156.mp3</html5media>
+
 Vertigo skyldes ofte lidelser i det indre øre (se kapitel 13), men kan også
 skyldes forgiftning eller primær neurologisk lidelse (f.eks. acusticusneurinom
 eller apopleksi).
 
 Bevidsthedstab
 --------------
+
+<html5media>File:KAP11_156_2.mp3</html5media>
 
 Anfald af bevidsthedstab benævnes *synkope* eller *lipotymi* og kan skyldes
 hjertelidelser (Stokes-Adams’ syndrom) eller stofskifteforstyrrelser (f.eks.
@@ -111,6 +127,8 @@ selve bevidsthedstabet.
 
 **Anfald af bevidsthedstab – spørgsmål til pt.**
 
+<html5media>File:BOKS157.mp3</html5media>
+
 * Var du helt væk, eller opfattede du, hvad der skete omkring dig?
 * Hvad kan du huske?
 * Beskriv alt, hvad der skete, op til du mistede bevidstheden
@@ -124,6 +142,8 @@ beskrivelse som muligt fra dem.
 
 **Anfald af bevidsthedstab – spørgsmål til vidner og pårørende**
 
+<html5media>File:BOKS157B.mp3</html5media>
+
 * Hvor lang tid varede anfaldet?
 * Var anfaldet ledsaget af kramper?
 * Var patienten kontaktbar?
@@ -135,11 +155,15 @@ beskrivelse som muligt fra dem.
 Kramper (convulsioner)
 ----------------------
 
+<html5media>File:KAP11_158.mp3</html5media>
+
 Epilepsi er karakteriseret ved anfald af kramper med eller uden bevidsthedstab.
 Det er væsentligt at få en præcis beskrivelse for at kunne skelne
 mellem de forskellige epileptiske anfaldsformer.
 
 **Epilepsi – anfaldsformer**
+
+<html5media>File:BOKS158.mp3</html5media>
 
 +---------------------------------+-----------------------------------------------------+
 |Type                             |Beskrivelse                                          |
@@ -170,6 +194,8 @@ vidner.
 
 **Kramper – spørgsmål til vidner**
 
+<html5media>File:BOKS159.mp3</html5media>
+
 * Beskriv anfaldet!
 * Hvor lang tid varede det?
 * Kunne I komme i kontakt med pt. under anfaldet?
@@ -185,6 +211,8 @@ vidner.
 Sprogforstyrrelser
 ------------------
 
+<html5media>File:KAP11_159.mp3</html5media>
+
 Sprogforstyrrelser er ændringer i evnen til at forstå eller udtrykke sig
 sprogligt og skyldes skader i den sprogdominante hjernehalvdel, f.eks. en
 apopleksi. Sprogforstyrrelser (*dysfasi* eller *afasi*) skal skelnes fra taleforstyrrelser
@@ -196,6 +224,8 @@ ved hjælp af vidner og pårørende:
 
 **Sprogforstyrrelser**
 
+<html5media>File:BOKS159B.mp3</html5media>
+
 * Har du bemærket ændringer i dit sprog på det seneste, som
   f.eks. sløret udtale?
 * Kan du have svært ved at sætte ord på ting?
@@ -205,6 +235,8 @@ ved hjælp af vidner og pårørende:
 Synsforstyrrelser
 -----------------
 
+<html5media>File:KAP11_160.mp3</html5media>
+
 Synsforstyrrelser kan være tegn på neurologisk lidelse. De hyppigste er
 synstab, synsfeltudfald og dobbeltsyn. Synstab omfatter både synssvækkelse
 (*amblyopi*) og fuldstændig blindhed (*amaurosis*). Anamnesen fokuseres
@@ -212,6 +244,8 @@ på den tidsmæssige udvikling, ledsagefænomener og udløsende
 faktorer.
 
 **Synsforstyrrelser**
+
+<html5media>File:BOKS160A.mp3</html5media>
 
 * Opstod de pludseligt eller gradvist?
 * Optræder de anfaldsvis, eller er forstyrrelsen/-erne permanent(e)?
@@ -222,6 +256,8 @@ faktorer.
 Føleforstyrrelser
 -----------------
 
+<html5media>File:KAP11_160_2.mp3</html5media>
+
 Sensoriske forstyrrelser kan ses ved mange lidelser i både det centrale
 nervesystem (f.eks. apopleksi) og det perifere nervesystem (f.eks.
 diabetes).Man skelner mellem udfaldssymptomer, f.eks. tabet af evnen til
@@ -231,6 +267,8 @@ bruge ord som »soven«, »brænden«, »prikken«, »snurren« eller »vatforne
 beskrive symptomer fra andre organsystemer, f.eks. »dødhed« om den
 
 **Føleforstyrrelser (paræstesier)**
+
+<html5media>File:BOKS160B.mp3</html5media>
 
 * Har du bemærket ændringer i følesansen nogen steder på kroppen?
 * Beskriv disse ændringer? Føles det som noget, du kender
@@ -243,6 +281,8 @@ lokalisationen af føleforstyrrelserne.
 
 Kraftnedsættelse
 ----------------
+
+<html5media>File:KAP11_161.mp3</html5media>
 
 Kraftnedsættelse er et symptom på påvirkning af det motoriske nervesystem.
 Den fuldstændige lammelse (*paralyse*) er ofte åbenbar i både
@@ -264,6 +304,8 @@ besvær med at skrive, knappe knapper, eller han har en dropfod.
 Styringsbesvær
 --------------
 
+<html5media>File:KAP11_161_2.mp3</html5media>
+
 Styringsbesvær (*ataksi*) er forstyrrelse i koordinationen af bevægelser og
 ses ved lidelser i balance- og synsorganer samt lillehjerne. I anamnesen
 vil ataksi afsløre sig ved problemer med at foretage komplekse bevægelser,
@@ -276,6 +318,8 @@ ikke få det venstre ben med i seng«), og på eventuel *sideforskel*
 Gangbesvær
 ----------
 
+<html5media>File:KAP11_161_3.mp3</html5media>
+
 Gangen er en kompleks funktion, og lidelser i mange organsystemer vil
 påvirke gangfunktionen: smerter ved artrose, claudicatio ved arteriosklerose,
 dropfod ved polyneuropati, parese ved apopleksi, funktionsdyspnø
@@ -284,6 +328,8 @@ svær sygdom, der indlægges på et sygehus, er det derfor væsentligt at
 udspørge om patientens normale gangfunktion. Om ikke andet så for at
 
 **Gangfunktion**
+
+<html5media>File:BOKS162.mp3</html5media>
 
 * Bruger du stok, rollator eller gangstativ?
 * Hvor langt kan du gå, før du må stoppe (pga. smerter/forpustethed osv.).
@@ -294,6 +340,8 @@ effekten af en given behandling.
 
 Objektiv undersøgelse
 =====================
+
+<html5media>File:KAP11_162.mp3</html5media>
 
 Det kræver stor erfaring at udføre en fuldstændig neurologisk undersøgelse.
 En sådan undersøgelse er relevant i den finere neurologiske differentialdiagnostik,
@@ -316,10 +364,14 @@ kan man bede patienten lægge sig på sengen.
 Bevidsthedsniveau
 -----------------
 
+<html5media>File:KAP11_162_2.mp3</html5media>
+
 Bevidsthedsniveauet undersøges hos alle patienter, der indlægges akut på
 et sygehus.
 
 **Bevidsthedsniveau**
+
+<html5media>File:BOKS163.mp3</html5media>
 
 * Er pt. vågen (eller kan han vækkes)?
 * Hvordan reagerer han på ydre stimuli (tiltale, smerte)?
@@ -330,6 +382,8 @@ Patientens *hukommelse* og *orientering* vurderes ved at stille simple
 spørgsmål, der let og utvetydigt kan besvares og verificeres.
 
 **Hukommelse og orientering – spørgsmål til pt.**
+
+<html5media>File:BOKS163B.mp3</html5media>
 
 * Hvor er vi nu?
 * Hvad er adressen dér, hvor du bor?
@@ -345,6 +399,8 @@ smertestimuli«.
 Objektiv psykisk tilstand
 -------------------------
 
+<html5media>File:KAP11_163.mp3</html5media>
+
 Beskriv iagttagelser af patientens adfærd, der siger noget om hans psykiske
 tilstand. Den *emotionelle kontakt* kan være påfaldende, f.eks. »ingen
 øjenkontakt, svarer kun med énstavelsesord. Patientens *psykomotorik* kan
@@ -357,6 +413,8 @@ og ikke kan korrigeres ved at appellere til patientens sunde fornuft,
 f.eks.: »CIA har indopereret mikrofoner i mine tænder«. 
 
 **Glasgow Coma Scale**
+
+<html5media>File:BOKS164.mp3</html5media>
 
 * Øjenåbning
 
@@ -389,12 +447,16 @@ ham) eller »ser lyserøde elefanter« (der ikke findes).
 Sprog
 -----
 
+<html5media>File:KAP11_164.mp3</html5media>
+
 Afasi undersøges ved at lytte til forstyrrelser i patientens spontane tale,
 ved at bede patienten benævne enkle, velkendte genstande (f.eks. »blyant
 « og »stol») og ved at bede patienten udføre simple instruktioner
 (f.eks. «ræk mig blyanten«).
 
 **Afasiformer**
+
+<html5media>File:BOKS165.mp3</html5media>
 
 +------------------+----------------------------+------------------------------+
 |Afasiform         |Ikke-flydende               |Flydende                      |
@@ -417,6 +479,8 @@ ved at bede patienten benævne enkle, velkendte genstande (f.eks. »blyant
 
 Hoved, hals og rygsøjle (cranium, collum et columna vertebralis)
 ----------------------------------------------------------------
+
+<html5media>File:KAP11_165.mp3</html5media>
 
 Det ydre kranie undersøges for synlige læsioner eller palpatoriske tegn
 på kraniefraktur. Halsen undersøges for nakkestivhed, som kan være et
@@ -441,9 +505,13 @@ for deformiteter, nedsat bevægelighed og ømhed, og der udføres
 Hjernenerverne
 --------------
 
+<html5media>File:KAP11_166.mp3</html5media>
+
 Hjernenerve I (lugtesansen) udelades af den grove neurologiske undersøgelse.
 
 **Hjernenerver**
+
+<html5media>File:BOKS166.mp3</html5media>
 
 +----------------+---------------------+-------------------+-----------------------+
 |Nummer          |Navn                 |Symptom            |Fund                   |
@@ -574,6 +642,8 @@ Bed patienten række tunge; tungen devierer *mod* den afficerede side.
 Motorik
 -------
 
+<html5media>File:KAP11_169.mp3</html5media>
+
 De motoriske nervebaners funktion undersøges indirekte ved at undersøge
 forskellige muskelgruppers funktion; man sammenligner hele tiden
 med den modsatte kropshalvdels muskler for at afsløre sideforskel.
@@ -626,6 +696,8 @@ mod en modstand, du yder. Kraftnedsættelse eller lammelse benævnes
 
 **Kraftnedsættelse**
 
+<html5media>File:BOKS170.mp3</html5media>
+
 **grad 0**
   Total paralyse
 **grad 1**
@@ -665,6 +737,8 @@ nervelæsion (peroneusparesen er langt den hyppigste):
 
 **Lumbal rodaffektion**
 
+<html5media>File:BOKS171.mp3</html5media>
+
 +------------+--------+----------------+------------------------+------------+
 |Discus      |Rod     |Parese          |Sensibilitets-          |Refleks     |
 |            |        |                |forstyrrelse            |bortfald    |
@@ -683,6 +757,8 @@ nervelæsion (peroneusparesen er langt den hyppigste):
 
 
 **Underekstremitetens nerver**
+
+<html5media>File:BOKS171B.mp3</html5media>
 
 +--------------+----------------+------------------------+
 |Nervelæsion   |Parese          |Sensibilitets-          |
@@ -715,6 +791,8 @@ og traumer på overekstremiteten skal der *altid* undersøges for dette
    (nn. radialis, ulnaris et medianus).
 
 **Underekstremitetens nerver**
+
+<html5media>File:BOKS172.mp3</html5media>
 
 +--------------+----------------------+------------------------+
 |Nervelæsion   |Parese                |Sensibilitets-          |
@@ -860,6 +938,8 @@ dissemineret sklerose.
 Sensibilitet
 ------------
 
+<html5media>File:KAP11_174.mp3</html5media>
+
 Man indleder sin undersøgelse der, hvor man ud fra anamnesen forventer
 at finde *normal* sensibilitet, så patienten kan lære, hvad det er, man
 ønsker undersøgt. Man anvender kun lige det stimulus, der er nødvendigt
@@ -925,6 +1005,8 @@ er det tilstrækkeligt at undersøge vibrationssansen over malleoler
 og mellemhåndsknogler.
 
 **Central eller perifer parese**
+
+<html5media>File:BOKS177.mp3</html5media>
 
 *Ved at sammenholde fundene ved undersøgelse af tonus, trofik*
 *og reflekser kan man skelne mellem læsioner 1. og 2. neuron i de*
