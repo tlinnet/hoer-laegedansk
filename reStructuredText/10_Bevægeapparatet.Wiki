@@ -1,15 +1,5 @@
 __TOC__
 
-<blockquote>10 Bevægeapparatet
-</blockquote>
-
------
-
-; date
-: 2018-05-01 12:49
-; category
-: Kapitler
-
 '''Nøglepunkter'''
 
 * Til bevægeapparatet regnes skelettet, skeletmuskulaturen og led.
