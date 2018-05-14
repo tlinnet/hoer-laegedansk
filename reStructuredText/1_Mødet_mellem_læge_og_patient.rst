@@ -88,6 +88,8 @@ du er usikker på.
 
 **Forbered dig til mødet med patienten**
 
+<html5media>File:BOKS17.mp3</html5media>
+
 * Læs henvisningen fra den indlæggende læge. 
   Stil supplerende spørgsmål, hvis patienten indlægges pr. telefon.
 * Sæt dig ind i den gamle journal.

@@ -40,6 +40,8 @@ Før du går ind til patienten, skal du starte med at ''læse henvisningen'' (in
 
 '''Forbered dig til mødet med patienten'''
 
+<html5media>File:BOKS17.mp3</html5media>
+
 * Læs henvisningen fra den indlæggende læge. Stil supplerende spørgsmål, hvis patienten indlægges pr. telefon.
 * Sæt dig ind i den gamle journal.
 * Hjemmeplejerapport, ambulancejournal, melding fra modtagende sygeplejerske m.v. kan ofte give gode informationer om patientens almentilstand og generelle funktionsniveau.
