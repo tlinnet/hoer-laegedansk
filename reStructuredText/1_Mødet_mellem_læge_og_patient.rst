@@ -112,6 +112,8 @@ håndklæde.
 
 **Undersøgelsesremedier**
 
+<html5media>File:BOKS17B.mp3</html5media>
+
 ::
 
   Brugen af undersøgelsesremedier kan variere fra speciale til
@@ -157,6 +159,8 @@ eller andre kan du altid få bagefter. Ofte er det en fordel at bede ledsagere
 om at vente udenfor, til du har talt med og undersøgt patienten.
 
 **Mødet med patienten**
+
+<html5media>File:BOKS18.mp3</html5media>
 
 ::
 

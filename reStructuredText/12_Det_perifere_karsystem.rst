@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP12_178.mp3</html5media>
+
 * Det perifere karsystem omfatter arterier, vener og lymfekar uden for
   de store organer (hjerte, lunger, hjerne og lever).
 * Aterosklerose er den hyppigste arteriesygdom.
@@ -17,6 +19,8 @@
   trofik og sår.
   
 **Signalement af patient med aterosklerose**
+
+<html5media>File:BOKS178.mp3</html5media>
 
 * Disposition til hjertesygdom og karsygdom i familien
   (f.eks. far død i ung alder af blodprop i hjernen)
@@ -32,6 +36,8 @@
 Symptomer
 =========
 
+<html5media>File:KAP12_179.mp3</html5media>
+
 *Aterosklerose* (åreforkalkning) er langt den hyppigste karsygdom. Af den
 følger bl.a. iskæmisk hjertesygdom og apoplexia cerebri. Det er vigtigt så
 tidligt som muligt at konstatere aterosklerosen.
@@ -40,6 +46,8 @@ Perifere karlidelser manifesterer sig oftest på underekstremiteterne.
 Hovedsymptomerne er smerter i benene, hævede ben og sår på benene.
 
 **Det perifere karsystem**
+
+<html5media>File:BOKS179A.mp3</html5media>
 
 * Har du smerter i benene?
 * Får du hævede ben?
@@ -54,6 +62,8 @@ umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli
 
 * De klassiske symptomer og fund er:
 
+<html5media>File:BOKS179B.mp3</html5media>
+
   * *Pain* (smerte)
   * *Pallor* (bleghed)
   * *Pulselessness* (manglende fodpulse)
@@ -61,6 +71,8 @@ umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli
   * *Paralysis* (perifere lammelser).
 
 **Akut arteriel okklusion**
+
+<html5media>File:BOKS180.mp3</html5media>
 
 *Aflukning af en arterie skyldes oftest trombe, sjældnere emboli eller traume.*
 
@@ -90,6 +102,8 @@ ved venøse lidelser.
 Smerter i benene (cruralgia)
 ----------------------------
 
+<html5media>File:KAP12_180.mp3</html5media>
+
 Anamnesen fokuserer på at afsløre udløsende og lindrende faktorer, der
 gør det muligt at skelne mellem arteriel hhv. venøs ætiologi. Både arterielle
 og venøse bensmerter kan være funktionsudløste. 
@@ -109,6 +123,8 @@ karlidelser, er kuldefornemmelse, paræstesier, natlig uro og krampe.
 Hævede ben (ødemer)
 -------------------
 
+<html5media>File:KAP12_181.mp3</html5media>
+
 Hævelse af ankler og fodryg, der lindres ved elevation, kan være forårsaget
 af kronisk venøs insufficiens. En sjælden årsag er lymfødem (pga.
 kompromitteret afløb i det lymfatiske system). Den hyppigste årsag – og
@@ -120,11 +136,15 @@ Disponerende faktorer for lymfødem (kræft, stråleterapi)? Hjertesygdom?
 Bensår (ulcus cruris, pedis)
 ----------------------------
 
+<html5media>File:KAP12_181_2.mp3</html5media>
+
 Bensår er hyppige hos patienter med svær kronisk venøs insufficiens
 eller arteriel underekstremitetsiskæmi. Sammenstillingen af symptomer
 og fund er retningsgivende for diagnosen.
 
 **Bensår**
+
+<html5media>File:BOKS181.mp3</html5media>
 
 +-------------------+-------------------------------+----------------------------+
 |Årsag              |Symptomer                      |Fund                        |
@@ -155,6 +175,8 @@ makroangiopati, perifer neuropati og immundefekt.
 Øvrige symptomer
 ----------------
 
+<html5media>File:KAP12_182.mp3</html5media>
+
 Karlidelser er ofte fremtrædende på underekstremiteterne, men sjældent
 begrænset hertil. Den grundige anamnese hos karpatienten skal derfor
 også dække symptomer på karlidelser i andre organsystemer. 
@@ -171,6 +193,8 @@ perifere venesygdomme, der kan ses isoleret eller hos varicepatienten.
 
 Objektiv undersøgelse	
 =====================
+
+<html5media>File:KAP12_182_2.mp3</html5media>
 
 Det perifere karsystem er tilgængeligt for indirekte undersøgelse på ekstremiteter
 og hals samt gennem bugvæggen. Ofte suppleres den kliniske
@@ -199,10 +223,14 @@ modsatte ekstremitet.
 Inspektion
 ----------
 
+<html5media>File:KAP12_183.mp3</html5media>
+
 Kroniske lidelser i det perifere karsystem giver ændringer i hudens *farve*
 og *trofik*.
 
 **Inspektion**
+
+<html5media>File:BOKS183.mp3</html5media>
 
 * Normal, lyserød hud perifert på ekstremiteten?
 * Perifer cyanose eller lividitet?
@@ -273,6 +301,8 @@ styrtfyldes.
 Auskultation
 ------------
 
+<html5media>File:KAP12_185.mp3</html5media>
+
 Auskultation af perifere kar (karotiderne, nyrearterierne) var tidligere
 god latin. Men disse undersøgelser er upålidelige, og der findes i dag let
 tilgængelige, non-invasisve alternativer i form af Doppler-ultralyd.
@@ -280,10 +310,14 @@ tilgængelige, non-invasisve alternativer i form af Doppler-ultralyd.
 Palpation
 ---------
 
+<html5media>File:KAP12_185_2.mp3</html5media>
+
 Palpation af *perifere pulse* er en ufravigelig del af den objektive undersøgelse
 af karpatienten.
 
 **Palpation af perifere pulse**
+
+<html5media>File:BOKS185.mp3</html5media>
 
 * Palpér pulsen i a. radialis samtidig med hjertestetoskopien
   (se side 76). Herved noteres frekvens og rytme, og du lærer,
