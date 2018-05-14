@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP10_136.mp3</html5media>
+
 * Til bevægeapparatet regnes skelettet, skeletmuskulaturen og led.
 * Kardinalsymptomerne ved lidelse i bevægeapparatet er smerte,
   stivhed, hævelse og funktionsnedsættelse.
@@ -21,10 +23,14 @@
 Symptomer
 =========
 
+<html5media>File:KAP10_136_2.mp3</html5media>
+
 De vigtigste klager fra bevægeapparatet er smerter, stivhed, hævelse og
 funktionsnedsættelse.
 
 **Bevægeapparatet**
+
+<html5media>File:BOKS136.mp3</html5media>
 
 * Har du smerter i ryg, nakke, skuldre, arme, ben eller hofter?
 * Har du stive eller hævede led?
@@ -47,12 +53,16 @@ belastningsmekanismerne, og som går i dybden med andre organsystemer
 Smerter
 -------
 
+<html5media>File:KAP10_137.mp3</html5media>
+
 Hovedformålet med anamnesen er at afgøre, om smerten skyldes traume/
 belastning, eller om den er opstået spontant. Dernæst forsøger man
 at indkredse forværrende eller lindrende faktorer og evt. ledsagesymptomer,
 der kan bidrage til diagnosen.
 
 **Smerte**
+
+<html5media>File:BOKS137.mp3</html5media>
 
 * Hvor sidder smerterne? Stråler de nogen steder hen?
 * Lammelser og føleforstyrrelser?
@@ -110,6 +120,8 @@ smerter.
 Stivhed
 -------
 
+<html5media>File:KAP10_138.mp3</html5media>
+
 Ledstivhed – særligt som morgenstivhed – er et kardinalsymptom ved
 inflammatoriske og degenerative ledsygdomme. Ved ledegigt 
 (*reumatoid artrit*) har patienten typisk morgenstivhed af flere timers varighed. Ved
@@ -122,6 +134,8 @@ smerte og træthed i skulder- og hofteled, der beskrives som »stivhed«.
 Hævelse
 -------
 
+<html5media>File:KAP10_139.mp3</html5media>
+
 Ledhævelse kan være traumatisk eller spontan, hvorfor anamnesen er
 utroligt vigtig. Ved traumatisk ledhævelse kan hævelsen både skyldes
 ansamlinger uden for ledkapsel som f.eks. ved den forstuvede ankel og
@@ -132,6 +146,8 @@ nævnt ovenfor.
 Funktionsnedsættelse
 --------------------
 
+<html5media>File:KAP10_139_2.mp3</html5media>
+
 Årsagen til funktionsnedsættelse ved bevægeapparatslidelser er oftest
 multifaktoriel: ledstivhed, smertebetinget bevægeindskrænkning og
 sekundær muskelsvækkelse. Anamnesen fokuserer på at afdække graden
@@ -139,12 +155,16 @@ af funktionsnedsættelsen:
 
 **Funktionsnedsættelse**
 
+<html5media>File:BOKS139.mp3</html5media>
+
 * Kan du klare dit arbejde ?
 * Må du have hjælp til madlavning, tøjvask eller indkøb?
 * Skal du bruge særlige hjælpemidler til f.eks. at få pilleglasset åbnet?
 * Må du have hjælp til at tage tøj på eller binde snørebånd?
 * Går du med stok eller gangstativ?
 * Skal du have hjælp til at komme ud af sengen?
+
+<html5media>File:BOKS139B.mp3</html5media>
 
 +-----------------------------------------------------+---------------------------------------------------+
 | Funktionsnedsættelse                                | (American Rheumatism Associations klassifikation) |
@@ -162,6 +182,8 @@ af funktionsnedsættelsen:
 
 Objektiv undersøgelse	
 =====================
+
+<html5media>File:KAP10_140.mp3</html5media>
 
 Indled den objektive undersøgelse af bevægeapparatet med at iagttage
 patienten i sin helhed. Kan han gå? Er gangen normal? Kan han trykke
@@ -185,6 +207,8 @@ rodaffektion (se side 171).
 Generelle principper
 --------------------
 
+<html5media>File:KAP10_140_2.mp3</html5media>
+
 Bevægeapparatet bør undersøges regionsvist, idet man hele tiden sammenligner
 syg og rask side. Samtidig forsøger man at afgøre, om forandringerne
 er lokaliserede til knogle, led eller muskler, og man kan ofte
@@ -193,6 +217,8 @@ undersøgelsen.
 
 Inspektion
 ----------
+
+<html5media>File:KAP10_140_3.mp3</html5media>
 
 *Huden* i regionen vurderes: Er der rødme som tegn på infektion/inflammation?
 Ved traumer kan huden være læderet, og udbredelse og dybde
@@ -206,6 +232,8 @@ periartikulært ødem osv. *Atrofi* af musklerne vurderes også (se side 169).
 
 Palpation
 ---------
+
+<html5media>File:KAP10_141.mp3</html5media>
 
 *Varme* af leddet tyder på inflammation/infektion og mærkes bedst med
 bagsiden af dine fingre; sammenlign med den raske side. *Hævelse* vurderes
@@ -229,6 +257,8 @@ undersøgelse.
 
 Funktionsvurdering
 ------------------
+
+<html5media>File:KAP10_141_2.mp3</html5media>
 
 Ved objektiv vurdering af muskelfunktionen vurderes *kraftnedsættelsen*
 (se side 161). Ved vurdering af led og lednære forandringer er kernen i
@@ -265,6 +295,8 @@ positioner, f.eks. abduktion eller adduktion i knæleddet (se Fig. 10.19).
 Regional undersøgelse
 ---------------------
 
+<html5media>File:KAP10_142.mp3</html5media>
+
 Ryg og rygsøjle (dorsum et columna vertebralis)
 -----------------------------------------------
 
@@ -294,6 +326,8 @@ eller *spondylitis* (betændelse i rygsøjlens led). Palpér systematisk i hele
 columnas længde, fra nakke til sæde.
 
 Til sidst vurderes *bevægeligheden* af columna.
+
+<html5media>File:BOKS143.mp3</html5media>
 
 +-------------------------------------------------------+-----+-----------------------------------------------------+
 | Bevægelighed i columna cervicalis                     |     | Patienten undersøges siddende med fikserede skuldre |
@@ -391,6 +425,8 @@ anden columnalidelse med rodaffektion udføres *Lasègues prøve* og
 
 Skulder (regio glenohumerale)
 -----------------------------
+
+<html5media>File:KAP10_145.mp3</html5media>
 
 Patienten undersøges siddende med afklædt overkrop. Skuldrene inspiceres.
 Asymmetrier beskrives, f.eks. deformiteter ved frakturer eller *luksationer*
@@ -493,6 +529,8 @@ instrueres patienten ved, at man viser bevægelserne på sig selv.
 Albuen (cubitus)
 ----------------
 
+<html5media>File:KAP10_147.mp3</html5media>
+
 Albuerne inspiceres lettest ved, at man beder den siddende patient
 flektere begge albuer og strække dem frem mod undersøgeren. Herved
 kan man let sammenligne symmetrien af de to sider: Epikondyler og
@@ -536,6 +574,8 @@ pronation (80°) og supination (90°).
 Underarm og håndled (antebrachium et carpus)
 --------------------------------------------
 
+<html5media>File:KAP10_148.mp3</html5media>
+
 Hævelse og deformitet af distale underarm og håndled kan være tegn på
 fraktur (se Fig. 10.9).Men hævelse eller bevægeindskrænkning af håndleddet
 er også hyppige ved inflammatoriske sygdomme som ledegigt
@@ -553,6 +593,8 @@ bevægelighed er et hyppigt fund ved ledegigt (reumatoid artrit).
 
 Hånden (manus)
 --------------
+
+<html5media>File:KAP10_148_2.mp3</html5media>
 
 Bemærk, hvordan patienten bruger hånden til at knappe knapper, skrive
 og samle småting op med. Se efter ledhævelse, og vær præcis i din
@@ -583,6 +625,8 @@ typisk 4. og 5. finger pga. skrumpning af fascia palmaris. Muskelatrofi
    DIP = distale interfalangealled).
 
 **Håndmanifestationer ved gigtsygdomme**
+
+<html5media>File:BOKS149.mp3</html5media>
 
 +-----------+-----------------------+---------------------------+-----------------+
 |           | Slidgigt              | Ledegigt                  | Psoriasisartrit |
@@ -669,6 +713,8 @@ kraften i håndmusklerne (se Fig. 10.15).
 Hofte og bækken
 ---------------
 
+<html5media>File:KAP10_151.mp3</html5media>
+
 Start med at inspicere patienten stående og gående kun iført underbenklæder.
 Er gangen påfaldende? Står bækkenet lige? Er der fejlstilling af
 underekstremiteten? Er patienten for smertepåvirket til at stå, undersøges
@@ -716,6 +762,8 @@ ses f.eks. ved osteoartrose.
 Knæet (genu)
 ------------
 
+<html5media>File:KAP10_152.mp3</html5media>
+
 Knæet undersøges lettest på den liggende patient. Ved inspektionen bemærkes
 hævelse og evt. rødme som tegn på inflammation og/eller intraartikulær
 ansamling (serøs = *hydartron*, blodig = *hæmartron*, purulent =
@@ -755,6 +803,8 @@ i knæet. Ved fleksionsundersøgelse bemærkes en eventuel skurren
 
 Ankel og fod (pes)
 ------------------
+
+<html5media>File:KAP10_153.mp3</html5media>
 
 Hævelse af anklen kan ses ved forstuvninger, fraktur og artritter (f.eks.
 reumatoid artrit). Ved den forstuvede fod ses typisk hævelse over den
