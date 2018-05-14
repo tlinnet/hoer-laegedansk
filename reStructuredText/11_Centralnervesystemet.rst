@@ -19,56 +19,650 @@
 Symptomer
 =========
 
+De vigtigste symptomer ved lidelser i nervesystemet er hovedpine, svimmelhed,
+syns- og føleforstyrrelser, lammelser, anfald, ændret sprog, hukommelsesbesvær
+og mentale ændringer.
+
+Nogle gange er patienten så syg, at han ikke kan bidrage til anamnesen,
+og man må derfor spørge pårørende eller vidner.
+
+**Nervesystemet – spørgsmål til pt.**
+
+* Har du hyppige eller voldsomme anfald af hovedpine?
+* Har du nogensinde oplevet at miste bevidstheden, eller har
+  du haft kramper?
+* Har du synsforstyrrelser?
+* Lider du af svimmelhed? Oplever du nogensinde, at
+  »benene forsvinder under dig«?
+* Føler du dig svækket i arme og ben, eller har du problemer
+  med at styre dem?
+* Har du føleforstyrrelser (prikken, følelsesløshed, smerter)?
+* Har du problemer med at holde på eller komme af med
+  urin eller afføring?
+
+**Nervesystemet – spørgsmål til vidner og pårørende**
+
+* Lider patienten af sygdomme, der giver anfald, f.eks. epilepsi
+  eller sukkersyge?
+* Har patienten haft kramper? Beskriv krampeanfaldet!
+* Har patienten slået hovedet?
+* Hvordan er patientens normale funktionsniveau (oppegående,
+  sengeliggende, går med støtte etc.)?
+* Hvordan er patientens normale hukommelse?
+* Hvordan er patientens normale sprog?
+* Har patienten indtaget medicin eller alkohol?
+
 Hovedpine (cephalalgia)
 -----------------------
+
+Hovedpine kan være et symptom på akut opstået neurologisk lidelse, og
+anamnesen fokuserer derfor på at afdække *nylig ændring eller forværring*.
+
+Pludseligt opstået, voldsom hovedpine – ofte »som et smæld i hovedet« 
+efter fysisk aktivitet – er hovedsymptomet ved subaraknoidalblødning.
+Ved rumopfyldende processer i kraniet (f.eks. hjernetumor) ses
+typisk en konstant hovedpine med gradvis forværring; den lindres ikke
+ved søvn, men forstyrrer tværtimod nattesøvnen. Patienten med 
+*arteritis temporalis* er typisk en ældre patienten med ensidig hovedpine og
+ømhed i tindingen ledsaget af diffuse klager (træthed, morgenstivhed,
+muskelsmerter). Ved hovedpine hos en febril patient må man altid mistænke
+meningitis. Lidelser i tænder, ører, øjne og bihuler kan give
+hovedpine som hovedsymptom.
+
+**Hovedpine**
+
+* Er din hovedpine opstået pludseligt eller gradvist?
+* Er den konstant eller anfaldsvis?
+* Hvilke faktorer udløser eller forværrer hovedpinen?
+* Hvad kan få hovedpinen til at forsvinde?
+* Er din hovedpine ledsaget af andre gener, f.eks. svimmelhed,
+  kvalme, tåreflod, synsforstyrrelser eller lysskyhed?
+* Ligner det en hovedpine, du har haft før?
 
 Svimmelhed (vertigo)
 --------------------
 
+Vertigo skyldes ofte lidelser i det indre øre (se kapitel 13), men kan også
+skyldes forgiftning eller primær neurologisk lidelse (f.eks. acusticusneurinom
+eller apopleksi).
+
 Bevidsthedstab
 --------------
+
+Anfald af bevidsthedstab benævnes *synkope* eller *lipotymi* og kan skyldes
+hjertelidelser (Stokes-Adams’ syndrom) eller stofskifteforstyrrelser (f.eks.
+insulintilfælde/hypoglykæmi), men har oftest en neurologisk årsag som
+f.eks. epilepsi eller hovedtraume. Ofte vil patienten bruge begreber som
+»blackout« eller »besvimelse« til at beskrive sine oplevelser – forsøg med
+dine spørgsmål at få klarhed på, om der er tale om egentligt bevidstheds\ *tab*
+(hvor patienten vågner op og ikke ved, hvad der er sket) eller blot
+fjernhedstilfælde (hvor patienten har hørt, at der blev talt til dem – ses
+f.eks. ved hyperventilation).
+
+Desuden fokuseres anamneseoptagelsen på, om der er et karakteristisk
+mønster i anfaldene (f.eks. ved epilepsi), eller om disse er enkeltstående
+med en evt. udløsende faktor (f.eks. hovedtraume). Visse lidelser
+kan have karakteristiske forvarsler (f.eks. »sortnen for øjnene« ved ortostatisk
+hypotension) eller ledsagefænomener (f.eks. aura ved migræne).
+Husk på, at hovedtraumer kan være både årsag til og virkning af bevidsthedstabet!
+Hovedtraumer og epileptiske anfald er ofte ledsaget af
+hukommelsestab (*amnesi*), der omfatter en periode, der er længere end
+selve bevidsthedstabet.
+
+**Anfald af bevidsthedstab – spørgsmål til pt.**
+
+* Var du helt væk, eller opfattede du, hvad der skete omkring dig?
+* Hvad kan du huske?
+* Beskriv alt, hvad der skete, op til du mistede bevidstheden
+  – og fortæl, hvad der skete, da du igen kom til bevidsthed.
+* Var der nogen der så dit anfald (og hvad har de set)?
+* Har du haft mere end ét anfald? Hvor hyppige er anfaldene?
+  Er det noget bestemt, der udløser anfaldene (f.eks. søvnløshed, angst)?
+
+Hvis der er vidner til anfaldet, er det meget vigtigt at få så detaljeret en
+beskrivelse som muligt fra dem.
+
+**Anfald af bevidsthedstab – spørgsmål til vidner og pårørende**
+
+* Hvor lang tid varede anfaldet?
+* Var anfaldet ledsaget af kramper?
+* Var patienten kontaktbar?
+* Hvordan var hans vejrtrækning under anfaldet?
+* Faldt han tungt, eller lagde han sig ned?
+* Slog han hovedet? Slog han hovedet, før eller efter han
+  mistede bevidstheden?
 
 Kramper (convulsioner)
 ----------------------
 
+Epilepsi er karakteriseret ved anfald af kramper med eller uden bevidsthedstab.
+Det er væsentligt at få en præcis beskrivelse for at kunne skelne
+mellem de forskellige epileptiske anfaldsformer.
+
+**Epilepsi – anfaldsformer**
+
++---------------------------------+-----------------------------------------------------+
+|Type                             |Beskrivelse                                          |
++=================================+=====================================================+
+|**Generaliseret anfald**         |Indledes med, at pt. taber bevidstheden og der       |
+|(grand mal)                      |opstår universel muskelstivhed (den toniske fase),   |
+|                                 |hvorefter pt. får universelle og synkrone            |
+|                                 |muskelkontraktioner (kloniske fase).                 |
++---------------------------------+-----------------------------------------------------+
+|**Partielt anfald**              |Fokale kramper eller føleforstyrrelser, f.eks. i     |
+|                                 |en hånd eller den ene ansigtshalvdel.                |
++---------------------------------+-----------------------------------------------------+
+|* *komplekst partielt anfald*    |Et partielt anfald, hvori der indgår bevidstheds-    |
+|                                 |ændringer som f.eks. drømmeoplevelser eller déjà vu. |
++---------------------------------+-----------------------------------------------------+
+|* *partielt anfald med sekundær* |Et partielt anfald, der fortsætter i bevidsthedstab  |
+|  *generalisering*               |og generaliserede kramper.                           |
++---------------------------------+-----------------------------------------------------+
+|**Absencer** (petit mal)         |Anfald af bevidsthedstab uden kramper eller          |
+|                                 |tonusændringer.                                      |
++---------------------------------+-----------------------------------------------------+
+
+Anamneseoptagelsen fokuseres derfor på at afklare, hvad der kom først
+(kramper eller bevidsthedstab), og om muskelaktiviteten var fokale eller
+generaliserede fra starten. Da epileptiske anfald ofte er ledsaget af bevidsthedstab
+(amnesi), er det vigtigt at få en detaljeret beskrivelse fra
+vidner.
+
+**Kramper – spørgsmål til vidner**
+
+* Beskriv anfaldet!
+* Hvor lang tid varede det?
+* Kunne I komme i kontakt med pt. under anfaldet?
+* Havde han kramper (muskeltrækninger) i forbindelse med
+  anfaldet?
+* Mistede pt. bevidstheden, før han fik kramperne?
+* Blev han stiv i hele kroppen, før han faldt, eller lagde han sig?
+* Startede kramperne i den ene side af kroppen eller ansigtet?
+* Har der været ufrivillig vandafgang eller afføring i forbindelse
+  med anfaldet?
+* Faldt han i en dyb søvn efter anfaldet?
+
 Sprogforstyrrelser
 ------------------
+
+Sprogforstyrrelser er ændringer i evnen til at forstå eller udtrykke sig
+sprogligt og skyldes skader i den sprogdominante hjernehalvdel, f.eks. en
+apopleksi. Sprogforstyrrelser (*dysfasi* eller *afasi*) skal skelnes fra taleforstyrrelser
+(*dysartri*). Anamneseoptagelsen søger at afdække patientens
+daglige funktionsniveau og at afklare, om der er tale om et nyopstået
+problem, mens den objektive undersøgelse forsøger at afklare hjerneskadens
+lokalisation (se side 164). Igen er det vigtigt at supplere anamnesen
+ved hjælp af vidner og pårørende:
+
+**Sprogforstyrrelser**
+
+* Har du bemærket ændringer i dit sprog på det seneste, som
+  f.eks. sløret udtale?
+* Kan du have svært ved at sætte ord på ting?
+* Har din håndskrift ændret sig?
+* (*Til pårørende*): Hvor meget og hvordan kommunikerer med patienten?
 
 Synsforstyrrelser
 -----------------
 
+Synsforstyrrelser kan være tegn på neurologisk lidelse. De hyppigste er
+synstab, synsfeltudfald og dobbeltsyn. Synstab omfatter både synssvækkelse
+(*amblyopi*) og fuldstændig blindhed (*amaurosis*). Anamnesen fokuseres
+på den tidsmæssige udvikling, ledsagefænomener og udløsende
+faktorer.
+
+**Synsforstyrrelser**
+
+* Opstod de pludseligt eller gradvist?
+* Optræder de anfaldsvis, eller er forstyrrelsen/-erne permanent(e)?
+* Er synsforstyrrelsen/-erne ledsaget af smerter?
+* Lider du af sukkersyge, blodtryksforhøjelse eller grøn stær?
+* Ved dobbeltsyn: Ser du kun dobbelt, når du kigger til den ene side?
+
 Føleforstyrrelser
 -----------------
+
+Sensoriske forstyrrelser kan ses ved mange lidelser i både det centrale
+nervesystem (f.eks. apopleksi) og det perifere nervesystem (f.eks.
+diabetes).Man skelner mellem udfaldssymptomer, f.eks. tabet af evnen til
+at opfatte berøring, og irritative symptomer, f.eks. smerte. Ofte vil patienten
+bruge ord som »soven«, »brænden«, »prikken«, »snurren« eller »vatfornemmelse« 
+(*paræstesi*). Patienten kan bruge tilsvarende ord til at
+beskrive symptomer fra andre organsystemer, f.eks. »dødhed« om den
+
+**Føleforstyrrelser (paræstesier)**
+
+* Har du bemærket ændringer i følesansen nogen steder på kroppen?
+* Beskriv disse ændringer? Føles det som noget, du kender
+  (f.eks. »som nåleprik«, »som at gå på vat«)?
+* Er der et sted på benet/armen/kroppen, hvor du synes, der
+  går en grænse mellem »normal« og »unormal« følesans?
+
+kolde fod ved arteriosklerose. Forsøg at præcisere både karakteren og
+lokalisationen af føleforstyrrelserne.
 
 Kraftnedsættelse
 ----------------
 
+Kraftnedsættelse er et symptom på påvirkning af det motoriske nervesystem.
+Den fuldstændige lammelse (*paralyse*) er ofte åbenbar i både
+anamnese og objektiv undersøgelse, mens den lettere eller delvise lammelse
+(*parese*) kan være sværere at afsløre. Anamnesen skal fokusere på
+fordelingen af kraftnedsættelsen, særligt med henblik på sideforskel.
+Lammelse af den ene kropshalvdel benævnes *hemiparese* og ses typisk
+efter apopleksi; patienten vil typisk fortælle, at »det er svært at få den
+højre side med« eller »den venstre side af ansigtet hænger«.
+
+Ved *perifere polyneuropatier* (f.eks. ved diabetes og alkohol) er der
+karakteristisk en *distal* kraftnedsættelse i ekstremiteterne; ved muskellidelser
+(f.eks. *muskeldystrofi*) er der typisk en *proksimal* kraftnedsættelse.
+Ved en grundig anamnese kan disse symptomer afsløres: Ved proksimal
+kraftnedsættelse vil patienten have problemer med at rede sit hår, række
+op på en hylde eller gå på trapper; ved distal kraftnedsættelse har han
+besvær med at skrive, knappe knapper, eller han har en dropfod.
+
 Styringsbesvær
 --------------
+
+Styringsbesvær (*ataksi*) er forstyrrelse i koordinationen af bevægelser og
+ses ved lidelser i balance- og synsorganer samt lillehjerne. I anamnesen
+vil ataksi afsløre sig ved problemer med at foretage komplekse bevægelser,
+f.eks. forstyrret gangfunktion eller vanskeligheder ved at drikke af en
+kop eller spise med bestik. Anamnesen fokuserer på at afdække nylige
+*ændringer* i forhold til tidligere funktionsniveau (f.eks. »kan pludselig
+ikke få det venstre ben med i seng«), og på eventuel *sideforskel* 
+(»... men jeg kan sagtens få det højre ben med«).
 
 Gangbesvær
 ----------
 
+Gangen er en kompleks funktion, og lidelser i mange organsystemer vil
+påvirke gangfunktionen: smerter ved artrose, claudicatio ved arteriosklerose,
+dropfod ved polyneuropati, parese ved apopleksi, funktionsdyspnø
+ved hjerte-lunge-sygdomme osv. Hos enhver patient med akut
+svær sygdom, der indlægges på et sygehus, er det derfor væsentligt at
+udspørge om patientens normale gangfunktion. Om ikke andet så for at
+
+**Gangfunktion**
+
+* Bruger du stok, rollator eller gangstativ?
+* Hvor langt kan du gå, før du må stoppe (pga. smerter/forpustethed osv.).
+* Kan du gå på trapper? Kan du klare trapperne til 1. sal ?
+
+vurdere alvoren af den aktuelle sygdom og for senere at kunne vurdere
+effekten af en given behandling.
+
 Objektiv undersøgelse
 =====================
+
+Det kræver stor erfaring at udføre en fuldstændig neurologisk undersøgelse.
+En sådan undersøgelse er relevant i den finere neurologiske differentialdiagnostik,
+men bør overlades til specialister (neurologer, neurokirurger,
+neuropsykologer). I det følgende beskrives en såkaldt »grov«
+eller forkortet neurologisk undersøgelse, der er tilstrækkelig i de fleste
+tilfælde. Den fuldstændige neurologiske undersøgelse finder du beskrevet
+i lærebøger i neurologi og neurokirurgi.
+
+Som ved undersøgelse af andre organsystemer kan man begynde sin
+undersøgelse dér, hvor patienten har sit hovedproblem, f.eks. ved undersøgelse
+af det ben, der er ramt af pludseligt opstået lammelse.Men hvis
+patienten har diffuse klager eller patienten ikke er er god til at samarbejde
+ved undersøgelsen, kan man med fordel starte med de mere overordnede
+undersøgelser (f.eks. Rombergs prøve og finger-næse-test). Det
+meste af den neurologiske undersøgelse kan med fordel udføres med
+patienten siddende over for én. Når underekstremiteterne skal undersøges,
+kan man bede patienten lægge sig på sengen.
 
 Bevidsthedsniveau
 -----------------
 
+Bevidsthedsniveauet undersøges hos alle patienter, der indlægges akut på
+et sygehus.
+
+**Bevidsthedsniveau**
+
+* Er pt. vågen (eller kan han vækkes)?
+* Hvordan reagerer han på ydre stimuli (tiltale, smerte)?
+* Er han klar (eller har han sløret sensorium)?
+* Er han orienteret (i tid, sted og egne data)?
+
+Patientens *hukommelse* og *orientering* vurderes ved at stille simple
+spørgsmål, der let og utvetydigt kan besvares og verificeres.
+
+**Hukommelse og orientering – spørgsmål til pt.**
+
+* Hvor er vi nu?
+* Hvad er adressen dér, hvor du bor?
+* Hvad er dit CPR-nummer?
+* Hvilken dag i ugen er det?
+* Hvad hedder statsministeren i Danmark/kronprinsen/etc.?
+
+Det bevidsthedspåvirkede patient kan beskrives ved hjælp af 
+*Glasgow Coma Scale* eller ved med ord at beskrive patientens reaktion på ydre
+stimuli, f.eks.: »reagerer kun med øjenåbning og afværgebevægelser på
+smertestimuli«.
+
 Objektiv psykisk tilstand
 -------------------------
+
+Beskriv iagttagelser af patientens adfærd, der siger noget om hans psykiske
+tilstand. Den *emotionelle kontakt* kan være påfaldende, f.eks. »ingen
+øjenkontakt, svarer kun med énstavelsesord. Patientens *psykomotorik* kan
+være abnorm, f.eks. uden smil, ansigtsmimik og gestikulationer. Gengiv
+patientens udsagn, hvis det har relevans for forståelsen af hans psykiske
+tilstand, f.eks. »udtrykker gentagne gange i samtalen ønske om at tage
+sig eget liv med piller«. Psykotiske patienter kan have ændret bevidsthedsindhold:
+*Vrangforestillinger* er antagelser, der ikke har bund i virkeligheden
+og ikke kan korrigeres ved at appellere til patientens sunde fornuft,
+f.eks.: »CIA har indopereret mikrofoner i mine tænder«. 
+
+**Glasgow Coma Scale**
+
+* Øjenåbning
+
+  * Spontan 4
+  * Ved tiltale 3
+  * Ved smerte 2
+  * Ingen 1
+* Motorisk respons
+
+  * Følger opfordringer 6
+  * Målrettet respons 5
+  * Afværgereaktion 4
+  * Abnorm fleksion 3
+  * Ekstension 2
+  * Intet 1
+* Verbalt respons
+
+  * Orienteret 5
+  * Konfus, men kan svare 4
+  * Usammenhængende 3
+  * Uforståelige lyde 2
+  * Intet 1
+
+* **Total (maks. 15)**
+
+*Hallucinationer* er en oplevelse, der ligner et sanseindtryk, men ikke har have
+bund i virkeligheden, f.eks. »hører stemmer« (uden at der bliver talt til
+ham) eller »ser lyserøde elefanter« (der ikke findes).
 
 Sprog
 -----
 
+Afasi undersøges ved at lytte til forstyrrelser i patientens spontane tale,
+ved at bede patienten benævne enkle, velkendte genstande (f.eks. »blyant
+« og »stol») og ved at bede patienten udføre simple instruktioner
+(f.eks. «ræk mig blyanten«).
+
+**Afasiformer**
+
++------------------+----------------------------+------------------------------+
+|Afasiform         |Ikke-flydende               |Flydende                      |
++==================+============================+==============================+
+|*Hyppigste årsag* |Frontallap                  |Temporallap                   |
+|*læsion i:*       |(*Brocas* sprogområde)      |(*Wernickes* sprogområde)     |
++------------------+----------------------------+------------------------------+
+|*Spontantale*     |Nedsat talehastighed        |Normal eller øget tale-       |
+|                  |Lange pauser                |hastighed                     |
+|                  |Korte, simple sætninger     |Ingen pauser                  |
+|                  |Forkert udtale af rigtige   |Lange, uafsluttede sætninger  |
+|                  |ord                         |Rigtig udtale af forkerte ord |
++------------------+----------------------------+------------------------------+
+|*Benævnelse*      |Vælger med besvær           |Vælger ubesværet              |
+|*af genstande*    |det rigtige                 |det forkerte                  |
++------------------+----------------------------+------------------------------+
+|*Udfører*         |Forstår instrukser          |Forstår ikke instrukser       |
+|*instrukser*      |Forsøger at udføre disse    |                              |
++------------------+----------------------------+------------------------------+
+
 Hoved, hals og rygsøjle (cranium, collum et columna vertebralis)
 ----------------------------------------------------------------
+
+Det ydre kranie undersøges for synlige læsioner eller palpatoriske tegn
+på kraniefraktur. Halsen undersøges for nakkestivhed, som kan være et
+tegn på *meningitis* (se Fig. 11.1). Et andet fund ved meningeal irritation
+er *Kernigs tegn*: Hofte og knæ flekteres; der vil herefter være smertebetinget
+modstand mod passiv ekstension i knæleddet. Rygsøjlen undersøges
+for deformiteter, nedsat bevægelighed og ømhed, og der udføres
+*Lasègues prøve* (se side 144).
+
+<html5media>File:FIG11-1.mp3</html5media>
+
+.. figure:: Figurer/FIG11-1_png.png
+   :width: 400 px
+   :alt:  Fig. 11.1 Ved nakkestivhed er der modstand ved fleksion af nakken.
+
+   **Fig. 11.1** Ved nakkestivhed er der
+   modstand ved fleksion af nakken.
+   Hos den vågne pt. kan man bede
+   pt. om at sætte hagen på brystet
+   eller kigge på sin navle.
 
 Hjernenerverne
 --------------
 
+Hjernenerve I (lugtesansen) udelades af den grove neurologiske undersøgelse.
+
+**Hjernenerver**
+
++----------------+---------------------+-------------------+-----------------------+
+|Nummer          |Navn                 |Symptom            |Fund                   |
++================+=====================+===================+=======================+
+|**II**          |* *N. opticus*       |Blindhed,          |* Synsfeltudfald       |
+|                |                     |synssvækkelse      |                       |
++----------------+---------------------+-------------------+-----------------------+
+|**III+IV+VI**   |* *N. oculomotorius,*|Dobbeltsyn         |* Pupildifferens       |
+|                |* *N. trochlearis,*  |                   |* Lysstive pupiller    |
+|                |* *N. abducens*      |                   |* Begrænsede           |
+|                |                     |                   |  øjenbevægelser       |
++----------------+---------------------+-------------------+-----------------------+
+|**V**           |* *N. trigeminus*    |Føle-              |* Nedsat sensibilitet  |
+|                |                     |forstyrrelser      |  i ansigtet           |
+|                |                     |i ansigtet         |* Tyggemuskelparese    |
++----------------+---------------------+-------------------+-----------------------+
+|**VII**         |* *N. facialis*      |Hængende           |* Parese af ansigts    |
+|                |                     |mundvig,           |  muskulaturen         |
+|                |                     |Spytflåd,          |                       |
+|                |                     |Øjentørhed         |                       |
++----------------+---------------------+-------------------+-----------------------+
+|**VIII**        |* *N. vestibulo*     |Døvhed,            |* Manglende hørelse    |
+|                |  *cochlearis*       |Tinnitus,          |* Nystagmus            |
+|                |                     |Vertigo            |                       |
++----------------+---------------------+-------------------+-----------------------+
+|**IX+X**        |* *N. glossopha-*    |Dysfagi,           |* Manglende svælg-     |
+|                |  *ryngeus*          |Hæshed             |  refleks,             |
+|                |* *N. vagus*         |                   |* Uvula devierer       |
++----------------+---------------------+-------------------+-----------------------+
+|**XI**          |* *N. accessorius*   |Hæshed             |* Parese af m. sterno- |
+|                |                     |                   |  cleidomastoideus     |
++----------------+---------------------+-------------------+-----------------------+
+|**XII**         |* *N. hypoglossus*   |Talebesvær         |* Parese af tungen     |
++----------------+---------------------+-------------------+-----------------------+
+
+**II. N. opticus**
+
+Undersøges lettest ved, at du sidder over for patienten.
+
+<html5media>File:FIG11-2.mp3</html5media>
+
+.. figure:: Figurer/FIG11-2_png.png
+   :width: 500 px
+   :alt:  Fig. 11.2 Hjernenerve II.
+
+   **Fig. 11.2** Hjernenerve II: »Synsfelt for
+   finger«. Bed patienten kigge direkte på
+   din næse. Dæk dit eget venstre øje med
+   din venstre hånd og bed tilsvarende
+   patienten om at dække sit højre øje med
+   sin højre hånd. Herefter fører du din
+   højre hånd ind i dit eget (og dermed
+   patientens) synsfelt fra højre og ind mod
+   midten, først ovenfra og derefter nedenfra.
+   Bed hver gang patienten om at sige til, når han kan se dine fingre i synsfeltet.
+   Kontroller, at patienten ikke »snydekigger«. Tilsvarende gentages for det andet øje.
+
+**III+IV+VI. N. oculomotorius, N. trochlearis, N. abducens**
+
+Pupillernes størrelse beskrives, og man noterer, om de er ens (egale),
+eller om der er sideforskel (*anisokori*). Man beskriver, om de er normalt
+reagerende for lys, eller om de er lysstive. Øjenbevægelserne undersøges
+ved at bede patienten følge en lygte med øjnene, der bevæges i alle fire
+akser.
+
+**V. N. trigeminus**
+
+Nervens motoriske funktion undersøges ved at bede patienten bide
+hårdt sammen, mens man palperer masseter- og temporalismusklerne
+på begge sider. Den sensoriske funktion undersøges ved at bede patienten
+lukke øjnene, mens man undersøger følesansen i ansigtet med en
+vattot; man undersøger henholdsvis pande, kind og kæbe på begge sider
+for at teste de tre dele af trigeminus for sig.
+
+<html5media>File:FIG11-3.mp3</html5media>
+
+.. figure:: Figurer/FIG11-3_png.png
+   :width: 500 px
+   :alt:  Fig. 11.3 Kutane innervationsområder for trigeminus-grene.
+
+   **Fig. 11.3** Kutane innervationsområder for trigeminus-grene.
+
+**VII. N. facialis**
+
+Undersøgelsen udføres lettest, hvis man med sin egen ansigtsmotorik
+viser, hvad man ønsker udført.Man beder patienten om at smile og
+»vise tænder«; asymmetri i mundvigenes bevægelser afslører facialisparese
+i den side, der ikke følger med. Herefter beder man patienten om at
+»spidse mund« og puste sine kinder, mens man trykker på dem for at
+mærke sideforskel. Endelig beder man patienten rynke panden.
+
+<html5media>File:FIG11-4.mp3</html5media>
+
+.. figure:: Figurer/FIG11-4_png.png
+   :width: 500 px
+   :alt:  Fig. 11.4 Central facialisparese.
+
+   **Fig. 11.4** Ved central facialisparese
+   kan patienten rynke panden symmetrisk;
+   ved perifer facialisparese
+   er der udglattede panderynker i
+   den afficerede side.
+
+**VIII. N. vestibulocochlearis**
+
+Man bemærker, om der er nystagmus. Høresansen undersøges for hvert
+øre, ved at man beder patienten gentage ord, der hviskes, eller ved at
+undersøge om patienten kan høre fingerknitren ud for hvert øre (mens
+det andet øre holdes lukket).
+
+**IX+X. N. glossopharyngeus, N. vagus**
+
+Man kigger patienten i halsen og beder patienten sige »aaahh …«; ved
+parese devierer uvula *væk* fra den afficerede side. Svælgrefleksen undersøges,
+ved at man berører den bageste del af tungen eller af den bløde
+gane med en træspatel. Er patienten hæs?
+
+**XI. N. accessorius**
+
+Læg hånden på patientens kind og bed ham dreje hovedet mod din
+hånd. Gentag på den anden side. Bemærk sideforskel som udtryk for
+parese af *m. sternocleidomastoideus.*
+
+**XII. N. hypoglossus**
+
+Bed patienten række tunge; tungen devierer *mod* den afficerede side.
+
 Motorik
 -------
+
+De motoriske nervebaners funktion undersøges indirekte ved at undersøge
+forskellige muskelgruppers funktion; man sammenligner hele tiden
+med den modsatte kropshalvdels muskler for at afsløre sideforskel.
+
+*Gangen*
+
+Bemærk patientens gang, herunder hæl- og tå-gang og vending. Er der
+medsving af armene?
+
+*Tonus*
+
+Muskeltonus bedømmes ved at udføre passive bevægelser af patientens
+ekstremiteter. Bed patienten slappe af og gøre sig tung (det er svært –
+afled med snak), mens du bøjer og strækker i albue- og knæled. Den
+normale muskeltonus føles som en let, jævn modstand mod passiv bevægelighed,
+der øges, når man når ledets yderstilling. Ved nedsat eller
+manglende tonus (*hypotoni, atoni*) sker den passive bevægelighed uden
+modstand og man kan ofte hyperekstendere eller –flektere leddet. Hypotoni
+ses ved infranukleære pareser. Øget tonus benævnes *hypertoni* og
+kan opdeles i spasticitet og rigiditet.
+
+Ved *spasticitet* er det karakteristisk, at tonus øges, jo hurtigere den
+passive bevægelser udføres. Typisk føler undersøgeren den største modtand
+lige i starten af en hurtig passiv bevægelse, hvorefter modstanden
+brydes (»foldeknivs-fornemmelse«). Spasticiteten findes lettest ved passiv
+ekstension i albueleddet og ved passiv fleksion i knæleddet. Spasticitet
+er karakteristisk for supranukleære læsioner. Ved *rigiditet* er der en
+jævn modstand mod passiv bevægelse (»blyrørs-fornemmelse«). Hvis
+rigiditeten er ledsaget af rysten (*tremor*), mærker man en rykvis modstand
+(*»tandhjuls-rigiditet«*). Rigiditet er karakteristisk for Parkinsons
+sygdom.
+
+*Trofik*
+
+Ved inspektion og sammenligning af de store muskelgrupper på ekstremiterne
+kan man afsløre en asymmetri. Brug et målebånd, hvor man
+f.eks. måler begge lårs omfang 10 cm over patellas overkant. Formindskelse
+af muskelmassen benævnes *atrofi* og er karakteristisk ved infranukleære
+læsioner. Ensidig atrofi kan også skyldes immobilisering, tænk
+f.eks. på benet, der har været i gips. Symmetrisk muskelatrofi ses ved
+mange lidelser, f.eks. kræft, alkoholisme og som bivirkning til steroidbehandling.
+
+*Kraft*
+
+Den grove neurologiske undersøgelse begrænser sig til at undersøge fleksion
+og ekstension i albue-, knæ- og ankelled samt abduktion i skulderleddet.
+Muskelkraften bedømmes ved at bede patienten udføre bevægelser
+mod en modstand, du yder. Kraftnedsættelse eller lammelse benævnes
+*parese*; total lammelse benævnes *paralyse*.
+
+**Kraftnedsættelse**
+
+**grad 0**
+  Total paralyse
+**grad 1**
+  Muskelkontraktion uden bevægelse
+**grad 2**
+  Bevægelse, hvis tyngdekraften ophæves
+**grad 3**
+  Bevægelse mod tyngdekraften
+**grad 4**
+  Bevægelse mod let modstand
+**grad 5**
+  Normal kraft
+
+<html5media>File:FIG11-5.mp3</html5media>
+
+.. figure:: Figurer/FIG11-5_png.png
+   :width: 500 px
+   :alt:  Fig. 11.5 Undersøgelse for kraftnedsættelse.
+
+   **Fig. 11.5** Ved undersøgelse for kraftnedsættelse
+   skal der ydes to-punkts
+   støtte til patienten, når bevægelsen
+   udføres. F.eks. ved testning af overarmsfleksorerne:
+   Albuen støttes, og
+   der ydes modstand mod håndleddet,
+   således at patienten undgår at kompensere
+   ved brug af skulder- og underarmsmuskulatur.
+
+Lammelse af den ene kropshalvdel benævnes hemiparese eller *hemiplegi*.
+Lammelse af begge underekstremiteter benævnes diplegi eller *paraplegi*.
+Lammelse af alle fire ekstremiteter benævnes *tetraplegi*. Hemiparesen er
+en karakteristisk følge efter apopleksi.
+
+Kraftnedsættelse på underekstremiteten kan anvendes til at påvise
+niveauet for en rodaffektion ved en lumbal discusprolaps eller en specifik
+nervelæsion (peroneusparesen er langt den hyppigste):
+
 
 Sensibilitet
 ------------
