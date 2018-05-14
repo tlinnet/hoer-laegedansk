@@ -73,6 +73,20 @@ wfiles_all = [
     #"FIG10-18_png",
     #"FIG10-19_png",
     #"FIG10-20_png",
+    #"FIG11-1_png",
+    #"FIG11-2_png",
+    #"FIG11-3_png",
+    #"FIG11-4_png",
+    #"FIG11-5_png",
+    #"FIG11-6_png",
+    #"FIG11-7_png",
+    #"FIG11-8_png",
+    #"FIG11-9_png",
+    #"FIG11-10_png",
+    #"FIG11-11_png",
+    #"FIG11-12_png",
+    #"FIG11-13_png",
+    #"FIG11-15_png",
     ]
 
 #wfiles = wfiles_all[:2]
