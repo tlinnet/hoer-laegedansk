@@ -315,44 +315,47 @@ Til sidst vurderes *bevægeligheden* af columna.
 
    **Fig. 10.3** Bevægelighed i columna thoracolumbalis.
 
+
+.. |logo4A| image:: Figurer/FIG10-4_png.png
+   :width: 600 px
+.. |logo4B| image:: Figurer/FIG10-4B_png.png
+   :width: 600 px
+
 <html5media>File:FIG10-4.mp3</html5media>
 
-.. figure:: Figurer/FIG10-4_png.png
-   :width: 600 px
-   :alt:  Fig. 10.4 Lasègues prøve.
 
-   **Fig. 10.4** Lasègues prøve.
-   
-   **Lasègues prøve** (strakt benløftningstest).
-   Patienten i rygleje, det strakte ben løftes af undersøgeren, der samtidig med den
-   anden hånd stabilisererer bækkenet.
-   
-   **Normal = »negativ Lasègue«:** benet kan løftes til 90° uden smerter.
-   
-   **Abnormt = »positiv Lasègue«:** Smerter med udstråling til bagsiden af låret ved
-   elevation af benet. Angives med gradantal, f.eks. »Lasègue positiv ved 45°«. Tyder
-   på affektion af de spinalrødder, der forsyner n. ischiadicus, dvs. under L4-niveau.
-   Positiv **krydset** Lasègue er smerteudstråling ved elevation af det raske ben og kan
-   ses ved store paramediane prolapser.
-   
-   **Fejlkilde:** Smerterne skyldes hoftelidelse, prøv evt. om smerterne kan reproduceres,
-   når knæet er helt flekteret, se Fig. 10.17.
++-----------------------------------------------------------------------------------------+
+| |logo4A|                                                                                |
+|                                                                                         |
+| **Lasègues prøve** (strakt benløftningstest).                                           |
+| Patienten i rygleje, det strakte ben løftes af undersøgeren, der samtidig med den       |
+| anden hånd stabilisererer bækkenet.                                                     |
+|                                                                                         |
+| **Normal = »negativ Lasègue«:** benet kan løftes til 90° uden smerter.                  |
+|                                                                                         |
+| **Abnormt = »positiv Lasègue«:** Smerter med udstråling til bagsiden af låret ved       |
+| elevation af benet. Angives med gradantal, f.eks. »Lasègue positiv ved 45°«. Tyder      |
+| på affektion af de spinalrødder, der forsyner n. ischiadicus, dvs. under L4-niveau.     |
+| Positiv **krydset** Lasègue er smerteudstråling ved elevation af det raske ben og kan   |
+| ses ved store paramediane prolapser.                                                    |
+|                                                                                         |
+| **Fejlkilde:** Smerterne skyldes hoftelidelse, prøv evt. om smerterne kan reproduceres, |
+| når knæet er helt flekteret, se Fig. 10.17.                                             |
+|                                                                                         |
+| |logo4B|                                                                                |
+|                                                                                         |
+| **»Omvendt Lasègue«** (femoralis-stræktest)                                             |
+| Patienten i bugleje, undersøgeren flekterer knæleddet og ekstenderer hofteleddet,       |
+| mens den anden hånd stabiliserer bækkenet.                                              |
+|                                                                                         |
+| **Normal:** Ingen smerter ved undersøgelsen.                                            |
+|                                                                                         |
+| **Abnorm:** smerter i ryggen med udstråling til forsiden af låret. Det angives, om      |
+| smerten udløses alene ved knæfleksion eller tillige ved hofteekstension. Tyder på       |
+| affektion af de spinalrødder, der forsyner n. femoralis, dvs. L2-L3.                    |
++-----------------------------------------------------------------------------------------+
 
-.. figure:: Figurer/FIG10-4B_png.png
-   :width: 600 px
-   :alt:  Fig. 10.4 Omvendt Lasègue prøve.
-
-   **Fig. 10.4** Omvendt Lasègue prøve.
-
-   **»Omvendt Lasègue«** (femoralis-stræktest)
-   Patienten i bugleje, undersøgeren flekterer knæleddet og ekstenderer hofteleddet,
-   mens den anden hånd stabiliserer bækkenet.
-
-   **Normal:** Ingen smerter ved undersøgelsen.
-
-   **Abnorm:** smerter i ryggen med udstråling til forsiden af låret. Det angives, om
-   smerten udløses alene ved knæfleksion eller tillige ved hofteekstension. Tyder på
-   affektion af de spinalrødder, der forsyner n. femoralis, dvs. L2-L3.
+**Fig. 10.4** Lasègues prøve.
 
 Patienter med symptomer fra columna kan ofte have udstrålende smerter
 i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer

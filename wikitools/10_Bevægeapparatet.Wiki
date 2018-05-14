@@ -166,7 +166,9 @@ Til sidst vurderes ''bevægeligheden'' af columna.
 
 <html5media>File:FIG10-4.mp3</html5media>
 
-[[File:FIG10-4_png.png|thumb|none|600px|alt=| '''Fig. 10.4''' Lasègues prøve.]]
+{|
+|width="100%"|
+[[File:FIG10-4_png.png|600px|logo4A]]
 
 '''Lasègues prøve''' (strakt benløftningstest). Patienten i rygleje, det strakte ben løftes af undersøgeren, der samtidig med den anden hånd stabilisererer bækkenet.
 
@@ -176,13 +178,16 @@ Til sidst vurderes ''bevægeligheden'' af columna.
 
 '''Fejlkilde:''' Smerterne skyldes hoftelidelse, prøv evt. om smerterne kan reproduceres, når knæet er helt flekteret, se Fig. 10.17.
 
-[[File:FIG10-4B_png.png|thumb|none|600px|alt=| '''Fig. 10.4''' Omvendt Lasègue prøve.]]
+[[File:FIG10-4B_png.png|600px|logo4B]]
 
 '''»Omvendt Lasègue«''' (femoralis-stræktest) Patienten i bugleje, undersøgeren flekterer knæleddet og ekstenderer hofteleddet, mens den anden hånd stabiliserer bækkenet.
 
 '''Normal:''' Ingen smerter ved undersøgelsen.
 
 '''Abnorm:''' smerter i ryggen med udstråling til forsiden af låret. Det angives, om smerten udløses alene ved knæfleksion eller tillige ved hofteekstension. Tyder på affektion af de spinalrødder, der forsyner n. femoralis, dvs. L2-L3.
+|}
+
+'''Fig. 10.4''' Lasègues prøve.
 
 Patienter med symptomer fra columna kan ofte have udstrålende smerter i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer som tegn på irritation af spinalrødderne. En fuldstændig undersøgelse af columna hos disse patienter omfatter derfor også en neurologisk undersøgelse af over- eller underekstremiteterne, samt sfinkterforhold (exploratio rectalis, side 113) ved mistanke om ''cauda equina-syndrom'' (se kapitel 11). Ved mistanke om discusprolpas eller anden columnalidelse med rodaffektion udføres ''Lasègues prøve'' og ''omvendt Lasègue''.
 
