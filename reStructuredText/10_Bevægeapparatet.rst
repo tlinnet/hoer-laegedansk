@@ -1,4 +1,4 @@
-10 Bevægeapparatet
+  10 Bevægeapparatet
 ******************
 
 :date: 2018-05-01 12:49
@@ -307,14 +307,37 @@ Til sidst vurderes *bevægeligheden* af columna.
 | Lateral fleksion                                      | 45° | »Læg øret til skulderen – uden at løfte skulderen«  |
 +-------------------------------------------------------+-----+-----------------------------------------------------+
 
+.. |logo3A| image:: Figurer/FIG10-3A_png.png
+   :width: 150 px
+.. |logo3B| image:: Figurer/FIG10-3B_png.png
+   :width: 150 px
+.. |logo3C| image:: Figurer/FIG10-3C_png.png
+   :width: 120 px
+.. |logo3D| image:: Figurer/FIG10-3D_png.png
+   :width: 100 px
+
 <html5media>File:FIG10-3.mp3</html5media>
 
-.. figure:: Figurer/FIG10-3_png.png
-   :width: 600 px
-   :alt:  Fig. 10.3 Bevægelighed i columna thoracolumbalis.
++---------------------+-----------------------+--------------------+--------------------------+
+|Rotation             |Fleksion               |Ekstension          |Lateral fleksion          |
++=====================+=======================+====================+==========================+
+||logo3A|             ||logo3B|               ||logo3C|            ||logo3D|                  |
++---------------------+-----------------------+--------------------+--------------------------+
+|Fold armene          |Sæt fingrene           |Læn dig bagover.    |Før hånden så             |
+|over kors, drej      |mod gulvet.            |                    |langt ned langs           |
+|skuldrene så meget   |                       |                    |låret som muligt.         |
+|som muligt uden at   |                       |                    |                          |
+|løfte ballerne       |                       |                    |                          |
+|fra sædet.           |                       |                    |                          |
++---------------------+-----------------------+--------------------+--------------------------+
+|Undersøgeren         |Vurder bevægeligheden  |Støt patienten,     |Kontrollér, at patienten  |
+|vurderer rotationen  |i columna lumbalis     |så han/hun ikke     |ikke læner sig forover.   |
+|ud fra skulderens    |ved samtidig at        |falder!             |                          |
+|position.            |palpere, om afstanden  |                    |                          |
+|                     |mellem spinae øges.    |                    |                          |
++---------------------+-----------------------+--------------------+--------------------------+
 
-   **Fig. 10.3** Bevægelighed i columna thoracolumbalis.
-
+**Fig. 10.3** Bevægelighed i columna thoracolumbalis.
 
 .. |logo4A| image:: Figurer/FIG10-4_png.png
    :width: 600 px
@@ -322,7 +345,6 @@ Til sidst vurderes *bevægeligheden* af columna.
    :width: 600 px
 
 <html5media>File:FIG10-4.mp3</html5media>
-
 
 +-----------------------------------------------------------------------------------------+
 | |logo4A|                                                                                |
