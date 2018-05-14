@@ -10,7 +10,9 @@ cd ../wikitools
 # Delete .Wiki old files
 #rm -f *_*.Wiki
 #rm Forside.Wiki
-rm 10_Bevægeapparatet.Wiki
+
+# Delete single
+#rm 10_Bevægeapparatet.Wiki
 rm 11_Centralnervesystemet.Wiki
 
 # Copy over .Wiki files

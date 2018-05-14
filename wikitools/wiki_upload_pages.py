@@ -25,7 +25,8 @@ wpages = [
     #"7_Mave-tarm-systemet",
     #"8_Nyrer,_urinveje_og_mandlige_kønsorganer",
     #"9_Kvindelige_kønsorganer",
-    "10_Bevægeapparatet",
+    #"10_Bevægeapparatet",
+    "11_Centralnervesystemet",
 ]
 
 # loop over pages
