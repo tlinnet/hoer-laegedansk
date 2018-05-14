@@ -55,6 +55,8 @@ Der skal være ro, tid og plads til at optage journal. Desværre er forholdene m
 
 '''Undersøgelsesremedier'''
 
+&lt;html5media&gt;File:BOKS17B.mp3&lt;/html5media&gt;
+
 <pre>Brugen af undersøgelsesremedier kan variere fra speciale til
 speciale, men til en god rutineundersøgelse skal man som
 minimum bruge:
@@ -77,6 +79,8 @@ Sæt dig bekvemt over for patienten uden for lang afstand imellem jer. Undgå at
 Kan patienten tale for sig selv, skal du koncentrere dig fuldstændigt om patientens egen forklaring. Udlægninger fra ægtefælle, sygeplejersker eller andre kan du altid få bagefter. Ofte er det en fordel at bede ledsagere om at vente udenfor, til du har talt med og undersøgt patienten.
 
 '''Mødet med patienten'''
+
+&lt;html5media&gt;File:BOKS18.mp3&lt;/html5media&gt;
 
 <pre>* Sørg for rolige omgivelser, lukket dør, ingen uvedkommende
 personer.

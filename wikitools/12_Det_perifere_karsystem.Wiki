@@ -2,7 +2,7 @@ __TOC__
 
 '''Nøglepunkter'''
 
-&lt;html5media&gt;File:KAP12_178.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_178.mp3</html5media>
 
 * Det perifere karsystem omfatter arterier, vener og lymfekar uden for de store organer (hjerte, lunger, hjerne og lever).
 * Aterosklerose er den hyppigste arteriesygdom.
@@ -11,7 +11,7 @@ __TOC__
 
 '''Signalement af patient med aterosklerose'''
 
-&lt;html5media&gt;File:BOKS178.mp3&lt;/html5media&gt;
+<html5media>File:BOKS178.mp3</html5media>
 
 * Disposition til hjertesygdom og karsygdom i familien (f.eks. far død i ung alder af blodprop i hjernen)
 * Hypertensio arterialis (forhøjet blodtryk) og hyperkolesterolæmi (forhøjet kolesteroltal)
@@ -24,7 +24,7 @@ __TOC__
 
 = Symptomer =
 
-&lt;html5media&gt;File:KAP12_179.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_179.mp3</html5media>
 
 ''Aterosklerose'' (åreforkalkning) er langt den hyppigste karsygdom. Af den følger bl.a. iskæmisk hjertesygdom og apoplexia cerebri. Det er vigtigt så tidligt som muligt at konstatere aterosklerosen.
 
@@ -32,7 +32,7 @@ Perifere karlidelser manifesterer sig oftest på underekstremiteterne. Hovedsymp
 
 '''Det perifere karsystem'''
 
-&lt;html5media&gt;File:BOKS179A.mp3&lt;/html5media&gt;
+<html5media>File:BOKS179A.mp3</html5media>
 
 * Har du smerter i benene?
 * Får du hævede ben?
@@ -44,7 +44,7 @@ Arterielle og venøse sygdomme præsenterer som regel vidt forskellig symptomato
 
 * De klassiske symptomer og fund er:
 
-&lt;html5media&gt;File:BOKS179B.mp3&lt;/html5media&gt;
+<html5media>File:BOKS179B.mp3</html5media>
 
 <blockquote>* ''Pain'' (smerte)
 * ''Pallor'' (bleghed)
@@ -54,7 +54,7 @@ Arterielle og venøse sygdomme præsenterer som regel vidt forskellig symptomato
 </blockquote>
 '''Akut arteriel okklusion'''
 
-&lt;html5media&gt;File:BOKS180.mp3&lt;/html5media&gt;
+<html5media>File:BOKS180.mp3</html5media>
 
 ''Aflukning af en arterie skyldes oftest trombe, sjældnere emboli eller traume.''
 
@@ -84,25 +84,25 @@ Arterielle sygdomme er sjældent begrænset til de perifere kar, og anamnesen ho
 
 == Smerter i benene (cruralgia) ==
 
-&lt;html5media&gt;File:KAP12_180.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_180.mp3</html5media>
 
 Anamnesen fokuserer på at afsløre udløsende og lindrende faktorer, der gør det muligt at skelne mellem arteriel hhv. venøs ætiologi. Både arterielle og venøse bensmerter kan være funktionsudløste. ''Claudicatio intermittens'' (vindueskiggersyndrom) er kardinalsymptomet ved kronisk underekstremitetsiskæmi: Smerterne udløses ved gang og svinder, når patienten stopper op. Ved varicer og kronisk venøs insufficiens klager patienten typisk over smerter, træthed og tyngdefornemmelse i benene efter en lang arbejdsdag med stående arbejde. Natlige smerter i benene hos patienten med underekstremitetsiskæmi er som regel tegn på en forværring af sygdommen. Det er karakteristisk, at patienten med natlige iskæmiske bensmerter får lindring ved at få benene nedad (ud over sengekanten), mens patienten med venøse bensmerter skal have benene op, når hun kommer hjem fra arbejde. Andre, mere uspecifikke symptomer, der også kan ses ved perifere karlidelser, er kuldefornemmelse, paræstesier, natlig uro og krampe.
 
 == Hævede ben (ødemer) ==
 
-&lt;html5media&gt;File:KAP12_181.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_181.mp3</html5media>
 
 Hævelse af ankler og fodryg, der lindres ved elevation, kan være forårsaget af kronisk venøs insufficiens. En sjælden årsag er lymfødem (pga. kompromitteret afløb i det lymfatiske system). Den hyppigste årsag – og vigtigste differentialdiagnose – er højresidig hjerteinsufficiens (se kapitel 5), og her vil anamnesen og den objektive undersøgelse ofte give vigtige oplysninger: Tidligere dyb venøs trombose eller åreknuder (''varicer'')? Disponerende faktorer for lymfødem (kræft, stråleterapi)? Hjertesygdom?
 
 == Bensår (ulcus cruris, pedis) ==
 
-&lt;html5media&gt;File:KAP12_181_2.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_181_2.mp3</html5media>
 
 Bensår er hyppige hos patienter med svær kronisk venøs insufficiens eller arteriel underekstremitetsiskæmi. Sammenstillingen af symptomer og fund er retningsgivende for diagnosen.
 
 '''Bensår'''
 
-&lt;html5media&gt;File:BOKS181.mp3&lt;/html5media&gt;
+<html5media>File:BOKS181.mp3</html5media>
 
 {|
 !width="24%"| Årsag
@@ -126,13 +126,13 @@ Det diabetiske fodsår er multifaktorielt, forårsaget af både mikro- og makroa
 
 == Øvrige symptomer ==
 
-&lt;html5media&gt;File:KAP12_182.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_182.mp3</html5media>
 
 Karlidelser er ofte fremtrædende på underekstremiteterne, men sjældent begrænset hertil. Den grundige anamnese hos karpatienten skal derfor også dække symptomer på karlidelser i andre organsystemer. ''Erektiv dysfunktion (impotens)'' er hyppig hos mandlige patienter med svær aterosklerose. Ved både akutte og kroniske ''mavesmerter'' kan arterielle lidelser indgå i de differentialdiagnostiske overvejelser, f.eks. abdominalt aortaaneurisme og mesenteriel iskæmi (jf. kapitel 7). Ved akutte ''brystsmerter'' bør man ikke glemme det dissekerende aortaaneurisme, og ved ''akut vejrtrækningsbesvær'' er lungeemboli en differentialdiagnose. ''CNS-symptomer'' kan skyldes stenose i aa. carotis (transitorisk cerebral iskæmi, TCI). ''Raynauds syndrom'' eller »hvide fingre« er en perifer vasospastisk lidelse, der kan ramme både fingre og tæer. ''Hæmorider'' og ''varicocele'' er perifere venesygdomme, der kan ses isoleret eller hos varicepatienten.
 
 = Objektiv undersøgelse =
 
-&lt;html5media&gt;File:KAP12_182_2.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_182_2.mp3</html5media>
 
 Det perifere karsystem er tilgængeligt for indirekte undersøgelse på ekstremiteter og hals samt gennem bugvæggen. Ofte suppleres den kliniske undersøgelse med perifer blodtryksmåling samt med billeddiagnostiske undersøgelse som Doppler-ultralyd, arteriografi og flebografi (røntgenkontrastundersøgelse af vener).
 
@@ -142,13 +142,13 @@ Vurderingen af patientens almentilstand er væsentlig. ''Blodtrykket'' skal alti
 
 == Inspektion ==
 
-&lt;html5media&gt;File:KAP12_183.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_183.mp3</html5media>
 
 Kroniske lidelser i det perifere karsystem giver ændringer i hudens ''farve'' og ''trofik''.
 
 '''Inspektion'''
 
-&lt;html5media&gt;File:BOKS183.mp3&lt;/html5media&gt;
+<html5media>File:BOKS183.mp3</html5media>
 
 * Normal, lyserød hud perifert på ekstremiteten?
 * Perifer cyanose eller lividitet?
@@ -169,27 +169,27 @@ Inspektionen af hudens farve kan suppleres med funktionsprøver. Ved undersøgel
 
 Prøven kan udvides med ''arbejdsprøven'', hvor man beder patienten lave vippebevægelser med foden, mens denne holdes eleveret. Hos patienter med arteriel insufficiens vil man ofte kunne reproducere deres iskæmiske lægsmerter.
 
-&lt;html5media&gt;File:FIG12-1.mp3&lt;/html5media&gt;
+<html5media>File:FIG12-1.mp3</html5media>
 
-[[File:Figurer/FIG12-1_png.png|frame|none|600px|alt=|caption '''Fig. 12.1''' Elevationsprøven. Undersøgeren løfter foden ca. 1/2 meter over hjerteniveau. Bliver foden voksbleg inden for få minutter, er det tegn på arteriel insufficiens. Yderligere bekræftelse på arteriel insufficiens ses, når foden igen sænkes, og der kommer reaktiv hyperæmi og forsinket venefyldning.]]
+[[File:FIG12-1_png.png|thumb|none|600px|alt=| '''Fig. 12.1''' Elevationsprøven. Undersøgeren løfter foden ca. 1/2 meter over hjerteniveau. Bliver foden voksbleg inden for få minutter, er det tegn på arteriel insufficiens. Yderligere bekræftelse på arteriel insufficiens ses, når foden igen sænkes, og der kommer reaktiv hyperæmi og forsinket venefyldning.]]
 
 Ved undersøgelse for varicer inspiceres de fuldt afklædte underekstremiteter på den stående patient. ''Trendelenburgs prøve'' er en test for defekte klapper ved ''v. saphena magnas'' indløb i v. ''femoralis''. Benet eleveres, varicerne tømmes, og der lægges staseslange helt proksimalt om femur. Patienten rejser sig, stasen fjernes, og prøven er positiv, hvis varicerne styrtfyldes.
 
 == Auskultation ==
 
-&lt;html5media&gt;File:KAP12_185.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_185.mp3</html5media>
 
 Auskultation af perifere kar (karotiderne, nyrearterierne) var tidligere god latin. Men disse undersøgelser er upålidelige, og der findes i dag let tilgængelige, non-invasisve alternativer i form af Doppler-ultralyd.
 
 == Palpation ==
 
-&lt;html5media&gt;File:KAP12_185_2.mp3&lt;/html5media&gt;
+<html5media>File:KAP12_185_2.mp3</html5media>
 
 Palpation af ''perifere pulse'' er en ufravigelig del af den objektive undersøgelse af karpatienten.
 
 '''Palpation af perifere pulse'''
 
-&lt;html5media&gt;File:BOKS185.mp3&lt;/html5media&gt;
+<html5media>File:BOKS185.mp3</html5media>
 
 * Palpér pulsen i a. radialis samtidig med hjertestetoskopien (se side 76). Herved noteres frekvens og rytme, og du lærer, hvordan patientens puls skal føles.
 * ''A. dorsalis pedis'' og ''a. tibialis posterior'' opsøges. Er der puls her, er det unødvendigt at undersøge pulsene mere proksimalt på ekstremiteten.
@@ -197,9 +197,9 @@ Palpation af ''perifere pulse'' er en ufravigelig del af den objektive undersøg
 * Sammenlign de to sider. Er pulsene lige kraftige i de to fødder?
 * Palpation af ''a. carotis'' er en undersøgelse af venstre hjertekammers funktion og tjener ikke til vurdering af perifer karfunktion.
 
-&lt;html5media&gt;File:FIG12-2.mp3&lt;/html5media&gt;
+<html5media>File:FIG12-2.mp3</html5media>
 
-[[File:Figurer/FIG12-2_png.png|frame|none|700px|alt=|caption '''Fig. 12.2''' Palpation af fodpulse. A. dorsalis pedis (ADP) palperes på fodryggen lateralt for m. extensor hallucis longus. A. tibialis posterior (ATP) palperes lige bag ved mediale malleol.]]
+[[File:FIG12-2_png.png|thumb|none|700px|alt=| '''Fig. 12.2''' Palpation af fodpulse. A. dorsalis pedis (ADP) palperes på fodryggen lateralt for m. extensor hallucis longus. A. tibialis posterior (ATP) palperes lige bag ved mediale malleol.]]
 
 Der er to fejlkilder ved palpation af fodpulse. Den første fejl er, at man mærker en puls (sin egen), der ikke er patientens. Er man i tvivl, kan man skiftevis – med sin venstre frie hånd – palpere sin egen og patientens radialispuls samtidig med, at man palperer patientens fodpuls. Den anden fejl er, at man ikke mærker en puls, der er der. Fejlen skyldes ofte, at man trykker for hårdt over fodryggen og ikke giver sig tid. Er man i tvivl, kan sagen afgøres med en lille Doppler-lydgiver af samme type som bruges til at lytte fosterhjertelyd hos gravide.
 
@@ -209,6 +209,6 @@ Palpationen udgør kernen i den kliniske undersøgelse ved mistanke om dyb venet
 
 Karpatienten bør undersøges med palpation af abdomen (jf. kapitel 7), hvorved man – særligt ved store aneurismer hos slanke personer – kan afsløre et abdominalt aortaaneurisme. (se Fig. 12.3).
 
-&lt;html5media&gt;File:FIG12-3.mp3&lt;/html5media&gt;
+<html5media>File:FIG12-3.mp3</html5media>
 
-[[File:Figurer/FIG12-3_png.png|frame|none|700px|alt=|caption '''Fig. 12.3''' Abdominalt aortaaneurisme. Et abdominalt aortaaneurisme palperes som en ekspansivt pulserende udfyldning mellem venstre kurvatur og umbilicus.]]
+[[File:FIG12-3_png.png|thumb|none|700px|alt=| '''Fig. 12.3''' Abdominalt aortaaneurisme. Et abdominalt aortaaneurisme palperes som en ekspansivt pulserende udfyldning mellem venstre kurvatur og umbilicus.]]
