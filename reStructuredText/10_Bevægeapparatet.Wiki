@@ -1,0 +1,201 @@
+__TOC__
+
+'''Nøglepunkter'''
+
+* Til bevægeapparatet regnes skelettet, skeletmuskulaturen og led.
+* Kardinalsymptomerne ved lidelse i bevægeapparatet er smerte, stivhed, hævelse og funktionsnedsættelse.
+* Kardinalpunkterne i den objektive undersøgelse er at afsløre:
+** det hævede led
+** muskelatrofi
+** fejlstilling
+** ømhed af led, knogler og muskler
+** nedsat bevægelighed i et led
+** et løst led.
+
+= Symptomer =
+
+De vigtigste klager fra bevægeapparatet er smerter, stivhed, hævelse og funktionsnedsættelse.
+
+'''Bevægeapparatet'''
+
+* Har du smerter i ryg, nakke, skuldre, arme, ben eller hofter?
+* Har du stive eller hævede led?
+* Har du fuld brug af dine lemmer?
+
+Lidelserne i bevægeapparatet favner en meget bred række af sygdomme. Daglige belastninger giver led- og muskelsmerter hos et stort antal mennesker. Traumer og ulykker er hyppigt årsag til akutte skader på bevægeapparatet. En række kroniske, systemiske sygdomme manifesterer sig med symptomer fra bevægeapparatet, f.eks. ledegigt (''reumatoid artrit'').
+
+Ofte er årsagen til hospitalsindlæggelse et broget klinisk billede med akut forværring af kronisk sygdom, f.eks. knogleskørhed (''osteoporose'') med tilstødende lårbensbrud efter fald i hjemmet pga. uafklaret svimmelhed. Ved symptomer fra bevægeapparatet kan det derfor være vigtigt med en fyldig anamnese, der både dækker omstændighederne ved traume- eller belastningsmekanismerne, og som går i dybden med andre organsystemer (specielt hjerte, kar og CNS).
+
+== Smerter ==
+
+Hovedformålet med anamnesen er at afgøre, om smerten skyldes traume/ belastning, eller om den er opstået spontant. Dernæst forsøger man at indkredse forværrende eller lindrende faktorer og evt. ledsagesymptomer, der kan bidrage til diagnosen.
+
+'''Smerte'''
+
+* Hvor sidder smerterne? Stråler de nogen steder hen?
+* Lammelser og føleforstyrrelser?
+* Beskriv smerterne (dumpe, gnavende, jagende osv.)!
+* Startede smerterne pludseligt eller snigende?
+* Har du slået eller forvredet dig? Dårlige arbejdsstillinger?
+* Hvilken tid på dagen har du ondt?
+* Hvad forværrer eller lindrer smerterne?
+* Hævede led?
+
+Smerte fra bevægeapparatet kan udgå fra knogler, muskler eller led, og med sin udspørgen forsøger man at lokalisere patientens smerte. Som regel er det sådan, at jo mere distalt, en smerte sidder, jo mere præcist kan patienten redegøre for den, og der er ofte også lokaliserede ledsagesymptomer som f.eks. ledhævelse. Derimod kan det ofte være svært alene på anamnesen at lokalisere smerter i hofter, skuldre og det aksiale skelet. Specielt hofte- og skuldersmerter kan udstråle til hhv. arm og knæ. Ledsmerter er som regel ledsaget af ledhævelse.Muskelsmerter er ofte dybe, konstante og dårligt lokaliserede med ledsagende, hurtig udtrætning af musklen. Knoglesmerter beskrives typisk som dumpe eller borende. Alle tre smertetyper kan være til stede samtidig, som f.eks. ved slidgigt (''osteoartrose'') med knogleaffektion og sekundære myoser.
+
+Det er ikke ualmindeligt, at bevægeapparatslidelser afficerer tilstødende perifere nerver og giver dys- og paræstesier (se side 176). Særligt ved lænderygssmerter er det vigtigt at spørge til radikulære symptomer (jagende smerter ned på låret, dys- og paræstesier, kraftnedsættelse), som kunne tyde på affektion af de lumbale spinalrødder (se kapitel 11).
+
+De pludseligt opståede bevægeapparatssmerter er som regel traumatiske. Men det mindre traume kan gå ubemærket hen, eller anamnesen kan være uklar. Smerter pga. overbelastning er som regel let reproducerbare ved gentagen belastning. Ved inflammatoriske og degenerative lidelser kan der være en karakteristisk ''belastningstriade'': igangsætningssmerter →lindring ved let aktivitet →forværring ved yderligere aktivitet.
+
+Den hyppigste årsag til smerter og hævelse i et enkelt led er et traume. Urinsyregigt (''arthritis urica''), krystalsynovitis og bakteriel artrit er andre årsager; ved sidstnævnte har patienten oftest feber og andre almene symptomer. Ved smerter og hævelse i flere led er der mange mulige differentialdiagnoser. Ved pludseligt opståede symptomer er der ofte tale om en reaktiv artrit, og diagnosen kan sandsynliggøres ved forekomsten af forudgående almene symptomer (på en viral infektion) eller karakteristiske ledsagesymptomer (f.eks. fra øjne og urinrør ved ''mb. Reiter''). Ved ledegigt (''reumatoid artrit'') er det klassiske billede en symmetrisk affektion af fingerled, håndled og tæer. I aktiv fase er der som regel almene symptomer som træthed og vægttab. Slidgigt (''osteoartrose'') rammer oftest knæled, og patienten er sjældent yngre end 40-50 år.
+
+Virale sygdomme som influenza kan give diffuse muskel og ledsmerter. Både akutte og kroniske smerter i en ekstremitet kan skyldes karlidelser (se kapitel 12). Knogletumorer er sjældne og giver typisk natlige smerter.
+
+== Stivhed ==
+
+Ledstivhed – særligt som morgenstivhed – er et kardinalsymptom ved inflammatoriske og degenerative ledsygdomme. Ved ledegigt (''reumatoid artrit'') har patienten typisk morgenstivhed af flere timers varighed. Ved slidgigt (''osteoartrose'') varer morgenstivheden sjældent over 1/2 time, eller stivheden kommer måske først op ad dagen efter aktivitet. Ved ''polymyalgia rheumatica'' (»muskelgigt«) kan patienten have en muskelbetinget smerte og træthed i skulder- og hofteled, der beskrives som »stivhed«. ''Aflåsningstilfælde'' i knæet er karakteristisk for meniskskader.
+
+== Hævelse ==
+
+Ledhævelse kan være traumatisk eller spontan, hvorfor anamnesen er utroligt vigtig. Ved traumatisk ledhævelse kan hævelsen både skyldes ansamlinger uden for ledkapsel som f.eks. ved den forstuvede ankel og inden i leddet, som det ses ved korsbåndsskade. Pludseligt opstået ledhævelse ledsages ofte af ledsmerter, og differentialdiagnostikken er som nævnt ovenfor.
+
+== Funktionsnedsættelse ==
+
+Årsagen til funktionsnedsættelse ved bevægeapparatslidelser er oftest multifaktoriel: ledstivhed, smertebetinget bevægeindskrænkning og sekundær muskelsvækkelse. Anamnesen fokuserer på at afdække graden af funktionsnedsættelsen:
+
+'''Funktionsnedsættelse'''
+
+* Kan du klare dit arbejde ?
+* Må du have hjælp til madlavning, tøjvask eller indkøb?
+* Skal du bruge særlige hjælpemidler til f.eks. at få pilleglasset åbnet?
+* Må du have hjælp til at tage tøj på eller binde snørebånd?
+* Går du med stok eller gangstativ?
+* Skal du have hjælp til at komme ud af sengen?
+
+{|
+!width="50%"| Funktionsnedsættelse
+!width="50%"| (American Rheumatism Associations klassifikation)
+|-
+| ''Klasse 1''
+| Uafhængig og selvhjulpen.
+|-
+| ''Klasse 2''
+| Selvhjulpen, men med gener og tilpasninger (f.eks. aktivitetsnedsættelse og hjælpemidler).
+|-
+| ''Klasse 3''
+| Skal have hjælp til daglige nødvendigheder, f.eks. påklædning og badning.
+|-
+| ''Klasse 4''
+| Bundet til seng eller kørestol.
+|}
+
+= Objektiv undersøgelse =
+
+Indled den objektive undersøgelse af bevægeapparatet med at iagttage patienten i sin helhed. Kan han gå? Er gangen normal? Kan han trykke hånd? Er han forpint? Ofte kan man med fordel starte sin undersøgelse der, hvor patienten har sit problem. Husk, at fundet af én fraktur hos traumepatienten ikke udelukker andre (og måske alvorligere) skader.
+
+En forudsætning for undersøgelse af bevægeapparatet er, at patienten er fuldt afklædt. Gå ikke på kompromis! Det er samtidig utroligt vigtigt, at du har patientens fulde medvirken (kooperation), så vær omhyggelig med at skabe en god patientkontakt, hvor du hele tiden fortæller, hvad du ønsker at gøre.
+
+En grundig undersøgelse af patienten med klager fra bevægeapparatet omfatter også en undersøgelse af det perifere kar- og nervesystem (»neurovaskulære forhold«) (se kapitel 11 og 12). Hos traumepatienten er en nøje vurdering af de perifere neurovaskulære forhold obligat, og hos patienten med lændesmerter er det relevant at undersøge for lumbal rodaffektion (se side 171).
+
+== Generelle principper ==
+
+Bevægeapparatet bør undersøges regionsvist, idet man hele tiden sammenligner syg og rask side. Samtidig forsøger man at afgøre, om forandringerne er lokaliserede til knogle, led eller muskler, og man kan ofte indarbejde en vurdering af den regionale kar- og nerveforsyningen i undersøgelsen.
+
+== Inspektion ==
+
+''Huden'' i regionen vurderes: Er der rødme som tegn på infektion/inflammation? Ved traumer kan huden være læderet, og udbredelse og dybde af hudlæsionen beskrives nøje. Ved lukkede frakturer kan knogleenderne prominere og true huden. ''Deformiteter'' af regionen beskrives: Er der fejlstilling af knoglerne som ved fraktur, eller er der tale om kongenitte forandringer (f.eks. skoliose, se Fig. 10.2) eller degenerative forandringer (f.eks. reumatoide fingerdeformiteter, se Fig. 10.12)? ''Hævelse'' beskrives, idet man forsøger at afgrænse hævelsen: begrænset inden for ledkapslen, periartikulært ødem osv. ''Atrofi'' af musklerne vurderes også (se side 169).
+
+== Palpation ==
+
+''Varme'' af leddet tyder på inflammation/infektion og mærkes bedst med bagsiden af dine fingre; sammenlign med den raske side. ''Hævelse'' vurderes også ved palpation. Ved ledansamling inden for ledkapslen (''intraartikulært'') føles ledkapslen spændt, og der kan være anslag, som når patella trykkes mod femurenden (se Fig. 10.18). Ved hævelse uden for leddet – f.eks. den forstuvede fod – føles hævelsen mere dejagtig, som ved perifere ødemer. Ved kroniske forandringer kan ledsvulsten være fast som ved de lednære knogleforandringer, der ses ved artrose. Ved myogene forandringer er der som regel hævelse og øget spænding (''tonus'') af den afficerede muskel. ''Ømhed'' undersøges ved at palpere ledkanter, ligamenter og den tilstødende knogle, idet man forsøger at bestemme, om ømheden er inden i eller uden for leddet. ''Direkte ømhed'' er ømhed, der udløses ved direkte palpation af den pågældende struktur. ''Indirekte ømhed'' er ømhed, der udløses ved mobilisering af fjernere strukturer, f.eks. hoftesmerter, der udløses ved at skubbe underekstremiteten i proksimal retning. ''Strepitus'' er den skurren, man føler eller hører, når to frakturender skraber mod hinanden. Direkte og indirekte ømhed (med eller uden strepitus) er tegn på ''fraktur'' (knoglebrud) og skal altid udløse radiologisk undersøgelse.
+
+== Funktionsvurdering ==
+
+Ved objektiv vurdering af muskelfunktionen vurderes ''kraftnedsættelsen'' (se side 161). Ved vurdering af led og lednære forandringer er kernen i funktionsundersøgelsen en vurdering af leddets ''bevægelighed'' og ''stabilitet''.
+
+Ved undersøgelsen skelnes mellem ''aktiv bevægelighed'', hvor patienten selv bevæger leddet, og ''passiv bevægelighed'', hvor undersøgeren laver bevægelsen på den afslappede ekstremitet. En diskrepans mellem aktiv og passiv bevægelighed findes f.eks. ved muskelsvækkelse. Ved rutineundersøgelsen begrænser man sig – af praktiske hensyn – til at anvende aktiv bevægelighed ved undersøgelse af columna og passiv bevægelighed ved undersøgelse af ekstremiteter.
+
+Al ledbevægelighed vurderes ud fra en imaginær neutralposition på en 360 graders bue. Et normalt bevægeudslag i knæet angives f.eks. som »fra 0° til 120°«, dvs. fra strakt position til bløddelsstop. Ved abnorm mobilitet, f.eks. hyperekstension i knæleddet, kan man anvende negative værdier, f.eks. »fra ÷15° til 120°«. Ved den rutinemæssige undersøgelse er øjemålet tilstrækkeligt; specialisten anvender en særlig vinkelmåler (et goniometer).
+
+&lt;html5media&gt;File:FIG10-1.mp3&lt;/html5media&gt;
+
+[[File:Figurer/FIG10-1_png.png|frame|none|400px|alt=|caption '''Fig. 10.1''' Neutralposition ved vurdering af ledbevægelighed.]]
+
+''Stabiliteten'' af et led vurderes ved (forsigtigt) at bringe leddet i unaturlige positioner, f.eks. abduktion eller adduktion i knæleddet (se Fig. 10.19).
+
+== Regional undersøgelse ==
+
+== Ryg og rygsøjle (dorsum et columna vertebralis) ==
+
+Indledningsvist inspiceres for ''deformiteter'' (se Fig. 10.2). Strukturelle skolioser ses hyppigst hos piger, og der findes som regel også en torsionsprominens (»pukkel«) til skoliosens konvekse side. Lette grader af strukturelle skolioser afsløres måske først, når man beder patienten bøje sig forover. Ikke-strukturelle skolioser kan skyldes forskellig benlængde (anisomeli) eller være smertebetinget pga. discusprolaps. Vurder hoftekammens stilling, og forsøg om du kan reducere skoliosen ved at lægge klodser under patientens ben. ''Gibbus'' er en lokal prominens af columna som følge af fraktur (osteoporose eller knoglemetastaser).
+
+&lt;html5media&gt;File:FIG10-2.mp3&lt;/html5media&gt;
+
+[[File:Figurer/FIG10-2_png.png|frame|none|600px|alt=|caption '''Fig. 10.2''' Abnorme krumninger af columna.]]
+
+Columna palperes systematisk, idet man banker på processi spinosi én 143 efter én. Bankeømhed giver mistanke om fraktur eller ''metastase'' (spredning af cancer) i en ryghvirvel (corpus vertebra). Palpationsømhed og ømhed i den paravertebrale muskulatur giver mistanke om discuslidelse eller ''spondylitis'' (betændelse i rygsøjlens led). Palpér systematisk i hele columnas længde, fra nakke til sæde.
+
+Til sidst vurderes ''bevægeligheden'' af columna.
+
+{|
+!width="48%"| Bevægelighed i columna cervicalis
+!width="5%"|
+
+!width="46%"| Patienten undersøges siddende med fikserede skuldre
+|-
+| Rotation
+| 75°
+| »Kig bagud over skulderen uden at vende dig«
+|-
+| Fleksion
+| 45°
+| »Kig ned, så hagen når brystet«
+|-
+| Ekstension
+| 45°
+| »Kig op i loftet, lige så langt bagud du kan«
+|-
+| Lateral fleksion
+| 45°
+| »Læg øret til skulderen – uden at løfte skulderen«
+|}
+
+&lt;html5media&gt;File:FIG10-3.mp3&lt;/html5media&gt;
+
+[[File:Figurer/FIG10-3_png.png|frame|none|600px|alt=|caption '''Fig. 10.3''' Bevægelighed i columna thoracolumbalis.]]
+
+&lt;html5media&gt;File:FIG10-4.mp3&lt;/html5media&gt;
+
+[[File:Figurer/FIG10-4_png.png|frame|none|600px|alt=|caption '''Fig. 10.4''' Lasègues prøve.]]
+
+'''Lasègues prøve''' (strakt benløftningstest). Patienten i rygleje, det strakte ben løftes af undersøgeren, der samtidig med den anden hånd stabilisererer bækkenet.
+
+'''Normal = »negativ Lasègue«:''' benet kan løftes til 90° uden smerter.
+
+'''Abnormt = »positiv Lasègue«:''' Smerter med udstråling til bagsiden af låret ved elevation af benet. Angives med gradantal, f.eks. »Lasègue positiv ved 45°«. Tyder på affektion af de spinalrødder, der forsyner n. ischiadicus, dvs. under L4-niveau. Positiv '''krydset''' Lasègue er smerteudstråling ved elevation af det raske ben og kan ses ved store paramediane prolapser.
+
+'''Fejlkilde:''' Smerterne skyldes hoftelidelse, prøv evt. om smerterne kan reproduceres, når knæet er helt flekteret, se Fig. 10.17.
+
+[[File:Figurer/FIG10-4B_png.png|frame|none|600px|alt=|caption '''Fig. 10.4''' Omvendt Lasègue prøve.]]
+
+'''»Omvendt Lasègue«''' (femoralis-stræktest) Patienten i bugleje, undersøgeren flekterer knæleddet og ekstenderer hofteleddet, mens den anden hånd stabiliserer bækkenet.
+
+'''Normal:''' Ingen smerter ved undersøgelsen.
+
+'''Abnorm:''' smerter i ryggen med udstråling til forsiden af låret. Det angives, om smerten udløses alene ved knæfleksion eller tillige ved hofteekstension. Tyder på affektion af de spinalrødder, der forsyner n. femoralis, dvs. L2-L3.
+
+Patienter med symptomer fra columna kan ofte have udstrålende smerter i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer som tegn på irritation af spinalrødderne. En fuldstændig undersøgelse af columna hos disse patienter omfatter derfor også en neurologisk undersøgelse af over- eller underekstremiteterne, samt sfinkterforhold (exploratio rectalis, side 113) ved mistanke om ''cauda equina-syndrom'' (se kapitel 11). Ved mistanke om discusprolpas eller anden columnalidelse med rodaffektion udføres ''Lasègues prøve'' og ''omvendt Lasègue''.
+
+== Skulder (regio glenohumerale) ==
+
+== Albuen (cubitus) ==
+
+== Underarm og håndled (antebrachium et carpus) ==
+
+== Hånden (manus) ==
+
+== Hofte og bækken ==
+
+== Knæet (genu) ==
+
+== Ankel og fod (pes) ==
