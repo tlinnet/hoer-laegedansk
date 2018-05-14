@@ -663,6 +663,289 @@ Kraftnedsættelse på underekstremiteten kan anvendes til at påvise
 niveauet for en rodaffektion ved en lumbal discusprolaps eller en specifik
 nervelæsion (peroneusparesen er langt den hyppigste):
 
+**Lumbal rodaffektion**
+
++------------+--------+----------------+------------------------+------------+
+|Discus      |Rod     |Parese          |Sensibilitets-          |Refleks     |
+|            |        |                |forstyrrelse            |bortfald    |
+|            |        |                |og smerteudstråling     |            |
++============+========+================+========================+============+
+|**L3/L4**   |L3      |Knæekstension   |For- og medialside      |Patellar    |
+|            |        |                |af lår                  |            |
++------------+--------+----------------+------------------------+------------+
+|**L4/L5**   |L4      |Dorsofleksion   |Lateralside af crus,    |Medial      |
+|            |        |i ankelled      |fodryg, mediale         |            |
+|            |        |                |fodrand, storetå        |haserefleks |
++------------+--------+----------------+------------------------+------------+
+|**L5/S1**   |L5      |Plantarfleksion |Bagside af crus, hæl,   |Achilles    |
+|            |        |i ankelled      |laterale fodrand        |            |
++------------+--------+----------------+------------------------+------------+
+
+
+**Underekstremitetens nerver**
+
++--------------+----------------+------------------------+
+|Nervelæsion   |Parese          |Sensibilitets-          |
+|              |                |forstyrrelse            |
++==============+================+========================+
+|**Femoralis** |Knæekstension   |For- og medialside      |
+|              |                |af lår                  |
++--------------+----------------+------------------------+
+|**Peroneus**  |Dorsofleksion   |Lateralside af crus,    |
+|              |i ankelled      |fodryg                  |
+|              |(»dropfod«)     |                        |
++--------------+----------------+------------------------+
+|**Tibialis**  |Plantarfleksion |Fodsål                  |
+|              |i ankelled      |                        |
++--------------+----------------+------------------------+
+
+Ved mistanke om læsion af nerver på overekstremiteten suppleres med
+undersøgelse af kraft og bevægelighed i håndled og fingre. Ved fraktur
+og traumer på overekstremiteten skal der *altid* undersøges for dette
+(samt perifer sensibilitet, se side 174, og pulsforhold, se side 185), jf. Fig.
+11.6.
+
+<html5media>File:FIG11-6.mp3</html5media>
+
+.. figure:: Figurer/FIG11-6_png.png
+   :width: 700 px
+   :alt:  Fig. 11.6 Kutane innervationsområder på hånden.
+
+   **Fig. 11.6** Kutane innervationsområder på hånden 
+   (nn. radialis, ulnaris et medianus).
+
+**Underekstremitetens nerver**
+
++--------------+----------------------+------------------------+
+|Nervelæsion   |Parese                |Sensibilitets-          |
+|              |                      |forstyrrelse            |
++==============+======================+========================+
+|**Radialis**  |Ekstension i håndled  |Dorsalt mellem          |
+|              |(»drophånd«)          |1. og 2. metacarpus     |
++--------------+----------------------+------------------------+
+|**Ulnaris**   |Fingerspredning       |Volart på spidsen af    |
+|              |                      |5. finger               |
++--------------+----------------------+------------------------+
+|**Medianus**  |Tommelabduktion       |Volart på spidsen af    |
+|              |                      |2. finger               |
++--------------+----------------------+------------------------+
+
+**Strakt arm-test**
+
+Man beder den siddende patient række begge arme lige frem i luften.
+Efter et stykke tid beder man patienten lukke øjnene.Man iagttager, om
+der er deviation af den ene arm som udtryk for en lettere kraftnedsættelse
+eller koordinationsforstyrrelse. Rystelser af den udstrakte ekstremitet
+er udtryk for *statisk tremor*, som ses ved flere medicinske lidelser
+f.eks. leversvigt og struma. Ved *Stewart-Holmes’ prøve* trykker man let
+ned på patientens udstrakte arm; et voldsomt, overdrevet tilbagesving
+benævnes patologisk instabilitet.
+
+**Koordination**
+
+Koordinationen undersøges ved finger-næse-testen (se Fig. 11.7) og ved
+*Rombergs prøve*: patienten står med samlede ben i 1/2-1 minut, og man
+
+<html5media>File:FIG11-7.mp3</html5media>
+
+.. figure:: Figurer/FIG11-7_png.png
+   :width: 500 px
+   :alt:  Fig. 11.7 Kutane innervationsområder på hånden.
+
+   **Fig. 11.7** Finger-næse-testen: Man
+   beder den siddende patient med
+   lukkede øjne skiftevis sætte højre og
+   venstre pegefinger på sin egen næse.
+   Hvis patienten rammer forbi, fortsættes
+   med finger-næse-fingertesten,
+   hvor patienten med åbne
+   øjne skiftevis sætter pegefingeren på
+   egen næse og på undersøgerens
+   finger. Bedres funktionen med åbne øjne, er det tegn på forstyrrelse i ligevægtseller
+   stillingssansen, såkaldt sensorisk ataksi. Er funktionen lige dårlig med åbne
+   og lukkede øjne, er det tegn på forstyrrelse i lillehjernen, såkaldt cerebellar ataksi.
+
+beder ham lukke øjnene – hvis han svajer eller falder, er Rombergs prøve
+positiv som tegn på forstyrrelse i ligevægts- eller stillingssansen
+
+**Reflekser**
+
+De dybe senereflekser undersøges, ved at man understøtter det pågældende
+led, således at patienten slapper af (se Fig. 11.8-11). De dybe senereflekser
+er spinale reflekser, og ophævelse eller bortfald af de dybe senereflekser
+(*arefleksi*) ses derfor ved infranukleære læsioner (hvor refleksbuen
+er brudt), f.eks. ved discusprolaps (se side 171). Hyperaktive
+reflekser (*hyperrefleksi*) ses ved supranukleære læsioner (som udtryk for
+manglende hæmning), men også ved visse medicinske lidelser f.eks.
+hypertyroidisme.
+
+<html5media>File:FIG11-8.mp3</html5media>
+
+.. figure:: Figurer/FIG11-8_png.png
+   :width: 400 px
+   :alt:  Fig. 11.8 Undersøgelse af bicepsrefleksen.
+
+   **Fig. 11.8** Ved undersøgelse af
+   bicepsrefleksen palperes senen, og
+   man slår med hammeren på sin
+   egen finger. Responset iagttages
+   som en albuefleksion.
+
+<html5media>File:FIG11-9.mp3</html5media>
+
+.. figure:: Figurer/FIG11-9_png.png
+   :width: 400 px
+   :alt:  Fig. 11.9 Undersøgelse af tricepsrefleksen.
+
+   **Fig. 11.9** Ved undersøgelse af tricepsrefleksen
+   slår man med hammeren direkte på
+   senen, ca. 3-5 cm over albuen. Responset
+   iagttages som en albueekstension.
+
+<html5media>File:FIG11-10.mp3</html5media>
+
+.. figure:: Figurer/FIG11-10_png.png
+   :width: 400 px
+   :alt:  Fig. 11.10 Undersøgelse af patellarrefleksen.
+
+   **Fig. 11.10** Ved undersøgelse af patellarrefleksen
+   beder man den siddende patient om
+   at hvile benet over det andet bens knæ. Hos
+   den liggende patient understøttes knæhasen
+   med knæet i ca. 30° fleksion. Man
+   slår med reflekshammeren direkte på lig.
+   patellae; responset kan iagttages som et lille
+   ekstensionsryk, eller det kan palperes som
+   en kontraktion af m. quadriceps.
+
+<html5media>File:FIG11-11.mp3</html5media>
+
+.. figure:: Figurer/FIG11-11_png.png
+   :width: 400 px
+   :alt:  Fig. 11.11 Undersøgelse af achillesrefleksen.
+
+   **Fig. 11.11** Ved undersøgelse af
+   achillesrefleksen støttes patientens
+   underben i din armhule, så du har
+   begge hænder fri. Muskelen forspændes,
+   og man slår direkte på
+   senen. Responset mærkes som en
+   plantarfleksion i ankelledet.
+
+<html5media>File:FIG11-12.mp3</html5media>
+
+.. figure:: Figurer/FIG11-12_png.png
+   :width: 400 px
+   :alt:  Fig. 11.12 Undersøgelse af plantarrefleks.
+
+   **Fig. 11.12** Undersøgelse for plantarrefleks.
+   Man stryger med en halvstump genstand (f.eks. en
+   tungespatel) lateralt i fodsålen og
+   hen over trædepuderne. Det normale
+   respons er en plantarfleksion
+   af storetåen. Det abnorme plantarrespons
+   benævnes Babinskis refleks
+   eller ekstensivt plantarrespons og
+   består i en langsom dorsofleskion af
+   storetåen med evt. spredning af de
+   øvrige tæer. Babinskis refleks er et patologisk fund, der erstatter den normale
+   refleks (»normalt plantarrespons«); man kan således ikke sige, at Babinski »er
+   negativ«.
+
+Babinskis refleks (se Fig. 11.12) er et tegn på supranukleære læsioner
+og kan ses som et forbigående fænomen f.eks. efter et epileptisk anfald
+eller ved coma, men kan også blive permanent efter apopleksi og ved
+dissemineret sklerose.
 
 Sensibilitet
 ------------
+
+Man indleder sin undersøgelse der, hvor man ud fra anamnesen forventer
+at finde *normal* sensibilitet, så patienten kan lære, hvad det er, man
+ønsker undersøgt. Man anvender kun lige det stimulus, der er nødvendigt
+for at fremkalde respons på den *raske* side. Patienten må selvfølgelig
+ikke kigge, og man må stimulere med en vis tilfældighed, så patienten
+ikke kan forudsige stimuli.Man sammenligner hele tiden den syge med
+den raske side, og ved at sammenligne proksimalt med distalt forsøger
+man at angive en grænse for overgangen mellem normalt og abnormt.
+
+De væsentligste neurologiske lidelser manifesterer sig initialt ved perifere
+
+<html5media>File:FIG11-13.mp3</html5media>
+
+.. figure:: Figurer/FIG11-13_png.png
+   :width: 700 px
+   :alt:  Fig. 11.13 Dermatom-mænd.
+
+   **Fig. 11.13** »Dermatom-mænd«. Ved fund af sensibilitetsudfald kan man
+   antage læsionens anatomiske placering ud fra kendskabet til innervationsområder.
+   Hvis man ved undersøgelsen af en patient finder et påfaldende 
+   »uanatomisk« og svært reproducerbare sensibilitetsudfald (f.eks. koncentriske, skarpe
+   grænser, der hele tiden flytter sig), skal man formentlig søge psykiske forklaringer.
+
+sensibilitetsforstyrrelser. Er der ved den grove neurologiske undersøgelse
+normal sensibilitet for berøring, nåleprik og vibration perifert på
+alle fire ekstremiteter, kan man undlade yderligere undersøgelse. Er der
+abnorme sensibilitetsudfald ved den grove neurologiske undersøgelse, og
+er der tale om nyopståede fund, bør patienten formentlig undersøges af
+en læge fra neurologisk eller neurokirurgisk afdeling.
+
+**Kutan berøringssans**
+
+Den kutane berøringssans undersøges ved let berøring med vat (se Fig.
+11.14). Nedsat sensibilitet benævnes *hypæstesi*; manglende sensibilitet
+benævnes *anæstesi*. Hvis berøringen føles mere udtalt end normalt, benævnes
+dette *hyperæstesi*, og hvis berøringen føles ubehagelig for patienten
+– f.eks. brændende eller smertende – benævnes dette *dysæstesi*. En
+abnorm fornemmelse, f.eks. snurren eller prikken, kaldes *paræstesi*.
+
+**Kutan smertesans**
+
+Den kutane eller overfladiske smertesans undersøges lettest med en sikkerhedsnål
+eller engangskanyle (se Fig. 11.15).Manglende sensibilitet for
+nåleprik benævnes *analgesi*.
+
+<html5media>File:FIG11-15.mp3</html5media>
+
+.. figure:: Figurer/FIG11-15_png.png
+   :width: 600 px
+   :alt:  Fig. 11.15 Undersøgelse af smertesans.
+
+   **Fig. 11.15** Undersøgelse af smertesans ved hjælp af sikkerhedsnål eller
+   kanyle. Man beder patienten skelne mellem stump og skarpt, f.eks. ved
+   at vende sikkerhedsnålen. Sikkerhedsnålen kasseres efter brug.
+   Anvender man i stedet en steril engangskanyle, skal man først trykke
+   spidsen flad på en metalgenstand, ellers får man en blødende patient!
+
+**Vibrationssans**
+
+Til denne undersøgelse bruges en stemmegaffel, der bringes i svingninger
+og anbringes over knoglefremspring. I den grove neurologiske undersøgelse
+er det tilstrækkeligt at undersøge vibrationssansen over malleoler
+og mellemhåndsknogler.
+
+**Central eller perifer parese**
+
+*Ved at sammenholde fundene ved undersøgelse af tonus, trofik*
+*og reflekser kan man skelne mellem læsioner 1. og 2. neuron i de*
+*motoriske baner:*
+
++----------------+-----------------------+-------------------------+
+|                |1. neuron              |2.neuron                 |
+|                |Central eller          |Perifer eller nukleær/   |
+|                |supranukleær parese    |infranukleær parese      |
++================+=======================+=========================+
+|*Anatomisk*     |Pyramidebaner          |Hjernenervekerner,       |
+|*lokalisation*  |                       |motoriske forhornsceller |
++----------------+-----------------------+-------------------------+
+|*Eks. på sygdom*|Apopleksi              |Discusprolaps            |
++----------------+-----------------------+-------------------------+
+|*Tonus*         |Øget, spastisk         |Nedsat, slap             |
++----------------+-----------------------+-------------------------+
+|*Trofik*        |Ringe atrofi           |Udtalt atrofi            |
++----------------+-----------------------+-------------------------+
+|*Senereflekser* |Hyperaktive            |Manglende                |
++----------------+-----------------------+-------------------------+
+|*Plantarrespons*|Ekstensivt,            |Normalt                  |
+|                |*Babinskis* refleks    |                         |
++----------------+-----------------------+-------------------------+
