@@ -90,6 +90,10 @@ wfiles_all = [
     #"FIG12-1_png",
     #"FIG12-2_png",
     #"FIG12-3_png",
+    #"FIG13-1_png",
+    #"FIG13-2_png",
+    #"FIG13-3_png",
+    #"FIG13-4_png",
     ]
 
 #wfiles = wfiles_all[:2]
