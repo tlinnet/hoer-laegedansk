@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP14_194.mp3</html5media>
+
 * Hudforandringer kan ses ved både primære hudlidelser og ved
   sygdom i andre organsystemer.
 * Det er vigtigt at være systematisk og præcis i sin beskrivelse af
@@ -15,16 +17,22 @@
 Symptomer
 =========
 
+<html5media>File:KAP14_194_2.mp3</html5media>
+
 De vigtigste symptomer ved hudlidelser er kløe, udslæt og sår.
 
 Kløe (pruritus)
 ---------------
+
+<html5media>File:KAP14_194_3.mp3</html5media>
 
 Ofte skyldes kløe en lokal hudpåvirkning, som udløser irritation eller
 allergisk reaktion i huden, f.eks. myggestik eller rengøringsmidler. Fokuser
 på evt. udløsende faktorer.
 
 **Kløe**
+
+<html5media>File:BOKS194.mp3</html5media>
 
 * Kendte allergier?
 * Udsat for rengøringsmidler, kemikalier osv.?
@@ -38,12 +46,16 @@ men er også en hyppig bivirkning til flere lægemidler (f.eks. morfin) uden at 
 Udslæt (exanthema)
 ------------------
 
+<html5media>File:KAP14_195.mp3</html5media>
+
 Enhver synlig hudforandring benævnes et udslæt eller *eksantem*. Udslæt
 er ofte ledsaget af andre symptomer som kløe, hævelse eller feber. Anamneseoptagelsen
 fokuserer på at skelne mellem akut opståede og kroniske
 udslæt og at afsløre evt. udløsende faktorer.
 
 **Udslæt**
+
+<html5media>File:BOKS195.mp3</html5media>
 
 * Opstået pludseligt?
 * Konstant, eller har det bredt sig?
@@ -60,12 +72,16 @@ flere akutte og kroniske sygdomme (f.eks. petekkier ved meningokoksepsis).
 Sår (ulcus)
 -----------
 
+<html5media>File:KAP14_195_2.mp3</html5media>
+
 Sår er ofte følger efter traumer, men kan også være sekundære til systemiske
 lidelser som diabetes og aterosklerose. Anamneseoptagelsen fokuserer
 på at erkende disse disponerende faktorer.
 
 Objektiv undersøgelse	
 =====================
+
+<html5media>File:KAP14_195_3.mp3</html5media>
 
 Den objektive undersøgelse af huden kræver få hjælpemidler. Undersøg
 altid patienten afklædt – slå dig ikke til tåls med, at der bliver løftet lidt
@@ -76,6 +92,8 @@ normalfarve ved iagttagelse i dagslys.
 
 Inspektion og palpation
 -----------------------
+
+<html5media>File:KAP14_196.mp3</html5media>
 
 Ved undersøgelse af huden suppleres iagttagelsen med palpation af det
 sete. Det er vigtigt at være systematisk og præcis i sin beskrivelse af hudforandringer;
@@ -88,6 +106,8 @@ termer for karakteristiske hudforandringer.
 
 **Hudens konsistens**
 
+<html5media>File:BOKS196A.mp3</html5media>
+
 *Normal:*
   - blød og elastisk
 *Infiltreret:*
@@ -96,6 +116,8 @@ termer for karakteristiske hudforandringer.
   - hård.
   
 **Hudforandringer**
+
+<html5media>File:BOKS196B.mp3</html5media>
 
 *Eksantem:*
   – udslæt på huden
@@ -135,17 +157,17 @@ udbredelse, farve, konsistens og elementer, f.eks.:
 .. |logo1D| image:: Figurer/FIG14-1D_png.png
    :width: 200 px
 
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo1A||*Macula (plet): velafgrænset, mindre farveforandring, der ikke kan trykkes væk (f.eks.: fregne, modermærke).*|
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo1B||*Papel (knop): mindre element, der hæver sig over hudens niveau (f.eks. vorte).*                             |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo1C||*Plaque (belægning): som papel, men større (>1cm) (f.eks. psoriasis).*                                       |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo1D||*Kvadel (bule): som papel eller plaque, men forbigående (f.eks. insektbid).*                                 |
-+--------+-------------------------------------------------------------------------------------------------------------+
-
-**Fig. 14.1**
++---------+-------------------------------------------------------------------------------------------------------------+
+|         |**Fig. 14.1**                                                                                                |
++=========+=============================================================================================================+
+||logo1A| |*Macula (plet): velafgrænset, mindre farveforandring, der ikke kan trykkes væk (f.eks.: fregne, modermærke).*|
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo1B| |*Papel (knop): mindre element, der hæver sig over hudens niveau (f.eks. vorte).*                             |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo1C| |*Plaque (belægning): som papel, men større (>1cm) (f.eks. psoriasis).*                                       |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo1D| |*Kvadel (bule): som papel eller plaque, men forbigående (f.eks. insektbid).*                                 |
++---------+-------------------------------------------------------------------------------------------------------------+
 
 <html5media>File:FIG14-2.mp3</html5media>
 
@@ -160,19 +182,19 @@ udbredelse, farve, konsistens og elementer, f.eks.:
 .. |logo2E| image:: Figurer/FIG14-2E_png.png
    :width: 200 px
 
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo2A||*Vesikel (lille blære): mindre, velafgrænset blære med serøst indhold (f.eks. herpes, eksem).*               |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo2B||*Bulla (stor blære): som vesikel, men større (>1cm) (f.eks. 2° forbrænding).*                                |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo2C||*Pustel (bums): som vesikel, men med pus (f.eks. acne).*                                                     |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo2D||*Absces (byld): Subkutan pusansamling (f.eks. inficeret operationssår).*                                     |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo2E||*Furunkel: inficeret hårsæk.*                                                                                |
-+--------+-------------------------------------------------------------------------------------------------------------+
-
-**Fig. 14.2**
++---------+-------------------------------------------------------------------------------------------------------------+
+|         |**Fig. 14.2**                                                                                                |
++=========+=============================================================================================================+
+||logo2A| |*Vesikel (lille blære): mindre, velafgrænset blære med serøst indhold (f.eks. herpes, eksem).*               |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo2B| |*Bulla (stor blære): som vesikel, men større (>1cm) (f.eks. 2° forbrænding).*                                |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo2C| |*Pustel (bums): som vesikel, men med pus (f.eks. acne).*                                                     |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo2D| |*Absces (byld): Subkutan pusansamling (f.eks. inficeret operationssår).*                                     |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo2E| |*Furunkel: inficeret hårsæk.*                                                                                |
++---------+-------------------------------------------------------------------------------------------------------------+
 
 Hvis et udslæt indeholder flere elementer, beskriver man fordelingen af 199
 de enkelte elementer og overgangen mellem dem, f.eks.:
@@ -191,15 +213,15 @@ de enkelte elementer og overgangen mellem dem, f.eks.:
 .. |logo3C| image:: Figurer/FIG14-3C_png.png
    :width: 200 px
 
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo3A||*Ekskoriation (hudafskrabning): overfladisk substanstab (f.eks. kradsningsmærker).*                          |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo3B||*Fissur (revne): revnet hud (f.eks. håndeksem).*                                                             |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo3C||*Ulcus (sår): dybere substanstab (f.eks. venøse skinnebenssår).*                                             |
-+--------+-------------------------------------------------------------------------------------------------------------+
-
-**Fig. 14.3**
++---------+-------------------------------------------------------------------------------------------------------------+
+|         |**Fig. 14.3**                                                                                                |
++=========+=============================================================================================================+
+||logo3A| |*Ekskoriation (hudafskrabning): overfladisk substanstab (f.eks. kradsningsmærker).*                          |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo3B| |*Fissur (revne): revnet hud (f.eks. håndeksem).*                                                             |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo3C| |*Ulcus (sår): dybere substanstab (f.eks. venøse skinnebenssår).*                                             |
++---------+-------------------------------------------------------------------------------------------------------------+
 
 <html5media>File:FIG14-4.mp3</html5media>
 
@@ -208,14 +230,13 @@ de enkelte elementer og overgangen mellem dem, f.eks.:
 .. |logo4B| image:: Figurer/FIG14-4B_png.png
    :width: 200 px
 
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo4A||*Crustae (skorper): indtørret pus, serum eller blod (f.eks. impetigo).*                                      |
-+--------+-------------------------------------------------------------------------------------------------------------+
-||logo4B||*Squammae (skæl): afskallet hornlag (f.eks. psoriasis).*                                                     |
-+--------+-------------------------------------------------------------------------------------------------------------+
-
-**Fig. 14.4**
-
++---------+-------------------------------------------------------------------------------------------------------------+
+|         |**Fig. 14.4**                                                                                                |
++=========+=============================================================================================================+
+||logo4A| |*Crustae (skorper): indtørret pus, serum eller blod (f.eks. impetigo).*                                      |
++---------+-------------------------------------------------------------------------------------------------------------+
+||logo4B| |*Squammae (skæl): afskallet hornlag (f.eks. psoriasis).*                                                     |
++---------+-------------------------------------------------------------------------------------------------------------+
 
 <html5media>File:FIG14-5.mp3</html5media>
 
