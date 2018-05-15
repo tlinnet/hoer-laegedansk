@@ -170,10 +170,49 @@ er vigtig: Beskriv, hvilken del af conjunctivae der er rød (se Fig. 15.3).
 .. |logo3C| image:: Figurer/FIG15-3C_png.png
    :width: 200 px
 
-+--------------+-------------------------------------------------------------------------------------------------------------+
-|**Fig. 15.3** |         |         |
-+==============+==============================================================+
++--------------------+--------------------------+-----------------------------+
+|**Fig. 15.3**       |                          |                             |
++====================+==========================+=============================+
 ||logo3A|            ||logo3B|                  ||logo3C|                     |
 +--------------------+--------------------------+-----------------------------+
 |**Ciliær hyperæmi** |**Konjunktival hyperæmi** |**Subkonjunktival hæmoragi** |
 +--------------------+--------------------------+-----------------------------+
+|De dilaterede       |Conjunctivae er røde med  |Blodansamling, der           |
+|kapillærer ses som  |dilaterede kar. Ofte      |respekterer conjunctivas     |
+|et dybtliggende,    |tydeligst i nedre         |afgrænsning. Ses ved viral   |
+|rødt bånd om cornea.|omslagsfold. Ses ved      |conjunctivitis, traume og    |
+|Ses ved keratitis,  |conjunctivitis (bakteriel,|spontant.                    |
+|iritis og akut      |viral, allergisk) eller   |                             |
+|glaukom.            |ved fremmedlegeme.        |                             |
++--------------------+--------------------------+-----------------------------+
+
+Cornea, forreste øjenkammer og lens benævnes tilsammen *øjenmedierne*
+og kan beskrives samlet ved negative fund (»klare øjenmedier«).
+Den normale cornea er klar og blank. En hvidlig ring i kanten af cornea
+hos ældre er et normalt aldersfænomen, der betegnes *arcus senilis*. En
+uklar linse benævnes *katarakt*. En blodansamling i forreste øjenkammer
+benævnes *hyphaema*.
+
+*Pupillerne* er normalt egale (lige store) og reagerer på lys og akkomodation
+ved at trække sig sammen. Pupillerne undersøges bedst i dæmpet
+belysning med en ikke alt for skarp lommelampe; er rumbelysningen for
+skarp, kontraheres pupillerne; er lommelampen for skrap, generer man
+patienten. 
+
+**Pupilforandringer**
+
+*Anisocoria:*
+  – uens (uegale) pupiller
+*Mydriasis:*
+  – store (dilaterede) pupiller
+*Miosis:*
+  – små (kontraherede) pupiller.
+
+*Anisocoria* (uegale pupiller) er et normalt fund hos ca. 5%, men kan
+også være et tegn på neurologisk sygdom (se kapitel 11, side 167). *Mydriasis*
+(dilaterede pupiller) kan ses ved indtagelse af sympatomimetika
+og anticholinergika (f.eks. adrenalin, atropin eller kokain), men kan også
+være et tegn på cerebral iskæmi f.eks. ved hjertestop. *Miosis* (kontraherede
+pupiller) kan ses ved indtagelse af parasympatomimetika eller morfika.
+Undersøgelse af synsfelt og øjenbevægelser er beskrevet side 167, Fig.
+11.2. 
