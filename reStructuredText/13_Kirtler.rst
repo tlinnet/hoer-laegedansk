@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP13_187.mp3</html5media>
+
 * Den kliniske undersøgelse af skjoldbruskkirtlen vil som regel blive
   suppleret med blodprøveundersøgelse af stofskiftehormonerne og
   evt. ultralydsundersøgelse og scintigrafi af kirtlen.
@@ -19,6 +21,8 @@
 
 **SKJOLDBRUSKKIRTLEN (glandula thyroidea)** 
 
+<html5media>File:KAP13_187_2.mp3</html5media>
+
 Symptomer, Skjoldbruskkirtlen
 =============================
 
@@ -27,6 +31,8 @@ funktion af kirtlen eller lokale ændringer i kirtlens størrelse, form m.v.
 
 Hypertyreose
 ------------
+
+<html5media>File:KAP13_187_3.mp3</html5media>
 
 Øget funktion af skjoldbruskkirtlen (*hypertyreose* eller *tyreotoksikose*) ses
 typisk hos en yngre kvinde med diffust forstørret skjoldbruskkirtel
@@ -46,6 +52,8 @@ stofskifte, se boks.
 Hypotyreose
 -----------
 
+<html5media>File:KAP13_188.mp3</html5media>
+
 Nedsat funktion af skjoldbruskkirtlen (*hypotyreose* eller *myksødem*) har
 ofte en snigende debut og kan let overses. Patientens hovedklage er oftest
 træthed og initiativløshed, jf. boks 2. Tilstanden kan fejltolkes som demens
@@ -64,6 +72,8 @@ eller depression.
 Struma og en knude på halsen
 ----------------------------
 
+<html5media>File:KAP13_188_2.mp3</html5media>
+
 En forstørret skjoldbruskkirtel benævnes *struma*. Patienten kan henvende
 sig med kosmetiske gener fra den store struma eller med lokale tryksymptomer.
 Funktionen af glandula thyroidea er oftest normal, men kan
@@ -73,6 +83,8 @@ Ved en knude på halsen er den vigtigste differentialdiagnose thyroideacancer.
 Objektiv undersøgelse, Skjoldbruskkirtlen	
 =========================================
 
+<html5media>File:KAP13_189.mp3</html5media>
+
 Den normale skjoldbruskkirtel kan hverken ses eller føles. Skjoldbruskkirtlen
 undersøges med patienten siddende. Den kliniske undersøgelse
 vil som regel blive suppleret med blodprøveundersøgelse af stofskiftehormonerne
@@ -80,6 +92,8 @@ og evt. ultralydsundersøgelse og scintigrafi af kirtlen.
 
 Inspektion, Skjoldbruskkirtlen
 ------------------------------
+
+<html5media>File:KAP13_189_2.mp3</html5media>
 
 Struma ses som en udfyldning på halsen – evt. asymmetrisk – på højde
 med trachea, dvs. under strubehovedet. Bed patienten synke; en struma
@@ -90,6 +104,8 @@ af øjeæblerne) beskrives.
 
 Palpation, Skjoldbruskkirtlen
 -----------------------------
+
+<html5media>File:KAP13_189_3.mp3</html5media>
 
 Undersøg hele halsen systematisk – fra kraveben til kæbe (se Fig. 13.1).
 Under undersøgelsen kan man bede patienten synke og herved palpere
@@ -119,6 +135,8 @@ konsistens (bløde, hårde) og fiksation (frit forskydelige, adhærente).
 Symptomer, Bryster	
 ==================
 
+<html5media>File:KAP13_190.mp3</html5media>
+
 En kvinde med brystsymptomer er ofte angst for brystkræft. Ca. hver 10.
 kvinde rammes af brystkræft. Brystkræft er derfor den vigtigste differentialdiagnose
 hos en kvinde med brystsymptomer. Glem ikke, at mænd
@@ -126,6 +144,8 @@ også kan få brystkræft, selvom det er sjældent.
 
 Smerter (mastalgi)
 ------------------
+
+<html5media>File:KAP13_190_2.mp3</html5media>
 
 Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 
@@ -150,6 +170,8 @@ alene på anamnese og objektiv undersøgelse erklære en knude for godartet.
 Udflåd
 ------
 
+<html5media>File:KAP13_190_3.mp3</html5media>
+
 Mælkeflåd (*laktation*) er selvfølgelig normalt hos en kvinde, der lige har
 født, men det er også normalt med sparsomt udflåd, længe efter 
 amningen er ophørt (*galactorrhoea*). Mælkeflåd fra en kvinde, der ikke har
@@ -161,6 +183,8 @@ af oligo- eller amenoré (se kapitel 9). Et blodigt udflåd fra papillen benævn
 
 En knude i brystet
 ------------------
+
+<html5media>File:KAP13_191.mp3</html5media>
 
 Fundet af en knude i brystet er det brystsymptom, der hyppigst fører
 kvinden til læge. Kvinden er naturligt nok ofte bange for, at det er kræft.
@@ -178,6 +202,8 @@ af brystet og evt. biopsi eller kirurgisk fjernelse af knuden.
 Gynækomasti
 -----------
 
+<html5media>File:KAP13_191_2.mp3</html5media>
+
 Udvikling af brystkirtelvævet er et normalt fund hos mænd omkring
 puberteten, men kan også ses senere i livet uden forklarlig grund 
 (*idiopatisk gynækomasti*). Imidlertid må man altid udelukke alvorlige, behandlingskrævende
@@ -188,6 +214,8 @@ og H2-antagonister.
 
 Objektiv undersøgelse, Bryster	
 ==============================
+
+<html5media>File:KAP13_191_3.mp3</html5media>
 
 Er mammae små, er det bedst at undersøge patienten liggende med
 anvendelse af thoraxvæggen som underlag for palpationen. Er mammae
@@ -206,6 +234,8 @@ og liggende undersøgelse.
 Inspektion, Bryster
 -------------------
 
+<html5media>File:KAP13_192.mp3</html5media>
+
 Man bemærker *asymmetrier* eller *hudindtrækninger*, som kan være tegn
 på underliggende tumor. Findes indadvendt brystvorte (*papilinversion*),
 spørger man patienten, om det er noget, hun altid har haft; den nyopståede
@@ -217,6 +247,8 @@ kan ses *ulcerationer* (sår) i huden.
 
 Palpation, Bryster
 ------------------
+
+<html5media>File:KAP13_192_2.mp3</html5media>
 
 Ved undersøgelsen palperer man med pulpa af 2.-4. finger. Det er nødvendigt
 at bruge et vist tryk, særligt ved store mammae, men spørg

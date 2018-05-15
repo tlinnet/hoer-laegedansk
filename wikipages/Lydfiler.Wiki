@@ -2,7 +2,7 @@
 {| class="wikitable" style="text-align: left;")
 ! Filnavn !! Type !! Kapitel !! Nr !! Side !! Sektion !! Lyd
 |-
-| FORORD || Forord ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:FORORD.mp3</html5media>
+| FORORD || Forord ||  ||  || 1 || [[0_Forord#|0]] || <html5media>File:FORORD.mp3</html5media>
 |-
 | INTRO_DK || Forord ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:INTRO_DK.mp3</html5media>
 |-
@@ -206,18 +206,6 @@
 |-
 | KAP6_94 || Kapitel || 6 ||  || 94 || [[6_Lunger_og_luftveje#Auskultation_(stethoscopia_pulmonum;_st.p.,_lungestetoskopi)|6.2.4]] || <html5media>File:KAP6_94.mp3</html5media>
 |-
-| KAP7_97 || Kapitel || 7 ||  || 97 || [[7_Mave-tarm-systemet#|7]] || <html5media>File:KAP7_97.mp3</html5media>
-|-
-| KAP7_97_2 || Kapitel || 7 || 2 || 97 || [[7_Mave-tarm-systemet#|7]] || <html5media>File:KAP7_97_2.mp3</html5media>
-|-
-| KAP7_98 || Kapitel || 7 ||  || 98 || [[7_Mave-tarm-systemet#Kvalme_(nausea)_og_opkastning_(emesis)|7.1.1]] || <html5media>File:KAP7_98.mp3</html5media>
-|-
-| KAP7_98_2 || Kapitel || 7 || 2 || 98 || [[7_Mave-tarm-systemet#Kvalme_(nausea)_og_opkastning_(emesis)|7.1.1]] || <html5media>File:KAP7_98_2.mp3</html5media>
-|-
-| KAP7_99 || Kapitel || 7 ||  || 99 || [[7_Mave-tarm-systemet#Halsbrand_(pyrosis)|7.1.3]] || <html5media>File:KAP7_99.mp3</html5media>
-|-
-| KAP7_99_2 || Kapitel || 7 || 2 || 99 || [[7_Mave-tarm-systemet#Halsbrand_(pyrosis)|7.1.3]] || <html5media>File:KAP7_99_2.mp3</html5media>
-|-
 | KAP7_101 || Kapitel || 7 ||  || 101 || [[7_Mave-tarm-systemet#Afføringsmønster|7.1.5]] || <html5media>File:KAP7_101.mp3</html5media>
 |-
 | KAP7_103 || Kapitel || 7 ||  || 103 || [[7_Mave-tarm-systemet#Gulsot_(icterus)|7.1.6]] || <html5media>File:KAP7_103.mp3</html5media>
@@ -237,6 +225,18 @@
 | KAP7_112_2 || Kapitel || 7 || 2 || 112 || [[7_Mave-tarm-systemet#Lyskerne_(regiones_inguinales)|7.2.3]] || <html5media>File:KAP7_112_2.mp3</html5media>
 |-
 | KAP7_113 || Kapitel || 7 ||  || 113 || [[7_Mave-tarm-systemet#Endetarm_(rectum)|7.2.4]] || <html5media>File:KAP7_113.mp3</html5media>
+|-
+| KAP7_97 || Kapitel || 7 ||  || 97 || [[7_Mave-tarm-systemet#|7]] || <html5media>File:KAP7_97.mp3</html5media>
+|-
+| KAP7_97_2 || Kapitel || 7 || 2 || 97 || [[7_Mave-tarm-systemet#|7]] || <html5media>File:KAP7_97_2.mp3</html5media>
+|-
+| KAP7_98 || Kapitel || 7 ||  || 98 || [[7_Mave-tarm-systemet#Kvalme_(nausea)_og_opkastning_(emesis)|7.1.1]] || <html5media>File:KAP7_98.mp3</html5media>
+|-
+| KAP7_98_2 || Kapitel || 7 || 2 || 98 || [[7_Mave-tarm-systemet#Kvalme_(nausea)_og_opkastning_(emesis)|7.1.1]] || <html5media>File:KAP7_98_2.mp3</html5media>
+|-
+| KAP7_99 || Kapitel || 7 ||  || 99 || [[7_Mave-tarm-systemet#Halsbrand_(pyrosis)|7.1.3]] || <html5media>File:KAP7_99.mp3</html5media>
+|-
+| KAP7_99_2 || Kapitel || 7 || 2 || 99 || [[7_Mave-tarm-systemet#Halsbrand_(pyrosis)|7.1.3]] || <html5media>File:KAP7_99_2.mp3</html5media>
 |-
 | KAP8_116 || Kapitel || 8 ||  || 116 || [[8_Nyrer,_urinveje_og_mandlige_kønsorganer#|8]] || <html5media>File:KAP8_116.mp3</html5media>
 |-
@@ -424,11 +424,11 @@
 |-
 | KAP14_194_3 || Kapitel || 14 || 3 || 194 || [[14_Hud#|14]] || <html5media>File:KAP14_194_3.mp3</html5media>
 |-
-| KAP14_195 || Kapitel || 14 ||  || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195.mp3</html5media>
+| KAP14_195 || Kapitel || 14 ||  || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195.mp3</html5media>
 |-
-| KAP14_195_2 || Kapitel || 14 || 2 || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195_2.mp3</html5media>
+| KAP14_195_2 || Kapitel || 14 || 2 || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195_2.mp3</html5media>
 |-
-| KAP14_195_3 || Kapitel || 14 || 3 || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195_3.mp3</html5media>
+| KAP14_195_3 || Kapitel || 14 || 3 || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195_3.mp3</html5media>
 |-
 | KAP14_196 || Kapitel || 14 ||  || 196 || [[14_Hud#Inspektion_og_palpation|14.2.1]] || <html5media>File:KAP14_196.mp3</html5media>
 |-
@@ -453,6 +453,12 @@
 | BOKS-SIG || Bokse ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:BOKS-SIG.mp3</html5media>
 |-
 | BOKS15 || Bokse ||  ||  || 15 || [[1_Mødet_mellem_læge_og_patient#|1]] || <html5media>File:BOKS15.mp3</html5media>
+|-
+| BOKS17 || Bokse ||  ||  || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17.mp3</html5media>
+|-
+| BOKS17B || Bokse ||  || B || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17B.mp3</html5media>
+|-
+| BOKS18 || Bokse ||  ||  || 18 || [[1_Mødet_mellem_læge_og_patient#Selve_mødet|1.2.3]] || <html5media>File:BOKS18.mp3</html5media>
 |-
 | BOKS21 || Bokse ||  ||  || 21 || [[1_Mødet_mellem_læge_og_patient#Resumér_og_gentag|1.3.3]] || <html5media>File:BOKS21.mp3</html5media>
 |-
@@ -656,8 +662,6 @@
 |-
 | BOKS166 || Bokse ||  ||  || 166 || [[11_Centralnervesystemet#Hjernenerverne|11.2.5]] || <html5media>File:BOKS166.mp3</html5media>
 |-
-| BOKS17 || Bokse ||  ||  || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17.mp3</html5media>
-|-
 | BOKS170 || Bokse ||  ||  || 170 || [[11_Centralnervesystemet#Motorik|11.2.6]] || <html5media>File:BOKS170.mp3</html5media>
 |-
 | BOKS171 || Bokse ||  ||  || 171 || [[11_Centralnervesystemet#Motorik|11.2.6]] || <html5media>File:BOKS171.mp3</html5media>
@@ -673,10 +677,6 @@
 | BOKS179A || Bokse ||  || A || 179 || [[12_Det_perifere_karsystem#Symptomer|12.1]] || <html5media>File:BOKS179A.mp3</html5media>
 |-
 | BOKS179B || Bokse ||  || B || 179 || [[12_Det_perifere_karsystem#Symptomer|12.1]] || <html5media>File:BOKS179B.mp3</html5media>
-|-
-| BOKS17B || Bokse ||  || B || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17B.mp3</html5media>
-|-
-| BOKS18 || Bokse ||  ||  || 18 || [[1_Mødet_mellem_læge_og_patient#Selve_mødet|1.2.3]] || <html5media>File:BOKS18.mp3</html5media>
 |-
 | BOKS180 || Bokse ||  ||  || 180 || [[12_Det_perifere_karsystem#Smerter_i_benene_(cruralgia)|12.1.1]] || <html5media>File:BOKS180.mp3</html5media>
 |-
@@ -698,7 +698,7 @@
 |-
 | BOKS194 || Bokse ||  ||  || 194 || [[14_Hud#|14]] || <html5media>File:BOKS194.mp3</html5media>
 |-
-| BOKS195 || Bokse ||  ||  || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:BOKS195.mp3</html5media>
+| BOKS195 || Bokse ||  ||  || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:BOKS195.mp3</html5media>
 |-
 | BOKS196A || Bokse ||  || A || 196 || [[14_Hud#Inspektion_og_palpation|14.2.1]] || <html5media>File:BOKS196A.mp3</html5media>
 |-

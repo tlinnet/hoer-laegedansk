@@ -27,7 +27,8 @@ wpages = [
     #"9_Kvindelige_kønsorganer",
     #"10_Bevægeapparatet",
     #"11_Centralnervesystemet",
-    "12_Det_perifere_karsystem"
+    #"12_Det_perifere_karsystem",
+    "13_Kirtler",
 ]
 
 # loop over pages

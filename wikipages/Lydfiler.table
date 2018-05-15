@@ -1,5 +1,5 @@
 ! Filnavn !! Type !! Kapitel !! Nr !! Side !! Sektion !! Lyd
-| FORORD || Forord ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:FORORD.mp3</html5media>
+| FORORD || Forord ||  ||  || 1 || [[0_Forord#|0]] || <html5media>File:FORORD.mp3</html5media>
 | INTRO_DK || Forord ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:INTRO_DK.mp3</html5media>
 | INTRO_UK || Forord ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:INTRO_UK.mp3</html5media>
 | OP-JOUR || Kapitel || 3 ||  || 32 || [[3_Indlæggelsesnotatet#|3]] || <html5media>File:OP-JOUR.mp3</html5media>
@@ -210,9 +210,9 @@
 | KAP14_194 || Kapitel || 14 ||  || 194 || [[14_Hud#|14]] || <html5media>File:KAP14_194.mp3</html5media>
 | KAP14_194_2 || Kapitel || 14 || 2 || 194 || [[14_Hud#|14]] || <html5media>File:KAP14_194_2.mp3</html5media>
 | KAP14_194_3 || Kapitel || 14 || 3 || 194 || [[14_Hud#|14]] || <html5media>File:KAP14_194_3.mp3</html5media>
-| KAP14_195 || Kapitel || 14 ||  || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195.mp3</html5media>
-| KAP14_195_2 || Kapitel || 14 || 2 || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195_2.mp3</html5media>
-| KAP14_195_3 || Kapitel || 14 || 3 || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:KAP14_195_3.mp3</html5media>
+| KAP14_195 || Kapitel || 14 ||  || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195.mp3</html5media>
+| KAP14_195_2 || Kapitel || 14 || 2 || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195_2.mp3</html5media>
+| KAP14_195_3 || Kapitel || 14 || 3 || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:KAP14_195_3.mp3</html5media>
 | KAP14_196 || Kapitel || 14 ||  || 196 || [[14_Hud#Inspektion_og_palpation|14.2.1]] || <html5media>File:KAP14_196.mp3</html5media>
 | KAP15_201 || Kapitel || 15 ||  || 201 || [[15_Sanseorganer#|15]] || <html5media>File:KAP15_201.mp3</html5media>
 | KAP15_201_2 || Kapitel || 15 || 2 || 201 || [[15_Sanseorganer#|15]] || <html5media>File:KAP15_201_2.mp3</html5media>
@@ -224,6 +224,10 @@
 | KAP15_203_3 || Kapitel || 15 || 3 || 203 || [[15_Sanseorganer#Synstab_(amblyopia_et_amaurosis)|15.1.4]] || <html5media>File:KAP15_203_3.mp3</html5media>
 | KAP15_204 || Kapitel || 15 ||  || 204 || [[15_Sanseorganer#Øjne|15.2.2]] || <html5media>File:KAP15_204.mp3</html5media>
 | BOKS-SIG || Bokse ||  ||  || 1 || [[0_Indhold#|0]] || <html5media>File:BOKS-SIG.mp3</html5media>
+| BOKS15 || Bokse ||  ||  || 15 || [[1_Mødet_mellem_læge_og_patient#|1]] || <html5media>File:BOKS15.mp3</html5media>
+| BOKS17 || Bokse ||  ||  || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17.mp3</html5media>
+| BOKS17B || Bokse ||  || B || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17B.mp3</html5media>
+| BOKS18 || Bokse ||  ||  || 18 || [[1_Mødet_mellem_læge_og_patient#Selve_mødet|1.2.3]] || <html5media>File:BOKS18.mp3</html5media>
 | BOKS21 || Bokse ||  ||  || 21 || [[1_Mødet_mellem_læge_og_patient#Resumér_og_gentag|1.3.3]] || <html5media>File:BOKS21.mp3</html5media>
 | BOKS21B || Bokse ||  || B || 21 || [[1_Mødet_mellem_læge_og_patient#Resumér_og_gentag|1.3.3]] || <html5media>File:BOKS21B.mp3</html5media>
 | BOKS23 || Bokse ||  ||  || 23 || [[1_Mødet_mellem_læge_og_patient#Specielle_forhold|1.4]] || <html5media>File:BOKS23.mp3</html5media>
@@ -309,7 +313,6 @@
 | BOKS139B || Bokse ||  || B || 139 || [[10_Bevægeapparatet#Hævelse|10.1.3]] || <html5media>File:BOKS139B.mp3</html5media>
 | BOKS143 || Bokse ||  ||  || 143 || [[10_Bevægeapparatet#Regional_undersøgelse|10.2.5]] || <html5media>File:BOKS143.mp3</html5media>
 | BOKS149 || Bokse ||  ||  || 149 || [[10_Bevægeapparatet#Underarm_og_håndled_(antebrachium_et_carpus)|10.2.9]] || <html5media>File:BOKS149.mp3</html5media>
-| BOKS15 || Bokse ||  ||  || 15 || [[1_Mødet_mellem_læge_og_patient#|1]] || <html5media>File:BOKS15.mp3</html5media>
 | BOKS155 || Bokse ||  ||  || 155 || [[11_Centralnervesystemet#Hovedpine_(cephalalgia)|11.1.1]] || <html5media>File:BOKS155.mp3</html5media>
 | BOKS155B || Bokse ||  || B || 155 || [[11_Centralnervesystemet#Hovedpine_(cephalalgia)|11.1.1]] || <html5media>File:BOKS155B.mp3</html5media>
 | BOKS156 || Bokse ||  ||  || 156 || [[11_Centralnervesystemet#Svimmelhed_(vertigo)|11.1.2]] || <html5media>File:BOKS156.mp3</html5media>
@@ -326,7 +329,6 @@
 | BOKS164 || Bokse ||  ||  || 164 || [[11_Centralnervesystemet#Sprog|11.2.3]] || <html5media>File:BOKS164.mp3</html5media>
 | BOKS165 || Bokse ||  ||  || 165 || [[11_Centralnervesystemet#Hoved,_hals_og_rygsøjle_(cranium,_collum_et_columna_vertebralis)|11.2.4]] || <html5media>File:BOKS165.mp3</html5media>
 | BOKS166 || Bokse ||  ||  || 166 || [[11_Centralnervesystemet#Hjernenerverne|11.2.5]] || <html5media>File:BOKS166.mp3</html5media>
-| BOKS17 || Bokse ||  ||  || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17.mp3</html5media>
 | BOKS170 || Bokse ||  ||  || 170 || [[11_Centralnervesystemet#Motorik|11.2.6]] || <html5media>File:BOKS170.mp3</html5media>
 | BOKS171 || Bokse ||  ||  || 171 || [[11_Centralnervesystemet#Motorik|11.2.6]] || <html5media>File:BOKS171.mp3</html5media>
 | BOKS171B || Bokse ||  || B || 171 || [[11_Centralnervesystemet#Motorik|11.2.6]] || <html5media>File:BOKS171B.mp3</html5media>
@@ -335,8 +337,6 @@
 | BOKS178 || Bokse ||  ||  || 178 || [[12_Det_perifere_karsystem#|12]] || <html5media>File:BOKS178.mp3</html5media>
 | BOKS179A || Bokse ||  || A || 179 || [[12_Det_perifere_karsystem#Symptomer|12.1]] || <html5media>File:BOKS179A.mp3</html5media>
 | BOKS179B || Bokse ||  || B || 179 || [[12_Det_perifere_karsystem#Symptomer|12.1]] || <html5media>File:BOKS179B.mp3</html5media>
-| BOKS17B || Bokse ||  || B || 17 || [[1_Mødet_mellem_læge_og_patient#Omgivelser_og_remedier|1.2.2]] || <html5media>File:BOKS17B.mp3</html5media>
-| BOKS18 || Bokse ||  ||  || 18 || [[1_Mødet_mellem_læge_og_patient#Selve_mødet|1.2.3]] || <html5media>File:BOKS18.mp3</html5media>
 | BOKS180 || Bokse ||  ||  || 180 || [[12_Det_perifere_karsystem#Smerter_i_benene_(cruralgia)|12.1.1]] || <html5media>File:BOKS180.mp3</html5media>
 | BOKS181 || Bokse ||  ||  || 181 || [[12_Det_perifere_karsystem#Hævede_ben_(ødemer)|12.1.2]] || <html5media>File:BOKS181.mp3</html5media>
 | BOKS183 || Bokse ||  ||  || 183 || [[12_Det_perifere_karsystem#Inspektion|12.2.1]] || <html5media>File:BOKS183.mp3</html5media>
@@ -347,7 +347,7 @@
 | BOKS191 || Bokse ||  ||  || 191 || [[13_Kirtler#En_knude_i_brystet|13.5.3]] || <html5media>File:BOKS191.mp3</html5media>
 | BOKS193 || Bokse ||  ||  || 193 || [[13_Kirtler#Inspektion|13.6.1]] || <html5media>File:BOKS193.mp3</html5media>
 | BOKS194 || Bokse ||  ||  || 194 || [[14_Hud#|14]] || <html5media>File:BOKS194.mp3</html5media>
-| BOKS195 || Bokse ||  ||  || 195 || [[12_Det_perifere_karsystem#Palpation|12.2.3]] || <html5media>File:BOKS195.mp3</html5media>
+| BOKS195 || Bokse ||  ||  || 195 || [[14_Hud#Udslæt_(exanthema)|14.1.2]] || <html5media>File:BOKS195.mp3</html5media>
 | BOKS196A || Bokse ||  || A || 196 || [[14_Hud#Inspektion_og_palpation|14.2.1]] || <html5media>File:BOKS196A.mp3</html5media>
 | BOKS196B || Bokse ||  || B || 196 || [[14_Hud#Inspektion_og_palpation|14.2.1]] || <html5media>File:BOKS196B.mp3</html5media>
 | BOKS201 || Bokse ||  ||  || 201 || [[15_Sanseorganer#|15]] || <html5media>File:BOKS201.mp3</html5media>
