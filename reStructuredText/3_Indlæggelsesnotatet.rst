@@ -433,35 +433,43 @@ hoved til storetå, og man koncentrerer sig om hovedsymptomerne
 på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
 
 
-**Centralnervesystemet (CNS) (se kapitel 11):**
+**Centralnervesystemet (CNS):**
+  (se kapitel 11)
   hovedpine?
   svimmelhed? synsforstyrrelser? føleforstyrrelser og
   lammelser? krampeanfald? mentale ændringer? humør? søvn?
   hukommelsesbesvær?
-**Kardio-pulmonalt (K-P) (se kapitel 5 – 6):**
+**Kardio-pulmonalt (K-P):**
+  (se kapitel 5 – 6)
   åndenød? brystsmerter?
   hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
-**Gastro-intestinalt (G-I) (se kapitel 7):**
+**Gastro-intestinalt (G-I):**
+  (se kapitel 7)
   appetit? uønsket
   vægttab? kvalme eller opkastninger? synkebesvær? halsbrand?
   mavesmerter? ændret afføringsmønster?
-**Uro-genitalt (U-G) (se kapitel 8 – 9):**
+**Uro-genitalt (U-G):**
+  (se kapitel 8 – 9)
   svie og smerte ved
   vandladning? vandladningsbesvær? ufrivillig vandladning?
   blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser?
   udflåd?)
-**Bevægeapparatet (B-A) (se kapitel 10 + 12):**
+**Bevægeapparatet (B-A):**
+  (se kapitel 10 + 12)
   smerter i ekstremiteterne?
   rygsmerter? stivhed? hævede led? sår? claudicatio?
 
 Disse 5 er den sædvanlige remse, men af og til overser man symptomer
 fra de »små« organsystemer:
 
-**Hud (se kapitel 14):**
+**Hud:**
+  (se kapitel 14)
   kløe? udslæt? sår?
-**Sanseorganer (se kapitel 15):**
+**Sanseorganer:**
+  (se kapitel 15)
   høretab? øresusen? svimmelhed? synstab?
-**Stofskifte (endokrinologisk)(se kapitel 13):**
+**Stofskifte (endokrinologisk):**
+  (se kapitel 13)
   appetit- og vægtændringer? træthed? tørst? tisser meget? varme- eller
   kuldefornemmelse? psykiske ændringer?
 

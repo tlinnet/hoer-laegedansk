@@ -7,8 +7,8 @@ gsed -i 's/– 6)/`– 6) <6_Lunger_og_luftveje.rst#>`__ /g' 3_Indlæggelsesnota
 gsed -i 's/(se kapitel 7)/`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 8 /`(se kapitel 8  <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/– 9)/`– 9) <9_Kvindelige_kønsorganer.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
-gsed -i 's/(se kapitel 10 /`(se kapitel 10  <10_Bevægeapparatet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
-gsed -i 's/ + 12)/` + 12) <12_Det_perifere_karsystem.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
+gsed -i 's/(se kapitel 10  +/`(se kapitel 10  + <10_Bevægeapparatet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
+gsed -i 's/12)/`12) <12_Det_perifere_karsystem.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 14)/`(se kapitel 14) <14_Hud.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 15)/`(se kapitel 15) <15_Sanseorganer.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 13)/`(se kapitel 13) <13_Kirtler.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
@@ -32,8 +32,8 @@ gsed -i 's/(se kapitel 8)/`(se kapitel 8) <8_Nyrer,_urinveje_og_mandlige_kønsor
 gsed -i 's/(se kapitel 9)/`(se kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 7)/`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 10)/`(se kapitel 10) <10_Bevægeapparatet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
-gsed -i 's/(se kapitel 10 /`(se kapitel 10  <10_Bevægeapparatet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
-gsed -i 's/ + 12)/` + 12) <12_Det_perifere_karsystem.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
+gsed -i 's/(se kapitel 10  +/`(se kapitel 10  + <10_Bevægeapparatet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
+gsed -i 's/12)/`12) <12_Det_perifere_karsystem.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(side 141)/`(side 141) <10_Bevægeapparatet.rst#Palpation>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 11, side 164)/`(se kapitel 11, side 164) <11_Centralnervesystemet.rst#Sprog>`__ /g' 3_Indlæggelsesnotatet.rst
@@ -75,9 +75,9 @@ gsed -i 's/(side 93)/`(side 93) <6_Lunger_og_luftveje.rst#Palpation>`__ /g' 7_Ma
 gsed -i 's/(kapitel 4)/`(kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ /g' 7_Mave-tarm-systemet.rst
 gsed -i 's/(se side 131)/`(se side 131) <9_Kvindelige_kønsorganer.rst#Objektivt>`__ /g' 7_Mave-tarm-systemet.rst
 gsed -i 's/(kapitel 9)/`(kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
-gsed -i 's/ side 124)/` side 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
+gsed -i 's/side 124)/`side 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
 gsed -i 's/(se kapitel 5 /`(se kapitel 5  <5_Hjertet.rst#>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
-gsed -i 's/ og 12)/` og 12) <12_Det_perifere_karsystem.rst#>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
+gsed -i 's/og 12)/`og 12) <12_Det_perifere_karsystem.rst#>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
 gsed -i 's/(se kapitel 7)/`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
 gsed -i 's/(se side 131)/`(se side 131) <9_Kvindelige_kønsorganer.rst#Objektivt>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
 gsed -i 's/(se side 114)/`(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ /g' 8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst
@@ -94,14 +94,14 @@ gsed -i 's/(se side 176)/`(se side 176) <11_Centralnervesystemet.rst#Sensibilite
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 12)/`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 11/`(se kapitel 11 <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/ og 12)/` og 12) <12_Det_perifere_karsystem.rst#>`__ /g' 10_Bevægeapparatet.rst
+gsed -i 's/og 12)/`og 12) <12_Det_perifere_karsystem.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 171)/`(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 169)/`(se side 169) <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 161)/`(se side 161) <11_Centralnervesystemet.rst#Kraftnedsættelse>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/ side 113) /` side 113)  <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ /g' 10_Bevægeapparatet.rst
+gsed -i 's/side 113) /`side 113)  <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 171 /`(se side 171  <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/ og 174)/` og 174) <11_Centralnervesystemet.rst#Sensibilitet>`__ /g' 10_Bevægeapparatet.rst
+gsed -i 's/og 174)/`og 174) <11_Centralnervesystemet.rst#Sensibilitet>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 13)/`(se kapitel 13) <13_Kirtler.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 164)/`(se side 164) <11_Centralnervesystemet.rst#Sprog>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 144)/`(se side 144) <10_Bevægeapparatet.rst#Regional_undersøgelse>`__ /g' 10_Bevægeapparatet.rst
