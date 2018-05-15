@@ -6,6 +6,8 @@
 
 **Nøglepunkter**
 
+<html5media>File:KAP15_201.mp3</html5media>
+
 * »Svimmelhed« bruges ofte til at beskrive uspecifikke fornemmelser
   og utilpashed – præcisér, om der er tale om ægte vertigo.
 * Alle patienter med pludseligt opstået synstab skal henvises akut til
@@ -13,6 +15,8 @@
   
 Symptomer
 =========
+
+<html5media>File:KAP15_201_2.mp3</html5media>
 
 De vigtigste symptomer fra sanseorganerne er: høretab, øresusen, svimmelhed
 og synstab. Derudover er lokalsymptomer som smerter, udflåd
@@ -22,10 +26,14 @@ og rødme overordentligt almindelige og som regel udtryk for infektioner
 Høretab (hypacusis)
 -------------------
 
+<html5media>File:KAP15_201_3.mp3</html5media>
+
 Ved anamneseoptagelsen er det vigtigt at få klarlagt, om høretabet indsatte
 pludseligt eller gradvist, og om der er oplagte udløsende faktorer.
 
 **Høretab**
+
+<html5media>File:BOKS201.mp3</html5media>
 
 * Kom det pludseligt eller gradvist?
 * Ensidigt eller på begge ører?
@@ -44,6 +52,8 @@ eller *cerumen* (ørevoks).
 Øresusen (tinnitus)
 -------------------
 
+<html5media>File:KAP15_202.mp3</html5media>
+
 Tinnitus betegner patientens subjektive beskrivelse af en susen eller ringen
 for ørerne. Fænomenet kan ikke måles eller objektiviseres. Tinnitus er
 ofte ledsaget af hørenedsættelse. Årsagen er som ved høretab: støjskader,
@@ -56,6 +66,8 @@ kvalme og høretab.
 Svimmelhed (vertigo)
 --------------------
 
+<html5media>File:KAP15_202_2.mp3</html5media>
+
 Man kan opleve, at patienten griber til ordet »svimmelhed« for at beskrive
 uspecifikke fornemmelser og utilpashed (se kapitel 4). Forsøg at
 præcisere anamnesen for at afdække, om der er tale om »ægte« svimmelhed
@@ -65,6 +77,8 @@ af, at omgivelserne bevæger sig i forhold til ham (som på et skibsdæk
 (som i en karrusel = *gyratorisk vertigo*).
 
 **Svimmelhed**
+
+<html5media>File:BOKS202.mp3</html5media>
 
 * Beskriv, hvordan det føles?
 * Anfaldsvis eller konstant?
@@ -82,6 +96,8 @@ eller forværres ved bestemte hovedbevægelser.
 Synstab (amblyopia et amaurosis)
 --------------------------------
 
+<html5media>File:KAP15_203.mp3</html5media>
+
 Synstab omfatter både synssvækkelse (*amblyopia*) og blindhed (*amaurosis*).
 Ved synstab skal man fokusere anamnesen på lidelser, der kræver
 hurtig diagnostik og behandling. Den nærmere udredning af synstab er
@@ -89,6 +105,8 @@ en specialistopgave. Alle patienter med *pludseligt* opstået synstab skal
 henvises akut til øjenlæge.
 
 **Synstab**
+
+<html5media>File:BOKS203.mp3</html5media>
 
 * Pludseligt eller gradvist?
 * Smerter i øjet?
@@ -102,12 +120,16 @@ dage til uger, ses ved *neuritis opticus*, dissemineret sklerose og *arteriitis 
 Objektiv undersøgelse
 =====================
 
+<html5media>File:KAP15_203_2.mp3</html5media>
+
 Ved den objektive undersøgelse af øret anvendes et specialinstrument –
 otoskopet – der bør være tilgængeligt på enhver sygehusafdeling. Basal
 otoskopi bør mestres af enhver læge. Oftalmoskopi er derimod en specialistopgave.
 
 Otoskopi
 --------
+
+<html5media>File:KAP15_203_3.mp3</html5media>
 
 Otoskopi udføres altid ved symptomer fra ørerne, men kan også være
 relevant f.eks. hos en patient med feber uden kendt focus. Otoskopi
@@ -152,6 +174,8 @@ som tegn på undertryk (kronisk infektion)?
 
 Øjne
 ----
+
+<html5media>File:KAP15_204.mp3</html5media>
 
 Øjenomgivelserne iagttages: *Periorbitale* ødemer kan ses ved bl.a. nyresvigt.
 Et *brillehæmatom* ses som blåviolette ringe om øjnene og er et tegn
@@ -200,6 +224,8 @@ skarp, kontraheres pupillerne; er lommelampen for skrap, generer man
 patienten. 
 
 **Pupilforandringer**
+
+<html5media>File:BOKS205.mp3</html5media>
 
 *Anisocoria:*
   – uens (uegale) pupiller
