@@ -43,7 +43,7 @@ grundig mave-tarm-anamnese er derfor vigtig hos patienten med uforklarlig
 anæmi.
 
 Manglende appetit og vægttab er hyppige ledsagesymptomer til alvorlige
-mave-tarm-lidelser (se kapitel 4).
+mave-tarm-lidelser `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ .
 
 Kvalme (nausea) og opkastning (emesis)
 --------------------------------------
@@ -119,7 +119,7 @@ symptomer på behandlingskrævende reflukssygdom eller alvorlig oesophaguslidels
 
 Med en grundig anamnese (og et ekg + blodprøver) kan man som regel
 også udelukke den anden store årsag til smerter bag brystbenet: iskæmisk
-hjertesygdom (se kapitel 6).
+hjertesygdom `(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ .
 
 Mavesmerter (abdominalia)
 -------------------------
@@ -225,7 +225,7 @@ og blege diaréer, der flyder ovenpå i toiletkummen, ses ved malabsorptionssygd
 betændelse i bugspytkirtlen (*pancreatitis*) og amøbesygdom
 (*giardiasis*). Udenlandsrejser, restaurantbesøg og lignende tilfælde i
 omgangskredsen tyder på infektiøs årsag. *Tyreotoksikose* (forhøjet stofskifte)
-er en vigtig differentialdiagnose ved diaré og vægttab (se kapitel 13).
+er en vigtig differentialdiagnose ved diaré og vægttab `(se kapitel 13) <13_Kirtler.rst#>`__ .
 
 **Blod i afføringen**
 
@@ -286,8 +286,8 @@ Objektiv undersøgelse
 Mave-tarm-systemet er tilgængelig for direkte klinisk undersøgelse ved
 dets ydre åbninger – mund og endetarm – og for indirekte undersøgelse
 gennem bugvæggen. Hos kvinder med abdominale symptomer foretages
-desuden en gynækologisk undersøgelse (side 131), og hos mænd undersøges
-*genitalia externa* (side 122). Ofte suppleres tillige med billeddiagnostiske
+desuden en gynækologisk undersøgelse `(side 131) <9_Kvindelige_kønsorganer.rst#Objektivt>`__ , og hos mænd undersøges
+*genitalia externa* `(side 122) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ . Ofte suppleres tillige med billeddiagnostiske
 undersøgelser som ultralyd, røntgenoversigt over abdomen
 eller CT-scanning. Røntgenbillede af thorax og ekg kan bidrage væsentligt
 i differentialdiagnosen, da både pneumoni og iskæmisk hjertesygdom
@@ -338,7 +338,7 @@ mononukleose.
 **Eksploration**
 
 Ved ansigtstraumer er det vigtigt at gennempalpere alle tænder for løshed
-og at undersøge mandiblen for frakturømhed og strepitus (se side 141). 
+og at undersøge mandiblen for frakturømhed og strepitus `(se side 141) <10_Bevægeapparatet.rst#Palpation>`__ . 
 Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at spørge patienten.
 
 Abdomen
@@ -555,7 +555,7 @@ i nedre højre kvadrant er imidlertid *appendicitis acuta*.
 
 I *øverste højre kvadrant* er de hyppigste fund en forstørret lever eller
 en øm galdeblære. Den normale eller cirrotisk skrumpede lever kan ikke
-palperes (men evt. udperkuteres jf. side 111). En forstørret lever kan palperes
+palperes (men evt. udperkuteres jf. `side 111) <7_Mave-tarm-systemet.rst#Abdomen>`__ . En forstørret lever kan palperes
 ved *fedtlever*, *cirrose* og *levermetastaser*.
 
 Ømhed på galdeblærestedet (*Murphys tegn*) evt. med *défense* er det klassiske
@@ -567,7 +567,7 @@ som regel supplere med en ultralyds- eller kikkertundersøgelse.
 
 I *epigastriet* er ømhed et hyppigt og meget uspecifikt fund, mens
 udfyldninger er sjældne. *Over umbilicus* kan et aortaaneurisme palperes
-som en ekspansivt pulserende udfyldning (side 186).
+som en ekspansivt pulserende udfyldning `(side 186) <12_Det_perifere_karsystem.rst#Auskultation>`__ .
 
 I *venstre øvre kvadrant* er det hyppigste fund en forstørret milt (*splenomegali*),
 der evt. kan være øm (et hyppigt fund ved *mononukleose*).
@@ -591,13 +591,13 @@ derfor ofte med en ultralydsundersøgelse.
 * Idiopatisk trombocytopeni
 * Amyloidose.
 
-I flankerne kan nyrerne palperes (kapitel 8, side 125).
+I flankerne kan nyrerne palperes `(kapitel 8, side 125) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje>`__ .
 
 **Perkussion**
 
 <html5media>File:KAP7_111.mp3</html5media>
 
-Teknikken ved perkussion er som beskrevet for lungerne (side 93). Det
+Teknikken ved perkussion er som beskrevet for lungerne `(side 93) <6_Lunger_og_luftveje.rst#Palpation>`__ . Det
 normale perkussionsfund i abdomen er overalt en lyd, som når man slår
 på et slapt trommeskind (tympanisme). Ved perkussionen forsøger man
 at afgøre, om en diffus udspiling skyldes luft (f.eks. ileus), der giver tympanisme,
@@ -650,7 +650,7 @@ Lyskerne (regiones inguinales)
 
 De væsentligste objektive fund i lyskerne er lymfadenopati og *hernier*
 (brok). Enkelte små, smuttende og uømme glandler er et normalt fund
-(kapitel 4). Forstørrede lymfeknuder hviler som regel på *ligamentum inguinale*, 
+`(kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ . Forstørrede lymfeknuder hviler som regel på *ligamentum inguinale*, 
 mens hernier buler ud over eller under ligamentet. Start din
 lyskeundersøgelse med at lokalisere *ligamentum inguinale*: Det løber
 mellem *spina iliaca anterior superior* og *tuberculum pubicum*. Hernier,
@@ -772,7 +772,7 @@ Hos *kvinder* kan man dybt gennem rectums forvæg palpere portio som
 en rund, fast udfyldning. En bagoverbøjet (retroflekteret) uterus eller et
 fibrom er andre fund hos kvinder ved rektaleksploration. Af og til udføres
 rektaleksploration hos kvinder som en del af GU (rektalvaginaleksploration)
-(se side 131).
+`(se side 131) <9_Kvindelige_kønsorganer.rst#Objektivt>`__ .
 
 Efter at fingeren er fjernet fra anus, inspiceres den, og man bemærker,
 om der er normalt udseende faeces på handsken, eller om der er melaena,
