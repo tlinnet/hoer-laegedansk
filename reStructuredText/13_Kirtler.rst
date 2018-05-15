@@ -41,6 +41,8 @@ stofskifte, se boks.
 
 **Hypertyreose**
 
+<html5media>File:BOKS188.mp3</html5media>
+
 * Uplanlagt vægttab?
 * Øget appetit?
 * Hyppigere, løse afføringer?
@@ -60,6 +62,8 @@ træthed og initiativløshed, jf. boks 2. Tilstanden kan fejltolkes som demens
 eller depression.
 
 **Hypotyreose**
+
+<html5media>File:BOKS188B.mp3</html5media>
 
 * Uønsket vægtstigning?
 * Nyopstået forstoppelse?
@@ -151,6 +155,8 @@ Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 
 **Mastalgi**
 
+<html5media>File:BOKS190.mp3</html5media>
+
 * Slag mod brystet?
 * Kommer smerterne på bestemte tidspunkter i
   menstruationscyklus?
@@ -193,6 +199,8 @@ en knude i brystet bør derfor som regel føre til røntgen- og ultralydsunders�
 af brystet og evt. biopsi eller kirurgisk fjernelse af knuden.
 
 **En knude i brystet**
+
+<html5media>File:BOKS191.mp3</html5media>
 
 * Hvornår mærkede du knuden første gang?
 * Har du tidligere haft knuder i brystet?
@@ -269,6 +277,8 @@ området mellem 1. og 2. finger.Man bemærker samtidig, om der kan
 *eksprimeres* (udmalkes) noget. Fund af tumor beskrives systematisk.
 
 **Tumor mammae**
+
+<html5media>File:BOKS193.mp3</html5media>
 
 * Størrelse?
 * Lokalisering (klokkeslet og afstand fra papillen)?
