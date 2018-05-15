@@ -29,7 +29,8 @@ wpages = [
     #"11_Centralnervesystemet",
     #"12_Det_perifere_karsystem",
     #"13_Kirtler",
-    "14_Hud"
+    #"14_Hud",
+    "15_Sanseorganer"
 ]
 
 # loop over pages

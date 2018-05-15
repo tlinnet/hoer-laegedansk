@@ -16,7 +16,8 @@ cd ../wikitools
 #rm 11_Centralnervesystemet.Wiki
 #rm 12_Det_perifere_karsystem.Wiki
 #rm 13_Kirtler.Wiki
-rm 14_Hud.Wiki
+#rm 14_Hud.Wiki
+rm 15_Sanseorganer.Wiki
 
 # Copy over .Wiki files
 source 00_cp_Wiki_here.sh
