@@ -111,7 +111,7 @@ kan være så svære at beskrive for patienten, vil han hurtigt
 gribe efter dine forslag til beskrivende termer. Ved *anæmi* (blodmangel)
 og *ortostatisk hypotension* (blodtryksfald, når man rejser sig) kan patienten
 have en subjektiv fornemmelse, der beskrives som »svimmelhed«,
-men som mere korrekt må betegnes nærbesvimelse.Mange ældre mennesker
+men som mere korrekt må betegnes nærbesvimelse. Mange ældre mennesker
 lider af svimmelhed og faldtendens, og årsagen er ofte multifaktoriel:
 dårligt syn, ældet balanceorgan, dehydrering, anæmi, slidgigt
 *(artrose)* og muskelsvaghed. Fokuser anamneseoptagelsen hos den ældre
@@ -375,7 +375,7 @@ Lymfeknuder
 
 Lymfeknuderne undersøges på vide indikationer, f.eks. ved mistanke om
 kræftsygdom eller feber af ukendt årsag. Lymfeknuderne er kun tilgængelige
-for palpation få steder på kroppen (se Fig. 4.2).Man palperer med
+for palpation få steder på kroppen (se Fig. 4.2). Man palperer med
 sine fingerspidser i regionerne; de normale lymfeknuder er ikke palpable.
 Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
 
