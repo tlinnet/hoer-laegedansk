@@ -105,8 +105,8 @@ uspecifikke symptomer:
 * Døsighed (f.eks. af morfin og sovepiller)
 
 Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination
-= *vertigo*) (se kapitel 11). Stil åbne spørgsmål (se
-kapitel 1) og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
+= *vertigo*) (se kapitel 11). Stil åbne spørgsmål 
+(se kapitel 1) og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
 kan være så svære at beskrive for patienten, vil han hurtigt
 gribe efter dine forslag til beskrivende termer. Ved *anæmi* (blodmangel)
 og *ortostatisk hypotension* (blodtryksfald, når man rejser sig) kan patienten
