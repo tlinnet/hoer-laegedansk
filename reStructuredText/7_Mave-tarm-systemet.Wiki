@@ -28,7 +28,7 @@ De vigtigste symptomer fra mave-tarm-systemet er kvalme, opkastninger, synkebesv
 
 Anæmi (blodmangel) skyldes ofte sygdom i mave-tarm-systemet, og en grundig mave-tarm-anamnese er derfor vigtig hos patienten med uforklarlig anæmi.
 
-Manglende appetit og vægttab er hyppige ledsagesymptomer til alvorlige mave-tarm-lidelser (se kapitel 4).
+Manglende appetit og vægttab er hyppige ledsagesymptomer til alvorlige mave-tarm-lidelser [[4_Almene_symptomer_og_fund.rst#|(se kapitel 4)]] .
 
 == Kvalme (nausea) og opkastning (emesis) ==
 
@@ -75,7 +75,7 @@ Anamnesen til patienten med halsbrand sigter på at skelne den sporadiske halsbr
 * Lindres smerten af syreneutraliserende middel? Nitroglycerin?
 * Hjælper det at ligge fladt i sengen, eller bliver det bare værre?
 
-Med en grundig anamnese (og et ekg + blodprøver) kan man som regel også udelukke den anden store årsag til smerter bag brystbenet: iskæmisk hjertesygdom (se kapitel 6).
+Med en grundig anamnese (og et ekg + blodprøver) kan man som regel også udelukke den anden store årsag til smerter bag brystbenet: iskæmisk hjertesygdom [[6_Lunger_og_luftveje.rst#|(se kapitel 6)]] .
 
 == Mavesmerter (abdominalia) ==
 
@@ -141,7 +141,7 @@ Diaré er hyppige, tynde afføringer med en ''øget'' samlet faecesmængde. Hove
 * Beskriv din afføring! Blod, slim eller pus?
 * Udenlandsrejse? Lignende tilfælde i omgangskredsen?
 
-Diaré ud over 14 dage med ledsagesymptomer som vægttab, feber, blod og slim i afføringen eller natlig forekomst er ofte tegn på alvorligere, organisk lidelse, f.eks. inflammatorisk tarmsygdom. Ildelugtende, store og blege diaréer, der flyder ovenpå i toiletkummen, ses ved malabsorptionssygdomme, betændelse i bugspytkirtlen (''pancreatitis'') og amøbesygdom (''giardiasis''). Udenlandsrejser, restaurantbesøg og lignende tilfælde i omgangskredsen tyder på infektiøs årsag. ''Tyreotoksikose'' (forhøjet stofskifte) er en vigtig differentialdiagnose ved diaré og vægttab (se kapitel 13).
+Diaré ud over 14 dage med ledsagesymptomer som vægttab, feber, blod og slim i afføringen eller natlig forekomst er ofte tegn på alvorligere, organisk lidelse, f.eks. inflammatorisk tarmsygdom. Ildelugtende, store og blege diaréer, der flyder ovenpå i toiletkummen, ses ved malabsorptionssygdomme, betændelse i bugspytkirtlen (''pancreatitis'') og amøbesygdom (''giardiasis''). Udenlandsrejser, restaurantbesøg og lignende tilfælde i omgangskredsen tyder på infektiøs årsag. ''Tyreotoksikose'' (forhøjet stofskifte) er en vigtig differentialdiagnose ved diaré og vægttab [[13_Kirtler.rst#|(se kapitel 13)]] .
 
 '''Blod i afføringen'''
 
@@ -180,7 +180,7 @@ Gulsot er gulfarvning af hud og øjne. ''Icterus'' er det kliniske fund af gulfa
 
 &lt;html5media&gt;File:KAP7_103_2.mp3&lt;/html5media&gt;
 
-Mave-tarm-systemet er tilgængelig for direkte klinisk undersøgelse ved dets ydre åbninger – mund og endetarm – og for indirekte undersøgelse gennem bugvæggen. Hos kvinder med abdominale symptomer foretages desuden en gynækologisk undersøgelse (side 131), og hos mænd undersøges ''genitalia externa'' (side 122). Ofte suppleres tillige med billeddiagnostiske undersøgelser som ultralyd, røntgenoversigt over abdomen eller CT-scanning. Røntgenbillede af thorax og ekg kan bidrage væsentligt i differentialdiagnosen, da både pneumoni og iskæmisk hjertesygdom kan manifestere sig med mavesmerter.
+Mave-tarm-systemet er tilgængelig for direkte klinisk undersøgelse ved dets ydre åbninger – mund og endetarm – og for indirekte undersøgelse gennem bugvæggen. Hos kvinder med abdominale symptomer foretages desuden en gynækologisk undersøgelse [[9_Kvindelige_kønsorganer.rst#Objektivt|(side 131)]] , og hos mænd undersøges ''genitalia externa'' [[8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)|(side 122)]] . Ofte suppleres tillige med billeddiagnostiske undersøgelser som ultralyd, røntgenoversigt over abdomen eller CT-scanning. Røntgenbillede af thorax og ekg kan bidrage væsentligt i differentialdiagnosen, da både pneumoni og iskæmisk hjertesygdom kan manifestere sig med mavesmerter.
 
 == Mund og svælg (cavum oris et fauces) ==
 
@@ -198,7 +198,7 @@ Læber og mundvige undersøges for sår (''ulcerationer''), vesikler (f.eks. her
 
 '''Eksploration'''
 
-Ved ansigtstraumer er det vigtigt at gennempalpere alle tænder for løshed og at undersøge mandiblen for frakturømhed og strepitus (se side 141). Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at spørge patienten.
+Ved ansigtstraumer er det vigtigt at gennempalpere alle tænder for løshed og at undersøge mandiblen for frakturømhed og strepitus [[10_Bevægeapparatet.rst#Palpation|(se side 141)]] . Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at spørge patienten.
 
 == Abdomen ==
 
@@ -292,11 +292,11 @@ en ekstrauterin graviditet, indtil man har bevist det modsatte (negativ gravidit
 
 I ''nederste højre kvadrant'' ses hos kvinder – som i venstre side – den ''ekstrauterine graviditet'', ''salpingitten'' (underlivsinflammation) og ''ovarietumorer''. En hård og øm udfyldning kan være en ''coloncancer'' eller en inflammatorisk tarmsygdom. Den hyppigste årsag til ømhed eller ''défense'' i nedre højre kvadrant er imidlertid ''appendicitis acuta''.
 
-I ''øverste højre kvadrant'' er de hyppigste fund en forstørret lever eller en øm galdeblære. Den normale eller cirrotisk skrumpede lever kan ikke palperes (men evt. udperkuteres jf. side 111). En forstørret lever kan palperes ved ''fedtlever'', ''cirrose'' og ''levermetastaser''.
+I ''øverste højre kvadrant'' er de hyppigste fund en forstørret lever eller en øm galdeblære. Den normale eller cirrotisk skrumpede lever kan ikke palperes (men evt. udperkuteres jf. [[7_Mave-tarm-systemet.rst#Abdomen|side 111)]] . En forstørret lever kan palperes ved ''fedtlever'', ''cirrose'' og ''levermetastaser''.
 
 Ømhed på galdeblærestedet (''Murphys tegn'') evt. med ''défense'' er det klassiske fund ved betændelse i galdeblæren (''cholecystitis''). Fundet af en stor og spændt, men uøm galdeblære kaldes ''Courvoisiers tegn'' og kan ses ved en cancer, der obstruerer udløbet fra galdevejene. Symptomer og kliniske fund ved lidelser i galdevejene er imidlertid meget usikre, og man vil som regel supplere med en ultralyds- eller kikkertundersøgelse.
 
-I ''epigastriet'' er ømhed et hyppigt og meget uspecifikt fund, mens udfyldninger er sjældne. ''Over umbilicus'' kan et aortaaneurisme palperes som en ekspansivt pulserende udfyldning (side 186).
+I ''epigastriet'' er ømhed et hyppigt og meget uspecifikt fund, mens udfyldninger er sjældne. ''Over umbilicus'' kan et aortaaneurisme palperes som en ekspansivt pulserende udfyldning [[12_Det_perifere_karsystem.rst#Auskultation|(side 186)]] .
 
 I ''venstre øvre kvadrant'' er det hyppigste fund en forstørret milt (''splenomegali''), der evt. kan være øm (et hyppigt fund ved ''mononukleose'').
 
@@ -315,13 +315,13 @@ Teknikken ved palpation af milten er som beskrevet for leveren. Ved undersøgels
 * Idiopatisk trombocytopeni
 * Amyloidose.
 
-I flankerne kan nyrerne palperes (kapitel 8, side 125).
+I flankerne kan nyrerne palperes [[8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje|(kapitel 8, side 125)]] .
 
 '''Perkussion'''
 
 &lt;html5media&gt;File:KAP7_111.mp3&lt;/html5media&gt;
 
-Teknikken ved perkussion er som beskrevet for lungerne (side 93). Det normale perkussionsfund i abdomen er overalt en lyd, som når man slår på et slapt trommeskind (tympanisme). Ved perkussionen forsøger man at afgøre, om en diffus udspiling skyldes luft (f.eks. ileus), der giver tympanisme, eller væske (f.eks. ascites) og forstørrede organer (f.eks. hepatomegali), der giver dæmpning. Den kliniske vurdering af et udspilet abdomen er imidlertid upræcis, og man supplerer ofte med en ultralydsundersøgelse (der kan påvise selv små mængder ascites) eller en røntgenoversigt over abdomen (der er første skridt i ileusdiagnostik).
+Teknikken ved perkussion er som beskrevet for lungerne [[6_Lunger_og_luftveje.rst#Palpation|(side 93)]] . Det normale perkussionsfund i abdomen er overalt en lyd, som når man slår på et slapt trommeskind (tympanisme). Ved perkussionen forsøger man at afgøre, om en diffus udspiling skyldes luft (f.eks. ileus), der giver tympanisme, eller væske (f.eks. ascites) og forstørrede organer (f.eks. hepatomegali), der giver dæmpning. Den kliniske vurdering af et udspilet abdomen er imidlertid upræcis, og man supplerer ofte med en ultralydsundersøgelse (der kan påvise selv små mængder ascites) eller en røntgenoversigt over abdomen (der er første skridt i ileusdiagnostik).
 
 Lever-, milt- og blæreforstørrelse er de hyppigste perkussionsfund i abdomen. Ved perkussion bevæger man sig altid gradvist fra et område med tympanisme til et område med dæmpning. Ved udperkussion af en ''forstørret blære'' bevæger man sig således fra umbilicus mod symfysen – normalt er perkussionsfundet tympanitisk hele vejen. En forstørret blære erkendes som en dæmpning, og udbredelsen angives (som f.eks. »2 cm under umbilicus«).
 
@@ -347,7 +347,7 @@ Ved auskultation af abdomen placeres stetoskopets membranside over umiblicus. De
 
 &lt;html5media&gt;File:KAP7_112_2.mp3&lt;/html5media&gt;
 
-De væsentligste objektive fund i lyskerne er lymfadenopati og ''hernier'' (brok). Enkelte små, smuttende og uømme glandler er et normalt fund (kapitel 4). Forstørrede lymfeknuder hviler som regel på ''ligamentum inguinale'', mens hernier buler ud over eller under ligamentet. Start din lyskeundersøgelse med at lokalisere ''ligamentum inguinale'': Det løber mellem ''spina iliaca anterior superior'' og ''tuberculum pubicum''. Hernier, der buler ud ''under'' ligamentet, kaldes lårbrok eller ''hernia femoralis'' og ses kun sjældent. De hyppigste hernier buler ud ''over'' ligamentet og kaldes lyskebrok eller ''hernia inguinales''. Ved inspektionen vil man typisk kunne se lyskebrokket som en aflang frembuling over ligamentum inguinale, der evt. kan strække sig ned i scrotum. Andre lyskenære udfyldninger kan være åreknuder eller arterielle aneurismer.
+De væsentligste objektive fund i lyskerne er lymfadenopati og ''hernier'' (brok). Enkelte små, smuttende og uømme glandler er et normalt fund [[4_Almene_symptomer_og_fund.rst#|(kapitel 4)]] . Forstørrede lymfeknuder hviler som regel på ''ligamentum inguinale'', mens hernier buler ud over eller under ligamentet. Start din lyskeundersøgelse med at lokalisere ''ligamentum inguinale'': Det løber mellem ''spina iliaca anterior superior'' og ''tuberculum pubicum''. Hernier, der buler ud ''under'' ligamentet, kaldes lårbrok eller ''hernia femoralis'' og ses kun sjældent. De hyppigste hernier buler ud ''over'' ligamentet og kaldes lyskebrok eller ''hernia inguinales''. Ved inspektionen vil man typisk kunne se lyskebrokket som en aflang frembuling over ligamentum inguinale, der evt. kan strække sig ned i scrotum. Andre lyskenære udfyldninger kan være åreknuder eller arterielle aneurismer.
 
 Et brok kan genere patienten, selvom det ikke umiddelbart kan ses ved inspektion. Hernier undersøges derfor bedst hos den stående patient, og ved at bede patienten bruge bugpressen (hoste, presse, løfte noget tungt) kan man ofte få et hernie til at bule frem mod ens fingerspidser over brokportene (de svage steder i bugvæggen). Hos mænd kan man palpere med en lillefingerspids, der invagineres igennem scrotum og føres ind i ingvinalkanalen. Føles herniet som et lille stød mod fingerspidsen ved bugpresseaktivering, taler man om »anslag ved hoste«. Et hernie skal altid undersøges for ømhed, man skal stetoskopere det for tarmlyde, og man skal forsøge om det er ''reponibelt'', dvs. om det kan stoppes tilbage i abdominalhulen.Med en eller flere fingerspidser forsøger man forsigtigt at massere herniet ind igennem brokportene; man skal ikke bruge voldsomme kræfter, og det skal ikke gøre ondt på patienten. Hos mænd med lyskebrok skal man altid palpere scrotum: Er der brokindhold i scrotum? Er begge testes i scrotum, eller er der manglende descensus?
 
@@ -388,6 +388,6 @@ Herefter drejes fingeren 180°, og man undersøger rectums forvæg i vifteformed
 
 Hos ''mænd'' bemærkes prostatas størrelse, form og konsistens. Den normale prostata er af størrelse som en kastanje (2 × 3 × 4 cm); man kan som regel nå overkanten, bagfladen er symmetrisk med en tydelig median fure og konsistensen er fast elastisk (gummiagtig). Er prostatas bagflade asymmetrisk, evt. med »vingedannelser«, udslettet midterfure og en hård, knudret konsistens, kan dette tyde på cancer prostata. Ved prostatitis er prostata øm, og ved betændelse i vesicula seminalis kan disse palperes som forstørrede og ømme (de normale sædblærer kan ikke palperes).
 
-Hos ''kvinder'' kan man dybt gennem rectums forvæg palpere portio som en rund, fast udfyldning. En bagoverbøjet (retroflekteret) uterus eller et fibrom er andre fund hos kvinder ved rektaleksploration. Af og til udføres rektaleksploration hos kvinder som en del af GU (rektalvaginaleksploration) (se side 131).
+Hos ''kvinder'' kan man dybt gennem rectums forvæg palpere portio som en rund, fast udfyldning. En bagoverbøjet (retroflekteret) uterus eller et fibrom er andre fund hos kvinder ved rektaleksploration. Af og til udføres rektaleksploration hos kvinder som en del af GU (rektalvaginaleksploration) [[9_Kvindelige_kønsorganer.rst#Objektivt|(se side 131)]] .
 
 Efter at fingeren er fjernet fra anus, inspiceres den, og man bemærker, om der er normalt udseende faeces på handsken, eller om der er melaena, frisk blod eller slim. Efter undersøgelsen hjælper man patienten til at tørre sig bagi med blødt papir.
