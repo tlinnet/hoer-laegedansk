@@ -84,7 +84,7 @@ der findes på *kontinuationerne* (af latin *continuatio* = fortsættelse).
 På journalkontinuationerne skrives journalnotaterne i kronologisk rækkefølge:
 Datoen angives altid; klokkeslettet hvor det er relevant, f.eks. ved
 fødsler og hjertestop. Det første notat i et forløb vil typisk være *indlæggelsesjournalen*,
-også kaldet *primærjournalen* (se kapitel 3). På de fleste
+også kaldet *primærjournalen* `(se kapitel 3) <3_Indlæggelsesnotatet.rst#>`__. På de fleste
 afdelinger vil der for akut indlagte patient ofte følge en *gennemgang*,
 hvor en mere erfaren kollega resumerer sygehistorien, beskriver sin egen
 undersøgelse af patienten og giver bud på diagnoser, udredningsprogram
@@ -156,8 +156,8 @@ patienten om sine overvejelser, og man beskriver derfor også på dette
 sted, hvilken *patientinformation* der er givet.
 
 SOAP-huskereglen kan anvendes på alt fra et flere sider langt primært
-indlæggelsesnotat struktureret efter den traditionelle model (se kapitel
-3) til et ultrakort journalnotat. Anvendelsen af SOAP-huskereglen kan
+indlæggelsesnotat struktureret efter den traditionelle model `(se kapitel 3) <3_Indlæggelsesnotatet.rst#>`__ 
+til et ultrakort journalnotat. Anvendelsen af SOAP-huskereglen kan
 illustreres med flg. journalnotat på en patient, der netop har gennemgået
 et mindre operativt indgreb:
 
