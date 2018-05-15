@@ -10,7 +10,7 @@ I Danmark anvender de fleste læger en traditionel disposition for primærjourna
 Når man dikterer sin journal, vil man gøre det i en
 bestemt rækkefølge, og når sekretæren renskriver diktatet, vil hun sørge
 for, at notatet opstilles med overskrifter, understregninger og tabuleringer,
-således at resultatet bliver ensartet fra gang til gang (se næste side).
+således at resultatet bliver ensartet fra gang til gang `(se næste side) <3_Indlæggelsesnotatet.rst#>`__ .
 
 I dette kapitel beskrives, hvordan man skal *disponere* og *formulere* sine
 journalnotater. De enkelte dele af den traditionelle indlæggelsesjournal
@@ -434,28 +434,28 @@ på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
 
 
 **Centralnervesystemet (CNS):**
-  (se kapitel 11)
+  `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ 
   hovedpine?
   svimmelhed? synsforstyrrelser? føleforstyrrelser og
   lammelser? krampeanfald? mentale ændringer? humør? søvn?
   hukommelsesbesvær?
 **Kardio-pulmonalt (K-P):**
-  (se kapitel 5 – 6)
+  `(se kapitel 5 <5_Hjertet.rst#>`__ `– 6) <6_Lunger_og_luftveje.rst#>`__ 
   åndenød? brystsmerter?
   hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
 **Gastro-intestinalt (G-I):**
-  (se kapitel 7)
+  `(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
   appetit? uønsket
   vægttab? kvalme eller opkastninger? synkebesvær? halsbrand?
   mavesmerter? ændret afføringsmønster?
 **Uro-genitalt (U-G):**
-  (se kapitel 8 – 9)
+  `(se kapitel 8 <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__ `– 9) <9_Kvindelige_kønsorganer.rst#>`__ 
   svie og smerte ved
   vandladning? vandladningsbesvær? ufrivillig vandladning?
   blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser?
   udflåd?)
 **Bevægeapparatet (B-A):**
-  (se kapitel 10 + 12)
+  `(se kapitel 10 + <10_Bevægeapparatet.rst#>`__  `12) <12_Det_perifere_karsystem.rst#>`__ 
   smerter i ekstremiteterne?
   rygsmerter? stivhed? hævede led? sår? claudicatio?
 
@@ -463,13 +463,13 @@ Disse 5 er den sædvanlige remse, men af og til overser man symptomer
 fra de »små« organsystemer:
 
 **Hud:**
-  (se kapitel 14)
+  `(se kapitel 14) <14_Hud.rst#>`__ 
   kløe? udslæt? sår?
 **Sanseorganer:**
-  (se kapitel 15)
+  `(se kapitel 15) <15_Sanseorganer.rst#>`__ 
   høretab? øresusen? svimmelhed? synstab?
 **Stofskifte (endokrinologisk):**
-  (se kapitel 13)
+  `(se kapitel 13) <13_Kirtler.rst#>`__ 
   appetit- og vægtændringer? træthed? tørst? tisser meget? varme- eller
   kuldefornemmelse? psykiske ændringer?
 
@@ -654,7 +654,7 @@ Auskultation:
 
 Almene fund
 -----------
-(se kapitel 4)
+`(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ 
 
 <html5media>File:KAP3_44.mp3</html5media>
 
@@ -705,7 +705,7 @@ sådan ud:
 
 Ydre kranie (calvaria)
 ----------------------
-(se kapitel 11)
+`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ 
 
 <html5media>File:KAP3_45.mp3</html5media>
 
@@ -718,13 +718,13 @@ Ansigt
 <html5media>File:KAP3_45_2.mp3</html5media>
 
 Ansigtet beskrives sjældent, men under denne overskrift kan man f.eks.
-se: Er der umiddelbare tegn på *facialisparese* (se s. 168)? Er der ømhed af
+se: Er der umiddelbare tegn på *facialisparese* `(se s. 168) <11_Centralnervesystemet.rst#Hjernenerverne>`__ ? Er der ømhed af
 *aa. temporales*? Hos traumepatienter: Er ansigtsskelettet intakt og uømt?
 Devierer *næsen*, og er der *udflåd* (blod, liquor)?
 
 Øjne
 ----
-(se kapitel 15)
+`(se kapitel 15) <15_Sanseorganer.rst#>`__ 
 
 <html5media>File:KAP3_45_3.mp3</html5media>
 
@@ -736,7 +736,7 @@ Devierer *næsen*, og er der *udflåd* (blod, liquor)?
 (blod)? Man beskriver *pupillernes* form (runde?), størrelse (egale eller af
 uens størrelse (anisokori)? knappenålspupiller?) og reaktion for lys (lysstive?
 normalt reagerende?). *Synsfeltet* noteres. Er *øjenbevægelserne* frie?
-Er der nystagmus eller strabismus (skelen)(se kapitel 11)?
+Er der nystagmus eller strabismus (skelen) `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ ?
 
 En øjenundersøgelse hos en beruset person, der havde slået hovedet
 og henvendt sig i skadestuen, var beskrevet således:
@@ -750,7 +750,7 @@ og henvendt sig i skadestuen, var beskrevet således:
 
 Ører
 ----
-(se kapitel 15)
+`(se kapitel 15) <15_Sanseorganer.rst#>`__ 
 
 <html5media>File:KAP3_46.mp3</html5media>
 
@@ -792,7 +792,7 @@ sig at have tyreotoksikose, stod der i indlæggelsesjournalen:
 
 Lymfeknuder
 -----------
-(se kapitel 4)
+`(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ 
 
 <html5media>File:KAP3_46_4.mp3</html5media>
 
@@ -812,7 +812,7 @@ og nakkestiv 6-årig dreng stod der i journalen:
 
 Thorax
 ------
-(se kapitel 6)
+`(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ 
 
 <html5media>File:KAP3_47.mp3</html5media>
 
@@ -821,12 +821,12 @@ excavatum). Thoraxhalvdelenes bevægelighed beskrives (symmetri?).
 Indtrækninger i jugulum og under ribbenskurvaturen? Medbevægelighed
 af abdomen? Paradoks respiration? Ved traumer beskrives lokalisation
 af evt. ribbensømhed og strepitus. Ved multitraumatiserede: Er
-thorax stabilt? Hos kvinder beskrives *mammae* (se kapitel 13): symmetri?
+thorax stabilt? Hos kvinder beskrives *mammae* `(se kapitel 13) <13_Kirtler.rst#>`__ : symmetri?
 indtrækninger? hudforandringer? papilflåd? udfyldninger?
 
 Ryg og rygsøjle (dorsum et columna vertebralis)
 -----------------------------------------------
-(se kapitel 10)
+`(se kapitel 10) <10_Bevægeapparatet.rst#>`__ 
 
 <html5media>File:KAP3_47_2.mp3</html5media>
 
@@ -837,7 +837,7 @@ etc.). Columnas *bevægelighed* beskrives.
 
 Lungestetoskopi (St.p. stethoscopia pulmonum)
 ---------------------------------------------
-(se kapitel 6)
+`(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ 
 
 <html5media>File:KAP3_47_3.mp3</html5media>
 
@@ -862,7 +862,7 @@ røget i 50 år, var følgende beskrevet i primærjournalen:
 
 Hjertestetoskopi (St.c. stethoscopia cordis)
 --------------------------------------------
-(se kapitel 5)
+`(se kapitel 5) <5_Hjertet.rst#>`__ 
 
 <html5media>File:KAP3_48.mp3</html5media>
 
@@ -893,7 +893,7 @@ hjertestetoskopi:
 
 Abdomen
 -------
-(se kapitel 7)
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
 
 <html5media>File:KAP3_48_2.mp3</html5media>
 
@@ -945,7 +945,7 @@ patologi osv.
 
 Lysker (regiones inguinales)
 ----------------------------
-(se kapitel 7)
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
 
 <html5media>File:KAP3_49.mp3</html5media>
 
@@ -955,12 +955,12 @@ inguinale?* Er det fuldt eller delvist reponibelt eller irreponibelt? Er der
 hernie i scrotum? Er der anslag ved hoste? Har man undersøgt for brok
 på alle bugvæggens svage steder, kan man skrive brokporte frie. Pulsforholdene
 i *aa. femorales* anføres f.eks. ved patienter med claudicatio
-intermittens (se kapitel 12). Lymfadenitis kan beskrives hér eller under
-en særligt overskrift (jf. side 46).
+intermittens `(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ . Lymfadenitis kan beskrives hér eller under
+en særligt overskrift `(jf. side 46) <3_Indlæggelsesnotatet.rst#Ører>`__ .
 
 Mandlige kønsorganer (genitalia masculina)
 ------------------------------------------
-(se kapitel 8)
+`(se kapitel 8) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__ 
 
 <html5media>File:KAP3_50.mp3</html5media>
 
@@ -974,7 +974,7 @@ af penis størrelse og facon – det er sjældent relevant.
 
 Gynækologisk undersøgelse (GU)
 ------------------------------
-(se kapitel 9)
+`(se kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ 
 
 <html5media>File:KAP3_50_2.mp3</html5media>
 
@@ -1000,7 +1000,7 @@ Hos en gravid viste den gynækologiske undersøgelse:
 
 Rektaleksploration (exploratio rectalis)
 ----------------------------------------
-(se kapitel 7)
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
 
 <html5media>File:KAP3_50_3.mp3</html5media>
 
@@ -1016,7 +1016,7 @@ og størrelse (nås overkanten?).
 
 Bækken (pelvis)
 ---------------
-(se kapitel 10)
+`(se kapitel 10) <10_Bevægeapparatet.rst#>`__ 
 
 <html5media>File:KAP3_51.mp3</html5media>
 
@@ -1024,7 +1024,7 @@ Beskrives ved traumepatienten: Er bækkenet stabilt og uømt?
 
 Ekstremiteter
 -------------
-(se kapitel 10 + 12)
+`(se kapitel 10 + <10_Bevægeapparatet.rst#>`__  `12) <12_Det_perifere_karsystem.rst#>`__ 
 
 <html5media>File:KAP3_51_2.mp3</html5media>
 
@@ -1054,7 +1054,7 @@ over knæ- og ankelled? Evt. kan en grov neurologisk undersøgelse
 også beskrives hér (se nedenfor).
 
 Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling,
-strepitus (side 141))? Ved kroniske ekstremitetssmerter: er der
+strepitus `(side 141) <10_Bevægeapparatet.rst#Palpation>`__ )? Ved kroniske ekstremitetssmerter: er der
 ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
 
 Hos `hjertepatienten <#nuvaerende-aktuelt>`__ blev ekstremiteterne beskrevet således:
@@ -1068,7 +1068,7 @@ Hos `hjertepatienten <#nuvaerende-aktuelt>`__ blev ekstremiteterne beskrevet så
 
 Neurologisk
 -----------
-(se kapitel 11)
+`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ 
 
 <html5media>File:KAP3_52.mp3</html5media>
 
@@ -1076,7 +1076,7 @@ Ved beskrivelsen af neurologiske fund anvendes følgende systematik:
 
 **Bevidsthed:** Er patienten vågen og klar? Reagerer og svarer han på tiltale
 eller kun på smertestimuli? Er han bevidsthedssløret, angives score efter
-*Glasgow Coma Scale* (se kapitel 11, side 164). Er han orienteret i tid, sted
+*Glasgow Coma Scale* `(se kapitel 11, side 164) <11_Centralnervesystemet.rst#Sprog>`__ . Er han orienteret i tid, sted
 og egne data? Er han hallucineret eller depressiv? Er der tegn på demens
 (hvilke)?
 
@@ -1115,7 +1115,7 @@ normal berøringssans, smertesans og vibrationssans?
 
 Hud
 ---
-(se kapitel 14)
+`(se kapitel 14) <14_Hud.rst#>`__ 
 
 <html5media>File:KAP3_53.mp3</html5media>
 
