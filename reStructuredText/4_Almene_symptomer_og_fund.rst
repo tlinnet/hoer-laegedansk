@@ -174,7 +174,7 @@ journalen – vil det også gøre det lettere for både patient og læge, hvis
 man senere skal fortælle en dårlig diagnose. Du skal ikke være bange for
 at spørge til følelseslivet hos en åbenlyst ængstelig patient – de fleste opfatter
 det som legitimt at snakke med lægen om. Brug den åbne og lyttende
-spørgeteknik, der er beskrevet i kapitel 1.
+spørgeteknik, der er beskrevet i `kapitel 1 <1_Mødet_mellem_læge_og_patient.rst#>`__ .
 
 **Angst**
 
@@ -352,7 +352,7 @@ Respiration
 En vurdering af respirationen hører med til en vurdering af patientens
 almene helbredstilstand. Er respirationen normal, anstrengt/besværet, er
 patienten hyperventilerende? *Respirationsfrekvensen* kan tælles over et
-minut (normal i hvile: 12-16 × min–1). Se i øvrigt kapitel 6.
+minut (normal i hvile: 12-16 × min–1). Se i øvrigt `kapitel 6 <6_Lunger_og_luftveje.rst#>`__ .
 
 <html5media>File:FIG4-1.mp3</html5media>
 

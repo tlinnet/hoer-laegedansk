@@ -77,13 +77,13 @@ overkommes, hvis man anstrenger sig – fra den patologiske, uoverkommelige træ
 * Angst
 * Døsighed (f.eks. af morfin og sovepiller)
 
-Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination = ''vertigo'') (se kapitel 11). Stil åbne spørgsmål (se kapitel 1) og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne kan være så svære at beskrive for patienten, vil han hurtigt gribe efter dine forslag til beskrivende termer. Ved ''anæmi'' (blodmangel) og ''ortostatisk hypotension'' (blodtryksfald, når man rejser sig) kan patienten have en subjektiv fornemmelse, der beskrives som »svimmelhed«, men som mere korrekt må betegnes nærbesvimelse.Mange ældre mennesker lider af svimmelhed og faldtendens, og årsagen er ofte multifaktoriel: dårligt syn, ældet balanceorgan, dehydrering, anæmi, slidgigt ''(artrose)'' og muskelsvaghed. Fokuser anamneseoptagelsen hos den ældre på faktorer, der kan gribes ind over for (appetit? væskeindtagelse? grå stær? bruger stok?).
+Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination = ''vertigo'') [[11_Centralnervesystemet.rst#|(se kapitel 11)]] . Stil åbne spørgsmål [[1_Mødet_mellem_læge_og_patient.rst#|(se kapitel 1)]] og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne kan være så svære at beskrive for patienten, vil han hurtigt gribe efter dine forslag til beskrivende termer. Ved ''anæmi'' (blodmangel) og ''ortostatisk hypotension'' (blodtryksfald, når man rejser sig) kan patienten have en subjektiv fornemmelse, der beskrives som »svimmelhed«, men som mere korrekt må betegnes nærbesvimelse. Mange ældre mennesker lider af svimmelhed og faldtendens, og årsagen er ofte multifaktoriel: dårligt syn, ældet balanceorgan, dehydrering, anæmi, slidgigt ''(artrose)'' og muskelsvaghed. Fokuser anamneseoptagelsen hos den ældre på faktorer, der kan gribes ind over for (appetit? væskeindtagelse? grå stær? bruger stok?).
 
 == Appetitløshed ==
 
 &lt;html5media&gt;File:KAP4_59.mp3&lt;/html5media&gt;
 
-Appetitløshed er manglende lyst til mad (madlede) og derfor ikke det samme som kvalme (se kapitel 7), hvor patienten måske nok er sulten og har lyst til mad, men undlader fødeindtagelse fordi det giver ubehag. Nedsat appetit ses ved mange forskellige akutte sygdomme (f.eks. ''influenza'') og kroniske sygdomme (f.eks. kræft). Langvarig appetitløshed ledsaget af et uønsket vægttab er et alvorligt symptom, der ses ved f.eks. kræft, leversygdom, nyresvigt, aids og depression.
+Appetitløshed er manglende lyst til mad (madlede) og derfor ikke det samme som kvalme [[7_Mave-tarm-systemet.rst#|(se kapitel 7)]] , hvor patienten måske nok er sulten og har lyst til mad, men undlader fødeindtagelse fordi det giver ubehag. Nedsat appetit ses ved mange forskellige akutte sygdomme (f.eks. ''influenza'') og kroniske sygdomme (f.eks. kræft). Langvarig appetitløshed ledsaget af et uønsket vægttab er et alvorligt symptom, der ses ved f.eks. kræft, leversygdom, nyresvigt, aids og depression.
 
 == Vægttab ==
 
@@ -107,7 +107,7 @@ Et uønsket vægttab kan f.eks. skyldes kræft, svær infektion, øget stofskift
 
 De fleste mennesker, der bliver indlagt akut på et sygehus, er bange for, at der er noget alvorligt galt, og de er usikre på, hvad der skal ske på sygehuset. Angsten kan blokere for, at patienten får meddelt vigtige symptomer, men blot det, at angsten bliver berørt i samtalen, kan tage livet af angsten. Angsten for kræften (''kankrofobi'') er utroligt udbredt i vores samfund hos patienter i alle aldre. Selv de mest banale ting kan udløse en betydelig angst hos mennesker, der ellers er psykisk ligevægtige.
 
-Hvis patientens angst berøres i indlæggelsessamtalen – og beskrives i journalen – vil det også gøre det lettere for både patient og læge, hvis man senere skal fortælle en dårlig diagnose. Du skal ikke være bange for at spørge til følelseslivet hos en åbenlyst ængstelig patient – de fleste opfatter det som legitimt at snakke med lægen om. Brug den åbne og lyttende spørgeteknik, der er beskrevet i kapitel 1.
+Hvis patientens angst berøres i indlæggelsessamtalen – og beskrives i journalen – vil det også gøre det lettere for både patient og læge, hvis man senere skal fortælle en dårlig diagnose. Du skal ikke være bange for at spørge til følelseslivet hos en åbenlyst ængstelig patient – de fleste opfatter det som legitimt at snakke med lægen om. Brug den åbne og lyttende spørgeteknik, der er beskrevet i [[1_Mødet_mellem_læge_og_patient.rst#|kapitel 1]] .
 
 '''Angst'''
 
@@ -225,19 +225,19 @@ Vær opmærksom på belysningskildens virkning – den patient, der i det dunkle
 
 &lt;html5media&gt;File:KAP4_64.mp3&lt;/html5media&gt;
 
-Den akut svært syge patient kan være ''bleg og klamtsvedende'' som udtryk for perifer vasokonstriktion og øget svedsekretion pga. hyperaktivering af ''sympatikus.'' Ved andre tilstande kan patienten være ''rødblussende'' som udtryk for ''vasodilatation'', f.eks. ved feber eller allergi. Ved normal perifer cirkulation er patienten ''varm og tør''. Den perifere cirkulation kan være lokalt kompromitteret som ved arteriosklerose eller venøs insufficiens, hvor man finder en pulsløs eller hævet fod (se kapitel 12).
+Den akut svært syge patient kan være ''bleg og klamtsvedende'' som udtryk for perifer vasokonstriktion og øget svedsekretion pga. hyperaktivering af ''sympatikus.'' Ved andre tilstande kan patienten være ''rødblussende'' som udtryk for ''vasodilatation'', f.eks. ved feber eller allergi. Ved normal perifer cirkulation er patienten ''varm og tør''. Den perifere cirkulation kan være lokalt kompromitteret som ved arteriosklerose eller venøs insufficiens, hvor man finder en pulsløs eller hævet fod [[12_Det_perifere_karsystem.rst#|(se kapitel 12)]] .
 
 == Hydrering ==
 
 &lt;html5media&gt;File:KAP4_64_2.mp3&lt;/html5media&gt;
 
-Er patienten ''dehydreret'', findes nedsat hudturgor (se Fig. 4.1), indfaldne (''halonerede'') øjne og tørre slimhinder. Er patienten ''overhydreret'', ses ødemer og lungestase (se kapitel 5).
+Er patienten ''dehydreret'', findes nedsat hudturgor (se Fig. 4.1), indfaldne (''halonerede'') øjne og tørre slimhinder. Er patienten ''overhydreret'', ses ødemer og lungestase [[5_Hjertet.rst#|(se kapitel 5)]] .
 
 == Respiration ==
 
 &lt;html5media&gt;File:KAP4_64_3.mp3&lt;/html5media&gt;
 
-En vurdering af respirationen hører med til en vurdering af patientens almene helbredstilstand. Er respirationen normal, anstrengt/besværet, er patienten hyperventilerende? ''Respirationsfrekvensen'' kan tælles over et minut (normal i hvile: 12-16 × min–1). Se i øvrigt kapitel 6.
+En vurdering af respirationen hører med til en vurdering af patientens almene helbredstilstand. Er respirationen normal, anstrengt/besværet, er patienten hyperventilerende? ''Respirationsfrekvensen'' kan tælles over et minut (normal i hvile: 12-16 × min–1). Se i øvrigt [[6_Lunger_og_luftveje.rst#|kapitel 6]] .
 
 &lt;html5media&gt;File:FIG4-1.mp3&lt;/html5media&gt;
 
@@ -247,7 +247,7 @@ En vurdering af respirationen hører med til en vurdering af patientens almene h
 
 &lt;html5media&gt;File:KAP4_65.mp3&lt;/html5media&gt;
 
-Lymfeknuderne undersøges på vide indikationer, f.eks. ved mistanke om kræftsygdom eller feber af ukendt årsag. Lymfeknuderne er kun tilgængelige for palpation få steder på kroppen (se Fig. 4.2).Man palperer med sine fingerspidser i regionerne; de normale lymfeknuder er ikke palpable. Forstørrede lymfeknuder benævnes ''adenit'' eller ''lymfadenopati.''
+Lymfeknuderne undersøges på vide indikationer, f.eks. ved mistanke om kræftsygdom eller feber af ukendt årsag. Lymfeknuderne er kun tilgængelige for palpation få steder på kroppen (se Fig. 4.2). Man palperer med sine fingerspidser i regionerne; de normale lymfeknuder er ikke palpable. Forstørrede lymfeknuder benævnes ''adenit'' eller ''lymfadenopati.''
 
 &lt;html5media&gt;File:FIG4-2.mp3&lt;/html5media&gt;
 
