@@ -24,11 +24,11 @@ gsed -i 's/(se kapitel 8)/`(se kapitel 8) <8_Nyrer,_urinveje_og_mandlige_kønsor
 gsed -i 's/(se kapitel 9)/`(se kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(side 141)/`(side 141) <10_Bevægeapparatet.rst#Palpation>`__ /g' 3_Indlæggelsesnotatet.rst
 gsed -i 's/(se kapitel 11, side 164)/`(se kapitel 11, side 164) <11_Centralnervesystemet.rst#Sprog>`__ /g' 3_Indlæggelsesnotatet.rst
-gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 4 Almene symptomer og fund.rst
-gsed -i 's/(se kapitel 1)/`(se kapitel 1) <1_Mødet_mellem_læge_og_patient.rst#>`__ /g' 4 Almene symptomer og fund.rst
-gsed -i 's/(se kapitel 7)/`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 4 Almene symptomer og fund.rst
-gsed -i 's/(se kapitel 12)/`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ /g' 4 Almene symptomer og fund.rst
-gsed -i 's/(se kapitel 5)/`(se kapitel 5) <5_Hjertet.rst#>`__ /g' 4 Almene symptomer og fund.rst
+gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 4_Almene_symptomer_og_fund.rst
+gsed -i 's/(se kapitel 1)/`(se kapitel 1) <1_Mødet_mellem_læge_og_patient.rst#>`__ /g' 4_Almene_symptomer_og_fund.rst
+gsed -i 's/(se kapitel 7)/`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 4_Almene_symptomer_og_fund.rst
+gsed -i 's/(se kapitel 12)/`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ /g' 4_Almene_symptomer_og_fund.rst
+gsed -i 's/(se kapitel 5)/`(se kapitel 5) <5_Hjertet.rst#>`__ /g' 4_Almene_symptomer_og_fund.rst
 gsed -i 's/(se kapitel 12)/`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ /g' 5_Hjertet.rst
 gsed -i 's/(se side 58)/`(se side 58) <4_Almene_symptomer_og_fund.rst#Træthed_og_svimmelhed>`__ /g' 5_Hjertet.rst
 gsed -i 's/(se side 85)/`(se side 85) <6_Lunger_og_luftveje.rst#Hvæsen_og_piben>`__ /g' 5_Hjertet.rst
