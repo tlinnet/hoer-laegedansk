@@ -23,13 +23,13 @@ De vigtigste symptomer ved hjertelidelser er træthed, åndenød, brystsmerter, 
 * Har du hjertebanken?
 * Har du tendens til hævede ankler?
 
-I Danmark er hjertesygdom ofte forårsaget af åreforkalkning (''arteriosklerose''). Hjertepatienten skal derfor altid undersøges for symptomer og tegn på generaliseret arteriosklerose (se kapitel 12).
+I Danmark er hjertesygdom ofte forårsaget af åreforkalkning (''arteriosklerose''). Hjertepatienten skal derfor altid undersøges for symptomer og tegn på generaliseret arteriosklerose [[12_Det_perifere_karsystem#|(se kapitel 12)]] .
 
 == Træthed og funktionsnedsættelse ==
 
 <html5media>File:KAP5_69.mp3</html5media>
 
-Træthed ses hyppigt hos hjertepatienten, men symptomet er ikke specifikt for hjertesygdom (se side 58). Mange hjertepatienter plages af aktivitetsudløste smerter og åndenød. Eller deres daglige aktivitetsniveau begrænses af en angst for forværring af sygdommen. Det er derfor vigtigt, at anamnesen omfatter spørgsmål til patientens arbejds- og fritidsliv, også seksuallivet.
+Træthed ses hyppigt hos hjertepatienten, men symptomet er ikke specifikt for hjertesygdom [[4_Almene_symptomer_og_fund#Træthed_og_svimmelhed|(se side 58)]] . Mange hjertepatienter plages af aktivitetsudløste smerter og åndenød. Eller deres daglige aktivitetsniveau begrænses af en angst for forværring af sygdommen. Det er derfor vigtigt, at anamnesen omfatter spørgsmål til patientens arbejds_ og fritidsliv, også seksuallivet.
 
 == Åndenød (dyspnø) ==
 
@@ -47,7 +47,7 @@ Hjertepatienter oplever typisk åndenød ved anstrengelse (''funktionsdyspnø'')
 * Vågner du om natten med voldsom åndenød?
 * »Hvæser« det i brystet, når du ikke kan få luft?
 
-Det kan være svært at skelne åndenød forårsaget af hhv. hjerte- og lungesygdom. Nogle patienter har begge dele. Besværet, »hvæsende« vejrtrækning er typisk for lungepatienten. Åndenød ved fladt leje og i natlige anfald er typisk for hjertesygdom. Ved panikangst ses en pludseligt opstået overvældende eller kvælende åndenød, ledsaget af dødsangst men uden karakteristiske lindrende faktorer (som hvile eller elevation af hovedet). Hyperventilation (se side 85) er ofte angstudløst.
+Det kan være svært at skelne åndenød forårsaget af hhv. hjerte- og lungesygdom. Nogle patienter har begge dele. Besværet, »hvæsende« vejrtrækning er typisk for lungepatienten. Åndenød ved fladt leje og i natlige anfald er typisk for hjertesygdom. Ved panikangst ses en pludseligt opstået overvældende eller kvælende åndenød, ledsaget af dødsangst men uden karakteristiske lindrende faktorer (som hvile eller elevation af hovedet). Hyperventilation [[6_Lunger_og_luftveje#Hvæsen_og_piben|(se side 85)]] er ofte angstudløst.
 
 == Brystsmerter ==
 
@@ -113,15 +113,15 @@ Ses hos patienter med verificeret iskæmisk hjerte-sygdom og ekg-forandringer, u
 | Lindres af nitrater
 |}
 
-Brystsmerter ses også ved lidelser i mave-tarm-systemet, f.eks. refluksøsofagit, mavesår, galdesten og pankreatit (betændelse i bugspytkirtlen) (se kapitel 7). Smerter fra brystvæg og rygsøjle kan give smerter, der fejltolkes som ''angina''. Objektivt finder man da lokaliseret ømhed ved palpation af thorax-skelettet (se side 92). En overfladisk, brændende smerte i brystvæggen kan være helvedesild (''herpes zoster'').
+Brystsmerter ses også ved lidelser i mave-tarm-systemet, f.eks. refluksøsofagit, mavesår, galdesten og pankreatit (betændelse i bugspytkirtlen) [[7_Mave-tarm-systemet#|(se kapitel 7)]] . Smerter fra brystvæg og rygsøjle kan give smerter, der fejltolkes som ''angina''. Objektivt finder man da lokaliseret ømhed ved palpation af thorax_skelettet [[6_Lunger_og_luftveje#Palpation|(se side 92)]] . En overfladisk, brændende smerte i brystvæggen kan være helvedesild (''herpes zoster'').
 
-En vigtig differentialdiagnose ved smerter i brystet er selvfølgelig lidelser i lungerne og lungehinderne, f.eks. ''pneumoni'' (lungebetændelse), ''pneumothorax'' (sammenklappet lunge pga. luft i pleurahulen) eller ''pleuritis'' (lungehindebetændelse) (se kapitel 6). Det thorakale aortaaneurisme er en sjælden, men vigtig differentialdiagnose ved akut opståede brystsmerter; det klassiske symptom er en intens, skærende smerte imellem skulderbladene. Endelig må man ikke glemme, at hjerteinfarktet kan debutere med ''mavesmerter''.
+En vigtig differentialdiagnose ved smerter i brystet er selvfølgelig lidelser i lungerne og lungehinderne, f.eks. ''pneumoni'' (lungebetændelse), ''pneumothorax'' (sammenklappet lunge pga. luft i pleurahulen) eller ''pleuritis'' (lungehindebetændelse) [[6_Lunger_og_luftveje#|(se kapitel 6)]] . Det thorakale aortaaneurisme er en sjælden, men vigtig differentialdiagnose ved akut opståede brystsmerter; det klassiske symptom er en intens, skærende smerte imellem skulderbladene. Endelig må man ikke glemme, at hjerteinfarktet kan debutere med ''mavesmerter''.
 
 == Hjertebanken (palpitationer) ==
 
 <html5media>File:KAP5_72.mp3</html5media>
 
-Hjertebanken er patientens oplevelse af unormale hjerteslag. Oftest er årsagen, at hjerterytmen er for hurtig (''takykardi'') eller uregelmæssig (''arytmiØ), men hjertebanken kan også skyldes, at patienten har en angstpræget øget bevidsthed af en i øvrigt normal hjerterytme. Hjertebanken ses også ved øget hjertearbejde, f.eks. på grund af vasodilatation. Symptomet hjertebanken beskrives af patienten f.eks., som at hjertet »''slår kolbøtter*«, »*banker i halsen*«, »*slår ekstraslag*«, eller »*går kortvarigt i stå*«. Det sidste kan skyldes en ekstrasystole; det er dog ikke selve ekstrasystolen, patienten mærker, men derimod det efterfølgende slag, der kommer efter en pause og (derfor) er mere kraftfuldt.
+Hjertebanken er patientens oplevelse af unormale hjerteslag. Oftest er årsagen, at hjerterytmen er for hurtig (''takykardi'') eller uregelmæssig (''arytmi''), men hjertebanken kan også skyldes, at patienten har en angstpræget øget bevidsthed af en i øvrigt normal hjerterytme. Hjertebanken ses også ved øget hjertearbejde, f.eks. på grund af vasodilatation. Symptomet hjertebanken beskrives af patienten f.eks., som at hjertet »*slår kolbøtter*«, »*banker i halsen*«, »*slår ekstraslag*«, eller »*går kortvarigt i stå*«. Det sidste kan skyldes en ekstrasystole; det er dog ikke selve ekstrasystolen, patienten mærker, men derimod det efterfølgende slag, der kommer efter en pause og (derfor) er mere kraftfuldt.
 
 '''Hjertebanken'''
 
@@ -139,15 +139,15 @@ En af de hyppigste arytmier, specielt hos hjertesyge, er atrieflimmer (''fibrill
 
 <html5media>File:KAP5_73.mp3</html5media>
 
-Ved højresidig hjerteinsufficiens kan væsken trænge ud i vævet pga. hæmmet tilbageløb til hjertet. Væsken samles, hvor tyngdekraften er størst, dvs. i underbenene hos oppegående og i flankerne hos sengeliggende (''deklive ødemer''). Karakteristisk er fodrygs- og ankelødemer. Venesygdom er en anden hyppig årsag til hævede ben, men her er hævelsen ikke altid symmetrisk som ved hjertesygdom (se kapitel 12). Graviditet og andre udfyldninger i det lille bækken kan også give hævede ben. Ødemerne ved nyresygdom og proteinmangel er typisk lokaliseret til øjenomgivelserne (''periorbitalt'', se kapitel 8); men i praksis kan det være svært at skelne.
+Ved højresidig hjerteinsufficiens kan væsken trænge ud i vævet pga. hæmmet tilbageløb til hjertet. Væsken samles, hvor tyngdekraften er størst, dvs. i underbenene hos oppegående og i flankerne hos sengeliggende (''deklive ødemer''). Karakteristisk er fodrygs- og ankelødemer. Venesygdom er en anden hyppig årsag til hævede ben, men her er hævelsen ikke altid symmetrisk som ved hjertesygdom [[12_Det_perifere_karsystem#|(se kapitel 12)]] . Graviditet og andre udfyldninger i det lille bækken kan også give hævede ben. Ødemerne ved nyresygdom og proteinmangel er typisk lokaliseret til øjenomgivelserne (''periorbitalt'', [[8_Nyrer,_urinveje_og_mandlige_kønsorganer#|se kapitel 8)]] ; men i praksis kan det være svært at skelne.
 
 = Objektiv undersøgelse =
 
 <html5media>File:KAP5_73_2.mp3</html5media>
 
-Den vigtigste del af den objektive undersøgelse af hjertepatienten er beskrivelsen af ''almentilstanden'' med speciel fokus på farve, perifer cirkulation, respiration og hydrering, ligesom man altid skal måle puls, blodtryk, temperatur og respirationsfrekvens (se kapitel 4). Undersøgelse af hjertepatienten omfatter også lungerne (specielt om der er lungestase, se kapitel 6), karsystemet (tegn på arteriosklerose, se kapitel 12) og abdomen (hepatomegali, ascites og aortaaneurisme, se kapitel 7).
+Den vigtigste del af den objektive undersøgelse af hjertepatienten er beskrivelsen af ''almentilstanden'' med speciel fokus på farve, perifer cirkulation, respiration og hydrering, ligesom man altid skal måle puls, blodtryk, temperatur og respirationsfrekvens [[4_Almene_symptomer_og_fund#|(se kapitel 4)]] . Undersøgelse af hjertepatienten omfatter også lungerne (specielt om der er lungestase, se kapitel 6), karsystemet (tegn på arteriosklerose, [[12_Det_perifere_karsystem#|se kapitel 12)]] og abdomen (hepatomegali, ascites og aortaaneurisme, se kapitel 7).
 
-Konstellationen af symptomer og fund kan pege i retning af, hvilken type hjertesvigt patienten har (se side 74). Ofte har patienterne imidlertid både højre- og venstresidigt hjertesvigt.
+Konstellationen af symptomer og fund kan pege i retning af, hvilken type hjertesvigt patienten har [[5_Hjertet#Inspektion,_palpation_og_perkussion|(se side 74)]] . Ofte har patienterne imidlertid både højre_ og venstresidigt hjertesvigt.
 
 En akut påvirket patient, der er bleg, klamtsvedende, forpint og angst kan have akut myokardieinfarkt (AMI) eller lungeødem (væskefyldte lunger pga. pumpesvigt) og kræve hurtig behandling. Føler du dig ikke rutineret nok, så tilkald hjælp!
 
@@ -181,7 +181,7 @@ altid med ekg, røntgenundersøgelse af thorax, blodprøver og ofte også ekkoka
 
 <html5media>File:KAP5_74.mp3</html5media>
 
-Thorax’ form og bevægelse bemærkes, og lungegrænserne udperkuteres (se kapitel 6). Palpation og perkussion af prækordiet (den del af thoraxvæggen, der dækker hjertet) er sjældent relevant. Derimod bør man altid beskrive om patienten har halsvenestase (se Fig. 5.2) som tegn på højresidigt hjertesvigt.
+Thorax’ form og bevægelse bemærkes, og lungegrænserne udperkuteres [[6_Lunger_og_luftveje#|(se kapitel 6)]] . Palpation og perkussion af prækordiet (den del af thoraxvæggen, der dækker hjertet) er sjældent relevant. Derimod bør man altid beskrive om patienten har halsvenestase (se Fig. 5.2) som tegn på højresidigt hjertesvigt.
 
 <html5media>File:FIG5-2.mp3</html5media>
 
