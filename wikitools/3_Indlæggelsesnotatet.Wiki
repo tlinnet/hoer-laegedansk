@@ -272,35 +272,26 @@ I dette afsnit beskrives sygdomme og klager, der ikke umiddelbart har relation t
 
 Traditionelt gennemgår man de store organsystemer ét for ét i rækkefølgen hoved til storetå, og man koncentrerer sig om hovedsymptomerne på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
 
-<pre>Centralnervesystemet (CNS) (se kapitel 11): hovedpine?
-svimmelhed? synsforstyrrelser? føleforstyrrelser og
-lammelser? krampeanfald? mentale ændringer? humør? søvn?
-hukommelsesbesvær?
+; '''Centralnervesystemet (CNS) (se kapitel 11):'''
+: hovedpine? svimmelhed? synsforstyrrelser? føleforstyrrelser og lammelser? krampeanfald? mentale ændringer? humør? søvn? hukommelsesbesvær?
+; '''Kardio-pulmonalt (K-P) (se kapitel 5 – 6):'''
+: åndenød? brystsmerter? hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
+; '''Gastro-intestinalt (G-I) (se kapitel 7):'''
+: appetit? uønsket vægttab? kvalme eller opkastninger? synkebesvær? halsbrand? mavesmerter? ændret afføringsmønster?
+; '''Uro-genitalt (U-G) (se kapitel 8 – 9):'''
+: svie og smerte ved vandladning? vandladningsbesvær? ufrivillig vandladning? blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser? udflåd?)
+; '''Bevægeapparatet (B-A) (se kapitel 10 + 12):'''
+: smerter i ekstremiteterne? rygsmerter? stivhed? hævede led? sår? claudicatio?
 
-Kardio-pulmonalt (K-P) (se kapitel 5 – 6): åndenød? brystsmerter?
-hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
-
-Gastro-intestinalt (G-I) (se kapitel 7): appetit? uønsket
-vægttab? kvalme eller opkastninger? synkebesvær? halsbrand?
-mavesmerter? ændret afføringsmønster?
-
-Uro-genitalt (U-G) (se kapitel 8 – 9): svie og smerte ved
-vandladning? vandladningsbesvær? ufrivillig vandladning?
-blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser?
-udflåd?)
-
-Bevægeapparatet (B-A) (se kapitel 10 + 12): smerter i ekstremiteterne?
-rygsmerter? stivhed? hævede led? sår? claudicatio?</pre>
 Disse 5 er den sædvanlige remse, men af og til overser man symptomer fra de »små« organsystemer:
 
-<pre>Hud (se kapitel 14): kløe? udslæt? sår?
+; '''Hud (se kapitel 14):'''
+: kløe? udslæt? sår?
+; '''Sanseorganer (se kapitel 15):'''
+: høretab? øresusen? svimmelhed? synstab?
+; '''Stofskifte (endokrinologisk)(se kapitel 13):'''
+: appetit- og vægtændringer? træthed? tørst? tisser meget? varme- eller kuldefornemmelse? psykiske ændringer?
 
-Sanseorganer (se kapitel 15): høretab? øresusen? svimmelhed?
-synstab?
-
-Stofskifte (endokrinologisk)(se kapitel 13): appetit- og
-vægtændringer? træthed? tørst? tisser meget? varme- eller
-kuldefornemmelse? psykiske ændringer?</pre>
 Efter sin grundige udspørgen af patienten vil man ofte sidde tilbage med mange ''negative'' informationer, dvs. symptomer, som patienten ''ikke'' har. Dilemmaet er, om man skal omtale alle disse i sit journalnotat. Generelt må man sige, at jo mere uerfaren man er, jo flere negative informationer skal man nævne – så en senere læser er sikker på, at man har gjort sit arbejde grundigt. I øvrigt må man indrette sine beskrivelser efter forholdene. F.eks. vil det være fuldstændigt naturligt at man hos en 21-årig, fuldstændigt sund og rask håndboldspiller, der møder til ambulant artroskopi, blot anfører:
 
 <pre>Øvrige organsystemer:
