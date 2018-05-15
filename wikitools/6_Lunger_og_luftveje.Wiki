@@ -97,7 +97,7 @@ Hoste kan være det eneste symptom på sygdom i luftvejene. F.eks. er hoste ved 
 * Har du halsbrand eller for meget mavesyre?
 * Hvornår er hosten værst (ved anstrengelse, når du ligger ned, ved kontakt med dyr osv.)?
 
-årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom (se side 99); hosten ses typisk efter måltider og ved fladt leje. Hosten kan være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør f.eks. føre til udredning for tuberkulose.
+årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom [[7_Mave-tarm-systemet#Halsbrand_(pyrosis)|(se side 99)]] ; hosten ses typisk efter måltider og ved fladt leje. Hosten kan være bivirkning til medicinindtagelse (ACE_hæmmere). Tænk altid på patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør f.eks. føre til udredning for tuberkulose.
 
 == Opspyt (sputum og haemoptysis) ==
 
@@ -191,13 +191,13 @@ Smerter i brystvæggen skyldes som regel enten costafrakturer eller muskelforand
 | Reflukssygdom
 |}
 
-za) kan give endog ganske kraftige muskelsmerter i brystvæggen. ''Tietzes syndrom'' er en smertefuld inflammation i de øvre ribbensbruske. ''Herpes zoster'' og torakal discusprolaps kan forsårsage smerter i brystvæggen ved spinalrøddernes cutane innervation. Ved akut opståede brystsmerter skal man altid overveje ''iskæmisk hjertesygdom'' som differentialdiagnose (se side 69-71).
+za) kan give endog ganske kraftige muskelsmerter i brystvæggen. ''Tietzes syndrom'' er en smertefuld inflammation i de øvre ribbensbruske. ''Herpes zoster'' og torakal discusprolaps kan forsårsage smerter i brystvæggen ved spinalrøddernes cutane innervation. Ved akut opståede brystsmerter skal man altid overveje ''iskæmisk hjertesygdom'' som differentialdiagnose [[5_Hjertet#Træthed_og_funktionsnedsættelse|(se side 69_71)]] .
 
 = Objektiv undersøgelse =
 
 <html5media>File:KAP6_89.mp3</html5media>
 
-Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen af ''almentilstanden'' med speciel fokus på farve, perifer cirkulation, respiration og hydrering, ligesom man altid skal måle puls, blodtryk, temperatur og respirationsfrekvens (se kapitel 4). ''Central cyanose'' er et kardinaltegn på inkompenseret lungesygdom.
+Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen af ''almentilstanden'' med speciel fokus på farve, perifer cirkulation, respiration og hydrering, ligesom man altid skal måle puls, blodtryk, temperatur og respirationsfrekvens [[4_Almene_symptomer_og_fund#|(se kapitel 4)]] . ''Central cyanose'' er et kardinaltegn på inkompenseret lungesygdom.
 
 '''Ændret vejrtrækningsmønster'''
 
@@ -247,13 +247,13 @@ Lungepatienten undersøges bedst siddende – så lettes hans vejrtrækning, og 
 
 Den objektive undersøgelse af lungepatienten suppleres som regel med røntgenbillede af thorax og blodprøver, herunder blodgasanalyse (arteriepunktur, se »Remedier og Teknik«). Ofte monitorerer astmapatienter selv deres sygdom med et ''peak flow''-meter, som er en let og hurtig undersøgelse, der også kan udføres ved indlæggelsen på sygehuset. Som regel bør man også ved indlæggelsen af lungepatienten monitorere blodets iltmætning ved hjælp af et ''pulsoksimeter''.
 
-En grundig undersøgelse af lungepatienten omfatter også undersøgelse af hjertet (specielt halsvenestase, hepatomegali og ascites som kan være tegn på ''højresidigt hjertesvigt'' (se kapitel 5)), abdomen (se kapitel 7) og lymfeglandlerne på halsen (se kapitel 4).
+En grundig undersøgelse af lungepatienten omfatter også undersøgelse af hjertet (specielt halsvenestase, hepatomegali og ascites som kan være tegn på ''højresidigt hjertesvigt'' [[5_Hjertet#|(se kapitel 5)]] ), abdomen [[7_Mave-tarm-systemet#|(se kapitel 7)]] og lymfeglandlerne på halsen [[4_Almene_symptomer_og_fund#|(se kapitel 4)]] .
 
 == Inspektion ==
 
 <html5media>File:KAP6_91.mp3</html5media>
 
-Thorax’ ''form'' bemærkes. Et hyperinflateret, tøndeformet thorax er karakteristisk for patienten med rygerlunger. Andre synlige deformiteter af brystvæggen beskrives. ''Pectus excavatum'' eller »tragtbryst« er ikke helt sjældent, men giver som regel kun kosmetiske symptomer. ''Kyfoser'' og ''skolioser'' bemærkes ligeledes (se kapitel 10).
+Thorax’ ''form'' bemærkes. Et hyperinflateret, tøndeformet thorax er karakteristisk for patienten med rygerlunger. Andre synlige deformiteter af brystvæggen beskrives. ''Pectus excavatum'' eller »tragtbryst« er ikke helt sjældent, men giver som regel kun kosmetiske symptomer. ''Kyfoser'' og ''skolioser'' bemærkes ligeledes [[10_Bevægeapparatet#|(se kapitel 10)]] .
 
 ''Bevægeligheden'' af thorax beskrives. Normalt trækker man vejret med diaphragma, således at såvel brystkassen som abdomen udvider sig ved inspirationen. Patienter med obstruktiv lungelidelse bruger ofte de accessoriske respirationsmuskler på halsen, mens costa holdes vandrette og fikserede. Ved udtrætning af diaphragma ses indtrækning af abdomen under ribbenskurvaturen. Ved akut abdomen kan der ses ophævet medbevægelighed af abdomen, der holdes fladt og fikseret ved kontraktion af rectusmuskulaturen, mens respirationsarbejdet udføres af interkostalmuskulaturen. Ved smerter i brystvæggen (f.eks. pleurit eller costafrakturer) er respirationen hovedsageligt diafragmatisk.
 
