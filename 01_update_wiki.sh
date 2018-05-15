@@ -8,7 +8,7 @@ source 00_convert_rst_to_Wiki.sh
 # Change dir
 cd ../wikitools
 # Delete .Wiki old files
-#rm -f *_*.Wiki
+rm -f *_*.Wiki
 #rm Forside.Wiki
 
 # Delete single
@@ -17,7 +17,7 @@ cd ../wikitools
 #rm 12_Det_perifere_karsystem.Wiki
 #rm 13_Kirtler.Wiki
 #rm 14_Hud.Wiki
-rm 15_Sanseorganer.Wiki
+#rm 15_Sanseorganer.Wiki
 
 # Copy over .Wiki files
 source 00_cp_Wiki_here.sh

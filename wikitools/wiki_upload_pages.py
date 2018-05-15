@@ -17,7 +17,7 @@ wpages = [
     #"Forside",
     #"0_Forord",
     #"1_Mødet_mellem_læge_og_patient",
-    #"2_Sygehusjournalen",
+    "2_Sygehusjournalen",
     #"3_Indlæggelsesnotatet",
     #"4_Almene_symptomer_og_fund",
     #"5_Hjertet",
@@ -30,7 +30,7 @@ wpages = [
     #"12_Det_perifere_karsystem",
     #"13_Kirtler",
     #"14_Hud",
-    "15_Sanseorganer"
+    #"15_Sanseorganer"
 ]
 
 # loop over pages
