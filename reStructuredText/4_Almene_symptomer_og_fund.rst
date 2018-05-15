@@ -105,8 +105,8 @@ uspecifikke symptomer:
 * Døsighed (f.eks. af morfin og sovepiller)
 
 Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination
-= *vertigo*) (se kapitel 11). Stil åbne spørgsmål 
-(se kapitel 1) og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
+= *vertigo*) `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Stil åbne spørgsmål 
+`(se kapitel 1) <1_Mødet_mellem_læge_og_patient.rst#>`__  og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
 kan være så svære at beskrive for patienten, vil han hurtigt
 gribe efter dine forslag til beskrivende termer. Ved *anæmi* (blodmangel)
 og *ortostatisk hypotension* (blodtryksfald, når man rejser sig) kan patienten
@@ -124,7 +124,7 @@ Appetitløshed
 <html5media>File:KAP4_59.mp3</html5media>
 
 Appetitløshed er manglende lyst til mad (madlede) og derfor ikke det
-samme som kvalme (se kapitel 7), hvor patienten måske nok er sulten og
+samme som kvalme `(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ , hvor patienten måske nok er sulten og
 har lyst til mad, men undlader fødeindtagelse fordi det giver ubehag.
 Nedsat appetit ses ved mange forskellige akutte sygdomme (f.eks. *influenza*)
 og kroniske sygdomme (f.eks. kræft). Langvarig appetitløshed ledsaget
@@ -333,7 +333,7 @@ af *sympatikus.* Ved andre tilstande kan patienten være *rødblussende* som
 udtryk for *vasodilatation*, f.eks. ved feber eller allergi. Ved normal perifer
 cirkulation er patienten *varm og tør*. Den perifere cirkulation kan være
 lokalt kompromitteret som ved arteriosklerose eller venøs insufficiens,
-hvor man finder en pulsløs eller hævet fod (se kapitel 12).
+hvor man finder en pulsløs eller hævet fod `(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ .
 
 Hydrering
 ---------
@@ -342,7 +342,7 @@ Hydrering
 
 Er patienten *dehydreret*, findes nedsat hudturgor (se Fig. 4.1), indfaldne
 (*halonerede*) øjne og tørre slimhinder. Er patienten *overhydreret*, ses ødemer
-og lungestase (se kapitel 5).
+og lungestase `(se kapitel 5) <5_Hjertet.rst#>`__ .
 
 Respiration
 -----------
