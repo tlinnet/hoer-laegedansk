@@ -14,7 +14,7 @@ for fullfile in $RSTFILES; do
         # Replace
         # brew install gnu-sed
         # First make big
-        gsed -i 's/.rst#[a-z]/\U&/g' ${filename}.Wiki
+        gsed -i 's/.rst#./\U&/g' ${filename}.Wiki
         # Then remove 
         gsed -i 's/.RST#/#/g' ${filename}.Wiki
         # Then replace "-" with "_" between "[" and "|"

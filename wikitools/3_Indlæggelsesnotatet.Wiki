@@ -2,7 +2,7 @@ __TOC__
 
 <html5media>File:KAP3_31.mp3</html5media>
 
-I Danmark anvender de fleste læger en traditionel disposition for primærjournalen. Når man dikterer sin journal, vil man gøre det i en bestemt rækkefølge, og når sekretæren renskriver diktatet, vil hun sørge for, at notatet opstilles med overskrifter, understregninger og tabuleringer, således at resultatet bliver ensartet fra gang til gang (se næste side).
+I Danmark anvender de fleste læger en traditionel disposition for primærjournalen. Når man dikterer sin journal, vil man gøre det i en bestemt rækkefølge, og når sekretæren renskriver diktatet, vil hun sørge for, at notatet opstilles med overskrifter, understregninger og tabuleringer, således at resultatet bliver ensartet fra gang til gang [[3_Indlæggelsesnotatet#|(se næste side)]] .
 
 I dette kapitel beskrives, hvordan man skal ''disponere'' og ''formulere'' sine journalnotater. De enkelte dele af den traditionelle indlæggelsesjournal gennemgås punkt for punkt med brug af eksempler. I kapitel 4-15 gives en nærmere beskrivelse af, hvilke spørgsmål der er gode til at få anamnesen frem, og hvordan man foretager den objektive undersøgelse.
 
@@ -273,24 +273,24 @@ I dette afsnit beskrives sygdomme og klager, der ikke umiddelbart har relation t
 Traditionelt gennemgår man de store organsystemer ét for ét i rækkefølgen hoved til storetå, og man koncentrerer sig om hovedsymptomerne på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
 
 ; '''Centralnervesystemet (CNS):'''
-: (se kapitel 11) hovedpine? svimmelhed? synsforstyrrelser? føleforstyrrelser og lammelser? krampeanfald? mentale ændringer? humør? søvn? hukommelsesbesvær?
+: [[11_Centralnervesystemet#|(se kapitel 11)]] hovedpine? svimmelhed? synsforstyrrelser? føleforstyrrelser og lammelser? krampeanfald? mentale ændringer? humør? søvn? hukommelsesbesvær?
 ; '''Kardio-pulmonalt (K-P):'''
-: (se kapitel 5 – 6) åndenød? brystsmerter? hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
+: [[5_Hjertet#|(se kapitel 5]] [[6_Lunger_og_luftveje#|– 6)]] åndenød? brystsmerter? hjertebanken? hævede ankler? hvæsen? hoste? opspyt?
 ; '''Gastro-intestinalt (G-I):'''
-: (se kapitel 7) appetit? uønsket vægttab? kvalme eller opkastninger? synkebesvær? halsbrand? mavesmerter? ændret afføringsmønster?
+: [[7_Mave-tarm-systemet#|(se kapitel 7)]] appetit? uønsket vægttab? kvalme eller opkastninger? synkebesvær? halsbrand? mavesmerter? ændret afføringsmønster?
 ; '''Uro-genitalt (U-G):'''
-: (se kapitel 8 – 9) svie og smerte ved vandladning? vandladningsbesvær? ufrivillig vandladning? blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser? udflåd?)
+: [[8_Nyrer,_urinveje_og_mandlige_kønsorganer#|(se kapitel 8]] [[9_Kvindelige_kønsorganer#|– 9)]] svie og smerte ved vandladning? vandladningsbesvær? ufrivillig vandladning? blodig urin? ødemer? (kvinder: underlivssmerter? blødningsforstyrrelser? udflåd?)
 ; '''Bevægeapparatet (B-A):'''
-: (se kapitel 10 + 12) smerter i ekstremiteterne? rygsmerter? stivhed? hævede led? sår? claudicatio?
+: [[10_Bevægeapparatet#|(se kapitel 10 +]] [[12_Det_perifere_karsystem#|12)]] smerter i ekstremiteterne? rygsmerter? stivhed? hævede led? sår? claudicatio?
 
 Disse 5 er den sædvanlige remse, men af og til overser man symptomer fra de »små« organsystemer:
 
 ; '''Hud:'''
-: (se kapitel 14) kløe? udslæt? sår?
+: [[14_Hud#|(se kapitel 14)]] kløe? udslæt? sår?
 ; '''Sanseorganer:'''
-: (se kapitel 15) høretab? øresusen? svimmelhed? synstab?
+: [[15_Sanseorganer#|(se kapitel 15)]] høretab? øresusen? svimmelhed? synstab?
 ; '''Stofskifte (endokrinologisk):'''
-: (se kapitel 13) appetit- og vægtændringer? træthed? tørst? tisser meget? varme- eller kuldefornemmelse? psykiske ændringer?
+: [[13_Kirtler#|(se kapitel 13)]] appetit_ og vægtændringer? træthed? tørst? tisser meget? varme_ eller kuldefornemmelse? psykiske ændringer?
 
 Efter sin grundige udspørgen af patienten vil man ofte sidde tilbage med mange ''negative'' informationer, dvs. symptomer, som patienten ''ikke'' har. Dilemmaet er, om man skal omtale alle disse i sit journalnotat. Generelt må man sige, at jo mere uerfaren man er, jo flere negative informationer skal man nævne – så en senere læser er sikker på, at man har gjort sit arbejde grundigt. I øvrigt må man indrette sine beskrivelser efter forholdene. F.eks. vil det være fuldstændigt naturligt at man hos en 21-årig, fuldstændigt sund og rask håndboldspiller, der møder til ambulant artroskopi, blot anfører:
 
@@ -401,7 +401,7 @@ Man medtager sjældent alle de punkter, der gennemgås her, i den objektive unde
 
 == Almene fund ==
 
-(se kapitel 4)
+[[4_Almene_symptomer_og_fund#|(se kapitel 4)]]
 
 <html5media>File:KAP3_44.mp3</html5media>
 
@@ -435,7 +435,7 @@ ascenderende ST-elevationer i V2-V3 og I, ingen abnorme
 Q-takker eller negative T-takker.</pre>
 == Ydre kranie (calvaria) ==
 
-(se kapitel 11)
+[[11_Centralnervesystemet#|(se kapitel 11)]]
 
 <html5media>File:KAP3_45.mp3</html5media>
 
@@ -445,15 +445,15 @@ Beskrives f.eks. ved bevidsthedspåvirkede og traumepatienter: Er der ydre læsi
 
 <html5media>File:KAP3_45_2.mp3</html5media>
 
-Ansigtet beskrives sjældent, men under denne overskrift kan man f.eks. se: Er der umiddelbare tegn på ''facialisparese'' (se s. 168)? Er der ømhed af ''aa. temporales''? Hos traumepatienter: Er ansigtsskelettet intakt og uømt? Devierer ''næsen'', og er der ''udflåd'' (blod, liquor)?
+Ansigtet beskrives sjældent, men under denne overskrift kan man f.eks. se: Er der umiddelbare tegn på ''facialisparese'' [[11_Centralnervesystemet#Hjernenerverne|(se s. 168)]] ? Er der ømhed af ''aa. temporales''? Hos traumepatienter: Er ansigtsskelettet intakt og uømt? Devierer ''næsen'', og er der ''udflåd'' (blod, liquor)?
 
 == Øjne ==
 
-(se kapitel 15)
+[[15_Sanseorganer#|(se kapitel 15)]]
 
 <html5media>File:KAP3_45_3.mp3</html5media>
 
-Øjne undersøges ofte på patienter, der indlægges på sygehus: Er patienten ''blind'' eller har ''glasøje''? Er der ''periorbitale ødemer, exophthalmus'' (udstående øjne) eller brillehæmatom? Er der i ''sclerae'' tegn på icterus (gulsot), eller er der i ''conjunctivae'' injektion eller tegn på anæmi? Er ''øjenmedierne'' klare, eller er der f.eks. katarakt (grå stær) eller hyphaema (blod)? Man beskriver ''pupillernes'' form (runde?), størrelse (egale eller af uens størrelse (anisokori)? knappenålspupiller?) og reaktion for lys (lysstive? normalt reagerende?). ''Synsfeltet'' noteres. Er ''øjenbevægelserne'' frie? Er der nystagmus eller strabismus (skelen)(se kapitel 11)?
+Øjne undersøges ofte på patienter, der indlægges på sygehus: Er patienten ''blind'' eller har ''glasøje''? Er der ''periorbitale ødemer, exophthalmus'' (udstående øjne) eller brillehæmatom? Er der i ''sclerae'' tegn på icterus (gulsot), eller er der i ''conjunctivae'' injektion eller tegn på anæmi? Er ''øjenmedierne'' klare, eller er der f.eks. katarakt (grå stær) eller hyphaema (blod)? Man beskriver ''pupillernes'' form (runde?), størrelse (egale eller af uens størrelse (anisokori)? knappenålspupiller?) og reaktion for lys (lysstive? normalt reagerende?). ''Synsfeltet'' noteres. Er ''øjenbevægelserne'' frie? Er der nystagmus eller strabismus (skelen) [[11_Centralnervesystemet#|(se kapitel 11)]] ?
 
 En øjenundersøgelse hos en beruset person, der havde slået hovedet og henvendt sig i skadestuen, var beskrevet således:
 
@@ -463,7 +463,7 @@ Frie øjenbevægelser i alle fire retninger. Latent
 strabismus.</pre>
 == Ører ==
 
-(se kapitel 15)
+[[15_Sanseorganer#|(se kapitel 15)]]
 
 <html5media>File:KAP3_46.mp3</html5media>
 
@@ -486,7 +486,7 @@ symmetrisk, multinodøst forstørret og uøm struma målende
 ca. 5 x 6 cm.</pre>
 == Lymfeknuder ==
 
-(se kapitel 4)
+[[4_Almene_symptomer_og_fund#|(se kapitel 4)]]
 
 <html5media>File:KAP3_46_4.mp3</html5media>
 
@@ -497,15 +497,15 @@ uden lymfadenitis. I ve. inguen en enkelt lille,
 smuttende uøm knude.</pre>
 == Thorax ==
 
-(se kapitel 6)
+[[6_Lunger_og_luftveje#|(se kapitel 6)]]
 
 <html5media>File:KAP3_47.mp3</html5media>
 
-Thorax’ ''form'' beskrives, hvis den er abnorm (f.eks. tøndeform, pectus excavatum). Thoraxhalvdelenes bevægelighed beskrives (symmetri?). Indtrækninger i jugulum og under ribbenskurvaturen? Medbevægelighed af abdomen? Paradoks respiration? Ved traumer beskrives lokalisation af evt. ribbensømhed og strepitus. Ved multitraumatiserede: Er thorax stabilt? Hos kvinder beskrives ''mammae'' (se kapitel 13): symmetri? indtrækninger? hudforandringer? papilflåd? udfyldninger?
+Thorax’ ''form'' beskrives, hvis den er abnorm (f.eks. tøndeform, pectus excavatum). Thoraxhalvdelenes bevægelighed beskrives (symmetri?). Indtrækninger i jugulum og under ribbenskurvaturen? Medbevægelighed af abdomen? Paradoks respiration? Ved traumer beskrives lokalisation af evt. ribbensømhed og strepitus. Ved multitraumatiserede: Er thorax stabilt? Hos kvinder beskrives ''mammae'' [[13_Kirtler#|(se kapitel 13)]] : symmetri? indtrækninger? hudforandringer? papilflåd? udfyldninger?
 
 == Ryg og rygsøjle (dorsum et columna vertebralis) ==
 
-(se kapitel 10)
+[[10_Bevægeapparatet#|(se kapitel 10)]]
 
 <html5media>File:KAP3_47_2.mp3</html5media>
 
@@ -513,7 +513,7 @@ Ryggen beskrives sædvanligvis kun, hvis der er symptomer herfra. ''Deformiteter
 
 == Lungestetoskopi (St.p. stethoscopia pulmonum) ==
 
-(se kapitel 6)
+[[6_Lunger_og_luftveje#|(se kapitel 6)]]
 
 <html5media>File:KAP3_47_3.mp3</html5media>
 
@@ -527,7 +527,7 @@ højre lungefelt. Forlænget ekspirium med rhonchi overalt
 på begge lungefelter.</pre>
 == Hjertestetoskopi (St.c. stethoscopia cordis) ==
 
-(se kapitel 5)
+[[5_Hjertet#|(se kapitel 5)]]
 
 <html5media>File:KAP3_48.mp3</html5media>
 
@@ -547,7 +547,7 @@ høres tydeligt en kraftig, ru, midtsystolisk mislyd
 over 1. aortasted med projektion til karotiderne.</pre>
 == Abdomen ==
 
-(se kapitel 7)
+[[7_Mave-tarm-systemet#|(se kapitel 7)]]
 
 <html5media>File:KAP3_48_2.mp3</html5media>
 
@@ -573,15 +573,15 @@ At nyrelogerne er »frie« rummer en underforståelse: frie for udfyldninger, pa
 
 == Lysker (regiones inguinales) ==
 
-(se kapitel 7)
+[[7_Mave-tarm-systemet#|(se kapitel 7)]]
 
 <html5media>File:KAP3_49.mp3</html5media>
 
-Lyskerne kan beskrives separat eller under afsnittet abdomen. Er der tegn på hernier, og hvor store er de? Ligger herniet over eller under ''lig. inguinale?'' Er det fuldt eller delvist reponibelt eller irreponibelt? Er der hernie i scrotum? Er der anslag ved hoste? Har man undersøgt for brok på alle bugvæggens svage steder, kan man skrive brokporte frie. Pulsforholdene i ''aa. femorales'' anføres f.eks. ved patienter med claudicatio intermittens (se kapitel 12). Lymfadenitis kan beskrives hér eller under en særligt overskrift (jf. side 46).
+Lyskerne kan beskrives separat eller under afsnittet abdomen. Er der tegn på hernier, og hvor store er de? Ligger herniet over eller under ''lig. inguinale?'' Er det fuldt eller delvist reponibelt eller irreponibelt? Er der hernie i scrotum? Er der anslag ved hoste? Har man undersøgt for brok på alle bugvæggens svage steder, kan man skrive brokporte frie. Pulsforholdene i ''aa. femorales'' anføres f.eks. ved patienter med claudicatio intermittens [[12_Det_perifere_karsystem#|(se kapitel 12)]] . Lymfadenitis kan beskrives hér eller under en særligt overskrift [[3_Indlæggelsesnotatet#Ører|(jf. side 46)]] .
 
 == Mandlige kønsorganer (genitalia masculina) ==
 
-(se kapitel 8)
+[[8_Nyrer,_urinveje_og_mandlige_kønsorganer#|(se kapitel 8)]]
 
 <html5media>File:KAP3_50.mp3</html5media>
 
@@ -589,7 +589,7 @@ Beskrivelse af kønsorganerne er ofte relevant hos ældre mænd og i øvrigt ved
 
 == Gynækologisk undersøgelse (GU) ==
 
-(se kapitel 9)
+[[9_Kvindelige_kønsorganer#|(se kapitel 9)]]
 
 <html5media>File:KAP3_50_2.mp3</html5media>
 
@@ -604,7 +604,7 @@ Uterus blød, anteflekteret, mobil og forstørret svarende
 til menostasien. Frit og uømt til siderne.</pre>
 == Rektaleksploration (exploratio rectalis) ==
 
-(se kapitel 7)
+[[7_Mave-tarm-systemet#|(se kapitel 7)]]
 
 <html5media>File:KAP3_50_3.mp3</html5media>
 
@@ -612,7 +612,7 @@ Skal altid udføres hos mænd med urologiske problemer, hos alle patienter med m
 
 == Bækken (pelvis) ==
 
-(se kapitel 10)
+[[10_Bevægeapparatet#|(se kapitel 10)]]
 
 <html5media>File:KAP3_51.mp3</html5media>
 
@@ -620,7 +620,7 @@ Beskrives ved traumepatienten: Er bækkenet stabilt og uømt?
 
 == Ekstremiteter ==
 
-(se kapitel 10 + 12)
+[[10_Bevægeapparatet#|(se kapitel 10 +]] [[12_Det_perifere_karsystem#|12)]]
 
 <html5media>File:KAP3_51_2.mp3</html5media>
 
@@ -632,7 +632,7 @@ Er der ødemer? Hvis der er ødemer, beskriver man disses lokalisation og udbred
 
 Ved patienten med lændesmerter med udstråling: Er der normal strakt benløftningstest eller ses ''Lasègues symptom?'' Er der normale kraftforhold over knæ- og ankelled? Evt. kan en grov neurologisk undersøgelse også beskrives hér (se nedenfor).
 
-Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling, strepitus (side 141))? Ved kroniske ekstremitetssmerter: er der ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
+Ved traumer: Er der frakturtegn (direkte og indirekte ømhed, fejlstilling, strepitus [[10_Bevægeapparatet#Palpation|(side 141)]] )? Ved kroniske ekstremitetssmerter: er der ansamling, ledhævelse, ømhed eller nedsat bevægelighed af leddene?
 
 Hos [[#nuvaerende_aktuelt|hjertepatienten]] blev ekstremiteterne beskrevet således:
 
@@ -642,13 +642,13 @@ diskrete ankelødemer bilateralt, ingen staseforandringer.
 God puls bilateralt i ADP og ATP.</pre>
 == Neurologisk ==
 
-(se kapitel 11)
+[[11_Centralnervesystemet#|(se kapitel 11)]]
 
 <html5media>File:KAP3_52.mp3</html5media>
 
 Ved beskrivelsen af neurologiske fund anvendes følgende systematik:
 
-'''Bevidsthed:''' Er patienten vågen og klar? Reagerer og svarer han på tiltale eller kun på smertestimuli? Er han bevidsthedssløret, angives score efter ''Glasgow Coma Scale'' (se kapitel 11, side 164). Er han orienteret i tid, sted og egne data? Er han hallucineret eller depressiv? Er der tegn på demens (hvilke)?
+'''Bevidsthed:''' Er patienten vågen og klar? Reagerer og svarer han på tiltale eller kun på smertestimuli? Er han bevidsthedssløret, angives score efter ''Glasgow Coma Scale'' [[11_Centralnervesystemet#Sprog|(se kapitel 11, side 164)]] . Er han orienteret i tid, sted og egne data? Er han hallucineret eller depressiv? Er der tegn på demens (hvilke)?
 
 '''Sprog:''' Er der dysartri (udtaledefekter)? Er der tegn på afasi: Kan patienten følge opfordringer, benævne genstande, gentage sætninger, er patientens spontantale korrekt? Er patientens afasi flydende eller ikke-flydende?
 
@@ -677,7 +677,7 @@ Ved beskrivelsen af neurologiske fund anvendes følgende systematik:
 
 == Hud ==
 
-(se kapitel 14)
+[[14_Hud#|(se kapitel 14)]]
 
 <html5media>File:KAP3_53.mp3</html5media>
 
