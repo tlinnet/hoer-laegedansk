@@ -139,7 +139,7 @@ symptom på en lungecancer. En ikke ualmindelig – men ofte overset –
   ned, ved kontakt med dyr osv.)?
 
 årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom
-(se side 99); hosten ses typisk efter måltider og ved fladt leje. Hosten kan
+`(se side 99) <7_Mave-tarm-systemet.rst#Halsbrand_(pyrosis)>`__ ; hosten ses typisk efter måltider og ved fladt leje. Hosten kan
 være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på
 patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør
 f.eks. føre til udredning for tuberkulose.
@@ -269,7 +269,7 @@ syndrom* er en smertefuld inflammation i de øvre ribbensbruske. *Herpes
 zoster* og torakal discusprolaps kan forsårsage smerter i brystvæggen ved
 spinalrøddernes cutane innervation.
 Ved akut opståede brystsmerter skal man altid overveje *iskæmisk
-hjertesygdom* som differentialdiagnose (se side 69-71).
+hjertesygdom* som differentialdiagnose `(se side 69-71) <5_Hjertet.rst#Træthed_og_funktionsnedsættelse>`__ .
 
 Objektiv undersøgelse
 =====================
@@ -279,7 +279,7 @@ Objektiv undersøgelse
 Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen
 af *almentilstanden* med speciel fokus på farve, perifer cirkulation,
 respiration og hydrering, ligesom man altid skal måle puls, blodtryk,
-temperatur og respirationsfrekvens (se kapitel 4). *Central cyanose* er
+temperatur og respirationsfrekvens `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ . *Central cyanose* er
 et kardinaltegn på inkompenseret lungesygdom.
 
 **Ændret vejrtrækningsmønster**
@@ -349,8 +349,8 @@ iltmætning ved hjælp af et *pulsoksimeter*.
 
 En grundig undersøgelse af lungepatienten omfatter også undersøgelse
 af hjertet (specielt halsvenestase, hepatomegali og ascites som kan
-være tegn på *højresidigt hjertesvigt* (se kapitel 5)), abdomen (se kapitel 7)
-og lymfeglandlerne på halsen (se kapitel 4).
+være tegn på *højresidigt hjertesvigt* `(se kapitel 5) <5_Hjertet.rst#>`__ ), abdomen `(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
+og lymfeglandlerne på halsen `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ .
 
 Inspektion
 ----------
@@ -361,7 +361,7 @@ Thorax’ *form* bemærkes. Et hyperinflateret, tøndeformet thorax er
 karakteristisk for patienten med rygerlunger. Andre synlige deformiteter
 af brystvæggen beskrives. *Pectus excavatum* eller »tragtbryst« er ikke helt
 sjældent, men giver som regel kun kosmetiske symptomer. *Kyfoser* og
-*skolioser* bemærkes ligeledes (se kapitel 10).
+*skolioser* bemærkes ligeledes `(se kapitel 10) <10_Bevægeapparatet.rst#>`__ .
 
 *Bevægeligheden* af thorax beskrives. Normalt trækker man vejret med
 diaphragma, således at såvel brystkassen som abdomen udvider sig ved
