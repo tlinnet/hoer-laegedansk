@@ -193,7 +193,7 @@ Objektivt
 <html5media>File:KAP9_131.mp3</html5media>
 
 Man starter altid med en almindelig ydre undersøgelse af abdomen
-`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Måske kan man umiddelbart erkende f.eks. en forstørret
+(se kapitel 7). Måske kan man umiddelbart erkende f.eks. en forstørret
 uterus. Ved lidelser i genitalia interna vil man typisk finde ømhed ved
 palpation lavt i nedre abdomen lige over symfysen og ingvinal-ligamenterne.
 
