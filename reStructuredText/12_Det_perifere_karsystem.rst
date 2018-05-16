@@ -93,8 +93,8 @@ umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli
 +-------------------+------------+----------+
 
 Arterielle sygdomme er sjældent begrænset til de perifere kar, og anamnesen
-hos karpatienten skal derfor altid omfatte hjerte (se kapitel 5) og
-CNS (se kapitel 11). Endelig skal anamnesen fokusere på risikofaktorer,
+hos karpatienten skal derfor altid omfatte hjerte `(se kapitel 5) <5_Hjertet.rst#>`__  og
+CNS `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Endelig skal anamnesen fokusere på risikofaktorer,
 man kan gøre noget ved, som f.eks. tobak, hypertension eller dyslipidæmi
 (hyperkolesterolæmi) ved arterielle lidelser, og p-piller eller immobilitet
 ved venøse lidelser.
@@ -128,7 +128,7 @@ Hævede ben (ødemer)
 Hævelse af ankler og fodryg, der lindres ved elevation, kan være forårsaget
 af kronisk venøs insufficiens. En sjælden årsag er lymfødem (pga.
 kompromitteret afløb i det lymfatiske system). Den hyppigste årsag – og
-vigtigste differentialdiagnose – er højresidig hjerteinsufficiens (se kapitel5), 
+vigtigste differentialdiagnose – er højresidig hjerteinsufficiens `(se kapitel 5) <5_Hjertet.rst#>`__, 
 og her vil anamnesen og den objektive undersøgelse ofte give vigtige
 oplysninger: Tidligere dyb venøs trombose eller åreknuder (*varicer*)?
 Disponerende faktorer for lymfødem (kræft, stråleterapi)? Hjertesygdom?
@@ -183,7 +183,7 @@ også dække symptomer på karlidelser i andre organsystemer.
 *Erektiv dysfunktion (impotens)* er hyppig hos mandlige patienter med svær
 aterosklerose. Ved både akutte og kroniske *mavesmerter* kan arterielle
 lidelser indgå i de differentialdiagnostiske overvejelser, f.eks. abdominalt
-aortaaneurisme og mesenteriel iskæmi (jf. kapitel 7). Ved akutte *brystsmerter*
+aortaaneurisme og mesenteriel iskæmi `(jf. kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Ved akutte *brystsmerter*
 bør man ikke glemme det dissekerende aortaaneurisme, og ved
 *akut vejrtrækningsbesvær* er lungeemboli en differentialdiagnose. *CNS-symptomer*
 kan skyldes stenose i aa. carotis (transitorisk cerebral iskæmi,
@@ -204,7 +204,7 @@ af vener).
 
 I det følgende fokuseres på den objektive undersøgelse af underekstremiteterne.
 Men forandringer i karrene kan spille en væsentlig rolle i
-hjerte- (kapitel 5) og hjernesygdom (kapitel 11). En objektiv undersøgelse
+hjerte- `(kapitel 5) <5_Hjertet.rst#>`__  og hjernesygdom `(kapitel 11) <11_Centralnervesystemet.rst#>`__ . En objektiv undersøgelse
 af disse organsystemer hører derfor med til den grundige undersøgelse
 af karpatienten.
 
@@ -247,7 +247,7 @@ Perifer cyanose er et kardinalfund ved perifere karlidelser. Perifer cyanose
 kan skyldes både arteriel insufficiens (aterosklerose) og venøs insufficiens
 (hvor den venøse stase begrænser cirkulationen i kapillærgebetet).
 Det er vigtigt at skelne mellem perifer og central cyanose; sidstnævnte er
-forårsaget af hjerte- eller lungelidelse (jf. side 63-64).
+forårsaget af hjerte- eller lungelidelse `(jf. side 63-64) <4_Almene_symptomer_og_fund.rst#Farve>`__ .
 
 Ved forværring af arteriel ekstremitetsiskæmi skifter farven fra cyanose
 til *lividitet*; dvs. at huden er voksagtig, blålig-bleg (og kold). I slutstadiet
@@ -320,7 +320,7 @@ af karpatienten.
 <html5media>File:BOKS185.mp3</html5media>
 
 * Palpér pulsen i a. radialis samtidig med hjertestetoskopien
-  (se side 76). Herved noteres frekvens og rytme, og du lærer,
+  `(se side 76) <5_Hjertet.rst#Auskultation_(stethoscopia_cordis,_st.c.,_hjertestetoskopi)>`__ . Herved noteres frekvens og rytme, og du lærer,
   hvordan patientens puls skal føles.
 * *A. dorsalis pedis* og *a. tibialis posterior* opsøges. Er der puls
   her, er det unødvendigt at undersøge pulsene mere proksimalt
