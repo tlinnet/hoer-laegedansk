@@ -41,7 +41,7 @@ Tinnitus betegner patientens subjektive beskrivelse af en susen eller ringen for
 
 <html5media>File:KAP15_202_2.mp3</html5media>
 
-Man kan opleve, at patienten griber til ordet »svimmelhed« for at beskrive uspecifikke fornemmelser og utilpashed (se kapitel 4). Forsøg at præcisere anamnesen for at afdække, om der er tale om »ægte« svimmelhed (bevægelseshallucination = ''vertigo''), dvs. om patienten har en oplevelse af, at omgivelserne bevæger sig i forhold til ham (som på et skibsdæk = ''nautisk vertigo''), eller at han bevæger sig i forhold til omgivelserne (som i en karrusel = ''gyratorisk vertigo'').
+Man kan opleve, at patienten griber til ordet »svimmelhed« for at beskrive uspecifikke fornemmelser og utilpashed [[4_Almene_symptomer_og_fund#|(se kapitel 4)]] . Forsøg at præcisere anamnesen for at afdække, om der er tale om »ægte« svimmelhed (bevægelseshallucination = ''vertigo''), dvs. om patienten har en oplevelse af, at omgivelserne bevæger sig i forhold til ham (som på et skibsdæk = ''nautisk vertigo''), eller at han bevæger sig i forhold til omgivelserne (som i en karrusel = ''gyratorisk vertigo'').
 
 '''Svimmelhed'''
 
@@ -135,4 +135,4 @@ Cornea, forreste øjenkammer og lens benævnes tilsammen ''øjenmedierne'' og ka
 ; ''Miosis:''
 : – små (kontraherede) pupiller.
 
-''Anisocoria'' (uegale pupiller) er et normalt fund hos ca. 5%, men kan også være et tegn på neurologisk sygdom (se kapitel 11, side 167). ''Mydriasis'' (dilaterede pupiller) kan ses ved indtagelse af sympatomimetika og anticholinergika (f.eks. adrenalin, atropin eller kokain), men kan også være et tegn på cerebral iskæmi f.eks. ved hjertestop. ''Miosis'' (kontraherede pupiller) kan ses ved indtagelse af parasympatomimetika eller morfika. Undersøgelse af synsfelt og øjenbevægelser er beskrevet side 167, Fig. 11.2.
+''Anisocoria'' (uegale pupiller) er et normalt fund hos ca. 5%, men kan også være et tegn på neurologisk sygdom [[11_Centralnervesystemet#Hjernenerverne|(se kapitel 11, side 167)]] . ''Mydriasis'' (dilaterede pupiller) kan ses ved indtagelse af sympatomimetika og anticholinergika (f.eks. adrenalin, atropin eller kokain), men kan også være et tegn på cerebral iskæmi f.eks. ved hjertestop. ''Miosis'' (kontraherede pupiller) kan ses ved indtagelse af parasympatomimetika eller morfika. Undersøgelse af synsfelt og øjenbevægelser er beskrevet side 167, Fig. 11.2.

@@ -69,7 +69,7 @@ Svimmelhed (vertigo)
 <html5media>File:KAP15_202_2.mp3</html5media>
 
 Man kan opleve, at patienten griber til ordet »svimmelhed« for at beskrive
-uspecifikke fornemmelser og utilpashed (se kapitel 4). Forsøg at
+uspecifikke fornemmelser og utilpashed `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ . Forsøg at
 præcisere anamnesen for at afdække, om der er tale om »ægte« svimmelhed
 (bevægelseshallucination = *vertigo*), dvs. om patienten har en oplevelse
 af, at omgivelserne bevæger sig i forhold til ham (som på et skibsdæk
@@ -235,7 +235,7 @@ patienten.
   – små (kontraherede) pupiller.
 
 *Anisocoria* (uegale pupiller) er et normalt fund hos ca. 5%, men kan
-også være et tegn på neurologisk sygdom (se kapitel 11, side 167). *Mydriasis*
+også være et tegn på neurologisk sygdom `(se kapitel 11, side 167) <11_Centralnervesystemet.rst#Hjernenerverne>`__ . *Mydriasis*
 (dilaterede pupiller) kan ses ved indtagelse af sympatomimetika
 og anticholinergika (f.eks. adrenalin, atropin eller kokain), men kan også
 være et tegn på cerebral iskæmi f.eks. ved hjertestop. *Miosis* (kontraherede
