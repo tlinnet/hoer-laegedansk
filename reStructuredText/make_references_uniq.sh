@@ -76,7 +76,7 @@ gsed -i 's/(se side 114)/`(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rect
 gsed -i 's/(se side 176)/`(se side 176) <11_Centralnervesystemet.rst#Sensibilitet>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se kapitel 12)/`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/(se kapitel 11/`(se kapitel 11 <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
+gsed -i 's/(se kapitel 11 /`(se kapitel 11 <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/og 12)/`og 12) <12_Det_perifere_karsystem.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 171)/`(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 169)/`(se side 169) <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
