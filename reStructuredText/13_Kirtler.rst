@@ -183,7 +183,7 @@ født, men det er også normalt med sparsomt udflåd, længe efter
 amningen er ophørt (*galactorrhoea*). Mælkeflåd fra en kvinde, der ikke har
 født, benævnes *non-puerperal galactorrhoea* og er et symptom på hyperprolaktinæmi
 ofte pga. et hypofyseadenom; symptomet er ofte ledsaget
-af oligo- eller amenoré (se kapitel 9). Et blodigt udflåd fra papillen benævnes
+af oligo- eller amenoré `(se kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ . Et blodigt udflåd fra papillen benævnes
 *teloragi* og er altid et patologisk symptom, der skal udredes: i ca.
 10% af tilfældene er årsagen en ondartet lidelse i brystet.
 
