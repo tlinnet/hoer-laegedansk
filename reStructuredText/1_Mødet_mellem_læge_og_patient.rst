@@ -33,20 +33,18 @@ anviste behandling).
 
 <html5media>File:BOKS15.mp3</html5media>
 
-::
+*En stor amerikansk undersøgelse af videooptagede konsultationer viste, at læger, der aldrig havde haft klagesager, adskilte sig signifikant fra læger med klagesager ved at:*
 
-  En stor amerikansk undersøgelse af videooptagede konsultationer
-  viste, at læger, der aldrig havde haft klagesager, adskilte
-  sig signifikant fra læger med klagesager ved at:
-  – de oftere brugte humor og latter,
-  – de brugte ca. 20% længere tid til deres konsultationer,
-  – de oftere kom med udsagn, der orienterede patienterne om
+* de oftere brugte humor og latter,
+* de brugte ca. 20% længere tid til deres konsultationer,
+* de oftere kom med udsagn, der orienterede patienterne om
   forløbet af konsultationen (f.eks.: »Først skal jeg undersøge
   dig, derefter skal du have taget blodprøver«),
-  – de oftere kom med udsagn, der lettede patientens fortælling
+* de oftere kom med udsagn, der lettede patientens fortælling
   af sygehistorien (f.eks.: »Ja ...«, »Fortæl mig om ...«, »Hvad
   tror du, det er?».
-                                              JAMA 1997; 277 : 553-559
+
+*(JAMA 1997; 277 : 553-559)*
 
 Rammerne for mødet med patienten
 ================================
@@ -69,7 +67,7 @@ kan give dig vigtige oplysninger, som det ellers kan være svært at
 nå frem til selv, f.eks. om tidligere indlæggelser eller resultater af egen
 læges undersøgelser. Hvis du taler med den indlæggende læge, bed da
 altid om en udførlig indlæggelsesseddel inklusive patientens aktuelle
-medicinstatus (type, styrke og mængde).Mange patienter husker kun, at
+medicinstatus (type, styrke og mængde). Mange patienter husker kun, at
 de får to blå piller til hjertet og én hvid til maven.
 Hvis patienten tidligere har været indlagt, skal du altid sætte dig ind i
 *den gamle journal*. Har patienten været indlagt og behandlet under et
@@ -114,17 +112,14 @@ håndklæde.
 
 <html5media>File:BOKS17B.mp3</html5media>
 
-::
+*Brugen af undersøgelsesremedier kan variere fra speciale til speciale, men til en god rutineundersøgelse skal man som minimum bruge:*
 
-  Brugen af undersøgelsesremedier kan variere fra speciale til
-  speciale, men til en god rutineundersøgelse skal man som
-  minimum bruge:
-     Lommelygte
-     Stetoskop
-     Blodtryksapparat
-     Reflekshammer
-     Handsker og eksplorationscreme
-     Tungespatel.
+* Lommelygte
+* Stetoskop
+* Blodtryksapparat
+* Reflekshammer
+* Handsker og eksplorationscreme
+* Tungespatel.
 
 Ved visse undersøgelser er det nødvendigt med en assistent. Dette kan
 være som en »ekstra hånd« (f.eks. ved immobile patienter, der skal lungestetoskoperes)
@@ -162,20 +157,18 @@ om at vente udenfor, til du har talt med og undersøgt patienten.
 
 <html5media>File:BOKS18.mp3</html5media>
 
-::
-
-  * Sørg for rolige omgivelser, lukket dør, ingen uvedkommende
+* Sørg for rolige omgivelser, lukket dør, ingen uvedkommende
   personer.
-  * Præsenter dig selv med navn og stilling og skitser forløbet af
+* Præsenter dig selv med navn og stilling og skitser forløbet af
   jeres møde (»Først skal jeg stille nogle spørgsmål, derefter
   undersøge dig ...«).
-  * Placer dig i niveau med patienten, f.eks. på sengekanten.
+* Placer dig i niveau med patienten, f.eks. på sengekanten.
   »Gem« dig ikke bag sengehest eller bord.
-  * Hold hele tiden øjenkontakt med patienten, snak ikke ned i
+* Hold hele tiden øjenkontakt med patienten, snak ikke ned i
   journalen.
-  * Hent assistance, når du har brug for det (den immobile eller
+* Hent assistance, når du har brug for det (den immobile eller
   utrygge patient).
-  * Gå altid tilbage til patienten og stil det vigtige spørgsmål,
+* Gå altid tilbage til patienten og stil det vigtige spørgsmål,
   du glemte.
 
 Mange patienter spørger i løbet af deres sygehistorie, om de ikke kan
@@ -236,7 +229,7 @@ findes en *udvidende* og en *afgrænsende* måde at give patienten dette gensvar
 
 Med det *udvidende* gensvar søger man at hjælpe patienten til at
 beskrive sit problem eller sin situation således, at både du og han/hun
-får et klarere og mere nuanceret billede af situationen.Man bruger her
+får et klarere og mere nuanceret billede af situationen. Man bruger her
 åbne spørgsmål, der giver patienten mulighed for at beskrive situationen
 på egne præmisser. Ved sit gensvar (det åbne spørgsmål) opfordrer man
 patienten til at gå videre, uden at der bliver givet en retning for, hvad
@@ -278,30 +271,27 @@ hvad der er problemet.
 
 <html5media>File:BOKS21.mp3</html5media>
 
-::
-
-  * Hvad bringer dig til læge i dag?
-  * Kan du fortælle lidt mere om det?
-  * Hvad er det største problem for dig?
-  * Hvad tror du selv, der er galt?
-  * Hvad vil du gerne have, at vi gør for dig?
+* Hvad bringer dig til læge i dag?
+* Kan du fortælle lidt mere om det?
+* Hvad er det største problem for dig?
+* Hvad tror du selv, der er galt?
+* Hvad vil du gerne have, at vi gør for dig?
 
 **Lukkede spørgsmål er konkrete** 
 
 <html5media>File:BOKS21B.mp3</html5media>
 
-::
+*f.eks. vedr. smerter:*
 
-  – f.eks. vedr. smerter:
-  * Hvor gør det ondt? Udstråler smerten – og hvorhen til?
-  * Hvordan gør det ondt (knugende, brændende, murrende,
+* Hvor gør det ondt? Udstråler smerten – og hvorhen til?
+* Hvordan gør det ondt (knugende, brændende, murrende,
   borende, svigende, stikkende)?
-  * Hvornår gør det ondt – og hvor længe varer det? Hvornår 
+* Hvornår gør det ondt – og hvor længe varer det? Hvornår 
   havde du sidst ondt?
-  * Hvad forværrer/lindrer smerten? Er smerterne blevet sværere
+* Hvad forværrer/lindrer smerten? Er smerterne blevet sværere
   eller lettere den sidste tid?
-  * Hvor lang tid har det stået på?
-  * Har du taget smertestillende medicin? Hvilken? Hjalp det?
+* Hvor lang tid har det stået på?
+* Har du taget smertestillende medicin? Hvilken? Hjalp det?
 
 Resumér og gentag
 -----------------
@@ -381,7 +371,7 @@ eller frastødende ved indlæggelsen, ændre sig fuldstændigt, efter at smerte
 og angst er svundet. Omvendt vil nogle patienter være attraktive og
 tiltrækkende, og ofte strø om sig med komplimenter til »den unge læge«.
 Selvom du skulle føle dig smigret, er det vigtigt at gøre dig din rolle klar
-og optræde professionelt.Man kan f.eks. sige: *»Tak for komplimentet, det
+og optræde professionelt. Man kan f.eks. sige: *»Tak for komplimentet, det
 er meget venligt af dig. Men nu er det altså ikke mig, det handler om«.*
 
 Specielle forhold
@@ -395,51 +385,43 @@ Ikke alle patienter er ens, og nogle kræver særlige hensyn:
 
 <html5media>File:BOKS23.mp3</html5media>
 
-::
-
-  * Forstår din patient ikke dansk, er det vigtigt at forsøge at
+* Forstår din patient ikke dansk, er det vigtigt at forsøge at
   fremskaffe en professionel tolk, der er neutral i forhold til
   patienten (dvs. ikke bekendt eller familie).
-  * Er man tvunget til at bruge andre oversættere end autoriserede
+* Er man tvunget til at bruge andre oversættere end autoriserede
   tolke, er det vigtigt at instruere dem jf. følgende
   principper:
-  * Sid over for patienten, hav øjenkontakt, og tal direkte til
+* Sid over for patienten, hav øjenkontakt, og tal direkte til
   ham/hende. Lad, som om tolken »ikke eksisterer« og tal i
   korte afrundede sætninger.
-  * Kræv direkte, så ordret som mulig, oversættelse af tolken –
+* Kræv direkte, så ordret som mulig, oversættelse af tolken –
   ikke tolkens fortolkning af, hvad patienten mener.
-
 
 **Døve og tunghøre** 
 
 <html5media>File:BOKS24.mp3</html5media>
 
-::
-
-  * Sørg for god øjenkontakt og godt lys, så patienten kan se dit
+* Sørg for god øjenkontakt og godt lys, så patienten kan se dit
   ansigt.
-  * Tal tydeligt i roligt tempo.
-  * Kontroller, om høreapparatet er tændt. Alternativt kan bruges
+* Tal tydeligt i roligt tempo.
+* Kontroller, om høreapparatet er tændt. Alternativt kan bruges
   et stetoskop, hvor patienten får ørepropperne på og man taler
   ned i tragten. Papir og blyant kan bruges, men er meget tidskrævende.
-  * Mange døve vil have en tegnsprogstolk med. Se ovenfor vedr.
+* Mange døve vil have en tegnsprogstolk med. Se ovenfor vedr.
   brug af tolk.
-
 
 **Blinde og svagtseende**
 
 <html5media>File:BOKS24B.mp3</html5media>
 
-::
-
-  * Tal, som du plejer. En hyppig fejl over for synshandicappede
+* Tal, som du plejer. En hyppig fejl over for synshandicappede
   er at overartikulere ord, tale højere eller bruge simplere ord
   eller sætninger.
-  * Beskriv de omgivelser, I befinder jer i: rummets størrelse,
+* Beskriv de omgivelser, I befinder jer i: rummets størrelse,
   placeringen af større møbler, døre osv.
-  * Lad de enkelte personer, der er til stede, f.eks. sygeplejersken,
+* Lad de enkelte personer, der er til stede, f.eks. sygeplejersken,
   præsentere sig selv kort, således at patienten kan lære deres
   stemme og placering i rummet at kende.
-  * Beskriv løbende, hvad du foretager dig, og hvad der skal ske.
-  * Skal du føre patienten rundt, gå da forrest og lad patientens
+* Beskriv løbende, hvad du foretager dig, og hvad der skal ske.
+* Skal du føre patienten rundt, gå da forrest og lad patientens
   arm hvile på din. Fortæl om døre, og hvilken retning I skal i.
