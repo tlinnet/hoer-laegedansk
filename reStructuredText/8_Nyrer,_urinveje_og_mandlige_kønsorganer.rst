@@ -57,7 +57,7 @@ f.eks. diabetes, eller primære nyresygdomme kan give systemiske
 komplikationer, f.eks. anæmi, hjertehindebetændelse (*pericarditis*) og
 hypertension. En grundig anamnese, der dækker alle organsystemer, er
 derfor vigtig hos nyrepatienten. Hos kvinder med symptomer fra de
-nedre urinveje er den gynækologiske anamnese vigtig (kapitel 9).
+nedre urinveje er den gynækologiske anamnese vigtig `(kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ .
 
 Smerter
 -------
@@ -97,7 +97,7 @@ feber og evt. dysuri. Blærebetændelse (*cystitis*) giver typisk smerter over
 symfysen, dysuri og pollakisuri. Smerterne ved urinretention er lokaliseret
 mellem symfysen og umbilicus. Smerter i scrotum kan skyldes bitestikel-
 betændelse (*epididymitis*), *torsio testis*, eller indeklemt lyskebrok
-(ingvinoskrotalt hernie, se side 124). *Hydrocele* (vandbrok) og *varicocele*
+(ingvinoskrotalt hernie, se `side 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ . *Hydrocele* (vandbrok) og *varicocele*
 (årebrok) giver som regel ikke smerter, men tyngdefornemmelse. Testistumoren
 manifesterer sig sjældent med smerter.
 
@@ -267,7 +267,7 @@ i lungerne (lungestase) og mellem lungehinderne (pleuraekssudater).
 Ledsagesymptomer til vand i kroppen ved nyresygdom er nedsat urinproduktion
 (*oliguri*) og skummende urin (pga. *proteinuri*). Ødemer og
 proteinuri er kardinaltegnene ved *nefrotisk syndrom*. Ødemer ses også
-ved hjertesygdom, perifer venøs insufficiens og lymfødem (se kapitel 5 og 12). 
+ved hjertesygdom, perifer venøs insufficiens og lymfødem `(se kapitel 5 <5_Hjertet.rst#>`__ `og 12) <12_Det_perifere_karsystem.rst#>`__ . 
 Det kan være svært alene på anamnesen at afgøre årsagen til ødemerne.
 
 Objektiv undersøgelse
@@ -278,9 +278,9 @@ Objektiv undersøgelse
 Man starter altid med en almindelig ydre undersøgelse af abdomen (se
 kapitel 7). Måske kan man umiddelbart erkende f.eks. en fyldt blære.
 Hos kvinder med urinvejssymptomer vil det ofte være relevant at foretage
-en gynækologisk undersøgelse (se side 131). Hos mænd med urinvejssymptomer
+en gynækologisk undersøgelse `(se side 131) <9_Kvindelige_kønsorganer.rst#Objektivt>`__ . Hos mænd med urinvejssymptomer
 bør man altid undersøge de ydre kønsorganer (beskrevet i
-dette kapitel) samt prostata (se side 114).
+dette kapitel) samt prostata `(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ .
 
 Vurderingen af patientens almentilstand er væsentlig. *Blodtrykket* skal
 altid måles – hypertension er hyppig ved både akutte og kroniske nyresygdomme.
@@ -304,7 +304,7 @@ De mandlige genitalier undersøges ikke rutinemæssigt; kun hvor det er
 relevant. De er let tilgængelige for undersøgelse, og omfatter lemmet
 (*penis*) samt pungen (*scrotum*) med dens indhold: testiklerne (*testes*),
 bitestiklerne (*epididymis*) og sædstrengene (*vas deferens*). Undersøgelsen
-af de mandlige kønsorganer omfatter også en undersøgelse af lyskerne (se side 112).
+af de mandlige kønsorganer omfatter også en undersøgelse af lyskerne `(se side 112) <7_Mave-tarm-systemet.rst#Lyskerne_(regiones_inguinales)>`__ .
 
 **Inspektion**
 
@@ -330,7 +330,7 @@ uretrit (*chlamydia* eller *gonoré*).
 <html5media>File:KAP8_123_2.mp3</html5media>
 
 Ved palpation af scrotum skal du gå forsigtigt frem. Ved akutte skrotallidelser
-– specielt *torsio testis*, men også ved *epididymitis* (s. 124) – kan
+– specielt *torsio testis*, men også ved *epididymitis* `(s. 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__  – kan
 der være betydelig ømhed. Testes undersøges systematisk – og hele tiden
 sammenlignes de to sider – idet man bemærker lejring, mobilitet, ømhed,
 størrelse, konsistens og overflade. Den normale testes er lejret vertikalt
@@ -407,15 +407,15 @@ erkende en overfyldt blære eller en nyretumor?
 
 **Palpation**
 
-Teknikken er som ved palpation af abdomen (se side 107).Man palperer
+Teknikken er som ved palpation af abdomen `(se side 107) <7_Mave-tarm-systemet.rst#Abdomen>`__ .Man palperer
 hver flanke for sig ved brug af en bimanuel teknik, hvor den ene hånds
 fingerspidser placeres bagtil højt på lænderyggen i vinklen mellem columna
 og costa XII, mens den anden hånds fingerspidser palperer dybt i
 abdomen under kurvaturen.Man forsøger at »fange« nedre nyrepol, når
 den presses ned af diaphragma ved inspirationen – højre nyre er lettest,
 da den ligger lavest. Nyrerne kan være forstørrede ved f.eks. cystisk nyresygdom
-eller *hydronefrose* (s. 126), hårde og knudrede ved cancer og
-ømme ved *pyelonephritis* (s. 118). Den normale nyre kan sjældent udpalperes.
+eller *hydronefrose* `(s. 126) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje>`__ , hårde og knudrede ved cancer og
+ømme ved *pyelonephritis* `(s. 118) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Svie_og_smerte_ved_vandlanding_(dysuri)>`__ . Den normale nyre kan sjældent udpalperes.
 Ureteres kan ikke undersøges klinisk.
 
 <html5media>File:FIG8-3.mp3</html5media>
@@ -437,7 +437,7 @@ Ureteres kan ikke undersøges klinisk.
 Forstørret blære ses ved urinretention (hvor den kan nå helt op til umbilicus).
 Hos kvinder kan tilsvarende dæmpning over symfysen ses ved
 graviditet, fibromatøs uterus eller ovarietumor. Teknikken ved perkussion
-er som ved undersøgelse af lungerne (se side 93).
+er som ved undersøgelse af lungerne `(se side 93) <6_Lunger_og_luftveje.rst#Palpation>`__ .
 
 <html5media>File:FIG8-4.mp3</html5media>
 
