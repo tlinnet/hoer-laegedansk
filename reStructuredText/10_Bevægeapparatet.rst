@@ -87,10 +87,10 @@ borende. Alle tre smertetyper kan være til stede samtidig, som f.eks. ved
 slidgigt (*osteoartrose*) med knogleaffektion og sekundære myoser.
 
 Det er ikke ualmindeligt, at bevægeapparatslidelser afficerer tilstødende
-perifere nerver og giver dys- og paræstesier (se side 176). Særligt ved
+perifere nerver og giver dys- og paræstesier `(se side 176) <11_Centralnervesystemet.rst#Sensibilitet>`__ . Særligt ved
 lænderygssmerter er det vigtigt at spørge til radikulære symptomer
 (jagende smerter ned på låret, dys- og paræstesier, kraftnedsættelse), som
-kunne tyde på affektion af de lumbale spinalrødder (se kapitel 11).
+kunne tyde på affektion af de lumbale spinalrødder `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ .
 
 De pludseligt opståede bevægeapparatssmerter er som regel traumatiske.
 Men det mindre traume kan gå ubemærket hen, eller anamnesen
@@ -114,7 +114,7 @@ oftest knæled, og patienten er sjældent yngre end 40-50 år.
 
 Virale sygdomme som influenza kan give diffuse muskel og ledsmerter.
 Både akutte og kroniske smerter i en ekstremitet kan skyldes karlidelser
-(se kapitel 12). Knogletumorer er sjældne og giver typisk natlige
+`(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ . Knogletumorer er sjældne og giver typisk natlige
 smerter.
 
 Stivhed
@@ -199,10 +199,10 @@ du ønsker at gøre.
 
 En grundig undersøgelse af patienten med klager fra bevægeapparatet
 omfatter også en undersøgelse af det perifere kar- og nervesystem (»neurovaskulære
-forhold«) (se kapitel 11 og 12). Hos traumepatienten er en
+forhold«) `(se kapitel 11 <11_Centralnervesystemet.rst#>`__ `og 12) <12_Det_perifere_karsystem.rst#>`__ . Hos traumepatienten er en
 nøje vurdering af de perifere neurovaskulære forhold obligat, og hos
 patienten med lændesmerter er det relevant at undersøge for lumbal
-rodaffektion (se side 171).
+rodaffektion `(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ .
 
 Generelle principper
 --------------------
@@ -228,7 +228,7 @@ af knoglerne som ved fraktur, eller er der tale om kongenitte forandringer
 (f.eks. skoliose, se Fig. 10.2) eller degenerative forandringer
 (f.eks. reumatoide fingerdeformiteter, se Fig. 10.12)? *Hævelse* beskrives,
 idet man forsøger at afgrænse hævelsen: begrænset inden for ledkapslen,
-periartikulært ødem osv. *Atrofi* af musklerne vurderes også (se side 169).
+periartikulært ødem osv. *Atrofi* af musklerne vurderes også `(se side 169) <11_Centralnervesystemet.rst#Motorik>`__ .
 
 Palpation
 ---------
@@ -261,7 +261,7 @@ Funktionsvurdering
 <html5media>File:KAP10_141_2.mp3</html5media>
 
 Ved objektiv vurdering af muskelfunktionen vurderes *kraftnedsættelsen*
-(se side 161). Ved vurdering af led og lednære forandringer er kernen i
+`(se side 161) <11_Centralnervesystemet.rst#Kraftnedsættelse>`__ . Ved vurdering af led og lednære forandringer er kernen i
 funktionsundersøgelsen en vurdering af leddets *bevægelighed* og *stabilitet*.
 
 Ved undersøgelsen skelnes mellem *aktiv bevægelighed*, hvor patienten
@@ -418,8 +418,8 @@ i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer
 som tegn på irritation af spinalrødderne. En fuldstændig
 undersøgelse af columna hos disse patienter omfatter derfor også en
 neurologisk undersøgelse af over- eller underekstremiteterne, samt
-sfinkterforhold (exploratio rectalis, side 113) ved mistanke om 
-*cauda equina-syndrom* (se kapitel 11). Ved mistanke om discusprolpas eller
+sfinkterforhold (exploratio rectalis, `side 113) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ ved mistanke om 
+*cauda equina-syndrom* `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Ved mistanke om discusprolpas eller
 anden columnalidelse med rodaffektion udføres *Lasègues prøve* og
 *omvendt Lasègue*.
 
@@ -707,7 +707,7 @@ at foretage samle-sprede-bevægelser af fingrene, opposition af tommelen
 og at knytte hånden (se Fig. 10.14). Ved traumer på hals og overekstremitet
 og i øvrigt ved symptomer på nerveaffektion (f.eks. smerter og
 føleforstyrrelser) er det obligatorisk at foretage en grundig undersøgelse
-af den perifere sensibilitet på hånden (se side 171 og 174). Desuden vurderes
+af den perifere sensibilitet på hånden `(se side 171 <11_Centralnervesystemet.rst#Motorik>`__ `og 174) <11_Centralnervesystemet.rst#Sensibilitet>`__ . Desuden vurderes
 kraften i håndmusklerne (se Fig. 10.15).
 
 Hofte og bækken
