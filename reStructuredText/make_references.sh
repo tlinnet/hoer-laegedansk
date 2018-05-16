@@ -102,11 +102,11 @@ gsed -i 's/side 113) /`side 113)  <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`_
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/(se side 171 /`(se side 171  <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
 gsed -i 's/og 174)/`og 174) <11_Centralnervesystemet.rst#Sensibilitet>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/(se kapitel 13)/`(se kapitel 13) <13_Kirtler.rst#>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/(se side 164)/`(se side 164) <11_Centralnervesystemet.rst#Sprog>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/(se side 144)/`(se side 144) <10_Bevægeapparatet.rst#Regional_undersøgelse>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/se side 185)/`se side 185) <12_Det_perifere_karsystem.rst#Auskultation>`__ /g' 10_Bevægeapparatet.rst
-gsed -i 's/(se side 171)/`(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ /g' 10_Bevægeapparatet.rst
+gsed -i 's/(se kapitel 13)/`(se kapitel 13) <13_Kirtler.rst#>`__ /g' 11_Centralnervesystemet.rst
+gsed -i 's/(se side 164)/`(se side 164) <11_Centralnervesystemet.rst#Sprog>`__ /g' 11_Centralnervesystemet.rst
+gsed -i 's/(se side 144)/`(se side 144) <10_Bevægeapparatet.rst#Regional_undersøgelse>`__ /g' 11_Centralnervesystemet.rst
+gsed -i 's/se side 185)/`se side 185) <12_Det_perifere_karsystem.rst#Auskultation>`__ /g' 11_Centralnervesystemet.rst
+gsed -i 's/(se side 171)/`(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ /g' 11_Centralnervesystemet.rst
 gsed -i 's/(se kapitel 11)/`(se kapitel 11) <11_Centralnervesystemet.rst#>`__ /g' 12_Det_perifere_karsystem.rst
 gsed -i 's/(se kapitel 5)/`(se kapitel 5) <5_Hjertet.rst#>`__ /g' 12_Det_perifere_karsystem.rst
 gsed -i 's/(jf. kapitel 7)/`(jf. kapitel 7) <7_Mave-tarm-systemet.rst#>`__ /g' 12_Det_perifere_karsystem.rst
