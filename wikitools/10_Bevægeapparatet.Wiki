@@ -53,13 +53,13 @@ Hovedformålet med anamnesen er at afgøre, om smerten skyldes traume/ belastnin
 
 Smerte fra bevægeapparatet kan udgå fra knogler, muskler eller led, og med sin udspørgen forsøger man at lokalisere patientens smerte. Som regel er det sådan, at jo mere distalt, en smerte sidder, jo mere præcist kan patienten redegøre for den, og der er ofte også lokaliserede ledsagesymptomer som f.eks. ledhævelse. Derimod kan det ofte være svært alene på anamnesen at lokalisere smerter i hofter, skuldre og det aksiale skelet. Specielt hofte- og skuldersmerter kan udstråle til hhv. arm og knæ. Ledsmerter er som regel ledsaget af ledhævelse.Muskelsmerter er ofte dybe, konstante og dårligt lokaliserede med ledsagende, hurtig udtrætning af musklen. Knoglesmerter beskrives typisk som dumpe eller borende. Alle tre smertetyper kan være til stede samtidig, som f.eks. ved slidgigt (''osteoartrose'') med knogleaffektion og sekundære myoser.
 
-Det er ikke ualmindeligt, at bevægeapparatslidelser afficerer tilstødende perifere nerver og giver dys- og paræstesier (se side 176). Særligt ved lænderygssmerter er det vigtigt at spørge til radikulære symptomer (jagende smerter ned på låret, dys- og paræstesier, kraftnedsættelse), som kunne tyde på affektion af de lumbale spinalrødder (se kapitel 11).
+Det er ikke ualmindeligt, at bevægeapparatslidelser afficerer tilstødende perifere nerver og giver dys- og paræstesier [[11_Centralnervesystemet#Sensibilitet|(se side 176)]] . Særligt ved lænderygssmerter er det vigtigt at spørge til radikulære symptomer (jagende smerter ned på låret, dys_ og paræstesier, kraftnedsættelse), som kunne tyde på affektion af de lumbale spinalrødder [[11_Centralnervesystemet#|(se kapitel 11)]] .
 
 De pludseligt opståede bevægeapparatssmerter er som regel traumatiske. Men det mindre traume kan gå ubemærket hen, eller anamnesen kan være uklar. Smerter pga. overbelastning er som regel let reproducerbare ved gentagen belastning. Ved inflammatoriske og degenerative lidelser kan der være en karakteristisk ''belastningstriade'': igangsætningssmerter →lindring ved let aktivitet →forværring ved yderligere aktivitet.
 
 Den hyppigste årsag til smerter og hævelse i et enkelt led er et traume. Urinsyregigt (''arthritis urica''), krystalsynovitis og bakteriel artrit er andre årsager; ved sidstnævnte har patienten oftest feber og andre almene symptomer. Ved smerter og hævelse i flere led er der mange mulige differentialdiagnoser. Ved pludseligt opståede symptomer er der ofte tale om en reaktiv artrit, og diagnosen kan sandsynliggøres ved forekomsten af forudgående almene symptomer (på en viral infektion) eller karakteristiske ledsagesymptomer (f.eks. fra øjne og urinrør ved ''mb. Reiter''). Ved ledegigt (''reumatoid artrit'') er det klassiske billede en symmetrisk affektion af fingerled, håndled og tæer. I aktiv fase er der som regel almene symptomer som træthed og vægttab. Slidgigt (''osteoartrose'') rammer oftest knæled, og patienten er sjældent yngre end 40-50 år.
 
-Virale sygdomme som influenza kan give diffuse muskel og ledsmerter. Både akutte og kroniske smerter i en ekstremitet kan skyldes karlidelser (se kapitel 12). Knogletumorer er sjældne og giver typisk natlige smerter.
+Virale sygdomme som influenza kan give diffuse muskel og ledsmerter. Både akutte og kroniske smerter i en ekstremitet kan skyldes karlidelser [[12_Det_perifere_karsystem#|(se kapitel 12)]] . Knogletumorer er sjældne og giver typisk natlige smerter.
 
 == Stivhed ==
 
@@ -117,7 +117,7 @@ Indled den objektive undersøgelse af bevægeapparatet med at iagttage patienten
 
 En forudsætning for undersøgelse af bevægeapparatet er, at patienten er fuldt afklædt. Gå ikke på kompromis! Det er samtidig utroligt vigtigt, at du har patientens fulde medvirken (kooperation), så vær omhyggelig med at skabe en god patientkontakt, hvor du hele tiden fortæller, hvad du ønsker at gøre.
 
-En grundig undersøgelse af patienten med klager fra bevægeapparatet omfatter også en undersøgelse af det perifere kar- og nervesystem (»neurovaskulære forhold«) (se kapitel 11 og 12). Hos traumepatienten er en nøje vurdering af de perifere neurovaskulære forhold obligat, og hos patienten med lændesmerter er det relevant at undersøge for lumbal rodaffektion (se side 171).
+En grundig undersøgelse af patienten med klager fra bevægeapparatet omfatter også en undersøgelse af det perifere kar- og nervesystem (»neurovaskulære forhold«) [[11_Centralnervesystemet#|(se kapitel 11]] [[12_Det_perifere_karsystem#|og 12)]] . Hos traumepatienten er en nøje vurdering af de perifere neurovaskulære forhold obligat, og hos patienten med lændesmerter er det relevant at undersøge for lumbal rodaffektion [[11_Centralnervesystemet#Motorik|(se side 171)]] .
 
 == Generelle principper ==
 
@@ -129,7 +129,7 @@ Bevægeapparatet bør undersøges regionsvist, idet man hele tiden sammenligner 
 
 <html5media>File:KAP10_140_3.mp3</html5media>
 
-''Huden'' i regionen vurderes: Er der rødme som tegn på infektion/inflammation? Ved traumer kan huden være læderet, og udbredelse og dybde af hudlæsionen beskrives nøje. Ved lukkede frakturer kan knogleenderne prominere og true huden. ''Deformiteter'' af regionen beskrives: Er der fejlstilling af knoglerne som ved fraktur, eller er der tale om kongenitte forandringer (f.eks. skoliose, se Fig. 10.2) eller degenerative forandringer (f.eks. reumatoide fingerdeformiteter, se Fig. 10.12)? ''Hævelse'' beskrives, idet man forsøger at afgrænse hævelsen: begrænset inden for ledkapslen, periartikulært ødem osv. ''Atrofi'' af musklerne vurderes også (se side 169).
+''Huden'' i regionen vurderes: Er der rødme som tegn på infektion/inflammation? Ved traumer kan huden være læderet, og udbredelse og dybde af hudlæsionen beskrives nøje. Ved lukkede frakturer kan knogleenderne prominere og true huden. ''Deformiteter'' af regionen beskrives: Er der fejlstilling af knoglerne som ved fraktur, eller er der tale om kongenitte forandringer (f.eks. skoliose, se Fig. 10.2) eller degenerative forandringer (f.eks. reumatoide fingerdeformiteter, se Fig. 10.12)? ''Hævelse'' beskrives, idet man forsøger at afgrænse hævelsen: begrænset inden for ledkapslen, periartikulært ødem osv. ''Atrofi'' af musklerne vurderes også [[11_Centralnervesystemet#Motorik|(se side 169)]] .
 
 == Palpation ==
 
@@ -141,7 +141,7 @@ Bevægeapparatet bør undersøges regionsvist, idet man hele tiden sammenligner 
 
 <html5media>File:KAP10_141_2.mp3</html5media>
 
-Ved objektiv vurdering af muskelfunktionen vurderes ''kraftnedsættelsen'' (se side 161). Ved vurdering af led og lednære forandringer er kernen i funktionsundersøgelsen en vurdering af leddets ''bevægelighed'' og ''stabilitet''.
+Ved objektiv vurdering af muskelfunktionen vurderes ''kraftnedsættelsen'' [[11_Centralnervesystemet#Kraftnedsættelse|(se side 161)]] . Ved vurdering af led og lednære forandringer er kernen i funktionsundersøgelsen en vurdering af leddets ''bevægelighed'' og ''stabilitet''.
 
 Ved undersøgelsen skelnes mellem ''aktiv bevægelighed'', hvor patienten selv bevæger leddet, og ''passiv bevægelighed'', hvor undersøgeren laver bevægelsen på den afslappede ekstremitet. En diskrepans mellem aktiv og passiv bevægelighed findes f.eks. ved muskelsvækkelse. Ved rutineundersøgelsen begrænser man sig – af praktiske hensyn – til at anvende aktiv bevægelighed ved undersøgelse af columna og passiv bevægelighed ved undersøgelse af ekstremiteter.
 
@@ -248,7 +248,7 @@ Før hånden så langt ned langs låret som muligt.
 
 '''Fig. 10.4''' Lasègues prøve.
 
-Patienter med symptomer fra columna kan ofte have udstrålende smerter i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer som tegn på irritation af spinalrødderne. En fuldstændig undersøgelse af columna hos disse patienter omfatter derfor også en neurologisk undersøgelse af over- eller underekstremiteterne, samt sfinkterforhold (exploratio rectalis, side 113) ved mistanke om ''cauda equina-syndrom'' (se kapitel 11). Ved mistanke om discusprolpas eller anden columnalidelse med rodaffektion udføres ''Lasègues prøve'' og ''omvendt Lasègue''.
+Patienter med symptomer fra columna kan ofte have udstrålende smerter i ekstremiteten (f.eks. »ischias«) eller andre neurologiske udfaldssymptomer som tegn på irritation af spinalrødderne. En fuldstændig undersøgelse af columna hos disse patienter omfatter derfor også en neurologisk undersøgelse af over- eller underekstremiteterne, samt sfinkterforhold (exploratio rectalis, [[7_Mave-tarm-systemet#Endetarm_(rectum)|side 113)]] ved mistanke om ''cauda equina_syndrom'' [[11_Centralnervesystemet#|(se kapitel 11)]] . Ved mistanke om discusprolpas eller anden columnalidelse med rodaffektion udføres ''Lasègues prøve'' og ''omvendt Lasègue''.
 
 == Skulder (regio glenohumerale) ==
 
@@ -421,7 +421,7 @@ Ved palpationen bemærkes ømhed af knogler og led som tegn på artrit
 
 eller fraktur. Leddene undersøges for løshed. Ved håndskader er det sær- 151 ligt vigtigt at undersøge det ulnare kollaterale ligament i tommelfingerens grundled (se Fig. 10.13).
 
-En grov vurdering af fingerbevægeligheden fås ved at bede patienten om at foretage samle-sprede-bevægelser af fingrene, opposition af tommelen og at knytte hånden (se Fig. 10.14). Ved traumer på hals og overekstremitet og i øvrigt ved symptomer på nerveaffektion (f.eks. smerter og føleforstyrrelser) er det obligatorisk at foretage en grundig undersøgelse af den perifere sensibilitet på hånden (se side 171 og 174). Desuden vurderes kraften i håndmusklerne (se Fig. 10.15).
+En grov vurdering af fingerbevægeligheden fås ved at bede patienten om at foretage samle-sprede-bevægelser af fingrene, opposition af tommelen og at knytte hånden (se Fig. 10.14). Ved traumer på hals og overekstremitet og i øvrigt ved symptomer på nerveaffektion (f.eks. smerter og føleforstyrrelser) er det obligatorisk at foretage en grundig undersøgelse af den perifere sensibilitet på hånden [[11_Centralnervesystemet#Motorik|(se side 171]] [[11_Centralnervesystemet#Sensibilitet|og 174)]] . Desuden vurderes kraften i håndmusklerne (se Fig. 10.15).
 
 == Hofte og bækken ==
 
