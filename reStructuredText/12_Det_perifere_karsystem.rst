@@ -128,8 +128,8 @@ Hævede ben (ødemer)
 Hævelse af ankler og fodryg, der lindres ved elevation, kan være forårsaget
 af kronisk venøs insufficiens. En sjælden årsag er lymfødem (pga.
 kompromitteret afløb i det lymfatiske system). Den hyppigste årsag – og
-vigtigste differentialdiagnose – er højresidig hjerteinsufficiens (se kapitel
-5), og her vil anamnesen og den objektive undersøgelse ofte give vigtige
+vigtigste differentialdiagnose – er højresidig hjerteinsufficiens (se kapitel5), 
+og her vil anamnesen og den objektive undersøgelse ofte give vigtige
 oplysninger: Tidligere dyb venøs trombose eller åreknuder (*varicer*)?
 Disponerende faktorer for lymfødem (kræft, stråleterapi)? Hjertesygdom?
 
