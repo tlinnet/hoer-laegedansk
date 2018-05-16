@@ -96,7 +96,7 @@ Svimmelhed (vertigo)
 
 <html5media>File:KAP11_156.mp3</html5media>
 
-Vertigo skyldes ofte lidelser i det indre øre (se kapitel 13), men kan også
+Vertigo skyldes ofte lidelser i det indre øre `(se kapitel 13) <13_Kirtler.rst#>`__ , men kan også
 skyldes forgiftning eller primær neurologisk lidelse (f.eks. acusticusneurinom
 eller apopleksi).
 
@@ -219,7 +219,7 @@ apopleksi. Sprogforstyrrelser (*dysfasi* eller *afasi*) skal skelnes fra talefor
 (*dysartri*). Anamneseoptagelsen søger at afdække patientens
 daglige funktionsniveau og at afklare, om der er tale om et nyopstået
 problem, mens den objektive undersøgelse forsøger at afklare hjerneskadens
-lokalisation (se side 164). Igen er det vigtigt at supplere anamnesen
+lokalisation `(se side 164) <11_Centralnervesystemet.rst#Sprog>`__ . Igen er det vigtigt at supplere anamnesen
 ved hjælp af vidner og pårørende:
 
 **Sprogforstyrrelser**
@@ -488,7 +488,7 @@ tegn på *meningitis* (se Fig. 11.1). Et andet fund ved meningeal irritation
 er *Kernigs tegn*: Hofte og knæ flekteres; der vil herefter være smertebetinget
 modstand mod passiv ekstension i knæleddet. Rygsøjlen undersøges
 for deformiteter, nedsat bevægelighed og ømhed, og der udføres
-*Lasègues prøve* (se side 144).
+*Lasègues prøve* `(se side 144) <10_Bevægeapparatet.rst#Regional_undersøgelse>`__ .
 
 <html5media>File:FIG11-1.mp3</html5media>
 
@@ -778,7 +778,7 @@ nervelæsion (peroneusparesen er langt den hyppigste):
 Ved mistanke om læsion af nerver på overekstremiteten suppleres med
 undersøgelse af kraft og bevægelighed i håndled og fingre. Ved fraktur
 og traumer på overekstremiteten skal der *altid* undersøges for dette
-(samt perifer sensibilitet, se side 174, og pulsforhold, se side 185), jf. Fig.
+(samt perifer sensibilitet, se side 174, og pulsforhold, `se side 185) <12_Det_perifere_karsystem.rst#Auskultation>`__ , jf. Fig.
 11.6.
 
 <html5media>File:FIG11-6.mp3</html5media>
@@ -852,7 +852,7 @@ De dybe senereflekser undersøges, ved at man understøtter det pågældende
 led, således at patienten slapper af (se Fig. 11.8-11). De dybe senereflekser
 er spinale reflekser, og ophævelse eller bortfald af de dybe senereflekser
 (*arefleksi*) ses derfor ved infranukleære læsioner (hvor refleksbuen
-er brudt), f.eks. ved discusprolaps (se side 171). Hyperaktive
+er brudt), f.eks. ved discusprolaps `(se side 171) <11_Centralnervesystemet.rst#Motorik>`__ . Hyperaktive
 reflekser (*hyperrefleksi*) ses ved supranukleære læsioner (som udtryk for
 manglende hæmning), men også ved visse medicinske lidelser f.eks.
 hypertyroidisme.
