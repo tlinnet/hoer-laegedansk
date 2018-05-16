@@ -26,7 +26,7 @@ Symptomer
 De vigtigste symptomer ved lidelser i de kvindelige kønsorganer er blødningsforstyrrelser,
 smerter og udflåd. Urinvejssymptomer er meget hyppige
 ved gynækologiske lidelser, hvorfor der også skal spørges til disse 
-(se kapitel 8). Det er altid vigtigt at vide, om en kvindelig patient er gravid –
+`(se kapitel 8) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__ . Det er altid vigtigt at vide, om en kvindelig patient er gravid –
 uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 
 **Gynækologi**
@@ -193,7 +193,7 @@ Objektivt
 <html5media>File:KAP9_131.mp3</html5media>
 
 Man starter altid med en almindelig ydre undersøgelse af abdomen
-(se kapitel 7). Måske kan man umiddelbart erkende f.eks. en forstørret
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Måske kan man umiddelbart erkende f.eks. en forstørret
 uterus. Ved lidelser i genitalia interna vil man typisk finde ømhed ved
 palpation lavt i nedre abdomen lige over symfysen og ingvinal-ligamenterne.
 
