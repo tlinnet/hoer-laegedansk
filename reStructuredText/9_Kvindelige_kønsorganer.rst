@@ -25,8 +25,8 @@ Symptomer
 
 De vigtigste symptomer ved lidelser i de kvindelige kønsorganer er blødningsforstyrrelser,
 smerter og udflåd. Urinvejssymptomer er meget hyppige
-ved gynækologiske lidelser, hvorfor der også skal spørges til disse (se
-kapitel 8). Det er altid vigtigt at vide, om en kvindelig patient er gravid –
+ved gynækologiske lidelser, hvorfor der også skal spørges til disse 
+(se kapitel 8). Det er altid vigtigt at vide, om en kvindelig patient er gravid –
 uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 
 **Gynækologi**
@@ -193,7 +193,7 @@ Objektivt
 <html5media>File:KAP9_131.mp3</html5media>
 
 Man starter altid med en almindelig ydre undersøgelse af abdomen
-(se kapitel 7). Måske kan man umiddelbart erkende f.eks. en forstørret
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Måske kan man umiddelbart erkende f.eks. en forstørret
 uterus. Ved lidelser i genitalia interna vil man typisk finde ømhed ved
 palpation lavt i nedre abdomen lige over symfysen og ingvinal-ligamenterne.
 
@@ -377,7 +377,7 @@ Man fortsætter herefter med *bimanuel eksploration* (se Fig. 9.4-9.6).
 Man kan evt. afslutte den gynækologiske undersøgelse med en *rektovaginal*
 eksploration, hvor højre hånds 2. finger eksplorerer i vagina,
 mens 3. finger indføres i rectum. Ved denne undersøgelse indhentes de
-samme informationer som ved rektaleksploration (se side 114), men
+samme informationer som ved rektaleksploration `(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ , men
 man kan samtidig bedre vurdere en evt. retroflekteret uterus og man
 vil kunne vurdere evt. udfyldninger i *fossa Douglasi*, f.eks. »sneboldsknitren« 
 ved rumperet ekstrauterin graviditet.
