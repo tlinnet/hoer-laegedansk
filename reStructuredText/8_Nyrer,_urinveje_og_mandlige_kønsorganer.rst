@@ -267,8 +267,8 @@ i lungerne (lungestase) og mellem lungehinderne (pleuraekssudater).
 Ledsagesymptomer til vand i kroppen ved nyresygdom er nedsat urinproduktion
 (*oliguri*) og skummende urin (pga. *proteinuri*). Ødemer og
 proteinuri er kardinaltegnene ved *nefrotisk syndrom*. Ødemer ses også
-ved hjertesygdom, perifer venøs insufficiens og lymfødem (se kapitel 5
-og 12). Det kan være svært alene på anamnesen at afgøre årsagen til ødemerne.
+ved hjertesygdom, perifer venøs insufficiens og lymfødem (se kapitel 5 og 12). 
+Det kan være svært alene på anamnesen at afgøre årsagen til ødemerne.
 
 Objektiv undersøgelse
 =====================
