@@ -64,7 +64,7 @@ Pludseligt opstået, voldsom hovedpine – ofte »som et smæld i hovedet« efte
 
 <html5media>File:KAP11_156.mp3</html5media>
 
-Vertigo skyldes ofte lidelser i det indre øre (se kapitel 13), men kan også skyldes forgiftning eller primær neurologisk lidelse (f.eks. acusticusneurinom eller apopleksi).
+Vertigo skyldes ofte lidelser i det indre øre [[13_Kirtler#|(se kapitel 13)]] , men kan også skyldes forgiftning eller primær neurologisk lidelse (f.eks. acusticusneurinom eller apopleksi).
 
 == Bevidsthedstab ==
 
@@ -149,7 +149,7 @@ Anamneseoptagelsen fokuseres derfor på at afklare, hvad der kom først (kramper
 
 <html5media>File:KAP11_159.mp3</html5media>
 
-Sprogforstyrrelser er ændringer i evnen til at forstå eller udtrykke sig sprogligt og skyldes skader i den sprogdominante hjernehalvdel, f.eks. en apopleksi. Sprogforstyrrelser (''dysfasi'' eller ''afasi'') skal skelnes fra taleforstyrrelser (''dysartri''). Anamneseoptagelsen søger at afdække patientens daglige funktionsniveau og at afklare, om der er tale om et nyopstået problem, mens den objektive undersøgelse forsøger at afklare hjerneskadens lokalisation (se side 164). Igen er det vigtigt at supplere anamnesen ved hjælp af vidner og pårørende:
+Sprogforstyrrelser er ændringer i evnen til at forstå eller udtrykke sig sprogligt og skyldes skader i den sprogdominante hjernehalvdel, f.eks. en apopleksi. Sprogforstyrrelser (''dysfasi'' eller ''afasi'') skal skelnes fra taleforstyrrelser (''dysartri''). Anamneseoptagelsen søger at afdække patientens daglige funktionsniveau og at afklare, om der er tale om et nyopstået problem, mens den objektive undersøgelse forsøger at afklare hjerneskadens lokalisation [[11_Centralnervesystemet#Sprog|(se side 164)]] . Igen er det vigtigt at supplere anamnesen ved hjælp af vidner og pårørende:
 
 '''Sprogforstyrrelser'''
 
@@ -327,7 +327,7 @@ Afasi undersøges ved at lytte til forstyrrelser i patientens spontane tale, ved
 
 <html5media>File:KAP11_165.mp3</html5media>
 
-Det ydre kranie undersøges for synlige læsioner eller palpatoriske tegn på kraniefraktur. Halsen undersøges for nakkestivhed, som kan være et tegn på ''meningitis'' (se Fig. 11.1). Et andet fund ved meningeal irritation er ''Kernigs tegn'': Hofte og knæ flekteres; der vil herefter være smertebetinget modstand mod passiv ekstension i knæleddet. Rygsøjlen undersøges for deformiteter, nedsat bevægelighed og ømhed, og der udføres ''Lasègues prøve'' (se side 144).
+Det ydre kranie undersøges for synlige læsioner eller palpatoriske tegn på kraniefraktur. Halsen undersøges for nakkestivhed, som kan være et tegn på ''meningitis'' (se Fig. 11.1). Et andet fund ved meningeal irritation er ''Kernigs tegn'': Hofte og knæ flekteres; der vil herefter være smertebetinget modstand mod passiv ekstension i knæleddet. Rygsøjlen undersøges for deformiteter, nedsat bevægelighed og ømhed, og der udføres ''Lasègues prøve'' [[10_Bevægeapparatet#Regional_undersøgelse|(se side 144)]] .
 
 <html5media>File:FIG11-1.mp3</html5media>
 
@@ -562,7 +562,7 @@ haserefleks
 | Fodsål
 |}
 
-Ved mistanke om læsion af nerver på overekstremiteten suppleres med undersøgelse af kraft og bevægelighed i håndled og fingre. Ved fraktur og traumer på overekstremiteten skal der ''altid'' undersøges for dette (samt perifer sensibilitet, se side 174, og pulsforhold, se side 185), jf. Fig. 11.6.
+Ved mistanke om læsion af nerver på overekstremiteten suppleres med undersøgelse af kraft og bevægelighed i håndled og fingre. Ved fraktur og traumer på overekstremiteten skal der ''altid'' undersøges for dette (samt perifer sensibilitet, se side 174, og pulsforhold, [[12_Det_perifere_karsystem#Auskultation|se side 185)]] , jf. Fig. 11.6.
 
 <html5media>File:FIG11-6.mp3</html5media>
 
@@ -606,7 +606,7 @@ beder ham lukke øjnene – hvis han svajer eller falder, er Rombergs prøve pos
 
 '''Reflekser'''
 
-De dybe senereflekser undersøges, ved at man understøtter det pågældende led, således at patienten slapper af (se Fig. 11.8-11). De dybe senereflekser er spinale reflekser, og ophævelse eller bortfald af de dybe senereflekser (''arefleksi'') ses derfor ved infranukleære læsioner (hvor refleksbuen er brudt), f.eks. ved discusprolaps (se side 171). Hyperaktive reflekser (''hyperrefleksi'') ses ved supranukleære læsioner (som udtryk for manglende hæmning), men også ved visse medicinske lidelser f.eks. hypertyroidisme.
+De dybe senereflekser undersøges, ved at man understøtter det pågældende led, således at patienten slapper af (se Fig. 11.8-11). De dybe senereflekser er spinale reflekser, og ophævelse eller bortfald af de dybe senereflekser (''arefleksi'') ses derfor ved infranukleære læsioner (hvor refleksbuen er brudt), f.eks. ved discusprolaps [[11_Centralnervesystemet#Motorik|(se side 171)]] . Hyperaktive reflekser (''hyperrefleksi'') ses ved supranukleære læsioner (som udtryk for manglende hæmning), men også ved visse medicinske lidelser f.eks. hypertyroidisme.
 
 <html5media>File:FIG11-8.mp3</html5media>
 
