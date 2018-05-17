@@ -8,8 +8,8 @@ source 00_convert_rst_to_Wiki.sh
 # Change dir
 cd ../wikitools
 # Delete .Wiki old files
-rm -f *_*.Wiki
-#rm Forside.Wiki
+#rm -f *_*.Wiki
+rm Forside.Wiki
 
 # Delete single
 #rm 10_Bevægeapparatet.Wiki
