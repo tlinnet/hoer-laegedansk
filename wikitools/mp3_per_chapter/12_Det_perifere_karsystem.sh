@@ -1,0 +1,12 @@
+cat \
+../../materialer/CKU/MP3/KAP12_178.mp3 \
+../../materialer/CKU/MP3/KAP12_179.mp3 \
+../../materialer/CKU/MP3/KAP12_180.mp3 \
+../../materialer/CKU/MP3/KAP12_181.mp3 \
+../../materialer/CKU/MP3/KAP12_181_2.mp3 \
+../../materialer/CKU/MP3/KAP12_182.mp3 \
+../../materialer/CKU/MP3/KAP12_182_2.mp3 \
+../../materialer/CKU/MP3/KAP12_183.mp3 \
+../../materialer/CKU/MP3/KAP12_185.mp3 \
+../../materialer/CKU/MP3/KAP12_185_2.mp3 \
+> HELE12.mp3

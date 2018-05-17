@@ -1,0 +1,13 @@
+cat \
+../../materialer/CKU/MP3/KAP9_127.mp3 \
+../../materialer/CKU/MP3/KAP9_127_2.mp3 \
+../../materialer/CKU/MP3/KAP9_128.mp3 \
+../../materialer/CKU/MP3/KAP9_129.mp3 \
+../../materialer/CKU/MP3/KAP9_129_2.mp3 \
+../../materialer/CKU/MP3/KAP9_130.mp3 \
+../../materialer/CKU/MP3/KAP9_130_2.mp3 \
+../../materialer/CKU/MP3/KAP9_131.mp3 \
+../../materialer/CKU/MP3/KAP9_131_2.mp3 \
+../../materialer/CKU/MP3/KAP9_132.mp3 \
+../../materialer/CKU/MP3/KAP9_134.mp3 \
+> HELE9.mp3

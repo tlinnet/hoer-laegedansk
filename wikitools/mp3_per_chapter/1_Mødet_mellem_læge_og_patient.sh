@@ -1,0 +1,16 @@
+cat \
+../../materialer/CKU/MP3/KAP1_15.mp3 \
+../../materialer/CKU/MP3/KAP1_15_2.mp3 \
+../../materialer/CKU/MP3/KAP1_16.mp3 \
+../../materialer/CKU/MP3/KAP1_16_2.mp3 \
+../../materialer/CKU/MP3/KAP1_17.mp3 \
+../../materialer/CKU/MP3/KAP1_18.mp3 \
+../../materialer/CKU/MP3/KAP1_19.mp3 \
+../../materialer/CKU/MP3/KAP1_19_2.mp3 \
+../../materialer/CKU/MP3/KAP1_19_3.mp3 \
+../../materialer/CKU/MP3/KAP1_21.mp3 \
+../../materialer/CKU/MP3/KAP1_22.mp3 \
+../../materialer/CKU/MP3/KAP1_22_2.mp3 \
+../../materialer/CKU/MP3/KAP1_22_3.mp3 \
+../../materialer/CKU/MP3/KAP1_23.mp3 \
+> HELE1.mp3
