@@ -4,7 +4,7 @@
 :date: 2018-05-01 12:53
 :category: Kapitler
 
-* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/6_Lunger_og_luftveje">`__
+* **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/6_Lunger_og_luftveje>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE6.mp3</html5media>
 
 **Nøglepunkter**

@@ -33,5 +33,10 @@ for fullfile in $RSTFILES; do
         gsed -i 's/-png.png/_png.png/g' ${filename}.Wiki
         gsed -i 's/|frame|/|thumb|/g' ${filename}.Wiki
         gsed -i 's/|caption/|/g' ${filename}.Wiki
+        
+        # Fix Link
+        gsed -i 's/hoer_laegedansk/hoer-laegedansk/g' ${filename}.Wiki
+        gsed -i 's/\[\[https:\/\/translate\.google\.com/\[https:\/\/translate\.google\.com/g' ${filename}.Wiki
+        gsed -i 's/|Google Translate\]\]/ Google Translate\]/g' ${filename}.Wiki
     fi
 done

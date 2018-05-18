@@ -1,6 +1,6 @@
 __TOC__
 
-* '''Link to machine translation of this page to english:''' [[%22https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/10_Bevægeapparatet%22|Google Translate]]
+* '''Link to machine translation of this page to english:''' [[https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/10_Bevægeapparatet|Google Translate]]
 * '''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE10.mp3&lt;/html5media&gt;
 
 '''Nøglepunkter'''
