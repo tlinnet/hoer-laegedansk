@@ -2,7 +2,6 @@ cat \
 ../../materialer/CKU/MP3/KAP3_31.mp3 \
 ../../materialer/CKU/MP3/KAP3_31_2.mp3 \
 ../../materialer/CKU/MP3/KAP3_31_3.mp3 \
-../../materialer/CKU/MP3/OP-JOUR.mp3 \
 ../../materialer/CKU/MP3/KAP3_33.mp3 \
 ../../materialer/CKU/MP3/KAP3_33_2.mp3 \
 ../../materialer/CKU/MP3/KAP3_34.mp3 \

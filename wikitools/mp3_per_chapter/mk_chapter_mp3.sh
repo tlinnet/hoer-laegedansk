@@ -20,6 +20,7 @@ echo "cat \\" > $FNAMEO
 grep ".mp3" $1 \
 | grep -v "BOKS" \
 | grep -v "FIG" \
+| grep -v "OP-JOUR" \
 | sed 's/<html5media>File:/..\/..\/materialer\/CKU\/MP3\//g' \
 | sed 's/<\/html5media>/ \\/g' >> $FNAMEO
 
