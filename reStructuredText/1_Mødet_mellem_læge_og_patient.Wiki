@@ -1,5 +1,7 @@
 __TOC__
 
+'''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE1.mp3&lt;/html5media&gt;
+
 &lt;html5media&gt;File:KAP1_15.mp3&lt;/html5media&gt;
 
 Som den læge, der optager journal, er du ofte den første læge, patienten møder på sygehuset. Uanset om indlæggelsen er akut eller kulminationen af et længere sygdomsforløb, har patienten gjort sig sine tanker og har nogle forventninger til sygehusopholdet. En af dine vigtigste opgaver er at få patienten til at fortælle om sine oplevelser, tanker og forventninger vedrørende sin tilstand og sit livsforløb. Denne fortælling kalder vi også sygehistorien eller anamnesen.

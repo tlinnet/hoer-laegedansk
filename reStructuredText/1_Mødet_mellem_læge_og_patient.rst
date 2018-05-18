@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:58
 :category: Kapitler
 
+**Oplæsning for hele kapitlet:** <html5media>File:HELE1.mp3</html5media>
+
 <html5media>File:KAP1_15.mp3</html5media>
 
 Som den læge, der optager journal, er du ofte den første læge, patienten

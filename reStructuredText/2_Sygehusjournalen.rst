@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:57
 :category: Kapitler
 
+**Oplæsning for hele kapitlet:** <html5media>File:HELE2.mp3</html5media>
+
 Formålet med patientjournalen
 =============================
 

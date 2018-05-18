@@ -9,9 +9,11 @@ source 00_convert_rst_to_Wiki.sh
 cd ../wikitools
 # Delete .Wiki old files
 #rm -f *_*.Wiki
-rm Forside.Wiki
+#rm Forside.Wiki
 
 # Delete single
+#rm 1_Mødet_mellem_læge_og_patient.Wiki
+rm 2_Sygehusjournalen.Wiki
 #rm 10_Bevægeapparatet.Wiki
 #rm 11_Centralnervesystemet.Wiki
 #rm 12_Det_perifere_karsystem.Wiki

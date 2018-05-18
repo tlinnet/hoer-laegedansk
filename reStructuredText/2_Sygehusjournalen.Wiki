@@ -1,5 +1,7 @@
 __TOC__
 
+'''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE2.mp3&lt;/html5media&gt;
+
 = Formålet med patientjournalen =
 
 &lt;html5media&gt;File:KAP2_25.mp3&lt;/html5media&gt;
