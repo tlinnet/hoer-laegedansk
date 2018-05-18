@@ -4,6 +4,9 @@
 :date: 2018-05-01 12:48
 :category: Kapitler
 
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/11_Centralnervesystemet">`__
+* **Oplæsning for hele kapitlet:** <html5media>File:HELE11.mp3</html5media>
+
 **Nøglepunkter**
 
 <html5media>File:KAP11_154.mp3</html5media>

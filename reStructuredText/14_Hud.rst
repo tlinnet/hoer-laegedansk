@@ -4,6 +4,9 @@
 :date: 2018-05-01 12:45
 :category: Kapitler
 
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/14_Hud">`__
+* **Oplæsning for hele kapitlet:** <html5media>File:HELE14.mp3</html5media>
+
 **Nøglepunkter**
 
 <html5media>File:KAP14_194.mp3</html5media>

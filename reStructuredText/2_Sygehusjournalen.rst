@@ -4,7 +4,8 @@
 :date: 2018-05-01 12:57
 :category: Kapitler
 
-**Oplæsning for hele kapitlet:** <html5media>File:HELE2.mp3</html5media>
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/2_Sygehusjournalen">`__
+* **Oplæsning for hele kapitlet:** <html5media>File:HELE2.mp3</html5media>
 
 Formålet med patientjournalen
 =============================

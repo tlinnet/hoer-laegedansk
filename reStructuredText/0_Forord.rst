@@ -4,6 +4,8 @@ Forord
 :date: 2018-05-01 12:59
 :category: Kapitler
 
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/0_Forord">`__
+
 <html5media>File:FORORD.mp3</html5media>
 
 Vi håber at denne bog finder sin naturlige plads i kittellommerne hos

@@ -4,6 +4,9 @@
 :date: 2018-05-01 12:46
 :category: Kapitler
 
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/13_Kirtler">`__
+* **Oplæsning for hele kapitlet:** <html5media>File:HELE13.mp3</html5media>
+
 **Nøglepunkter**
 
 <html5media>File:KAP13_187.mp3</html5media>

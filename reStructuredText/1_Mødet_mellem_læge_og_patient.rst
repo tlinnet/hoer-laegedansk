@@ -4,7 +4,8 @@
 :date: 2018-05-01 12:58
 :category: Kapitler
 
-**Oplæsning for hele kapitlet:** <html5media>File:HELE1.mp3</html5media>
+* **Link to machine translation of this page to english:** `Google Translate <"https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/1_Mødet_mellem_læge_og_patient">`__
+* **Oplæsning for hele kapitlet:** <html5media>File:HELE1.mp3</html5media>
 
 <html5media>File:KAP1_15.mp3</html5media>
 
