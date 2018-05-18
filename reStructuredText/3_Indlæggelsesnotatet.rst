@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:56
 :category: Kapitler
 
+**Oplæsning for hele kapitlet:** <html5media>File:HELE3.mp3</html5media>
+
 <html5media>File:KAP3_31.mp3</html5media>
 
 I Danmark anvender de fleste læger en traditionel disposition for primærjournalen.

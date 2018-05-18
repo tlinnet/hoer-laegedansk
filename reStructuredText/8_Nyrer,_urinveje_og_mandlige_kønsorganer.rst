@@ -4,6 +4,8 @@
 :date: 2018-05-01 12:51
 :category: Kapitler
 
+**Oplæsning for hele kapitlet:** <html5media>File:HELE8.mp3</html5media>
+
 **Nøglepunkter**
 
 <html5media>File:KAP8_116.mp3</html5media>
