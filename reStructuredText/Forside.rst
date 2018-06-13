@@ -37,6 +37,8 @@ Søren Brostrøm & Niels Saxtrup Nielsen, Munksgaard 2001, 1. udgave.
    :width: 200 px
    :alt: Hør lægedansk - mens du læser!
 
+<div style="background:#BBE5F8">
+
 | **Spoken introduction in english**
 | <html5media>File:INTRO_UK.mp3</html5media>
 
@@ -54,6 +56,10 @@ alternating with sequences of LISTEN AND READ - STOP AND SPEAK.
 During the daily contact with patients, relatives and health personal it is advisable to use the CD plus the book as a 
 source of answers to questions regarding pronunciation. When the workday is over one can take off in words noted
 during the day on a scribbling block in the coat pocket. In other words: LEARNING BY NEEDING rather than LEARNING BY DOING. 
+
+</div>
+
+<div style="background:#BBE5F8">
 
 | **Indtalt introduktion på dansk**
 | <html5media>File:INTRO_DK.mp3</html5media>
@@ -73,6 +79,8 @@ Under den daglige kontakt med patienter, pårørende og sundhedsfagligt personal
 lydudgaven og bogen som kilde til svar på ubesvarede spørgsmål om udtale. Når arbejdsdagen er ovre, kan man
 tage afsæt i stikord, som man har noteret på en blok i kittellommen.
 Med andre ord: LÆRING VED BEHOV er lydudgavens pædagogiske grundprincip.  
+
+</div>
 
 Abstract - “Listen to Danish in medicine – while you read!”
 ===================================================================================================

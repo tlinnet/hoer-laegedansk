@@ -26,6 +26,11 @@ for fullfile in $RSTFILES; do
         # Fix < and >
         gsed -i 's/&lt;html5media&gt;/<html5media>/g' ${filename}.Wiki
         gsed -i 's/&lt;\/html5media&gt;/<\/html5media>/g' ${filename}.Wiki
+        # Colors in dic
+        gsed -i 's/&lt;div style=&quot;background:#BBE5F8&quot;&gt;/<div style="background:#BBE5F8">/g' ${filename}.Wiki
+        gsed -i 's/&lt;div style=&quot;background:#f8f9fa&quot;&gt;/<div style="background:#f8f9fa">/g' ${filename}.Wiki
+        gsed -i 's/&lt;\/div&gt;/<\/div>/g' ${filename}.Wiki
+
 
         # Fix Image
         gsed -i 's/\[\[File:Figurer\//[[File:/g' ${filename}.Wiki

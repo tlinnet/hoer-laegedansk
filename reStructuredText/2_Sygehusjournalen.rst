@@ -4,8 +4,12 @@
 :date: 2018-05-01 12:57
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/2_Sygehusjournalen>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE2.mp3</html5media>
+
+</div>
 
 Formålet med patientjournalen
 =============================
@@ -45,6 +49,16 @@ oprettes en ny journalforside for hvert forløb (f.eks. indlæggelse eller
 ambulant forløb). Journalens krop er som regel inddelt i afsnit ved hjælp
 af faneblade og kunne f.eks. indeholde følgende afsnit:
 
+Endvidere kan journalen også indeholde *resuméark*, hvor man opremser
+patientens tidligere indlæggelser, særlige *skemaer* over observerede værdier
+som f.eks. blodtryk, puls og temperatur, oversigt over patientens
+medicinstatus eller særlige *ordinationsark*, hvor bestilte undersøgelser og
+iværksatte behandlinger er opført. De fleste sygehuse har indført fællesjournaler,
+således at den samme journal følger patienten ved indlæggelse
+på forskellige afdelinger.
+
+<div style="background:#BBE5F8">
+
 **Sygehusjournalens opbygning**
 
 <html5media>File:BOKS26.mp3</html5media>
@@ -69,13 +83,7 @@ Transfusionsskema:
 Korrespondancer:
   – indeholder udskrivningsbreve (epikriser), henvisninger samt breve til og fra patienten m.v.
 
-Endvidere kan journalen også indeholde *resuméark*, hvor man opremser
-patientens tidligere indlæggelser, særlige *skemaer* over observerede værdier
-som f.eks. blodtryk, puls og temperatur, oversigt over patientens
-medicinstatus eller særlige *ordinationsark*, hvor bestilte undersøgelser og
-iværksatte behandlinger er opført. De fleste sygehuse har indført fællesjournaler,
-således at den samme journal følger patienten ved indlæggelse
-på forskellige afdelinger.
+</div>
 
 Journaltekstens disposition
 ===========================

@@ -1,7 +1,11 @@
 __TOC__
 
+&lt;div style=&quot;background:#f8f9fa&quot;&gt;
+
 * '''Link to machine translation of this page to english:''' [https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/2_Sygehusjournalen Google Translate]
 * '''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE2.mp3&lt;/html5media&gt;
+
+&lt;/div&gt;
 
 = Formålet med patientjournalen =
 
@@ -16,6 +20,10 @@ Lægers journalføring er omtalt i lægeloven og et tilhørende cirkulære, der 
 &lt;html5media&gt;File:KAP2_25_2.mp3&lt;/html5media&gt;
 
 Opbygningen af patientjournalen varierer fra sygehus til sygehus. Som regel indeholder den en journalforside med oplysninger om patientens navn og adresse, patientens praktiserende læge, de diagnoser, patienten har fået, og de operative indgreb, der er fortaget under indlæggelsen. Der oprettes en ny journalforside for hvert forløb (f.eks. indlæggelse eller ambulant forløb). Journalens krop er som regel inddelt i afsnit ved hjælp af faneblade og kunne f.eks. indeholde følgende afsnit:
+
+Endvidere kan journalen også indeholde ''resuméark'', hvor man opremser patientens tidligere indlæggelser, særlige ''skemaer'' over observerede værdier som f.eks. blodtryk, puls og temperatur, oversigt over patientens medicinstatus eller særlige ''ordinationsark'', hvor bestilte undersøgelser og iværksatte behandlinger er opført. De fleste sygehuse har indført fællesjournaler, således at den samme journal følger patienten ved indlæggelse på forskellige afdelinger.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Sygehusjournalens opbygning'''
 
@@ -38,7 +46,7 @@ Opbygningen af patientjournalen varierer fra sygehus til sygehus. Som regel inde
 ; Korrespondancer:
 : – indeholder udskrivningsbreve (epikriser), henvisninger samt breve til og fra patienten m.v.
 
-Endvidere kan journalen også indeholde ''resuméark'', hvor man opremser patientens tidligere indlæggelser, særlige ''skemaer'' over observerede værdier som f.eks. blodtryk, puls og temperatur, oversigt over patientens medicinstatus eller særlige ''ordinationsark'', hvor bestilte undersøgelser og iværksatte behandlinger er opført. De fleste sygehuse har indført fællesjournaler, således at den samme journal følger patienten ved indlæggelse på forskellige afdelinger.
+&lt;/div&gt;
 
 = Journaltekstens disposition =
 

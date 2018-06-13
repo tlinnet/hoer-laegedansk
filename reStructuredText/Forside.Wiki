@@ -32,6 +32,8 @@ __TOC__
 
 [[File:Figurer/CD_billede_or.png|frame|none|200px]]
 
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
+
 '''Spoken introduction in english'''<br />
 &lt;html5media&gt;File:INTRO_UK.mp3&lt;/html5media&gt;
 
@@ -41,6 +43,10 @@ As Danish, and thereby also medical professions' Danish, among other European la
 
 During the daily contact with patients, relatives and health personal it is advisable to use the CD plus the book as a source of answers to questions regarding pronunciation. When the workday is over one can take off in words noted during the day on a scribbling block in the coat pocket. In other words: LEARNING BY NEEDING rather than LEARNING BY DOING.
 
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
+
 '''Indtalt introduktion på dansk'''<br />
 &lt;html5media&gt;File:INTRO_DK.mp3&lt;/html5media&gt;
 
@@ -49,6 +55,8 @@ Denne lydudgave af bogen SUBJEKTIVT OG OBJEKTIVT skal lette tilegnelsen af den t
 Da det danske sprog, og dermed også lægefagligt dansk, rummer den største afstand mellem skriftlig og talt form blandt de europæiske sprog, er formålet med lydudgaven, at læger med en fremmedsproglig baggrund skal kunne benytte lydudgaven som udtalevejledning under brug af den trykte udgave. Den skal dermed i højere grad anvendes som et opslagsværktøj og ikke i første række som grundlag for en lydoplæsning fra første til sidste side. Aflytning mens man læser, alternerende med sekvenser af LYT OG LÆS - STOP OG TAL.
 
 Under den daglige kontakt med patienter, pårørende og sundhedsfagligt personale kan det anbefales at benytte lydudgaven og bogen som kilde til svar på ubesvarede spørgsmål om udtale. Når arbejdsdagen er ovre, kan man tage afsæt i stikord, som man har noteret på en blok i kittellommen. Med andre ord: LÆRING VED BEHOV er lydudgavens pædagogiske grundprincip.
+
+&lt;/div&gt;
 
 = Abstract - “Listen to Danish in medicine – while you read!” =
 
