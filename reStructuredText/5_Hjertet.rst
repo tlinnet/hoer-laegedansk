@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:54
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/5_Hjertet>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE5.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -21,7 +27,9 @@
 * Den vigtigste del af den objektive undersøgelse af hjertepatienten er
   en vurdering af almenstilstanden med fokus på farve, respiration,
   perifer cirkulation og hydrering.
-  
+
+</div>
+
 Symptomer
 =========
 
@@ -29,6 +37,12 @@ Symptomer
 
 De vigtigste symptomer ved hjertelidelser er træthed, åndenød, brystsmerter,
 hjertebanken og vand i benene (ødemer).
+
+I Danmark er hjertesygdom ofte forårsaget af åreforkalkning (*arteriosklerose*).
+Hjertepatienten skal derfor altid undersøges for symptomer og
+tegn på generaliseret arteriosklerose `(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ .
+
+<div style="background:#BBE5F8">
 
 **Hjertesygdom**
 
@@ -39,9 +53,7 @@ hjertebanken og vand i benene (ødemer).
 * Har du hjertebanken?
 * Har du tendens til hævede ankler?
 
-I Danmark er hjertesygdom ofte forårsaget af åreforkalkning (*arteriosklerose*).
-Hjertepatienten skal derfor altid undersøges for symptomer og
-tegn på generaliseret arteriosklerose `(se kapitel 12) <12_Det_perifere_karsystem.rst#>`__ .
+</div>
 
 Træthed og funktionsnedsættelse
 -------------------------------
@@ -64,6 +76,16 @@ Hjertepatienter oplever typisk åndenød ved anstrengelse (*funktionsdyspnø*)
 eller når de ligger fladt i sengen (*ortopnø*). Taledyspnø og hviledyspnø
 er de alvorligste grader af åndenød.
 
+Det kan være svært at skelne åndenød forårsaget af hhv. hjerte- og lungesygdom.
+Nogle patienter har begge dele. Besværet, »hvæsende« vejrtrækning
+er typisk for lungepatienten. Åndenød ved fladt leje og i natlige
+anfald er typisk for hjertesygdom. Ved panikangst ses en pludseligt opstået
+overvældende eller kvælende åndenød, ledsaget af dødsangst men
+uden karakteristiske lindrende faktorer (som hvile eller elevation af
+hovedet). Hyperventilation `(se side 85) <6_Lunger_og_luftveje.rst#Hvæsen_og_piben>`__  er ofte angstudløst.
+
+<div style="background:#BBE5F8">
+
 **Åndenød**
 
 <html5media>File:BOKS69.mp3</html5media>
@@ -74,13 +96,7 @@ er de alvorligste grader af åndenød.
 * Vågner du om natten med voldsom åndenød?
 * »Hvæser« det i brystet, når du ikke kan få luft?
 
-Det kan være svært at skelne åndenød forårsaget af hhv. hjerte- og lungesygdom.
-Nogle patienter har begge dele. Besværet, »hvæsende« vejrtrækning
-er typisk for lungepatienten. Åndenød ved fladt leje og i natlige
-anfald er typisk for hjertesygdom. Ved panikangst ses en pludseligt opstået
-overvældende eller kvælende åndenød, ledsaget af dødsangst men
-uden karakteristiske lindrende faktorer (som hvile eller elevation af
-hovedet). Hyperventilation `(se side 85) <6_Lunger_og_luftveje.rst#Hvæsen_og_piben>`__  er ofte angstudløst.
+</div>
 
 Brystsmerter
 ------------
@@ -95,6 +111,30 @@ iltbehov. Men den tilgrundliggende årsag er i de fleste tilfælde en arterioskl
 forsnævring (*stenose*) af en eller flere kranspulsårer, der
 hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 
+De forskellige typer af iskæmiske brystsmerter karakteriseres ved deres
+udløsende og lindrende faktorer. Den hyppigste form for angina pectoris
+er *stabil angina pectoris*. *Angina pectoris* kan også være et symptom på
+forsnævring af aorta-ostiet (*aortastenose*) eller forstørret hjerte 
+(*hypertensiv hjertesygdom, hypertrofisk kardiomyopati*).
+
+Brystsmerter ses også ved lidelser i mave-tarm-systemet, f.eks. refluksøsofagit,
+mavesår, galdesten og pankreatit (betændelse i bugspytkirtlen)
+`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Smerter fra brystvæg og rygsøjle kan give smerter, der fejltolkes
+som *angina*. Objektivt finder man da lokaliseret ømhed ved palpation
+af thorax-skelettet `(se side 92) <6_Lunger_og_luftveje.rst#Palpation>`__ . En overfladisk, brændende smerte i
+brystvæggen kan være helvedesild (*herpes zoster*).
+
+En vigtig differentialdiagnose ved smerter i brystet er selvfølgelig
+lidelser i lungerne og lungehinderne, f.eks. *pneumoni* (lungebetændelse),
+*pneumothorax* (sammenklappet lunge pga. luft i pleurahulen) eller *pleuritis*
+(lungehindebetændelse) `(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ . Det thorakale aortaaneurisme
+er en sjælden, men vigtig differentialdiagnose ved akut opståede brystsmerter;
+det klassiske symptom er en intens, skærende smerte imellem
+skulderbladene. Endelig må man ikke glemme, at hjerteinfarktet kan
+debutere med *mavesmerter*.
+
+<div style="background:#BBE5F8">
+
 **Hjertekrampe (angina pectoris)**
 
 <html5media>File:BOKS70A.mp3</html5media>
@@ -105,6 +145,10 @@ hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 * Beskriv smerten (knugende, stikkende, brændende)? Er den konstant?
 * Hvor sidder den i brystet? Stråler den nogen steder hen?
 
+</div>
+
+<div style="background:#BBE5F8">
+
 **Karakteristika for stabil angina pectoris**
 
 <html5media>File:BOKS70B.mp3</html5media>
@@ -114,6 +158,8 @@ hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 * Knugende, trykkende, sammensnørende smerte
 * Hyppigt lokaliseret bag brystbenet (retrosternalt) med udstråling til hals og/eller venstre arm (Fig. 5.1).
 
+</div>
+
 <html5media>File:FIG5-1.mp3</html5media>
 
 .. figure:: Figurer/FIG5-1_png.png
@@ -122,11 +168,7 @@ hæmmer en kompensatorisk øget tilførsel af iltet blod til hjertemusklen.
 
    **Fig. 5.1** Den karakteristiske udbredelse af angina pectoris.
 
-De forskellige typer af iskæmiske brystsmerter karakteriseres ved deres
-udløsende og lindrende faktorer. Den hyppigste form for angina pectoris
-er *stabil angina pectoris*. *Angina pectoris* kan også være et symptom på
-forsnævring af aorta-ostiet (*aortastenose*) eller forstørret hjerte 
-(*hypertensiv hjertesygdom, hypertrofisk kardiomyopati*).
+<div style="background:#BBE5F8">
 
 **Iskæmiske brystsmerter**
 
@@ -157,7 +199,7 @@ forsnævring af aorta-ostiet (*aortastenose*) eller forstørret hjerte
                                          Kan udløses af hyper-
                                          ventilation.
 
-**Stum iskæmi**                          Ses hos patienter med
+**Stum iskæmi**                          Ses hos patienter med             ..
                                          verificeret iskæmisk hjerte-
                                          sygdom og ekg-forandringer,
                                          uden brystsmerter.
@@ -167,21 +209,7 @@ forsnævring af aorta-ostiet (*aortastenose*) eller forstørret hjerte
                                          Hyppigst diabetikere og rygere.
 ======================================   ===============================   ===================
 
-Brystsmerter ses også ved lidelser i mave-tarm-systemet, f.eks. refluksøsofagit,
-mavesår, galdesten og pankreatit (betændelse i bugspytkirtlen)
-`(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ . Smerter fra brystvæg og rygsøjle kan give smerter, der fejltolkes
-som *angina*. Objektivt finder man da lokaliseret ømhed ved palpation
-af thorax-skelettet `(se side 92) <6_Lunger_og_luftveje.rst#Palpation>`__ . En overfladisk, brændende smerte i
-brystvæggen kan være helvedesild (*herpes zoster*).
-
-En vigtig differentialdiagnose ved smerter i brystet er selvfølgelig
-lidelser i lungerne og lungehinderne, f.eks. *pneumoni* (lungebetændelse),
-*pneumothorax* (sammenklappet lunge pga. luft i pleurahulen) eller *pleuritis*
-(lungehindebetændelse) `(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ . Det thorakale aortaaneurisme
-er en sjælden, men vigtig differentialdiagnose ved akut opståede brystsmerter;
-det klassiske symptom er en intens, skærende smerte imellem
-skulderbladene. Endelig må man ikke glemme, at hjerteinfarktet kan
-debutere med *mavesmerter*.
+</div>
 
 Hjertebanken (palpitationer)
 ----------------------------
@@ -255,6 +283,10 @@ rutineret nok, så tilkald hjælp!
 Hjertepatienten undersøges bedst liggende med eleveret hovedgærde
 og altid afklædt. Hjertestetoskopi kan *ikke* gennemføres igennem tøjet.
 Ved mistanke om hjertesygdom suppleres den objektive undersøgelse
+altid med ekg, røntgenundersøgelse af thorax, blodprøver og ofte også
+ekkokardiografi.
+
+<div style="background:#BBE5F8">
 
 **Hjerteinsufficiens**
 
@@ -283,8 +315,8 @@ Ved mistanke om hjertesygdom suppleres den objektive undersøgelse
                                                                   hypotension, oliguri
 ===================================   ==========================  ========================
 
-altid med ekg, røntgenundersøgelse af thorax, blodprøver og ofte også
-ekkokardiografi.
+
+</div>
 
 Inspektion, palpation og perkussion
 -----------------------------------
@@ -339,6 +371,9 @@ gengivelse af lavfrekvente mislyde. Hvis man ved den hurtige rutinestetoskopi
 afslører mislyde, bør man imidlertid undersøge, om disse evt.
 høres bedre med membransiden af stetoskopet (f.eks. højfrekvente uddrivningsmislyde)
 
+Ved rutinestetoskopien registreres systematisk og i nævnte rækkefølge:
+1) rytmen, 2) ekstralyde og 3) mislyde.
+
 <html5media>File:FIG5-4.mp3</html5media>
 
 .. figure:: Figurer/FIG5-4_png.png
@@ -349,9 +384,6 @@ høres bedre med membransiden af stetoskopet (f.eks. højfrekvente uddrivningsmi
    Indøv en rutine, hvor du bevæger stetoskopet
    fra apex, langs venstre sternalrand og til først venstre derefter
    højre 2. interkostalrum. Palper samtidig radialispulsen.
-
-Ved rutinestetoskopien registreres systematisk og i nævnte rækkefølge:
-1) rytmen, 2) ekstralyde og 3) mislyde.
 
 **Hjerterytme**
 
@@ -370,6 +402,15 @@ skyldes som regel atrieflimren. Falder uregelmæssighederne imellem
 perioder med regelmæssig rytme, er det oftest ekstrasystoler.
 
 Ved det første stop på rutinestetoskopien sikrer man sig, at man har
+identificeret 1. og 2. hjertelyd og dermed systole og diastole (Fig. 5.5).
+
+Den normale hjertelyd kan beskrives som et »lup-dup«, hvor »lup« er 1.
+tone og »dup« er 2. tone.Man kan også kende dem på, at der er kortere
+mellem 1. og 2. lyd, end der er mellem 2. og 1. lyd. Første tone indleder
+systolen og 2. tone indleder diastolen. Palper radialispulsen samtidig
+med, at du lytter – pulsslaget falder midt mellem 1. og 2. hjertelyd.
+
+<div style="background:#BBE5F8">
 
 **Hjertestetoskopi**
 
@@ -390,6 +431,8 @@ Ved det første stop på rutinestetoskopien sikrer man sig, at man har
                     * det sted, hvor den høres bedst (»maksimum«), evt. projektion
 =================   ====================================================================
 
+</div>
+
 <html5media>File:FIG5-5.mp3</html5media>
 
 .. figure:: Figurer/FIG5-5_png.png
@@ -400,13 +443,6 @@ Ved det første stop på rutinestetoskopien sikrer man sig, at man har
    1. hjertelyd skyldes lukning af mitral- og trikuspidalklapperne
    i starten af systolen. 2. hjertelyd skyldes lukningen af aorta- og
    pulmonalklapperne i slutningen af systolen.
-
-identificeret 1. og 2. hjertelyd og dermed systole og diastole (Fig. 5.5).
-Den normale hjertelyd kan beskrives som et »lup-dup«, hvor »lup« er 1.
-tone og »dup« er 2. tone.Man kan også kende dem på, at der er kortere
-mellem 1. og 2. lyd, end der er mellem 2. og 1. lyd. Første tone indleder
-systolen og 2. tone indleder diastolen. Palper radialispulsen samtidig
-med, at du lytter – pulsslaget falder midt mellem 1. og 2. hjertelyd.
 
 **Ekstralyde**
 
@@ -453,6 +489,13 @@ i venstre aksil. Undersøg skiftevist med klokke og membran, og undersøg,
 om en mislyd forstærkes, hvis patienten læner sig forover, ligger på
 venstre side eller under inspirationen.
 
+For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor
+den høres bedst (»maksimum«), og dens placering i hjertecyklus.
+
+Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende
+patologi kan udledes ud fra mislydens lokalisationen på prækordiet og
+placering i hjertecyklus.
+
 <html5media>File:FIG5-6.mp3</html5media>
 
 .. figure:: Figurer/FIG5-6_png.png
@@ -474,8 +517,7 @@ venstre side eller under inspirationen.
    Den diastoliske mislyd ved mitralstenose høres bedst over apex med
    patienten i venstre sideleje efter 10 knæbøjninger.
 
-For enhver mislyd, der findes, beskrives styrke, karakter, det sted, hvor
-den høres bedst (»maksimum«), og dens placering i hjertecyklus.
+<div style="background:#BBE5F8">
 
 **Mislyde – styrke**
 
@@ -493,15 +535,19 @@ den høres bedst (»maksimum«), og dens placering i hjertecyklus.
   Meget høj mislyd, der ikke bare høres over prækordiet,
   men også over andre dele af kroppen
 
+</div>
+
+<div style="background:#BBE5F8">
+
 <html5media>File:BOKS80B.mp3</html5media>
 
 * **Ikke alle mislyde er udtryk for sygdom.**
 * **Ikke alle hjertesygdomme giver mislyde.**
 * **Mislydens styrke siger ikke noget om graden af sygdom.**
 
-Mislyde er ofte, men ikke altid, tegn på sygdom. Den underliggende 81
-patologi kan udledes ud fra mislydens lokalisationen på prækordiet og
-placering i hjertecyklus.
+</div>
+
+<div style="background:#BBE5F8">
 
 **Systoliske mislyde**
 
@@ -547,6 +593,11 @@ placering i hjertecyklus.
 |                        |                   |   inspiration    |                 |
 +------------------------+-------------------+------------------+-----------------+
 
+</div>
+
+
+<div style="background:#BBE5F8">
+
 **Diastoliske mislyde**
 
 <html5media>File:BOKS82.mp3</html5media>
@@ -557,8 +608,8 @@ placering i hjertecyklus.
 +==========================+===================+====================+=================+
 | **Tidligt diastoliske:** |                                                          |
 +--------------------------+-------------------+--------------------+-----------------+
-| *Aortain-*               | 3\. venstre inter-| * blæsende         | membran         |
-| *sufficiens*             | kostalrum,        | * decrescendo,     |                 |
+| *Aorta-*                 | 3\. venstre inter-| * blæsende         | membran         |
+| *insufficiens*           | kostalrum,        | * decrescendo,     |                 |
 |                          |                   | * øges ved         |                 |
 |                          |                   |   foroverbøjning   |                 |
 +--------------------------+-------------------+--------------------+-----------------+
@@ -571,3 +622,5 @@ placering i hjertecyklus.
 |                          |                   | * øges ved         |                 |
 |                          |                   |   venstre sideleje |                 |
 +--------------------------+-------------------+--------------------+-----------------+
+
+</div>
