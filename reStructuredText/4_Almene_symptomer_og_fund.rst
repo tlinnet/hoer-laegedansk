@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:55
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/4_Almene_symptomer_og_fund>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE4.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -19,8 +25,12 @@
   henføres til et bestemt organsystem, men de giver ofte et
   fingerpeg om, hvor alvorlig patientens sygdom er.
 
+</div>
+
 Almene symptomer
 ================
+
+<div style="background:#BBE5F8">
 
 **Almene symptomer**
 
@@ -31,6 +41,8 @@ Almene symptomer
 * Appetitløshed
 * Vægttab
 * Angst
+
+</div>
 
 Feber
 -----
@@ -48,6 +60,13 @@ ses ved kræftsygdomme (f.eks. *lymfom*), ved autoimmune sygdomme
 tromboflebit, DVT*). Der skal ofte kun enkle spørgsmål og undersøgelsesmetoder
 til at afsløre årsagen til patientens feber.
 
+Den febrile patient kan godt virke afebril på undersøgelsestidspunktet.
+Det skyldes ofte indtagelse af feberdæmpende medicin, f.eks. paracetamol,
+NSAID eller steroider. Det kan også skyldes forkert temperaturmåling
+(særligt øretermometre).
+
+<div style="background:#BBE5F8">
+
 **Feber**
 
 <html5media>File:BOKS58.mp3</html5media>
@@ -63,10 +82,7 @@ til at afsløre årsagen til patientens feber.
 * Nylige udenlandsrejser?
 * Lignende tilfælde i omgangskredsen?
 
-Den febrile patient kan godt virke afebril på undersøgelsestidspunktet.
-Det skyldes ofte indtagelse af feberdæmpende medicin, f.eks. paracetamol,
-NSAID eller steroider. Det kan også skyldes forkert temperaturmåling
-(særligt øretermometre).
+</div>
 
 Træthed og svimmelhed
 ---------------------
@@ -76,6 +92,27 @@ Træthed og svimmelhed
 De fleste mennesker oplever træthed, hvis de har fået for lidt nattesøvn,
 eller når vinteren har været mørk og lang. Ved anamneseoptagelsen skal
 man forsøge at skelne den almindelige, fysiologiske træthed – der kan
+overkommes, hvis man anstrenger sig – fra den patologiske, uoverkommelige
+træthed.
+
+»Svimmelhed« anvendes ofte af patienterne i mangel af bedre til at beskrive
+uspecifikke symptomer:
+
+Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination
+= *vertigo*) `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Stil åbne spørgsmål 
+`(se kapitel 1) <1_Mødet_mellem_læge_og_patient.rst#>`__  og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
+kan være så svære at beskrive for patienten, vil han hurtigt
+gribe efter dine forslag til beskrivende termer. Ved *anæmi* (blodmangel)
+og *ortostatisk hypotension* (blodtryksfald, når man rejser sig) kan patienten
+have en subjektiv fornemmelse, der beskrives som »svimmelhed«,
+men som mere korrekt må betegnes nærbesvimelse. Mange ældre mennesker
+lider af svimmelhed og faldtendens, og årsagen er ofte multifaktoriel:
+dårligt syn, ældet balanceorgan, dehydrering, anæmi, slidgigt
+*(artrose)* og muskelsvaghed. Fokuser anamneseoptagelsen hos den ældre
+på faktorer, der kan gribes ind over for (appetit? væskeindtagelse? grå
+stær? bruger stok?).
+
+<div style="background:#BBE5F8">
 
 **Årsager til patologisk træthed**
 
@@ -87,11 +124,9 @@ man forsøge at skelne den almindelige, fysiologiske træthed – der kan
 * Svær infektion
 * Stofskifteforstyrrelser (diabetes, myksødem)
 
-overkommes, hvis man anstrenger sig – fra den patologiske, uoverkommelige
-træthed.
+</div>
 
-»Svimmelhed« anvendes ofte af patienterne i mangel af bedre til at beskrive
-uspecifikke symptomer:
+<div style="background:#BBE5F8">
 
 | **»Svimmelhed«** 
 | *– dækker måske over noget andet end vertigo:*
@@ -107,19 +142,7 @@ uspecifikke symptomer:
 * Angst
 * Døsighed (f.eks. af morfin og sovepiller)
 
-Brug anamnesen til at afdække, om der er tale om ægte svimmelhed (bevægelseshallucination
-= *vertigo*) `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Stil åbne spørgsmål 
-`(se kapitel 1) <1_Mødet_mellem_læge_og_patient.rst#>`__  og undgå at lægge ord i munden på patienten; netop fordi fornemmelserne
-kan være så svære at beskrive for patienten, vil han hurtigt
-gribe efter dine forslag til beskrivende termer. Ved *anæmi* (blodmangel)
-og *ortostatisk hypotension* (blodtryksfald, når man rejser sig) kan patienten
-have en subjektiv fornemmelse, der beskrives som »svimmelhed«,
-men som mere korrekt må betegnes nærbesvimelse. Mange ældre mennesker
-lider af svimmelhed og faldtendens, og årsagen er ofte multifaktoriel:
-dårligt syn, ældet balanceorgan, dehydrering, anæmi, slidgigt
-*(artrose)* og muskelsvaghed. Fokuser anamneseoptagelsen hos den ældre
-på faktorer, der kan gribes ind over for (appetit? væskeindtagelse? grå
-stær? bruger stok?).
+</div>
 
 Appetitløshed
 -------------
@@ -142,14 +165,6 @@ Vægttab
 Et uønsket vægttab er tegn på alvorlig sygdom. Med sine uddybende
 spørgsmål forsøger man at kvantificere vægttabet og identificere årsagen.
 
-**Vægttab**
-
-<html5media>File:BOKS60.mp3</html5media>
-
-* Hvad plejer du at veje?
-* Er tøjet »blevet for stort«?
-* Har du gjort noget for at tabe dig?
-
 Et uønsket vægttab kan f.eks. skyldes kræft, svær infektion, øget stofskifte
 *(tyreotoksikose)* eller svær kronisk lidelse som f.eks. ledegigt (*reumatoid
 artrit*) eller rygerlunger (*KOL*). Hyppigt henvender patienten sig
@@ -158,6 +173,18 @@ f.eks. gamle journaloplysninger om vægt. Andre gange har patienten haft
 et betydeligt vægttab, men fornægter dette – tænk på *anorexia nervosa*
 (nervøs spisevægring). De fleste mennesker kender deres »normalvægt«
 – spørg om den, og anfør den i journalen.
+
+<div style="background:#BBE5F8">
+
+**Vægttab**
+
+<html5media>File:BOKS60.mp3</html5media>
+
+* Hvad plejer du at veje?
+* Er tøjet »blevet for stort«?
+* Har du gjort noget for at tabe dig?
+
+</div>
 
 Angst
 -----
@@ -179,6 +206,8 @@ at spørge til følelseslivet hos en åbenlyst ængstelig patient – de fleste 
 det som legitimt at snakke med lægen om. Brug den åbne og lyttende
 spørgeteknik, der er beskrevet i `kapitel 1 <1_Mødet_mellem_læge_og_patient.rst#>`__ .
 
+<div style="background:#BBE5F8">
+
 **Angst**
 
 <html5media>File:BOKS61.mp3</html5media>
@@ -188,6 +217,8 @@ spørgeteknik, der er beskrevet i `kapitel 1 <1_Mødet_mellem_læge_og_patient.r
 * ➝ Er du bange for, det er noget alvorligt?
 * ➝ Er du bange for, det er kræft?
 * ➝ Er der en bestemt grund til, at du er bange for, at det er ...?
+
+</div>
 
 Objektiv undersøgelse	
 =====================
@@ -228,6 +259,15 @@ rask patient kan hurtigt – og i den bedste mening – være blevet »sygeliggj
 « ved at få sygehustøj på, blive lagt i en sygehusseng og få drop og
 saturationsmåler påsat.
 
+Det er vigtigt at skelne mellem *akut påvirkning,* dvs. nyopståede fænomener
+(f.eks. forceret vejrtrækning eller smerteforpinthed) og *kronisk
+medtagelse*, som er objektive forandringer opstået over længere tid (f.eks.
+atrofisk muskulatur). *Kaketisk* anvendes som betegnelse for den radmagre,
+nærmest afpillede og gennemsigtige patient. *Miseries-præget* betyder
+præget af usle sociale forhold med dårlig hygiejne, fejlernæring osv.
+
+<div style="background:#BBE5F8">
+
 **Almentilstand**
 
 <html5media>File:BOKS62.mp3</html5media>
@@ -240,12 +280,7 @@ saturationsmåler påsat.
 * Er han smerteforpint?
 * Ligger han roligt i sengen? *Eller sammenkrympet, rodende etc.*
 
-Det er vigtigt at skelne mellem *akut påvirkning,* dvs. nyopståede fænomener
-(f.eks. forceret vejrtrækning eller smerteforpinthed) og *kronisk
-medtagelse*, som er objektive forandringer opstået over længere tid (f.eks.
-atrofisk muskulatur). *Kaketisk* anvendes som betegnelse for den radmagre,
-nærmest afpillede og gennemsigtige patient. *Miseries-præget* betyder
-præget af usle sociale forhold med dårlig hygiejne, fejlernæring osv.
+</div>
 
 Ernæringstilstand
 -----------------
@@ -258,6 +293,11 @@ man danne sig et klinisk skøn over, om der er tale om fejlernæring med
 fedt (fedme = *adipositas*), proteinmangel (muskelatrofi, ascites, ødemer)
 eller vitaminmangel (glossit, stomatit).
 
+Den kliniske vurdering suppleres med en præcis angivelse af højde og
+vægt i primær journalen.
+
+<div style="background:#BBE5F8">
+
 **Ernæringstilstand**
 
 <html5media>File:BOKS63A.mp3</html5media>
@@ -268,8 +308,9 @@ eller vitaminmangel (glossit, stomatit).
 * Prominerende knogler?
 * Slimhinder og mundomgivelser?
 
-Den kliniske vurdering suppleres med en præcis angivelse af højde og
-vægt i primær journalen.
+</div>
+
+<div style="background:#BBE5F8">
 
 **Body mass index (BMI)**
 
@@ -288,6 +329,8 @@ Kender man patientens højde og vægt, kan man beregne, om han er normalvægtig:
   Undervægt  Normalvægt     Overvægt     Fedme        Svær fedme
   BMI:       BMI:           BMI:         BMI:         BMI:
   < 18,5     18,5 til 24,9  25 til 29,9  30 til 39,9  > 40
+
+</div>
 
 Farve
 -----
@@ -308,6 +351,8 @@ skal ikke forveksles med den gustne hudkulør ved *uræmi* (nyresvigt).
 Hos en patient med mørk hud ser man bedst icterus i sclerae,
 anæmi i conjunctivae og cyanose på læber og håndflader.
 
+<div style="background:#BBE5F8">
+
 **Universelle misfarvninger**
 
 <html5media>File:BOKS64.mp3</html5media>
@@ -324,6 +369,8 @@ Betegnelse     Farve   Årsag                 Eksempel
 *Erytrodermi*  Rød     Udvidelse af hud-     Allergi, virus
                        kapillærer            infektioner, eksem
 =============  =====   ===================   =====================
+
+</div>
 
 Perifer cirkulation
 -------------------
@@ -382,6 +429,16 @@ for palpation få steder på kroppen (se Fig. 4.2). Man palperer med
 sine fingerspidser i regionerne; de normale lymfeknuder er ikke palpable.
 Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
 
+Ømme glandler er ofte et tegn på infektion, mens glandler ved lymfom
+og karcinommetastaser som regel er uømme. Ved *metastaser* (spredning
+af kræft) er konsistensen af lymfeknuderne ofte hård, mens knuderne
+ved lymfom og infektion er bløde. Finder man forstørrede lymfeknuder,
+undersøges drænageområdet for patologi (ved fund af ingvinalglandler
+undersøges f.eks. genitalia, anus og underekstremiteter).Meget ofte
+finder man i lysken enkelte små, smuttende og uømme lymfeknuder.
+Som regel er dette fund uden patologisk betydning, men skal altid
+beskrives i journalen.
+
 <html5media>File:FIG4-2.mp3</html5media>
 
 .. figure:: Figurer/FIG4-2_png.png
@@ -395,6 +452,8 @@ Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
    lateralt for m. sternocleidomastoideus), i
    aksillen og i lyskerne.
 
+<div style="background:#BBE5F8">
+
 **Lymfadenopati**
 
 <html5media>File:BOKS66A.mp3</html5media>
@@ -406,15 +465,9 @@ Forstørrede lymfeknuder benævnes *adenit* eller *lymfadenopati.*
 * Ømhed?
 * Regional eller universel (≥3 regioner)?
 
-Ømme glandler er ofte et tegn på infektion, mens glandler ved lymfom
-og karcinommetastaser som regel er uømme. Ved *metastaser* (spredning
-af kræft) er konsistensen af lymfeknuderne ofte hård, mens knuderne
-ved lymfom og infektion er bløde. Finder man forstørrede lymfeknuder,
-undersøges drænageområdet for patologi (ved fund af ingvinalglandler
-undersøges f.eks. genitalia, anus og underekstremiteter).Meget ofte
-finder man i lysken enkelte små, smuttende og uømme lymfeknuder.
-Som regel er dette fund uden patologisk betydning, men skal altid
-beskrives i journalen.
+</div>
+
+<div style="background:#BBE5F8">
 
 **Årsager til universel lymfadenopati**
 
@@ -428,6 +481,8 @@ beskrives i journalen.
 * Toksoplasmose
 * Reumatoid arthritis
 * mb. Boeck.
+
+</div>
 
 Asymmetrier og dysproportioner
 ------------------------------
