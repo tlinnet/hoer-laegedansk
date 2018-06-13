@@ -1,7 +1,13 @@
 __TOC__
 
+&lt;div style=&quot;background:#f8f9fa&quot;&gt;
+
 * '''Link to machine translation of this page to english:''' [https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/6_Lunger_og_luftveje Google Translate]
 * '''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE6.mp3&lt;/html5media&gt;
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Nøglepunkter'''
 
@@ -14,11 +20,15 @@ __TOC__
 * Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen af almentilstanden med speciel fokus på farve, perifer cirkulation, respiration og hydrering.
 * Central cyanose er et kardinaltegn på inkompenseret lungesygdom.
 
+&lt;/div&gt;
+
 = Symptomer =
 
 &lt;html5media&gt;File:KAP6_83_2.mp3&lt;/html5media&gt;
 
 De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Luftveje'''
 
@@ -29,11 +39,17 @@ De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
 * Har du hoste?
 * Hoster du slim eller blod op?
 
+&lt;/div&gt;
+
 == Åndenød (dyspnø) ==
 
 &lt;html5media&gt;File:KAP6_84.mp3&lt;/html5media&gt;
 
 De fleste lungesygdomme giver åndenød. Patienten oplever det typisk som besværet eller anstrengt vejtrækning og bruger udtryk som »*hiver efter vejret*« eller »*kan ikke få luft*«. Andre udtrykker det som funktionsnedsættelse, f.eks. »*kan ikke længere klare trapperne*«. Ved kronisk lungesygdom kan patienten gennem årevis være så vænnet til den nedsatte lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniveau.
+
+Det kan være svært at skelne åndenød forårsaget af lungesygdom fra åndenøden pga. hjertesygdom eller anæmi. Den besværede, »hvæsende« vejrtrækning er typisk for lungepatienten, mens hjertepatienten klager over åndenød, når de ligger fladt i sengen (''ortopnø'') om natten. Tit er symptomatologien ikke så klar, og mange patienter kan også have både hjerte- og lungesygdom.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Åndenød'''
 
@@ -44,6 +60,10 @@ De fleste lungesygdomme giver åndenød. Patienten oplever det typisk som besvæ
 * Hvilke gøremål har du svært ved på grund af åndenød?
 * Hvad kan forværre din åndenød (fysisk anstrengelse, fladt leje, pollen osv.)?
 * Er der noget, der gør din vejrtrækning bedre?
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Årsager til åndenød – akut eller kronisk?'''
 
@@ -63,7 +83,9 @@ De fleste lungesygdomme giver åndenød. Patienten oplever det typisk som besvæ
 | Rygerlunger (kronisk obstruktiv lungelidelse, KOL), Anæmi (blodmangel), Kronisk hjerteinsufficiens (hjertesvigt), Tumor
 |}
 
-Det kan være svært at skelne åndenød forårsaget af lungesygdom fra åndenøden pga. hjertesygdom eller anæmi. Den besværede, »hvæsende« vejrtrækning er typisk for lungepatienten, mens hjertepatienten klager over åndenød, når de ligger fladt i sengen (''ortopnø'') om natten. Tit er symptomatologien ikke så klar, og mange patienter kan også have både hjerte- og lungesygdom.
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Hyperventilationstilfælde'''
 
@@ -74,6 +96,8 @@ Det kan være svært at skelne åndenød forårsaget af lungesygdom fra åndenø
 * Paræstesier i fingre og omkring munden
 * Fjernhedsfornemmelse
 * Dødsangst.
+
+&lt;/div&gt;
 
 == Hvæsen og piben ==
 
@@ -89,7 +113,9 @@ Pibende eller hvæsende vejtrækning er et symptom på forsnævring af de nedre 
 
 Hoste er et almindeligt symptom og en hyppig årsag til henvendelse hos praktiserende læge. Hoste udløses af receptorer i phraynx, larynx, trachea og bronkier. Der skelnes mellem tør og produktiv hoste afhængigt af, om hosten er ledsaget af opspyt eller ej. Ved sygdomme i de øvre luftveje, f.eks. en banal virusinfektion, ses oftest en tør hoste, som dog kan være meget generende for patienten. Ved sygdomme i de nedre luftveje, f.eks. rygerlunger eller lungebetændelse er der typisk tale om produktiv hoste med slimet opspyt. Lungebetændelse kan være ledsaget af en hoste med »sidesting« pga. den ledsagende inflammation af lungehinderne (''pleurit'').
 
-Hoste kan være det eneste symptom på sygdom i luftvejene. F.eks. er hoste ved anstrengelse og om natten karakteristisk for astma hos børn. En tiltagende, behandlingsresistent hoste kan være første og eneste symptom på en lungecancer. En ikke ualmindelig – men ofte overset –
+Hoste kan være det eneste symptom på sygdom i luftvejene. F.eks. er hoste ved anstrengelse og om natten karakteristisk for astma hos børn. En tiltagende, behandlingsresistent hoste kan være første og eneste symptom på en lungecancer. En ikke ualmindelig – men ofte overset – årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom [[7_Mave-tarm-systemet.rst#Halsbrand_(pyrosis)|(se side 99)]] ; hosten ses typisk efter måltider og ved fladt leje. Hosten kan være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør f.eks. føre til udredning for tuberkulose.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Hoste'''
 
@@ -100,13 +126,17 @@ Hoste kan være det eneste symptom på sygdom i luftvejene. F.eks. er hoste ved 
 * Har du halsbrand eller for meget mavesyre?
 * Hvornår er hosten værst (ved anstrengelse, når du ligger ned, ved kontakt med dyr osv.)?
 
-årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom [[7_Mave-tarm-systemet.rst#Halsbrand_(pyrosis)|(se side 99)]] ; hosten ses typisk efter måltider og ved fladt leje. Hosten kan være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør f.eks. føre til udredning for tuberkulose.
+&lt;/div&gt;
 
 == Opspyt (sputum og haemoptysis) ==
 
 &lt;html5media&gt;File:KAP6_86.mp3&lt;/html5media&gt;
 
 Slim, der hostes op fra bronkierne, kaldes ''sputum'' eller ''ekspektorat'', men har desværre fået den dårlige danske betegnelse »opspyt«. Det kan være svært at skelne opspyt fra snot (fra næsen = ''post-nasal drip''), fra mundens eget spyt og fra maveindhold, der flyder over. Den bedste måde at få afklaret, hvad det handler om, er at bede patienten producere noget opspyt, mens du ser på. Slimet opspyt skyldes øget sekretion af ''mucus'' (slim) i bronkierne som tegn på inflammation eller infektion. Hoste med opspyt er så almindeligt hos storrygeren, at han ofte fortrænger symptomet.Men direkte adspurgt indrømmer patienten som regel den daglige (morgen)hoste med de gråbrune klatter, der er karakteristisk for »rygerhosten«. Rigeligt, betændelsesagtigt (''purulent'') opspyt er karakteristisk for akut bronkitis. Ved lungebetændelse (''pneumoni'') er det ofte initialt en tør hoste, senere evt. rustrødt ekspektorat.
+
+Blodigt opspyt (''hæmoptyse'') er ofte et tegn på alvorlig lungesygdom, f.eks. kræft eller tuberkulose, men kan også ses som enkelte, isolerede episoder ved luftvejsinfektioner. Det kan være svært at skelne hæmoptysen fra blodigt opkast fra osophagus eller ventrikel (''hæmatemese'') eller fra bagre næseblødning (''epistaxis''). Blødningen ved hæmoptyse er typisk initialt friskt rødt, der senere aftager i mængder og bliver mørkere i farven. Hæmatemese kan være helt friskt blodigt (ved f.eks. større blødning fra oesophagusvaricer) eller kaffegrumsfarvet, når det kommer fra ventriklen og mavesyren har denatureret det. Hæmatemese er ofte ledsaget af kvalme og hæmoptyse er ofte ledsaget af hoste.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Opspyt'''
 
@@ -116,6 +146,10 @@ Slim, der hostes op fra bronkierne, kaldes ''sputum'' eller ''ekspektorat'', men
 * Hvor ofte har du opspyt – er det altid eller kun af og til?
 * Hvor meget kommer der?
 * Sejt eller tyndt? (Er det svært at få det op?)
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Opspyt'''
 
@@ -141,7 +175,7 @@ Slim, der hostes op fra bronkierne, kaldes ''sputum'' eller ''ekspektorat'', men
 | Tænk på lungecancer, lungeemboli og tuberkulose
 |}
 
-Blodigt opspyt (''hæmoptyse'') er ofte et tegn på alvorlig lungesygdom, f.eks. kræft eller tuberkulose, men kan også ses som enkelte, isolerede episoder ved luftvejsinfektioner. Det kan være svært at skelne hæmoptysen fra blodigt opkast fra osophagus eller ventrikel (''hæmatemese'') eller fra bagre næseblødning (''epistaxis''). Blødningen ved hæmoptyse er typisk initialt friskt rødt, der senere aftager i mængder og bliver mørkere i farven. Hæmatemese kan være helt friskt blodigt (ved f.eks. større blødning fra oesophagusvaricer) eller kaffegrumsfarvet, når det kommer fra ventriklen og mavesyren har denatureret det. Hæmatemese er ofte ledsaget af kvalme og hæmoptyse er ofte ledsaget af hoste.
+&lt;/div&gt;
 
 == Brystmerter ==
 
@@ -151,7 +185,11 @@ Lungerne og det viscerale blad af pleura har ingen smertereceptorer. Det har der
 
 Den pleurale smerte kan som regel lokaliseres præcist af patienten. Men hvis pleurabladet på diaphragma er involveret, kan smerten henføres til abdomen eller skulderbladet. En inflammation af pleura kan gribe over diaphragma til peritoneum og vice versa. Lidelser i brysthulen (f.eks. en underlapspneumoni eller AMI) kan derfor manifestere sig som akut abdomen, ligesom abdominale lidelser (f.eks. galdeblærebetændelse, ''cholecystitis'') kan manifestere sig med pleuralgia (smerter fra pleura).
 
-Smerter i brystvæggen skyldes som regel enten costafrakturer eller muskelforandringer. Disse smerter kan også forværres ved hoste og vejrtræning, men i modsætning til pleurale smerter forværrres de også ved f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
+Smerter i brystvæggen skyldes som regel enten costafrakturer eller muskelforandringer. Disse smerter kan også forværres ved hoste og vejrtræning, men i modsætning til pleurale smerter forværrres de også ved f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influenza) kan give endog ganske kraftige muskelsmerter i brystvæggen.
+
+''Tietzes syndrom'' er en smertefuld inflammation i de øvre ribbensbruske. ''Herpes zoster'' og torakal discusprolaps kan forsårsage smerter i brystvæggen ved spinalrøddernes cutane innervation. Ved akut opståede brystsmerter skal man altid overveje ''iskæmisk hjertesygdom'' som differentialdiagnose [[5_Hjertet.rst#Træthed_og_funktionsnedsættelse|(se side 69-71)]] .
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Brystsmerter'''
 
@@ -159,6 +197,10 @@ Smerter i brystvæggen skyldes som regel enten costafrakturer eller muskelforand
 
 * Kan du beskrive smerterne (skarpe og stikkende; dybe og borende eller overfladiske og brændende)?
 * Er de konstante eller i takt med, at du trækker vejret?
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Brystsmerter'''
 
@@ -194,13 +236,25 @@ Smerter i brystvæggen skyldes som regel enten costafrakturer eller muskelforand
 | Reflukssygdom
 |}
 
-za) kan give endog ganske kraftige muskelsmerter i brystvæggen. ''Tietzes syndrom'' er en smertefuld inflammation i de øvre ribbensbruske. ''Herpes zoster'' og torakal discusprolaps kan forsårsage smerter i brystvæggen ved spinalrøddernes cutane innervation. Ved akut opståede brystsmerter skal man altid overveje ''iskæmisk hjertesygdom'' som differentialdiagnose [[5_Hjertet.rst#Træthed_og_funktionsnedsættelse|(se side 69-71)]] .
+&lt;/div&gt;
 
 = Objektiv undersøgelse =
 
 &lt;html5media&gt;File:KAP6_89.mp3&lt;/html5media&gt;
 
 Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen af ''almentilstanden'' med speciel fokus på farve, perifer cirkulation, respiration og hydrering, ligesom man altid skal måle puls, blodtryk, temperatur og respirationsfrekvens [[4_Almene_symptomer_og_fund.rst#|(se kapitel 4)]] . ''Central cyanose'' er et kardinaltegn på inkompenseret lungesygdom.
+
+Ved vurderingen af respirationen bemærkes, om den er rolig og ubesværet, eller om patienten har en anstrengt og forceret respiration. Antallet af respirationer pr. minut tælles. Den normale respirationsfrekvens er i hvile 12-16 × min–1. En hurtig respiration benævnes ''takypnø.''
+
+En akut påvirket patient med cyanose og besværet respiration kræver hurtig vurdering og behandling. For den uøvede kan det være svært at skelne f.eks. lungeødem fra obstruktiv lungelidelse, og nogle patienter kan have både hjerte- og lungelidelse. Føler du dig ikke rutineret, så tilkald hjælp!
+
+Lungepatienten undersøges bedst siddende – så lettes hans vejrtrækning, og du kan komme rundt om hele thorax. Er patienten sengeliggende uden kræfter til at komme i siddende stilling, skal du altid bede om hjælp til at løfte patienten, således at du kan lave en ordentlig undersøgelse. Lungepatienten undersøges altid afklædt, stetoskopi kan ''ikke'' gennemføres igennem tøjet.
+
+Den objektive undersøgelse af lungepatienten suppleres som regel med røntgenbillede af thorax og blodprøver, herunder blodgasanalyse (arteriepunktur, se »Remedier og Teknik«). Ofte monitorerer astmapatienter selv deres sygdom med et ''peak flow''-meter, som er en let og hurtig undersøgelse, der også kan udføres ved indlæggelsen på sygehuset. Som regel bør man også ved indlæggelsen af lungepatienten monitorere blodets iltmætning ved hjælp af et ''pulsoksimeter''.
+
+En grundig undersøgelse af lungepatienten omfatter også undersøgelse af hjertet (specielt halsvenestase, hepatomegali og ascites som kan være tegn på ''højresidigt hjertesvigt'' [[5_Hjertet.rst#|(se kapitel 5)]] ), abdomen [[7_Mave-tarm-systemet.rst#|(se kapitel 7)]] og lymfeglandlerne på halsen [[4_Almene_symptomer_og_fund.rst#|(se kapitel 4)]] .
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Ændret vejrtrækningsmønster'''
 
@@ -224,7 +278,9 @@ Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivels
 | CNS-skade, døende
 |}
 
-Ved vurderingen af respirationen bemærkes, om den er rolig og ubesværet, eller om patienten har en anstrengt og forceret respiration. Antallet af respirationer pr. minut tælles. Den normale respirationsfrekvens er i hvile 12-16 × min–1. En hurtig respiration benævnes ''takypnø.''
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Cyanose (blålig misfarvning)'''
 
@@ -244,13 +300,7 @@ Ved vurderingen af respirationen bemærkes, om den er rolig og ubesværet, eller
 | Nedsat blodforsyning til ekstremiteterne. Ses ved blødningsshock, kolde omgivelser, Raynauds fænomen eller perifer vaskulær sygdom
 |}
 
-En akut påvirket patient med cyanose og besværet respiration kræver hurtig vurdering og behandling. For den uøvede kan det være svært at skelne f.eks. lungeødem fra obstruktiv lungelidelse, og nogle patienter kan have både hjerte- og lungelidelse. Føler du dig ikke rutineret, så tilkald hjælp!
-
-Lungepatienten undersøges bedst siddende – så lettes hans vejrtrækning, og du kan komme rundt om hele thorax. Er patienten sengeliggende uden kræfter til at komme i siddende stilling, skal du altid bede om hjælp til at løfte patienten, således at du kan lave en ordentlig undersøgelse. Lungepatienten undersøges altid afklædt, stetoskopi kan ''ikke'' gennemføres igennem tøjet.
-
-Den objektive undersøgelse af lungepatienten suppleres som regel med røntgenbillede af thorax og blodprøver, herunder blodgasanalyse (arteriepunktur, se »Remedier og Teknik«). Ofte monitorerer astmapatienter selv deres sygdom med et ''peak flow''-meter, som er en let og hurtig undersøgelse, der også kan udføres ved indlæggelsen på sygehuset. Som regel bør man også ved indlæggelsen af lungepatienten monitorere blodets iltmætning ved hjælp af et ''pulsoksimeter''.
-
-En grundig undersøgelse af lungepatienten omfatter også undersøgelse af hjertet (specielt halsvenestase, hepatomegali og ascites som kan være tegn på ''højresidigt hjertesvigt'' [[5_Hjertet.rst#|(se kapitel 5)]] ), abdomen [[7_Mave-tarm-systemet.rst#|(se kapitel 7)]] og lymfeglandlerne på halsen [[4_Almene_symptomer_og_fund.rst#|(se kapitel 4)]] .
+&lt;/div&gt;
 
 == Inspektion ==
 
@@ -259,6 +309,10 @@ En grundig undersøgelse af lungepatienten omfatter også undersøgelse af hjert
 Thorax’ ''form'' bemærkes. Et hyperinflateret, tøndeformet thorax er karakteristisk for patienten med rygerlunger. Andre synlige deformiteter af brystvæggen beskrives. ''Pectus excavatum'' eller »tragtbryst« er ikke helt sjældent, men giver som regel kun kosmetiske symptomer. ''Kyfoser'' og ''skolioser'' bemærkes ligeledes [[10_Bevægeapparatet.rst#|(se kapitel 10)]] .
 
 ''Bevægeligheden'' af thorax beskrives. Normalt trækker man vejret med diaphragma, således at såvel brystkassen som abdomen udvider sig ved inspirationen. Patienter med obstruktiv lungelidelse bruger ofte de accessoriske respirationsmuskler på halsen, mens costa holdes vandrette og fikserede. Ved udtrætning af diaphragma ses indtrækning af abdomen under ribbenskurvaturen. Ved akut abdomen kan der ses ophævet medbevægelighed af abdomen, der holdes fladt og fikseret ved kontraktion af rectusmuskulaturen, mens respirationsarbejdet udføres af interkostalmuskulaturen. Ved smerter i brystvæggen (f.eks. pleurit eller costafrakturer) er respirationen hovedsageligt diafragmatisk.
+
+''Paradoks respiration'', hvor thorax bevæger sig modsat det normale (indad ved inspiration), ses ved løs thoraxvæg pga. multiple costafrakturer. ''Uegale thoraxbevægelser'' kan ses ved pneumothorax og multiple costafrakturer, men kan også være smertebetinget som ved lokal pleurit. Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og man kan med fordel palpere symmetrien (se Fig. 6.1).
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Inspektion'''
 
@@ -270,7 +324,7 @@ Thorax’ ''form'' bemærkes. Et hyperinflateret, tøndeformet thorax er karakte
 * Indtrækninger?
 * Brug af accessoriske respirationsmuskler?
 
-''Paradoks respiration'', hvor thorax bevæger sig modsat det normale (indad ved inspiration), ses ved løs thoraxvæg pga. multiple costafrakturer. ''Uegale thoraxbevægelser'' kan ses ved pneumothorax og multiple costafrakturer, men kan også være smertebetinget som ved lokal pleurit. Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og man kan med fordel palpere symmetrien (se Fig. 6.1).
+&lt;/div&gt;
 
 &lt;html5media&gt;File:FIG6-1.mp3&lt;/html5media&gt;
 
@@ -288,11 +342,17 @@ Lokal ømhed af brystvæggen kan også skyldes forandringer i brusk, bindevæv o
 
 &lt;html5media&gt;File:KAP6_92_2.mp3&lt;/html5media&gt;
 
-Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der ligger umiddelbart over lungeapex. Herefter arbejder du dig symmetrisk ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
+Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der ligger umiddelbart over lungeapex. Herefter arbejder du dig symmetrisk ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene over kors ved perkussion af bagfladen, så scapulae drejes fri. Sammenlign hele tiden de to siders perkussionslyd.
+
+Det normale fund ved perkussion af lungerne er en ''resonant'' perkussionslyd, dvs. en svag, kortvarig genklang af dit slag med fingeren. Ved øget mængde luft i lungerne – som det det ses ved pneumothorax og lungeemfysem – kan der være øget resonans, med en nærmest rungende lyd. Tænk på en tom tønde! Hvis luften er fortrængt, som det ses ved pneumoni, fibrose eller ''atelektase'' (sammenklappet lungelap), er der ''dæmpning'', dvs. nedsat eller manglende genklang.Mest udtalt er dæmpningen ved pleurale effusioner, dvs. væske imellem de to pleurablade. Tænk på en fyldt tønde!
+
+Graden af resonans afhænger af thoraxvæggens beskaffenhed. Hos tykke og muskuløse patienter er der mindre resonans, men denne dæmpning vil være symmetrisk på begge sider af thorax. Perkussion af thorax er under alle omstændigheder en uspecifik undersøgelse.Man kan f.eks. ikke udelukke pneumothorax eller pneumoni ved undersøgelsen – et røntgenbillede af thorax er obligat ved mistanken.
 
 &lt;html5media&gt;File:FIG6-2.mp3&lt;/html5media&gt;
 
 [[File:Figurer/FIG6-2_png.png|frame|none|700px|alt=|caption '''Fig. 6.2''' De normale lungegrænser. Læg mærke til, at lungerne når længere ned bagtil end på forfladen, hvor de kun når til 6. costa.]]
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Palpation'''
 
@@ -304,33 +364,29 @@ Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der l
 * Andre frakturtegn?
 * Subkutant emfysem?
 
+&lt;/div&gt;
+
 &lt;html5media&gt;File:FIG6-3.mp3&lt;/html5media&gt;
 
 [[File:Figurer/FIG6-3_png.png|frame|none|500px|alt=|caption '''Fig. 6.3''' Perkussion af lungerne. Højre hånds strakte langfinger holdes parallelt med en forventet linje for, hvor man kan finde evt. dæmpning, det vil som regel sige vandret. Brug venstre hånds langfinger til at slå (perkutere) over den første hånds langfinger. Perkutér i intercostalrummene. Start oppefra, sammenlign hele tiden de to sider på samme niveau, og bevæg dig distalt.]]
-
-over kors ved perkussion af bagfladen, så scapulae drejes fri. Sammenlign hele tiden de to siders perkussionslyd.
-
-Det normale fund ved perkussion af lungerne er en ''resonant'' perkussionslyd, dvs. en svag, kortvarig genklang af dit slag med fingeren. Ved øget mængde luft i lungerne – som det det ses ved pneumothorax og lungeemfysem – kan der være øget resonans, med en nærmest rungende lyd. Tænk på en tom tønde! Hvis luften er fortrængt, som det ses ved pneumoni, fibrose eller ''atelektase'' (sammenklappet lungelap), er der ''dæmpning'', dvs. nedsat eller manglende genklang.Mest udtalt er dæmpningen ved pleurale effusioner, dvs. væske imellem de to pleurablade. Tænk på en fyldt tønde!
-
-Graden af resonans afhænger af thoraxvæggens beskaffenhed. Hos tykke og muskuløse patienter er der mindre resonans, men denne dæmpning vil være symmetrisk på begge sider af thorax. Perkussion af thorax er under alle omstændigheder en uspecifik undersøgelse.Man kan f.eks. ikke udelukke pneumothorax eller pneumoni ved undersøgelsen – et røntgenbillede af thorax er obligat ved mistanken.
 
 == Auskultation (stethoscopia pulmonum; st.p., lungestetoskopi) ==
 
 &lt;html5media&gt;File:KAP6_94.mp3&lt;/html5media&gt;
 
-De fleste foretrækker at bruge membransiden af stetoskopet ved lungestetoskopi, men hos tynde, benede patienter eller meget behårede patienter kan det være en fordel at bruge klokken. Bed patienten om at tage
-
-&lt;html5media&gt;File:FIG6-4.mp3&lt;/html5media&gt;
-
-[[File:Figurer/FIG6-4_png.png|frame|none|500px|alt=|caption '''Fig. 6.4''' Auskultation af lungerne. Flyt systematisk stetoskopet i en zig-zag bevægelse, så du hele tiden sammenligner siderne. Lyt hvert sted over en hel in- og eksspiration.]]
-
-dybe ind- og udåndinger i roligt tempo, gerne med åben mund. Det nemmeste er at vise patienten, hvad man mener, ved selv at demonstrere det. Start fra apices og bevæg dig systematisk ned langs forfladen, mens du hele tiden sammenligner de to sider. Stetoskoper herefter side- og bagflader med samme systematik.
+De fleste foretrækker at bruge membransiden af stetoskopet ved lungestetoskopi, men hos tynde, benede patienter eller meget behårede patienter kan det være en fordel at bruge klokken. Bed patienten om at tage dybe ind- og udåndinger i roligt tempo, gerne med åben mund. Det nemmeste er at vise patienten, hvad man mener, ved selv at demonstrere det. Start fra apices og bevæg dig systematisk ned langs forfladen, mens du hele tiden sammenligner de to sider. Stetoskoper herefter side- og bagflader med samme systematik.
 
 Den normale respirationslyd benævnes ''vesikulær respiration''. Den høres som en svag, hvislende lyd i inspirationen, men taber sig i eksspirationen. Respirationslydene produceres i trachea og bronkier, men afsvækkes ved passagen igennem lungevævet. Hvis vævet er lufttomt og konsolideret, som f.eks. ved pneumoni eller ''atelektase'' (sammenklappet lungelap), vil lydene høres tydeligere som ''bronkial respirationslyd''. Den høres som en tydeligere lyd, der virker »tættere på«, og som høres ligeligt i inspiration og eksspiration, men med en pause imellem de to faser. Lyden kan simuleres ved at lytte med stetoskopet over trachea. Et tilsvarende fund er ''vokal resonans'' (også kaldet ''stemmefænomen'').Man beder patienten sige »33« mens man stetoskoperer. Lyden vil være forøget over et lufttomt og konsolideret område og være afsvækket ved pneumothorax og pleural ansamling.
 
 Respirationslydene kan være kraftigt svækket hos f.eks. adipøse mennesker eller ved pneumothorax og pleurale ansamlinger. Respirationslydene kan også helt mangle (»tyst thorax«) som det f.eks. ses ved alvorlig akut astma, hvor luftpassagen er reduceret så meget, at der ikke produceres lyde. Undlad at bruge frasen »nedsat luftskifte«, når der er svækkede respirationslyde – det er ikke nødvendigvis det samme. Ved KOL er eksspirationsfasen forlænget (»forlænget eksspirium«).
 
 Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. ''Bilydene'' er derimod ekstralyde, der kan høres oven i enten bronkial eller vesikulær respiration. De vigtigste bilyde er rhonchi, rallelyde og pleurale gnidningslyde.
+
+&lt;html5media&gt;File:FIG6-4.mp3&lt;/html5media&gt;
+
+[[File:Figurer/FIG6-4_png.png|frame|none|500px|alt=|caption '''Fig. 6.4''' Auskultation af lungerne. Flyt systematisk stetoskopet i en zig-zag bevægelse, så du hele tiden sammenligner siderne. Lyt hvert sted over en hel in- og eksspiration.]]
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Lungestetoskopi'''
 
@@ -341,6 +397,10 @@ Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. 
 * Stemmefænomener?
 * Forlænget eksspiration?
 * Bilyde?
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Bilyde'''
 
@@ -403,3 +463,5 @@ Den bronkiale respirationslyd er en ''mislyd'', dvs. en abnorm respirationslyd. 
 * lungeemboli.
 * Ofte høres bilyden tydeligst der, hvor patienten har sine smerter.
 |}
+
+&lt;/div&gt;

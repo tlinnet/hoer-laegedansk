@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:53
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/6_Lunger_og_luftveje>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE6.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -22,12 +28,16 @@
   cirkulation, respiration og hydrering.
 * Central cyanose er et kardinaltegn på inkompenseret lungesygdom.
 
+</div>
+
 Symptomer
 =========
 
 <html5media>File:KAP6_83_2.mp3</html5media>
 
 De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
+
+<div style="background:#BBE5F8">
 
 **Luftveje**
 
@@ -37,6 +47,8 @@ De hyppigste symptomer er åndenød, hvæsen, hoste, opspyt og brystsmerter.
 * Piber og hvæser det, når du trækker vejret? Gør det ondt?
 * Har du hoste?
 * Hoster du slim eller blod op?
+
+</div>
 
 Åndenød (dyspnø)
 ----------------
@@ -50,6 +62,15 @@ f.eks. »*kan ikke længere klare trapperne*«. Ved kronisk lungesygdom
 kan patienten gennem årevis være så vænnet til den nedsatte
 lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniveau.
 
+Det kan være svært at skelne åndenød forårsaget af lungesygdom fra
+åndenøden pga. hjertesygdom eller anæmi. Den besværede, »hvæsende«
+vejrtrækning er typisk for lungepatienten, mens hjertepatienten klager
+over åndenød, når de ligger fladt i sengen (*ortopnø*) om natten. Tit er
+symptomatologien ikke så klar, og mange patienter kan også have både
+hjerte- og lungesygdom.
+
+<div style="background:#BBE5F8">
+
 **Åndenød**
 
 <html5media>File:BOKS84.mp3</html5media>
@@ -59,6 +80,10 @@ lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniv
 * Hvilke gøremål har du svært ved på grund af åndenød?
 * Hvad kan forværre din åndenød (fysisk anstrengelse, fladt leje, pollen osv.)?
 * Er der noget, der gør din vejrtrækning bedre?
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Årsager til åndenød – akut eller kronisk?**
 
@@ -76,12 +101,9 @@ lungefunktion, at man må spørge konkret for at vurdere det reelle funktionsniv
 |               |           |          | Tumor                      |
 +---------------+-----------+----------+----------------------------+
 
-Det kan være svært at skelne åndenød forårsaget af lungesygdom fra
-åndenøden pga. hjertesygdom eller anæmi. Den besværede, »hvæsende«
-vejrtrækning er typisk for lungepatienten, mens hjertepatienten klager
-over åndenød, når de ligger fladt i sengen (*ortopnø*) om natten. Tit er
-symptomatologien ikke så klar, og mange patienter kan også have både
-hjerte- og lungesygdom.
+</div>
+
+<div style="background:#BBE5F8">
 
 **Hyperventilationstilfælde**
 
@@ -92,6 +114,8 @@ hjerte- og lungesygdom.
 * Paræstesier i fingre og omkring munden
 * Fjernhedsfornemmelse
 * Dødsangst.
+
+</div>
 
 Hvæsen og piben
 ---------------
@@ -130,6 +154,14 @@ Hoste kan være det eneste symptom på sygdom i luftvejene. F.eks. er
 hoste ved anstrengelse og om natten karakteristisk for astma hos børn.
 En tiltagende, behandlingsresistent hoste kan være første og eneste
 symptom på en lungecancer. En ikke ualmindelig – men ofte overset –
+årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom
+`(se side 99) <7_Mave-tarm-systemet.rst#Halsbrand_(pyrosis)>`__ ; 
+hosten ses typisk efter måltider og ved fladt leje. Hosten kan
+være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på
+patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør
+f.eks. føre til udredning for tuberkulose.
+
+<div style="background:#BBE5F8">
 
 **Hoste**
 
@@ -141,11 +173,7 @@ symptom på en lungecancer. En ikke ualmindelig – men ofte overset –
 * Hvornår er hosten værst (ved anstrengelse, når du ligger
   ned, ved kontakt med dyr osv.)?
 
-årsag til hoste er overløb af maveindhold til lungerne ved reflukssygdom
-`(se side 99) <7_Mave-tarm-systemet.rst#Halsbrand_(pyrosis)>`__ ; hosten ses typisk efter måltider og ved fladt leje. Hosten kan
-være bivirkning til medicinindtagelse (ACE-hæmmere). Tænk altid på
-patientens baggrund: Vedvarende hoste hos en somalisk invandrer bør
-f.eks. føre til udredning for tuberkulose.
+</div>
 
 Opspyt (sputum og haemoptysis)
 ------------------------------
@@ -166,6 +194,19 @@ daglige (morgen)hoste med de gråbrune klatter, der er karakteristisk for
 for akut bronkitis. Ved lungebetændelse (*pneumoni*) er det ofte
 initialt en tør hoste, senere evt. rustrødt ekspektorat.
 
+Blodigt opspyt (*hæmoptyse*) er ofte et tegn på alvorlig lungesygdom,
+f.eks. kræft eller tuberkulose, men kan også ses som enkelte, isolerede
+episoder ved luftvejsinfektioner. Det kan være svært at skelne hæmoptysen
+fra blodigt opkast fra osophagus eller ventrikel (*hæmatemese*) eller
+fra bagre næseblødning (*epistaxis*). Blødningen ved hæmoptyse er typisk
+initialt friskt rødt, der senere aftager i mængder og bliver mørkere i farven.
+Hæmatemese kan være helt friskt blodigt (ved f.eks. større blødning
+fra oesophagusvaricer) eller kaffegrumsfarvet, når det kommer fra ventriklen
+og mavesyren har denatureret det. Hæmatemese er ofte ledsaget
+af kvalme og hæmoptyse er ofte ledsaget af hoste.
+
+<div style="background:#BBE5F8">
+
 **Opspyt**
 
 <html5media>File:BOKS86B.mp3</html5media>
@@ -174,6 +215,10 @@ initialt en tør hoste, senere evt. rustrødt ekspektorat.
 * Hvor ofte har du opspyt – er det altid eller kun af og til?
 * Hvor meget kommer der?
 * Sejt eller tyndt? (Er det svært at få det op?)
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Opspyt**
 
@@ -190,16 +235,7 @@ Blodigt (hæmoptyse)         Tænk på lungecancer, lungeemboli
                             og tuberkulose
 ==========================  ==========================
 
-Blodigt opspyt (*hæmoptyse*) er ofte et tegn på alvorlig lungesygdom,
-f.eks. kræft eller tuberkulose, men kan også ses som enkelte, isolerede
-episoder ved luftvejsinfektioner. Det kan være svært at skelne hæmoptysen
-fra blodigt opkast fra osophagus eller ventrikel (*hæmatemese*) eller
-fra bagre næseblødning (*epistaxis*). Blødningen ved hæmoptyse er typisk
-initialt friskt rødt, der senere aftager i mængder og bliver mørkere i farven.
-Hæmatemese kan være helt friskt blodigt (ved f.eks. større blødning
-fra oesophagusvaricer) eller kaffegrumsfarvet, når det kommer fra ventriklen
-og mavesyren har denatureret det. Hæmatemese er ofte ledsaget
-af kvalme og hæmoptyse er ofte ledsaget af hoste.
+</div>
 
 Brystmerter
 -----------
@@ -226,7 +262,16 @@ akut abdomen, ligesom abdominale lidelser (f.eks. galdeblærebetændelse,
 Smerter i brystvæggen skyldes som regel enten costafrakturer eller
 muskelforandringer. Disse smerter kan også forværres ved hoste og vejrtræning,
 men i modsætning til pleurale smerter forværrres de også ved
-f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
+f.eks. lejeændringer i sengen. Systemiske virusinfektioner 
+(f.eks. influenza) kan give endog ganske kraftige muskelsmerter i brystvæggen.
+
+*Tietzes syndrom* er en smertefuld inflammation i de øvre ribbensbruske. 
+*Herpes zoster* og torakal discusprolaps kan forsårsage smerter i brystvæggen ved
+spinalrøddernes cutane innervation.
+Ved akut opståede brystsmerter skal man altid overveje *iskæmisk
+hjertesygdom* som differentialdiagnose `(se side 69-71) <5_Hjertet.rst#Træthed_og_funktionsnedsættelse>`__ .
+
+<div style="background:#BBE5F8">
 
 **Brystsmerter**
 
@@ -235,6 +280,10 @@ f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
 * Kan du beskrive smerterne (skarpe og stikkende; dybe og
   borende eller overfladiske og brændende)?
 * Er de konstante eller i takt med, at du trækker vejret?
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Brystsmerter**
 
@@ -267,12 +316,7 @@ f.eks. lejeændringer i sengen. Systemiske virusinfektioner (f.eks. influen-
 | bag sternum          | (*pyrosis*)     |                        |
 +----------------------+-----------------+------------------------+
 
-za) kan give endog ganske kraftige muskelsmerter i brystvæggen. *Tietzes
-syndrom* er en smertefuld inflammation i de øvre ribbensbruske. *Herpes
-zoster* og torakal discusprolaps kan forsårsage smerter i brystvæggen ved
-spinalrøddernes cutane innervation.
-Ved akut opståede brystsmerter skal man altid overveje *iskæmisk
-hjertesygdom* som differentialdiagnose `(se side 69-71) <5_Hjertet.rst#Træthed_og_funktionsnedsættelse>`__ .
+</div>
 
 Objektiv undersøgelse
 =====================
@@ -282,52 +326,13 @@ Objektiv undersøgelse
 Den vigtigste del af den objektive undersøgelse af lungepatienten er beskrivelsen
 af *almentilstanden* med speciel fokus på farve, perifer cirkulation,
 respiration og hydrering, ligesom man altid skal måle puls, blodtryk,
-temperatur og respirationsfrekvens `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ . *Central cyanose* er
-et kardinaltegn på inkompenseret lungesygdom.
-
-**Ændret vejrtrækningsmønster**
-
-<html5media>File:BOKS89.mp3</html5media>
-
-+---------------+--------------------------+----------------------------+
-| Betegnelse    | Type                     | Årsag                      |
-+===============+==========================+============================+
-| Kussmauls     | Meget dybe og            | Metabolisk acidose         |
-| respiration   | »sukkende« respirationer | (f.eks. nyreinsufficiens,  |
-|               | (prøver at udlufte CO2)  | diabetisk ketoacidose      |
-|               |                          | og acetylsyreforgiftning)  |
-+---------------+--------------------------+----------------------------+
-| Hyper-        | Hurtig, dyb og forceret  | Psykisk                    |
-| ventilation   | in- og eksspiration      |                            |
-+---------------+--------------------------+----------------------------+
-| Cheyne-Stokes’| Dybe, hyppige vejrtræk-  | CNS-skade, døende          |
-| respiration   | ninger vekslende med     |                            |
-|               | ophævet vejrtrækning     |                            |
-|               | (apnø-perioder)          |                            |
-+---------------+--------------------------+----------------------------+
+temperatur og respirationsfrekvens `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ . 
+*Central cyanose* er et kardinaltegn på inkompenseret lungesygdom.
 
 Ved vurderingen af respirationen bemærkes, om den er rolig og ubesværet,
 eller om patienten har en anstrengt og forceret respiration.
 Antallet af respirationer pr. minut tælles. Den normale respirationsfrekvens
 er i hvile 12-16 × min–1. En hurtig respiration benævnes *takypnø.*
-
-**Cyanose (blålig misfarvning)**
-
-<html5media>File:BOKS90.mp3</html5media>
-
-+---------------+---------------------------+--------------------------+
-| Betegnelse    | Type                      | Årsag                    |
-+===============+===========================+==========================+
-| Central       | På slimhinde, tunge       | Alvorlig hjerte og/eller |
-| cyanose       | og læber                  | lungesygdom              |
-+---------------+---------------------------+--------------------------+
-| Perifer       | Perifert på ekstremiteter | Nedsat blodforsyning til |
-| cyanose       | (fingre og tæer)          | ekstremiteterne. Ses ved |
-|               |                           | blødningsshock, kolde    |
-|               |                           | omgivelser, Raynauds     |
-|               |                           | fænomen eller perifer    |
-|               |                           | vaskulær sygdom          |
-+---------------+---------------------------+--------------------------+
 
 En akut påvirket patient med cyanose og besværet respiration kræver
 hurtig vurdering og behandling. For den uøvede kan det være svært at
@@ -355,6 +360,53 @@ af hjertet (specielt halsvenestase, hepatomegali og ascites som kan
 være tegn på *højresidigt hjertesvigt* `(se kapitel 5) <5_Hjertet.rst#>`__ ), abdomen `(se kapitel 7) <7_Mave-tarm-systemet.rst#>`__ 
 og lymfeglandlerne på halsen `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ .
 
+<div style="background:#BBE5F8">
+
+**Ændret vejrtrækningsmønster**
+
+<html5media>File:BOKS89.mp3</html5media>
+
++---------------+--------------------------+----------------------------+
+| Betegnelse    | Type                     | Årsag                      |
++===============+==========================+============================+
+| Kussmauls     | Meget dybe og            | Metabolisk acidose         |
+| respiration   | »sukkende« respirationer | (f.eks. nyreinsufficiens,  |
+|               | (prøver at udlufte CO2)  | diabetisk ketoacidose      |
+|               |                          | og acetylsyreforgiftning)  |
++---------------+--------------------------+----------------------------+
+| Hyper-        | Hurtig, dyb og forceret  | Psykisk                    |
+| ventilation   | in- og eksspiration      |                            |
++---------------+--------------------------+----------------------------+
+| Cheyne-Stokes’| Dybe, hyppige vejrtræk-  | CNS-skade, døende          |
+| respiration   | ninger vekslende med     |                            |
+|               | ophævet vejrtrækning     |                            |
+|               | (apnø-perioder)          |                            |
++---------------+--------------------------+----------------------------+
+
+</div>
+
+<div style="background:#BBE5F8">
+
+**Cyanose (blålig misfarvning)**
+
+<html5media>File:BOKS90.mp3</html5media>
+
++---------------+---------------------------+--------------------------+
+| Betegnelse    | Type                      | Årsag                    |
++===============+===========================+==========================+
+| Central       | På slimhinde, tunge       | Alvorlig hjerte og/eller |
+| cyanose       | og læber                  | lungesygdom              |
++---------------+---------------------------+--------------------------+
+| Perifer       | Perifert på ekstremiteter | Nedsat blodforsyning til |
+| cyanose       | (fingre og tæer)          | ekstremiteterne. Ses ved |
+|               |                           | blødningsshock, kolde    |
+|               |                           | omgivelser, Raynauds     |
+|               |                           | fænomen eller perifer    |
+|               |                           | vaskulær sygdom          |
++---------------+---------------------------+--------------------------+
+
+</div>
+
 Inspektion
 ----------
 
@@ -377,6 +429,15 @@ rectusmuskulaturen, mens respirationsarbejdet udføres af interkostalmuskulature
 Ved smerter i brystvæggen (f.eks. pleurit eller costafrakturer)
 er respirationen hovedsageligt diafragmatisk.
 
+*Paradoks respiration*, hvor thorax bevæger sig modsat det normale (indad
+ved inspiration), ses ved løs thoraxvæg pga. multiple costafrakturer.
+*Uegale thoraxbevægelser* kan ses ved pneumothorax og multiple costafrakturer,
+men kan også være smertebetinget som ved lokal pleurit.
+Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og
+man kan med fordel palpere symmetrien (se Fig. 6.1).
+
+<div style="background:#BBE5F8">
+
 **Inspektion**
 
 <html5media>File:BOKS91.mp3</html5media>
@@ -387,12 +448,7 @@ er respirationen hovedsageligt diafragmatisk.
 * Indtrækninger?
 * Brug af accessoriske respirationsmuskler?
 
-*Paradoks respiration*, hvor thorax bevæger sig modsat det normale (indad
-ved inspiration), ses ved løs thoraxvæg pga. multiple costafrakturer.
-*Uegale thoraxbevægelser* kan ses ved pneumothorax og multiple costafrakturer,
-men kan også være smertebetinget som ved lokal pleurit.
-Thorax’ bevægelighed kan være svær at vurdere alene ved inspektion, og
-man kan med fordel palpere symmetrien (se Fig. 6.1).
+</div>
 
 <html5media>File:FIG6-1.mp3</html5media>
 
@@ -437,46 +493,6 @@ Perkussion
 Start øverst på thorax’ forflade ved at banke direkte på klaviklerne, der
 ligger umiddelbart over lungeapex. Herefter arbejder du dig symmetrisk
 ned langs thorax’ forflade og bagflade. Bed patienten at lægge armene
-
-<html5media>File:FIG6-2.mp3</html5media>
-
-.. figure:: Figurer/FIG6-2_png.png
-   :width: 700 px
-   :alt:  Fig. 6.2 De normale lungegrænser.
-
-   **Fig. 6.2** De normale lungegrænser.
-   Læg mærke til, at lungerne når længere ned bagtil end på
-   forfladen, hvor de kun når til 6. costa.
-
-**Palpation**
-
-<html5media>File:BOKS93.mp3</html5media>
-
-* Trachea midtstillet?
-* Stabilt thorax?
-* Ømhed?
-* Andre frakturtegn?
-* Subkutant emfysem?
-
-<html5media>File:FIG6-3.mp3</html5media>
-
-.. figure:: Figurer/FIG6-3_png.png
-   :width: 500 px
-   :alt:  Fig. 6.3 Perkussion af lungerne.
-
-   **Fig. 6.3** Perkussion af lungerne.
-   Højre hånds strakte langfinger
-   holdes parallelt med en forventet
-   linje for, hvor man kan finde evt.
-   dæmpning, det vil som regel sige
-   vandret. Brug venstre hånds
-   langfinger til at slå (perkutere)
-   over den første hånds langfinger.
-   Perkutér i intercostalrummene.
-   Start oppefra, sammenlign hele
-   tiden de to sider på samme
-   niveau, og bevæg dig distalt.
-
 over kors ved perkussion af bagfladen, så scapulae drejes fri.
 Sammenlign hele tiden de to siders perkussionslyd.
 
@@ -497,6 +513,49 @@ thorax er under alle omstændigheder en uspecifik undersøgelse.Man
 kan f.eks. ikke udelukke pneumothorax eller pneumoni ved undersøgelsen
 – et røntgenbillede af thorax er obligat ved mistanken.
 
+<html5media>File:FIG6-2.mp3</html5media>
+
+.. figure:: Figurer/FIG6-2_png.png
+   :width: 700 px
+   :alt:  Fig. 6.2 De normale lungegrænser.
+
+   **Fig. 6.2** De normale lungegrænser.
+   Læg mærke til, at lungerne når længere ned bagtil end på
+   forfladen, hvor de kun når til 6. costa.
+
+<div style="background:#BBE5F8">
+
+**Palpation**
+
+<html5media>File:BOKS93.mp3</html5media>
+
+* Trachea midtstillet?
+* Stabilt thorax?
+* Ømhed?
+* Andre frakturtegn?
+* Subkutant emfysem?
+
+</div>
+
+<html5media>File:FIG6-3.mp3</html5media>
+
+.. figure:: Figurer/FIG6-3_png.png
+   :width: 500 px
+   :alt:  Fig. 6.3 Perkussion af lungerne.
+
+   **Fig. 6.3** Perkussion af lungerne.
+   Højre hånds strakte langfinger
+   holdes parallelt med en forventet
+   linje for, hvor man kan finde evt.
+   dæmpning, det vil som regel sige
+   vandret. Brug venstre hånds
+   langfinger til at slå (perkutere)
+   over den første hånds langfinger.
+   Perkutér i intercostalrummene.
+   Start oppefra, sammenlign hele
+   tiden de to sider på samme
+   niveau, og bevæg dig distalt.
+
 Auskultation (stethoscopia pulmonum; st.p., lungestetoskopi)
 ------------------------------------------------------------
 
@@ -505,20 +564,6 @@ Auskultation (stethoscopia pulmonum; st.p., lungestetoskopi)
 De fleste foretrækker at bruge membransiden af stetoskopet ved lungestetoskopi,
 men hos tynde, benede patienter eller meget behårede patienter
 kan det være en fordel at bruge klokken. Bed patienten om at tage
-
-<html5media>File:FIG6-4.mp3</html5media>
-
-.. figure:: Figurer/FIG6-4_png.png
-   :width: 500 px
-   :alt:  Fig. 6.4 Auskultation af lungerne.
-
-   **Fig. 6.4** Auskultation af lungerne.
-   Flyt systematisk stetoskopet
-   i en zig-zag bevægelse,
-   så du hele tiden sammenligner
-   siderne. Lyt hvert sted over en
-   hel in- og eksspiration.
-   
 dybe ind- og udåndinger i roligt tempo, gerne med åben mund. Det
 nemmeste er at vise patienten, hvad man mener, ved selv at demonstrere
 det. Start fra apices og bevæg dig systematisk ned langs forfladen, mens
@@ -552,6 +597,21 @@ Den bronkiale respirationslyd er en *mislyd*, dvs. en abnorm respirationslyd.
 bronkial eller vesikulær respiration. De vigtigste bilyde er rhonchi, rallelyde
 og pleurale gnidningslyde.
 
+<html5media>File:FIG6-4.mp3</html5media>
+
+.. figure:: Figurer/FIG6-4_png.png
+   :width: 500 px
+   :alt:  Fig. 6.4 Auskultation af lungerne.
+
+   **Fig. 6.4** Auskultation af lungerne.
+   Flyt systematisk stetoskopet
+   i en zig-zag bevægelse,
+   så du hele tiden sammenligner
+   siderne. Lyt hvert sted over en
+   hel in- og eksspiration.
+
+<div style="background:#BBE5F8">
+
 **Lungestetoskopi**
 
 <html5media>File:BOKS95.mp3</html5media>
@@ -561,6 +621,10 @@ og pleurale gnidningslyde.
 * Stemmefænomener?
 * Forlænget eksspiration?
 * Bilyde?
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Bilyde**
 
@@ -615,3 +679,5 @@ og pleurale gnidningslyde.
 |                   | der skraber mod hinanden      |                                   |
 |                   | ved respirationen.            |                                   |
 +-------------------+-------------------------------+-----------------------------------+
+
+</div>
