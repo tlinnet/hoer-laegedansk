@@ -14,8 +14,8 @@ cd ../wikitools
 # Delete single
 #rm 0_Forord.Wiki
 #rm 1_Mødet_mellem_læge_og_patient.Wiki
-rm 2_Sygehusjournalen.Wiki
-#rm 3_Indlæggelsesnotatet.Wiki
+#rm 2_Sygehusjournalen.Wiki
+rm 3_Indlæggelsesnotatet.Wiki
 #rm 4_Almene_symptomer_og_fund.Wiki
 #rm 5_Hjertet.Wiki
 #rm 6_Lunger_og_luftveje.Wiki

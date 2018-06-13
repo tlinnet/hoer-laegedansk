@@ -4,8 +4,12 @@
 :date: 2018-05-01 12:56
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/3_Indlæggelsesnotatet>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE3.mp3</html5media>
+
+</div>
 
 <html5media>File:KAP3_31.mp3</html5media>
 
@@ -311,7 +315,7 @@ kvinde, der indlægges til udredning af anæmi.
 Nuværende/aktuelt
 -----------------
 
-<html5media>File:KAP3_37.mp3</html5media>
+<html5media>File:kap3_37.mp3</html5media>
 
 Dette afsnit er kernen i anamnesen, hvor man beskriver de symptomer
 og forhold, der har forårsaget patientens indlæggelse, og hvor man fremhæver
@@ -323,30 +327,6 @@ Hvis anamnesen baseres på andre kilder end patienten selv, anføres
 dette, f.eks. **Anamnese suppleret ved samtale med patientens
 datter**. Er der sproglige problemer, anføres dette, f.eks. **Pt. forstår
 ikke dansk, og anamnese er optaget ved hjælp af tolk.**
-
-**Genindlæggelse**
-
-<html5media>File:BOKS37.mp3</html5media>
-
-::
-
-  Er der tale om genindlæggelse i et længere forløb, kan dette
-  afsnit passende deles i to: Et, der kaldes nuværende, og ét, der
-  kaldes aktuelt eller siden sidst, f.eks.:
-
-  Nuværende:
-  Pt. er velkendt i afd. siden 1990 med diabetiske
-  fodsår. Fik d. 3/7-2000 foretaget højresidig forfodsamputation,
-  efterfølgende besværlig opheling, men
-  udskrives d. 27/8 med en pæn stump.
-
-  Aktuelt:
-  Indlægges på foranledning af hjemmeplejen, der ved
-  besøg i dag bemærker en rådden lugt fra foden.
-  Pt. er egentlig imod genindlæggelse, da han synes,
-  vi holdt for længe på ham sidst. Pt. har selv bemærket,
-  at foden er blevet sort den seneste uges
-  tid, men har ingen smerter fra den.
 
 Punktet **nuværende** har en noget løsere og mindre formel struktur end
 de øvrige journalpunkter. Man skal derfor passe på ikke at blive for sludrende
@@ -389,6 +369,36 @@ kunne se således ud:
   og iflg. ambulancejournalen er der kl. 09.07 givet inj.
   Morfin 10 mg i.v. med god effekt.
 
+<div style="background:#BBE5F8">
+
+**Genindlæggelse**
+
+<html5media>File:BOKS37.mp3</html5media>
+
+::
+
+  Er der tale om genindlæggelse i et længere forløb, kan dette
+  afsnit passende deles i to: Et, der kaldes nuværende, og ét, der
+  kaldes aktuelt eller siden sidst, f.eks.:
+
+  Nuværende:
+  Pt. er velkendt i afd. siden 1990 med diabetiske
+  fodsår. Fik d. 3/7-2000 foretaget højresidig forfodsamputation,
+  efterfølgende besværlig opheling, men
+  udskrives d. 27/8 med en pæn stump.
+
+  Aktuelt:
+  Indlægges på foranledning af hjemmeplejen, der ved
+  besøg i dag bemærker en rådden lugt fra foden.
+  Pt. er egentlig imod genindlæggelse, da han synes,
+  vi holdt for længe på ham sidst. Pt. har selv bemærket,
+  at foden er blevet sort den seneste uges
+  tid, men har ingen smerter fra den.
+
+</div>
+
+<div style="background:#BBE5F8">
+
 **Nuværende:**
 
 <html5media>File:BOKS39.mp3</html5media>
@@ -420,6 +430,7 @@ kunne se således ud:
    symptomer og patientens egne diagnoseforslag kan virke
    absurde set med lægeøjne, bør de som hovedregel nævnes.
 
+</div>
 
 Øvrige organsystemer
 --------------------
@@ -434,7 +445,6 @@ sygdom, f.eks. hvilesmerter og kolde fødder hos en hjertesyg patient.
 Traditionelt gennemgår man de store organsystemer ét for ét i rækkefølgen
 hoved til storetå, og man koncentrerer sig om hovedsymptomerne
 på lidelse inden for hvert organgsystem (jf. kapitel 5-15):
-
 
 **Centralnervesystemet (CNS):**
   `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ 
@@ -640,6 +650,8 @@ Man medtager sjældent alle de punkter, der gennemgås her, i den objektive
 undersøgelse, men prioriterer de enkelte dele i forhold til anamnesen
 og diagnostiske overvejelser.
 
+<div style="background:#BBE5F8">
+
 **Adfærdstermer:**
 
 <html5media>File:BOKS44.mp3</html5media>
@@ -654,6 +666,8 @@ Perkussion:
   – den undersøgelse, hvor man banker på patienten.
 Auskultation:
   – den undersøgelse, hvor man lytter med stetoskop.
+
+</div>
 
 Almene fund
 -----------

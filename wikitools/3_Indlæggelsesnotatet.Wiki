@@ -1,7 +1,11 @@
 __TOC__
 
+<div style="background:#f8f9fa">
+
 * '''Link to machine translation of this page to english:''' [https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/3_Indlæggelsesnotatet Google Translate]
 * '''Oplæsning for hele kapitlet:''' <html5media>File:HELE3.mp3</html5media>
+
+</div>
 
 <html5media>File:KAP3_31.mp3</html5media>
 
@@ -194,31 +198,10 @@ Den gynækologiske anamnese anføres kun, hvor det er relevant. F.eks. vil man u
 
 == Nuværende/aktuelt ==
 
-<html5media>File:KAP3_37.mp3</html5media>
+<html5media>File:kap3_37.mp3</html5media>
 
 Dette afsnit er kernen i anamnesen, hvor man beskriver de symptomer og forhold, der har forårsaget patientens indlæggelse, og hvor man fremhæver de subjektive informationer, man finder væsentlige for den videre diagnostik og behandling.Man tager ofte udgangspunkt i de symptomer og gener, som patienten selv finder vigtige (»hovedklagen«), men bør forsøge at redigere sygehistorien, så det lægefagligt relevante er velbelyst. Hvis anamnesen baseres på andre kilder end patienten selv, anføres dette, f.eks. '''Anamnese suppleret ved samtale med patientens datter'''. Er der sproglige problemer, anføres dette, f.eks. '''Pt. forstår ikke dansk, og anamnese er optaget ved hjælp af tolk.'''
 
-'''Genindlæggelse'''
-
-<html5media>File:BOKS37.mp3</html5media>
-
-<pre>Er der tale om genindlæggelse i et længere forløb, kan dette
-afsnit passende deles i to: Et, der kaldes nuværende, og ét, der
-kaldes aktuelt eller siden sidst, f.eks.:
-
-Nuværende:
-Pt. er velkendt i afd. siden 1990 med diabetiske
-fodsår. Fik d. 3/7-2000 foretaget højresidig forfodsamputation,
-efterfølgende besværlig opheling, men
-udskrives d. 27/8 med en pæn stump.
-
-Aktuelt:
-Indlægges på foranledning af hjemmeplejen, der ved
-besøg i dag bemærker en rådden lugt fra foden.
-Pt. er egentlig imod genindlæggelse, da han synes,
-vi holdt for længe på ham sidst. Pt. har selv bemærket,
-at foden er blevet sort den seneste uges
-tid, men har ingen smerter fra den.</pre>
 Punktet '''nuværende''' har en noget løsere og mindre formel struktur end de øvrige journalpunkter. Man skal derfor passe på ikke at blive for sludrende og refererende, som i flg. eksempel:
 
 <pre>Nuværende:
@@ -247,6 +230,33 @@ ved at få vejret og føler sig som klemt under en damptromle.
 Nitrospray uden effekt. Lægeambulancen tilkaldes,
 og iflg. ambulancejournalen er der kl. 09.07 givet inj.
 Morfin 10 mg i.v. med god effekt.</pre>
+<div style="background:#BBE5F8">
+
+'''Genindlæggelse'''
+
+<html5media>File:BOKS37.mp3</html5media>
+
+<pre>Er der tale om genindlæggelse i et længere forløb, kan dette
+afsnit passende deles i to: Et, der kaldes nuværende, og ét, der
+kaldes aktuelt eller siden sidst, f.eks.:
+
+Nuværende:
+Pt. er velkendt i afd. siden 1990 med diabetiske
+fodsår. Fik d. 3/7-2000 foretaget højresidig forfodsamputation,
+efterfølgende besværlig opheling, men
+udskrives d. 27/8 med en pæn stump.
+
+Aktuelt:
+Indlægges på foranledning af hjemmeplejen, der ved
+besøg i dag bemærker en rådden lugt fra foden.
+Pt. er egentlig imod genindlæggelse, da han synes,
+vi holdt for længe på ham sidst. Pt. har selv bemærket,
+at foden er blevet sort den seneste uges
+tid, men har ingen smerter fra den.</pre>
+</div>
+
+<div style="background:#BBE5F8">
+
 '''Nuværende:'''
 
 <html5media>File:BOKS39.mp3</html5media>
@@ -266,6 +276,8 @@ Morfin 10 mg i.v. med god effekt.</pre>
 #** ''udstråling''
 #** ''karakter'' (jagende, trykkende, borende etc.).
 # '''Patientens egne overvejelser''' over symptomernes betydning og sygdommens art, herunder også patientens egne »diagnoseforslag«. Selvom patientens egen prioritering af symptomer og patientens egne diagnoseforslag kan virke absurde set med lægeøjne, bør de som hovedregel nævnes.
+
+</div>
 
 == Øvrige organsystemer ==
 
@@ -387,6 +399,8 @@ I det følgende gives en vejledning i ''beskrivelsen'' af den objektive undersø
 
 Man medtager sjældent alle de punkter, der gennemgås her, i den objektive undersøgelse, men prioriterer de enkelte dele i forhold til anamnesen og diagnostiske overvejelser.
 
+<div style="background:#BBE5F8">
+
 '''Adfærdstermer:'''
 
 <html5media>File:BOKS44.mp3</html5media>
@@ -401,6 +415,8 @@ Man medtager sjældent alle de punkter, der gennemgås her, i den objektive unde
 : – den undersøgelse, hvor man banker på patienten.
 ; Auskultation:
 : – den undersøgelse, hvor man lytter med stetoskop.
+
+</div>
 
 == Almene fund ==
 
