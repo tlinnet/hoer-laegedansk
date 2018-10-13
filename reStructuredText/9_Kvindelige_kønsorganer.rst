@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:50
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/9_Kvindelige_kønsorganer>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE9.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -20,6 +26,8 @@
   vaginalblødning eller -udflåd skal have lavet gynækologisk undersøgelse (GU).
 * De fleste kvinder føler ubehag ved gynækologisk undersøgelse.
   Professionel optræden og god læge-patient-kommunikation er altafgørende.
+  
+</div>
 
 Symptomer
 =========
@@ -32,6 +40,8 @@ ved gynækologiske lidelser, hvorfor der også skal spørges til disse
 `(se kapitel 8) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#>`__ . Det er altid vigtigt at vide, om en kvindelig patient er gravid –
 uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 
+<div style="background:#BBE5F8">
+
 **Gynækologi**
 
 <html5media>File:BOKS127.mp3</html5media>
@@ -43,6 +53,8 @@ uanset hvad årsagen til hendes indlæggelse i øvrigt er.
 * Tager du p-piller eller andre hormoner?
 * Er du gravid – eller kunne du være det?
 
+</div>
+
 Blødningsforstyrrelser
 ----------------------
 
@@ -51,6 +63,11 @@ Blødningsforstyrrelser
 Den normale menstruation varer 2-7 dage med et interval på 21-35 dage.
 Tager kvinden p-piller, bør hendes cyklus følge pillepakkens »cyklus«.
 Omkring menarche og menopause samt ved store vægtændringer er det
+normalt at have uregelmæssigt blødningsmønster. Alle tilfælde af vaginalblødning
+hos gravide eller postmenopausale kvinder kræver undersøgelse
+hos speciallæge eller på sygehus.
+
+<div style="background:#BBE5F8">
 
 **Blødningsforstyrrelser**
 
@@ -63,6 +80,9 @@ Omkring menarche og menopause samt ved store vægtændringer er det
 * Hvor kraftige er dine blødninger? (antal bind, klares med trusseindlæg)
 * Hvordan ser det ud? (klumper? vævsrester?)
 
+</div>
+
+<div style="background:#BBE5F8">
 
 <html5media>File:BOKS128B.mp3</html5media>
 
@@ -94,9 +114,7 @@ Omkring menarche og menopause samt ved store vægtændringer er det
 | *Dysmenoré:*              | * menstruationssmerter.            |
 +---------------------------+------------------------------------+
 
-normalt at have uregelmæssigt blødningsmønster. Alle tilfælde af vaginalblødning
-hos gravide eller postmenopausale kvinder kræver undersøgelse
-hos speciallæge eller på sygehus.
+</div>
 
 Underlivssmerter
 ----------------
@@ -110,6 +128,15 @@ pga. lidelser i mave-tarm-kanalen eller urinvejene.
 hvorfor der skal laves graviditetstest hos alle, uanset hvad kvinden oplyser om graviditetschancer,
 og uanset om hun anvender antikonception eller er steriliseret.
 
+*Akut* indsættende underlivssmerter ses f.eks. ved ekstrauterin graviditet
+og ovariecyster. Gradvist opståede smerter ledsaget af feber og kvalme er
+kendetegnende for underlivsbetændelse (*salpingitis*). Smerter ved endometriose
+ses typisk i slutningen af cyklus tiltagende hen imod menstruationstidspunktet,
+mens smerterne ved ovariecyster og ægløsning (= *Mittelschmerz*)
+typisk ses midt imellem to menstruationer.
+
+<div style="background:#BBE5F8">
+
 **Underlivssmerter**
 
 <html5media>File:BOKS129.mp3</html5media>
@@ -120,12 +147,7 @@ og uanset om hun anvender antikonception eller er steriliseret.
   menstruationscyklus?
 * Er der smerter ved samleje (= *dyspareuni*)?
 
-*Akut* indsættende underlivssmerter ses f.eks. ved ekstrauterin graviditet
-og ovariecyster. Gradvist opståede smerter ledsaget af feber og kvalme er
-kendetegnende for underlivsbetændelse (*salpingitis*). Smerter ved endometriose
-ses typisk i slutningen af cyklus tiltagende hen imod menstruationstidspunktet,
-mens smerterne ved ovariecyster og ægløsning (= *Mittelschmerz*)
-typisk ses midt imellem to menstruationer.
+</div>
 
 Udflåd (fluor)
 --------------
@@ -139,6 +161,8 @@ udseende (f.eks. grynet og hvidt ved *candida*) og lugt (f.eks.
 ligesom evt. ledsagesymptomer, f.eks. kløe og brænden ved *candida* eller
 feber ved salpingitis.
 
+<div style="background:#BBE5F8">
+
 **Udflåd**
 
 <html5media>File:BOKS130A.mp3</html5media>
@@ -147,6 +171,8 @@ feber ved salpingitis.
 * Beskriv det (farve, konsistens, lugt)!
 * Er der kløe eller brænden ved skedeåbningen?
 * Har du feber eller mavesmerter?
+
+</div>
 
 Hormoner og antikonception
 --------------------------
@@ -173,6 +199,15 @@ medicin man kan give). Hos den gravide spørges kort til eventuelle
 problemer i selve graviditeten, og man skal *altid* anføre i journalen, hvor
 langt hun er henne i graviditeten.
 
+Graviditet medfører en række *fysiologiske* ændringer, der ikke må fejltolkes
+som symptomer på sygdom. Kvalme er almindeligt indtil 12.-16. uge.
+Hyppige vandladninger er normalt i 1. og 3. trimester. Lænde- og 
+bækkensmerter er almindelige i anden halvdel af graviditeten. Halsbrand er
+almindeligt i 3. trimester. Desuden ses det hyppigt, at gravide har udflåd,
+skedesvamp, åreknuder, hæmorider, forstoppelse og blødende tandkød.
+
+<div style="background:#BBE5F8">
+
 **Den gravide patient**
 
 <html5media>File:BOKS130B.mp3</html5media>
@@ -183,12 +218,7 @@ langt hun er henne i graviditeten.
 * Har der været problemer med graviditeten?
 * Har du haft blødninger?
 
-Graviditet medfører en række *fysiologiske* ændringer, der ikke må fejltolkes
-som symptomer på sygdom. Kvalme er almindeligt indtil 12.-16. uge.
-Hyppige vandladninger er normalt i 1. og 3. trimester. Lænde- og 
-bækkensmerter er almindelige i anden halvdel af graviditeten. Halsbrand er
-almindeligt i 3. trimester. Desuden ses det hyppigt, at gravide har udflåd,
-skedesvamp, åreknuder, hæmorider, forstoppelse og blødende tandkød.
+</div>
 
 Objektivt	
 =========
@@ -228,6 +258,8 @@ til den immobile patient.
 
    **Fig. 9.1** Patient i GU-leje.
 
+<div style="background:#BBE5F8">
+
 **Den vellykkede GU**
 
 <html5media>File:BOKS132.mp3</html5media>
@@ -251,6 +283,8 @@ til den immobile patient.
 * Efter undersøgelsen skal man aftale med patienten, at hun
   klæder sig på, før man begynder at drøfte sine fund ved GU
   og den videre udredning/behandling.
+
+</div>
   
 **Inspektion**
 
@@ -264,8 +298,30 @@ eller ældre kvinde bemærker man, om slimhinden er lyserød og
 fugtig som tegn på adækvat østrogentilførsel, eller om slimhinden er
 atrofisk (tør og »sprukken«).Man beder patienten hoste eller presse og
 bemærker, om der er nedsynkning eller fremfald af genitalia.
-Inspektionen af vagina og portio foregår ved hjælp af instrumenter
 
+Inspektionen af vagina og portio foregår ved hjælp af instrumenter
+(se Fig. 9.2-3). Hvis patienten spænder, har det tit den modsatte effekt,
+hvis man beder hende om at slappe af. Bed i stedet patienten om at
+klemme sammen om dine fingre mens hun holder vejret; når du herefter
+beder patienten om at trække vejret, mens hun gør sig »tung i bagdelen«
+vil du ofte mærke, at patienten slapper af i sin bækkenbund. Du kan
+herefter evt. indføre speklet *over* dine fingre. Når speklet er ført til vaginas
+top, trækkes let bagud-nedad, mens *depressoren* indføres uden at
+klemme den yderste del af forvæggen. Spekel og depressor holdes herefter
+samlet i venstre hånd (dette håndgreb skal øves, før man laver sine
+første GU) og spredes, mens man leder efter portio. Lykkes det ikke, er
+det ofte, fordi speklets spids er i fornix anterior eller depressoren er for
+dybt i vagina.
+
+Ved inspektionen af vagina og portio bemærker man, om slimhinden
+i vagina og på portio har normalt udseende (lyserød og let fugtig), og
+om der er blod eller pus i vagina eller fra orificium. Hvis orificium er
+gabende, er det tegn på igangværende spontan abort.Menstruationsblod
+er mørkt og koagulerer ikke, mens blodet ved spontan abort er lysere
+rødt med koagler og evt. vævsklumper.Man vil ofte afslutte sin inspektion
+med at tage podninger eller celleskrab fra cervix.
+
+<div style="background:#BBE5F8">
 
 <html5media>File:BOKS133.mp3</html5media>
 
@@ -282,6 +338,8 @@ Inspektionen af vagina og portio foregår ved hjælp af instrumenter
 +-------------------------------+--------------------------------------------------+
 | *Prolapsus uteri*             | Uterus når helt eller delvist uden for introitus |
 +-------------------------------+--------------------------------------------------+
+
+</div>
 
 <html5media>File:FIG9-2.mp3</html5media>
 
@@ -307,11 +365,6 @@ Inspektionen af vagina og portio foregår ved hjælp af instrumenter
    hvilket er meget ubehageligt for kvinden. Ved den korrekte indførelse skal
    speklet glide på vaginas bagvæg, som er mindre følsom, og følge vaginas længdeakse,
    dvs. vinklet 45° med retning nedad mod lejet (Fig. 9.3b).
-   
-(se Fig. 9.2-3). Hvis patienten spænder, har det tit den modsatte effekt,
-hvis man beder hende om at slappe af. Bed i stedet patienten om at
-klemme sammen om dine fingre mens hun holder vejret; når du herefter
-beder patienten om at trække vejret, mens hun gør sig »tung i bagdelen«
 
 <html5media>File:FIG9-4.mp3</html5media>
 
@@ -329,23 +382,6 @@ beder patienten om at trække vejret, mens hun gør sig »tung i bagdelen«
    uterus størrelse, overflade (glat
    eller puklet) og evt. ømhed.
 
-vil du ofte mærke, at patienten slapper af i sin bækkenbund. Du kan
-herefter evt. indføre speklet *over* dine fingre. Når speklet er ført til vaginas
-top, trækkes let bagud-nedad, mens *depressoren* indføres uden at
-klemme den yderste del af forvæggen. Spekel og depressor holdes herefter
-samlet i venstre hånd (dette håndgreb skal øves, før man laver sine
-første GU) og spredes, mens man leder efter portio. Lykkes det ikke, er
-det ofte, fordi speklets spids er i fornix anterior eller depressoren er for
-dybt i vagina.
-
-Ved inspektionen af vagina og portio bemærker man, om slimhinden
-i vagina og på portio har normalt udseende (lyserød og let fugtig), og
-om der er blod eller pus i vagina eller fra orificium. Hvis orificium er
-gabende, er det tegn på igangværende spontan abort.Menstruationsblod
-er mørkt og koagulerer ikke, mens blodet ved spontan abort er lysere
-rødt med koagler og evt. vævsklumper.Man vil ofte afslutte sin inspektion
-med at tage podninger eller celleskrab fra cervix.
-
 **Eksploration**
 
 <html5media>File:KAP9_134.mp3</html5media>
@@ -360,6 +396,17 @@ rectum – en hård faecesknold skal ikke forveksles med en tumor. Portio
 mærkes i toppen af vagina, fortæl patienten, hvad det er, du har fat i.
 Test for rokkeømhed ved forsigtigt at rokke portio fra side til side.
 Rokkeømhed er et klassisk tegn på underlivsbetændelse, men ses også
+ved andre gynækologiske lidelser og ved gastrointestinale lidelser med
+peritonitis (f.eks. perforeret appendix).
+
+Man fortsætter herefter med *bimanuel eksploration* (se Fig. 9.4-9.6).
+Man kan evt. afslutte den gynækologiske undersøgelse med en *rektovaginal*
+eksploration, hvor højre hånds 2. finger eksplorerer i vagina,
+mens 3. finger indføres i rectum. Ved denne undersøgelse indhentes de
+samme informationer som ved rektaleksploration `(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ , men
+man kan samtidig bedre vurdere en evt. retroflekteret uterus og man
+vil kunne vurdere evt. udfyldninger i *fossa Douglasi*, f.eks. »sneboldsknitren« 
+ved rumperet ekstrauterin graviditet.
 
 <html5media>File:FIG9-5.mp3</html5media>
 
@@ -372,18 +419,6 @@ Rokkeømhed er et klassisk tegn på underlivsbetændelse, men ses også
    vanskelig at vurdere, men kan som
    regel mærkes igennem fornix
    posterior.
-
-ved andre gynækologiske lidelser og ved gastrointestinale lidelser med
-peritonitis (f.eks. perforeret appendix).
-
-Man fortsætter herefter med *bimanuel eksploration* (se Fig. 9.4-9.6).
-Man kan evt. afslutte den gynækologiske undersøgelse med en *rektovaginal*
-eksploration, hvor højre hånds 2. finger eksplorerer i vagina,
-mens 3. finger indføres i rectum. Ved denne undersøgelse indhentes de
-samme informationer som ved rektaleksploration `(se side 114) <7_Mave-tarm-systemet.rst#Endetarm_(rectum)>`__ , men
-man kan samtidig bedre vurdere en evt. retroflekteret uterus og man
-vil kunne vurdere evt. udfyldninger i *fossa Douglasi*, f.eks. »sneboldsknitren« 
-ved rumperet ekstrauterin graviditet.
 
 <html5media>File:FIG9-6.mp3</html5media>
 
