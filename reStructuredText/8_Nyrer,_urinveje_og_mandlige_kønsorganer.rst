@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:51
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/8_Nyrer,_urinveje_og_mandlige_kønsorganer>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE8.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -24,6 +30,8 @@
 * Kernen i den objektive undersøgelse er at kunne afsløre en øm nyre,
   en fyldt blære, en forstørret prostata og en abnorm udfyldning i
   scrotum.
+  
+</div>
 
 Subjektivt
 ==========
@@ -42,6 +50,15 @@ vandladningstrang), *pollakisuri* (hyppig vandladning), *nykturi*
 blæretømning, *inkontinens*, *hæmaturi* (blod i urinen), og *ødemer*
 (væskeophobning i kroppen).
 
+Parenkymatøse nyresygdomme kan være sekundære til systemiske sygdomme,
+f.eks. diabetes, eller primære nyresygdomme kan give systemiske
+komplikationer, f.eks. anæmi, hjertehindebetændelse (*pericarditis*) og
+hypertension. En grundig anamnese, der dækker alle organsystemer, er
+derfor vigtig hos nyrepatienten. Hos kvinder med symptomer fra de
+nedre urinveje er den gynækologiske anamnese vigtig `(kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ .
+
+<div style="background:#BBE5F8">
+
 **Nyrer og urinveje**
 
 <html5media>File:BOKS117.mp3</html5media>
@@ -55,12 +72,7 @@ blæretømning, *inkontinens*, *hæmaturi* (blod i urinen), og *ødemer*
 * Har du blodig urin?
 * Har du væske i kroppen, dvs. hævede ben eller hævelse i ansigtet?
 
-Parenkymatøse nyresygdomme kan være sekundære til systemiske sygdomme,
-f.eks. diabetes, eller primære nyresygdomme kan give systemiske
-komplikationer, f.eks. anæmi, hjertehindebetændelse (*pericarditis*) og
-hypertension. En grundig anamnese, der dækker alle organsystemer, er
-derfor vigtig hos nyrepatienten. Hos kvinder med symptomer fra de
-nedre urinveje er den gynækologiske anamnese vigtig `(kapitel 9) <9_Kvindelige_kønsorganer.rst#>`__ .
+</div>
 
 Smerter
 -------
@@ -68,6 +80,21 @@ Smerter
 <html5media>File:KAP8_117.mp3</html5media>
 
 Smerter er hyppige ved lidelser i urinvejene som nyresten og infektion.
+
+Ved det akutte nyrestensanfald (*urolithiasis*) er der typisk pludseligt indsættende,
+kraftige og turevise (kolikagtige) smerter lokaliseret ud for
+obstruktionen med en karakteristisk udstråling (Fig. 8.1). Ved nyrebæk-
+
+kenbetændelse (*pyelonephritis acuta*) er der typisk dumpe flankesmerter,
+feber og evt. dysuri. Blærebetændelse (*cystitis*) giver typisk smerter over
+symfysen, dysuri og pollakisuri. Smerterne ved urinretention er lokaliseret
+mellem symfysen og umbilicus. Smerter i scrotum kan skyldes bitestikel-
+betændelse (*epididymitis*), *torsio testis*, eller indeklemt lyskebrok
+(ingvinoskrotalt hernie, se `side 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ . *Hydrocele* (vandbrok) og *varicocele*
+(årebrok) giver som regel ikke smerter, men tyngdefornemmelse. Testistumoren
+manifesterer sig sjældent med smerter.
+
+<div style="background:#BBE5F8">
 
 **Smerte**
 
@@ -79,9 +106,7 @@ Smerter er hyppige ved lidelser i urinvejene som nyresten og infektion.
 * Stråler den nogen steder hen?
 * Svier det, eller gør det ondt, når du tisser?
 
-Ved det akutte nyrestensanfald (*urolithiasis*) er der typisk pludseligt indsættende,
-kraftige og turevise (kolikagtige) smerter lokaliseret ud for
-obstruktionen med en karakteristisk udstråling (Fig. 8.1). Ved nyrebæk-
+</div>
 
 <html5media>File:FIG8-1.mp3</html5media>
 
@@ -95,15 +120,6 @@ obstruktionen med en karakteristisk udstråling (Fig. 8.1). Ved nyrebæk-
    B: sten i øvre ureter.
    C: sten i nedre ureter.
 
-kenbetændelse (*pyelonephritis acuta*) er der typisk dumpe flankesmerter,
-feber og evt. dysuri. Blærebetændelse (*cystitis*) giver typisk smerter over
-symfysen, dysuri og pollakisuri. Smerterne ved urinretention er lokaliseret
-mellem symfysen og umbilicus. Smerter i scrotum kan skyldes bitestikel-
-betændelse (*epididymitis*), *torsio testis*, eller indeklemt lyskebrok
-(ingvinoskrotalt hernie, se `side 124) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Vand_i_kroppen_(ødemer)>`__ . *Hydrocele* (vandbrok) og *varicocele*
-(årebrok) giver som regel ikke smerter, men tyngdefornemmelse. Testistumoren
-manifesterer sig sjældent med smerter.
-
 Svie og smerte ved vandlanding (dysuri)
 ---------------------------------------
 
@@ -111,15 +127,6 @@ Svie og smerte ved vandlanding (dysuri)
 
 Dysuri forårsages af lidelser i urethra eller blære. Anamnesen forsøger at
 afdække øvrige symptomer, der kan give et fingerpeg om diagnosen:
-
-**Dysuri**
-
-<html5media>File:BOKS118.mp3</html5media>
-
-* Er der udflåd fra urinrøret?
-* Er der blodig urin?
-* Oplever du pludselig vandladningstrang?
-* Skal du løbe tit på toilettet? Bliver det kun til små-sjatter?
 
 Ved lidelser i urethra er der sædvanligvis ikke *urge* og pollakisuri, men
 der kan være udflåd. *Urethritis* (betændelse i urinrøret) er oftest en seksuelt
@@ -133,6 +140,19 @@ urin (*pyuri*). Blindtarmsbetændelse (appendicitis acuta) kan give symptomer,
 der minder om blærebetændelse pga. irritation af blærevæggen
 fra den inflammerede appendix. Blæretumorer, prostatalidelser, blære- og
 uretersten er andre differentialdiagnoser ved dysuri, urge og hæmaturi.
+
+<div style="background:#BBE5F8">
+
+**Dysuri**
+
+<html5media>File:BOKS118.mp3</html5media>
+
+* Er der udflåd fra urinrøret?
+* Er der blodig urin?
+* Oplever du pludselig vandladningstrang?
+* Skal du løbe tit på toilettet? Bliver det kun til små-sjatter?
+
+</div>
 
 Pludselig vandlandingstrang (urge) og hyppige vandladninger (pollakisuri, nykturi)
 ----------------------------------------------------------------------------------
@@ -163,6 +183,15 @@ benævnes af læger »prostatisme« og af nogle patienter »sjatpisning«.
 
 Man kan ikke alene på anamnesen og objektiv undersøgelse afgøre, om
 der er tale om infravesikal obstruktion. Lignende symptomer kan ses ved
+dårlig detrusorfunktion, og den endelige diagnose må derfor oftest
+bekræftes ved urodynamiske undersøgelser.
+
+Urinretention er den manglende evne til at lade vandet, selvom blæren
+er fuld. Det ses typisk hos mænd som udtryk for forværring af den
+infravesikale obstruktion, men kan også være neurologisk betinget, f.eks.
+ved *cauda equina*-syndrom eller epidural analgesi.
+
+<div style="background:#BBE5F8">
 
 **Prostatisme**
 
@@ -175,13 +204,7 @@ der er tale om infravesikal obstruktion. Lignende symptomer kan ses ved
 * Efterdryp
 * Manglende blæretømning.
 
-dårlig detrusorfunktion, og den endelige diagnose må derfor oftest
-bekræftes ved urodynamiske undersøgelser.
-
-Urinretention er den manglende evne til at lade vandet, selvom blæren
-er fuld. Det ses typisk hos mænd som udtryk for forværring af den
-infravesikale obstruktion, men kan også være neurologisk betinget, f.eks.
-ved *cauda equina*-syndrom eller epidural analgesi.
+</div>
 
 Ufrivillig vandladning (urininkontinens)
 ----------------------------------------
@@ -193,6 +216,15 @@ ses også hos mænd med prostatisme og hos neurologiske patienter af
 begge køn. Formålet med anamnesen er at få afklaret, hvilken type der er
 tale om, hvor stort et problem det er for patienten, og om der er reversible
 årsager som f.eks. cystitis eller diuretisk behandling.
+
+*Stress*\ -urininkontinens er betegnelsen for ufrivillig vandafgang ved fysisk
+aktivitet, og ses altovervejende hos kvinder. *Urge*\ -urininkontinens er
+ufrivillig vandladning med voldsom, uimodståelig vandladningstrang.
+Blandingsinkontinens er kombinationen af både stress- og urge-urininkontinens.
+Overløbsinkontinens eller *ischuria paradoxa* er sivende
+urininkontinens fra en overfyldt blære, der ikke kan tømme sig.
+
+<div style="background:#BBE5F8">
 
 **Urininkontinens**
 
@@ -206,12 +238,7 @@ tale om, hvor stort et problem det er for patienten, og om der er reversible
 * Tager du vanddrivende medicin?
 * Neurologiske symptomer eller lidelser?
 
-*Stress*\ -urininkontinens er betegnelsen for ufrivillig vandafgang ved fysisk
-aktivitet, og ses altovervejende hos kvinder. *Urge*\ -urininkontinens er
-ufrivillig vandladning med voldsom, uimodståelig vandladningstrang.
-Blandingsinkontinens er kombinationen af både stress- og urge-urininkontinens.
-Overløbsinkontinens eller *ischuria paradoxa* er sivende
-urininkontinens fra en overfyldt blære, der ikke kan tømme sig.
+</div>
 
 Blodig urin (hæmaturi)
 ----------------------
@@ -226,6 +253,17 @@ det blotte øje, men opdages ved multistix og bekræftes ved mikroskopi.
 mistænk altid urologisk cancer. Anamnesen fokuserer på at udlede ledsagesymptomer,
 der kan afdække årsagen.
 
+Sidder årsagen i urethra, f.eks. ved uretrallæsion eller polyp, ses 
+*initial hæmaturi*, dvs. der er kun blodig urin i starten af vandladningen. Sidder
+årsagen i blære og blærehals, f.eks. ved cystitis eller blærecancer, er der
+typisk *terminal hæmaturi*, dvs. kun blødning i slutningen af vandladning.
+Ved *diffus hæmaturi* er hele vandlandingen blodig, og man kan
+ikke sige noget specifikt om blødningskildens placering.
+
+Hæmaturi skal altid udredes.
+
+<div style="background:#BBE5F8">
+
 **Hæmaturi**
 
 <html5media>File:BOKS121A.mp3</html5media>
@@ -237,12 +275,9 @@ der kan afdække årsagen.
 * Kraftige slag mod flanken?
 * Blodfortyndende medicin?
 
-Sidder årsagen i urethra, f.eks. ved uretrallæsion eller polyp, ses 
-*initial hæmaturi*, dvs. der er kun blodig urin i starten af vandladningen. Sidder
-årsagen i blære og blærehals, f.eks. ved cystitis eller blærecancer, er der
-typisk *terminal hæmaturi*, dvs. kun blødning i slutningen af vandladning.
-Ved *diffus hæmaturi* er hele vandlandingen blodig, og man kan
-ikke sige noget specifikt om blødningskildens placering.
+</div>
+
+<div style="background:#BBE5F8">
 
 **Årsager til hæmaturi**
 
@@ -256,7 +291,7 @@ ikke sige noget specifikt om blødningskildens placering.
 * Parenkymatøs nyrelidelse
 * AK-behandling (AntiKoagulation = blodfortyndende behandling)
 
-Hæmaturi skal altid udredes.
+</div>
 
 Vand i kroppen (ødemer)
 -----------------------
@@ -341,17 +376,6 @@ og frit mobil, den er ganske let øm, har en glat overflade og en fastelastisk
 konsistens. Er testes forstørret og hård evt. med puklet overflade
 tyder det på *cancer*. Ved testiscancer er testiklen ikke nødvendigvis øm.
 
-**Testiklerne (palpation)**
-
-<html5media>File:BOKS123.mp3</html5media>
-
-* Lejring
-* Mobilitet
-* Ømhed
-* Størrelse
-* Konsistens
-* Overflade
-
 Bitestiklerne (epididymis) ligger over og bag ved testes. Den hyppigste
 lidelse her er infektion – *epididymitis* – hvor epididymis palperes forstørret
 og øm, og der kan være ledsagende dysuri, feber og evt. udflåd fra
@@ -363,20 +387,6 @@ Vandbrok (*hydrocele*) føles som en glat, blød udfyldning i scrotum.
 Ved at trykke en lommelampe tæt mod scrotum ses hydrocelet at være
 gennemskinneligt (*pellucidt*). Årebrok (*varicocele*) er næste altid venstresidigt;
 varicerne føles som bløde, ømme vener langs funiklen.
-
-<html5media>File:FIG8-2.mp3</html5media>
-
-.. figure:: Figurer/FIG8-2_png.png
-   :width: 700 px
-   :alt:  Fig. 8.2 Udfylding og ømhed i scrotum.
-
-   **Fig. 8.2** Udfylding og ømhed i scrotum.
-   A: torsio testis.
-   B: bitestikelbetændelse (epididymitis).
-   C: årebrok (varicocele).
-   D: vandbrok (hydrocele).
-   E: testiscancer med reaktivt hydrocele.
-   F: ingvinoskrotalt hernie.
 
 Ved fund af ømhed og udfyldning i scrotum kan det være vanskeligt at
 afgøre, om det udgår fra testis eller andre strukturer, og ømheden kan
@@ -394,6 +404,35 @@ og skal ordineres på vide indikationer ved udfyldninger i
 scrotum. Billeddiagnostiske og andre undersøgelser bør dog ikke forsinke
 kirurgisk eksploration ved mistanke om torsio eller inkarcereret hernie.
 
+<div style="background:#BBE5F8">
+
+**Testiklerne (palpation)**
+
+<html5media>File:BOKS123.mp3</html5media>
+
+* Lejring
+* Mobilitet
+* Ømhed
+* Størrelse
+* Konsistens
+* Overflade
+
+</div>
+
+<html5media>File:FIG8-2.mp3</html5media>
+
+.. figure:: Figurer/FIG8-2_png.png
+   :width: 700 px
+   :alt:  Fig. 8.2 Udfylding og ømhed i scrotum.
+
+   **Fig. 8.2** Udfylding og ømhed i scrotum.
+   A: torsio testis.
+   B: bitestikelbetændelse (epididymitis).
+   C: årebrok (varicocele).
+   D: vandbrok (hydrocele).
+   E: testiscancer med reaktivt hydrocele.
+   F: ingvinoskrotalt hernie.
+
 Nyrer og urinveje
 -----------------
 
@@ -410,16 +449,33 @@ erkende en overfyldt blære eller en nyretumor?
 
 **Palpation**
 
-Teknikken er som ved palpation af abdomen `(se side 107) <7_Mave-tarm-systemet.rst#Abdomen>`__ .Man palperer
+Teknikken er som ved palpation af abdomen `(se side 107) <7_Mave-tarm-systemet.rst#Abdomen>`__ . Man palperer
 hver flanke for sig ved brug af en bimanuel teknik, hvor den ene hånds
 fingerspidser placeres bagtil højt på lænderyggen i vinklen mellem columna
 og costa XII, mens den anden hånds fingerspidser palperer dybt i
-abdomen under kurvaturen.Man forsøger at »fange« nedre nyrepol, når
+abdomen under kurvaturen. Man forsøger at »fange« nedre nyrepol, når
 den presses ned af diaphragma ved inspirationen – højre nyre er lettest,
 da den ligger lavest. Nyrerne kan være forstørrede ved f.eks. cystisk nyresygdom
 eller *hydronefrose* `(s. 126) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje>`__ , hårde og knudrede ved cancer og
 ømme ved *pyelonephritis* `(s. 118) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Svie_og_smerte_ved_vandlanding_(dysuri)>`__ . Den normale nyre kan sjældent udpalperes.
 Ureteres kan ikke undersøges klinisk.
+   
+**Perkussion**
+
+Forstørret blære ses ved urinretention (hvor den kan nå helt op til umbilicus).
+Hos kvinder kan tilsvarende dæmpning over symfysen ses ved
+graviditet, fibromatøs uterus eller ovarietumor. Teknikken ved perkussion
+er som ved undersøgelse af lungerne `(se side 93) <6_Lunger_og_luftveje.rst#Palpation>`__ .
+   
+Nyrerne undersøges for bankeømhed. Ømhed af nyrerne kan ses ved
+infektion (pyelonephritis) og hindring af afløbet fra de øvre urinveje
+(hydronefrose).
+
+**Auskultation**
+
+Stetoskopi over nyrerne var tidligere god latin for at finde evt. mislyd
+som tegn på nyrearteriestenose. Undersøgelsen er upålidelig og bruges
+ikke mere, hvor Doppler-ultralyd er blevet let tilgængelig.
 
 <html5media>File:FIG8-3.mp3</html5media>
 
@@ -434,13 +490,6 @@ Ureteres kan ikke undersøges klinisk.
    dybden under kurvaturen. Den nederste
    hånd skubber opad, mens den øverste
    hånd prøver at »fange« nyrepolen.
-   
-**Perkussion**
-
-Forstørret blære ses ved urinretention (hvor den kan nå helt op til umbilicus).
-Hos kvinder kan tilsvarende dæmpning over symfysen ses ved
-graviditet, fibromatøs uterus eller ovarietumor. Teknikken ved perkussion
-er som ved undersøgelse af lungerne `(se side 93) <6_Lunger_og_luftveje.rst#Palpation>`__ .
 
 <html5media>File:FIG8-4.mp3</html5media>
 
@@ -454,10 +503,6 @@ er som ved undersøgelse af lungerne `(se side 93) <6_Lunger_og_luftveje.rst#Pal
    med symfysen. Ved normale forhold
    høres ingen dæmpning, men kun tarmenes
    almindelige tympanisme.
-   
-Nyrerne undersøges for bankeømhed. Ømhed af nyrerne kan ses ved
-infektion (pyelonephritis) og hindring af afløbet fra de øvre urinveje
-(hydronefrose).
 
 <html5media>File:FIG8-5.mp3</html5media>
 
@@ -472,9 +517,3 @@ infektion (pyelonephritis) og hindring af afløbet fra de øvre urinveje
    mellem nederste ribben og paravertebralmuskultauren).
    Med den anden hånds knyttede næve banker man på
    den flade hånd.
-
-**Auskultation**
-
-Stetoskopi over nyrerne var tidligere god latin for at finde evt. mislyd
-som tegn på nyrearteriestenose. Undersøgelsen er upålidelig og bruges
-ikke mere, hvor Doppler-ultralyd er blevet let tilgængelig.
