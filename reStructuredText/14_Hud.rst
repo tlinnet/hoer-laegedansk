@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:45
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/14_Hud>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE14.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -16,6 +22,8 @@
 * Det er vigtigt at være systematisk og præcis i sin beskrivelse af
   hudforandringer; ofte må man senere konferere med lærebøger
   eller hudlæger for at stille diagnosen.
+
+</div>
   
 Symptomer
 =========
@@ -33,6 +41,12 @@ Ofte skyldes kløe en lokal hudpåvirkning, som udløser irritation eller
 allergisk reaktion i huden, f.eks. myggestik eller rengøringsmidler. Fokuser
 på evt. udløsende faktorer.
 
+Flere systemiske sygdomme kan give kløe, f.eks. icterus, diabetes, lymfom
+og uræmi. Kløe ses ved universelle allergiske reaktioner (f.eks. penicillinallergi),
+men er også en hyppig bivirkning til flere lægemidler (f.eks. morfin) uden at der er tale om allergi.
+
+<div style="background:#BBE5F8">
+
 **Kløe**
 
 <html5media>File:BOKS194.mp3</html5media>
@@ -42,9 +56,7 @@ på evt. udløsende faktorer.
 * Insektbid?
 * Medicinindtagelse?
 
-Flere systemiske sygdomme kan give kløe, f.eks. icterus, diabetes, lymfom
-og uræmi. Kløe ses ved universelle allergiske reaktioner (f.eks. penicillinallergi),
-men er også en hyppig bivirkning til flere lægemidler (f.eks. morfin) uden at der er tale om allergi.
+</div>
 
 Udslæt (exanthema)
 ------------------
@@ -55,6 +67,13 @@ Enhver synlig hudforandring benævnes et udslæt eller *eksantem*. Udslæt
 er ofte ledsaget af andre symptomer som kløe, hævelse eller feber. Anamneseoptagelsen
 fokuserer på at skelne mellem akut opståede og kroniske
 udslæt og at afsløre evt. udløsende faktorer.
+
+Udslæt er kardinalsymptomet ved primære hudlidelser som f.eks. *psoriasis*
+eller atopisk dermatit. Udslæt kan skyldes infektioner i huden med
+f.eks. svamp eller stafylokokker. Karakteristiske hudforandringer ses ved
+flere akutte og kroniske sygdomme (f.eks. petekkier ved meningokoksepsis).
+
+<div style="background:#BBE5F8">
 
 **Udslæt**
 
@@ -67,10 +86,7 @@ udslæt og at afsløre evt. udløsende faktorer.
 * Lysfølsomt?
 * Feber eller ledsymptomer?
 
-Udslæt er kardinalsymptomet ved primære hudlidelser som f.eks. *psoriasis*
-eller atopisk dermatit. Udslæt kan skyldes infektioner i huden med
-f.eks. svamp eller stafylokokker. Karakteristiske hudforandringer ses ved
-flere akutte og kroniske sygdomme (f.eks. petekkier ved meningokoksepsis).
+</div>
 
 Sår (ulcus)
 -----------
@@ -107,6 +123,24 @@ eller lokaliserede evt. symmetriske forandringer? Herefter beskrives
 hudforandringernes *farve* og *konsistens*, evt. med anvendelse af de dermatologiske
 termer for karakteristiske hudforandringer.
 
+Endelig beskrives morfologien af de enkelte *elementer* (efflorescenser) i
+udslættet (se Fig. 14.1-5). Iagttagelserne sammenfattes i en beskrivelse af
+udbredelse, farve, konsistens og elementer, f.eks.: 
+
+::
+
+  »På thorax’ forflade ses et velafgrænset, bælteformet, halvsidigt vesikuløst erytem«.
+
+Hvis et udslæt indeholder flere elementer, beskriver man fordelingen af 199
+de enkelte elementer og overgangen mellem dem, f.eks.:
+
+::
+
+  »... domineret af højrøde, skællende papler, der enkelte steder
+  flyder sammen til plaques«.
+
+<div style="background:#BBE5F8">
+
 **Hudens konsistens**
 
 <html5media>File:BOKS196A.mp3</html5media>
@@ -118,6 +152,10 @@ termer for karakteristiske hudforandringer.
 *Indureret:*
   - hård.
   
+</div>
+  
+<div style="background:#BBE5F8">  
+
 **Hudforandringer**
 
 <html5media>File:BOKS196B.mp3</html5media>
@@ -141,13 +179,9 @@ termer for karakteristiske hudforandringer.
 *Telangiektasi:*
   – udvidelse af de små blodkar i huden (f.eks. spider naevi).
   
-Endelig beskrives morfologien af de enkelte *elementer* (efflorescenser) i
-udslættet (se Fig. 14.1-5). Iagttagelserne sammenfattes i en beskrivelse af
-udbredelse, farve, konsistens og elementer, f.eks.: 
+</div>  
 
-::
-
-  »På thorax’ forflade ses et velafgrænset, bælteformet, halvsidigt vesikuløst erytem«.
+<div style="background:#f8f9fa">
 
 <html5media>File:FIG14-1.mp3</html5media>
 
@@ -171,6 +205,10 @@ udbredelse, farve, konsistens og elementer, f.eks.:
 +---------+-------------------------------------------------------------------------------------------------------------+
 ||logo1D| |*Kvadel (bule): som papel eller plaque, men forbigående (f.eks. insektbid).*                                 |
 +---------+-------------------------------------------------------------------------------------------------------------+
+
+</div>
+
+<div style="background:#f8f9fa">
 
 <html5media>File:FIG14-2.mp3</html5media>
 
@@ -199,13 +237,9 @@ udbredelse, farve, konsistens og elementer, f.eks.:
 ||logo2E| |*Furunkel: inficeret hårsæk.*                                                                                |
 +---------+-------------------------------------------------------------------------------------------------------------+
 
-Hvis et udslæt indeholder flere elementer, beskriver man fordelingen af 199
-de enkelte elementer og overgangen mellem dem, f.eks.:
+</div>
 
-::
-
-  »... domineret af højrøde, skællende papler, der enkelte steder
-  flyder sammen til plaques«.
+<div style="background:#f8f9fa">
 
 <html5media>File:FIG14-3.mp3</html5media>
 
@@ -226,6 +260,10 @@ de enkelte elementer og overgangen mellem dem, f.eks.:
 ||logo3C| |*Ulcus (sår): dybere substanstab (f.eks. venøse skinnebenssår).*                                             |
 +---------+-------------------------------------------------------------------------------------------------------------+
 
+</div>
+
+<div style="background:#f8f9fa">
+
 <html5media>File:FIG14-4.mp3</html5media>
 
 .. |logo4A| image:: Figurer/FIG14-4A_png.png
@@ -240,6 +278,8 @@ de enkelte elementer og overgangen mellem dem, f.eks.:
 +---------+-------------------------------------------------------------------------------------------------------------+
 ||logo4B| |*Squammae (skæl): afskallet hornlag (f.eks. psoriasis).*                                                     |
 +---------+-------------------------------------------------------------------------------------------------------------+
+
+</div>
 
 <html5media>File:FIG14-5.mp3</html5media>
 
