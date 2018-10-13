@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:52
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/7_Mave-tarm-systemet>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE7.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -21,6 +27,8 @@
 * Kernen i den objektive undersøgelse er at afsløre ømhed og udfyldninger
   i abdomen ved grundig palpation.
 
+</div>
+
 Symptomer
 =========
 
@@ -29,6 +37,15 @@ Symptomer
 De vigtigste symptomer fra mave-tarm-systemet er kvalme, opkastninger,
 synkebesvær, mavesmerter samt ændret afføringsmønster, herunder
 blødning.
+
+Anæmi (blodmangel) skyldes ofte sygdom i mave-tarm-systemet, og en
+grundig mave-tarm-anamnese er derfor vigtig hos patienten med uforklarlig
+anæmi.
+
+Manglende appetit og vægttab er hyppige ledsagesymptomer til alvorlige
+mave-tarm-lidelser `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ .
+
+<div style="background:#BBE5F8">
 
 **Mave-tarm-systemet**
 
@@ -41,12 +58,7 @@ blødning.
 * Har du afføring lige så ofte, som du plejer?
 * Ser din afføring ud, som den plejer?
 
-Anæmi (blodmangel) skyldes ofte sygdom i mave-tarm-systemet, og en
-grundig mave-tarm-anamnese er derfor vigtig hos patienten med uforklarlig
-anæmi.
-
-Manglende appetit og vægttab er hyppige ledsagesymptomer til alvorlige
-mave-tarm-lidelser `(se kapitel 4) <4_Almene_symptomer_og_fund.rst#>`__ .
+</div>
 
 Kvalme (nausea) og opkastning (emesis)
 --------------------------------------
@@ -58,6 +70,18 @@ at være ledsaget af opkastninger. Opkastning er en voldsom sammentrækning
 og udtømmelse af mavesækken; som regel lindres kvalmen ved
 opkastninger.
 
+Kvalme og opkastninger skyldes ofte sygdomme i mave-tarm-systemet,
+men andre hyppige årsager er: graviditet, medicin (f.eks. morfin, digoxin,
+cytostatika), stofskiftesygdomme (f.eks. diabetisk ketoacidose) og postoperativ
+kvalme.
+
+Opkast med føderester benævnes *alimentære* opkastninger. Opkast
+med blod benævnes *hæmatemese* og kan være i form af frisk rødt blod
+eller sorte hæmatinkorn (»kaffegrums«). *Fækulent* opkast betegner et
+brunt, ildelugtende opkast, der typisk ses ved ileus-tilstande (tarmslyng).
+
+<div style="background:#BBE5F8">
+
 **Kvalme og opkastning**
 
 <html5media>File:BOKS98.mp3</html5media>
@@ -68,15 +92,7 @@ opkastninger.
 * Tager du noget medicin?
 * Kunne du være gravid?
 
-Kvalme og opkastninger skyldes ofte sygdomme i mave-tarm-systemet,
-men andre hyppige årsager er: graviditet, medicin (f.eks. morfin, digoxin,
-cytostatika), stofskiftesygdomme (f.eks. diabetisk ketoacidose) og postoperativ
-kvalme.
-
-Opkast med føderester benævnes *alimentære* opkastninger. Opkast
-med blod benævnes *hæmatemese* og kan være i form af frisk rødt blod
-eller sorte hæmatinkorn (»kaffegrums«). *Fækulent* opkast betegner et
-brunt, ildelugtende opkast, der typisk ses ved ileus-tilstande (tarmslyng).
+</div>
 
 Synkebesvær (dysfagi)
 ---------------------
@@ -107,6 +123,12 @@ Anamnesen til patienten med halsbrand sigter på at skelne den sporadiske
 halsbrand, der ses efter overdådige måltider (julefrokosten!) fra
 symptomer på behandlingskrævende reflukssygdom eller alvorlig oesophaguslidelse.
 
+Med en grundig anamnese (og et ekg + blodprøver) kan man som regel
+også udelukke den anden store årsag til smerter bag brystbenet: iskæmisk
+hjertesygdom `(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ .
+
+<div style="background:#BBE5F8">
+
 **Halsbrand**
 
 <html5media>File:BOKS99.mp3</html5media>
@@ -120,9 +142,7 @@ symptomer på behandlingskrævende reflukssygdom eller alvorlig oesophaguslidels
 * Lindres smerten af syreneutraliserende middel? Nitroglycerin?
 * Hjælper det at ligge fladt i sengen, eller bliver det bare værre?
 
-Med en grundig anamnese (og et ekg + blodprøver) kan man som regel
-også udelukke den anden store årsag til smerter bag brystbenet: iskæmisk
-hjertesygdom `(se kapitel 6) <6_Lunger_og_luftveje.rst#>`__ .
+</div>
 
 Mavesmerter (abdominalia)
 -------------------------
@@ -131,6 +151,15 @@ Mavesmerter (abdominalia)
 
 Forsøg at få en præcis karakteristik af smerterne inkl. forværrende og
 lindrende faktorer.
+
+Lindring efter flatus og afføring er typisk for colonlidelser. Forværring
+ved fødeintagelse er typisk for refluks-oesophagitis, betændelse i bugspytkirtlen
+(*pancreatitis*) og mesenterial iskæmi. De klassiske mavesårssmerter
+beskrives med forværring ved sult (*hungersmerter*) og lindring
+ved indtagelse af antacida eller føde (*fødelindring*), men kan også mangle
+helt ved mavesår.
+
+<div style="background:#BBE5F8">
 
 **Mavesmerter**
 
@@ -145,11 +174,8 @@ lindrende faktorer.
 * Er nattesøvnen forstyrret?
 * Er der noget specielt, der forværrer eller lindrer smerterne
   (f.eks. afføring, fødeindtagelse, medicin)?
-
-Lindring efter flatus og afføring er typisk for colonlidelser. Forværring
-ved fødeintagelse er typisk for refluks-oesophagitis, betændelse i bugspytkirtlen
-(*pancreatitis*) og mesenterial iskæmi. De klassiske mavesårssmerter
-beskrives med forværring ved sult (*hungersmerter*) og lindring
+  
+</div>
 
 <html5media>File:FIG7-1.mp3</html5media>
 
@@ -165,9 +191,6 @@ beskrives med forværring ved sult (*hungersmerter*) og lindring
    ses ved betændelse i galdeblæren, giver smerteudstråling til spidsen af højre
    skulderblad. Ved sygdom i pancreas stråler smerten i ryggen. Smerter fra
    urinvejene stråler ud i lyske og scrotum.
-
-ved indtagelse af antacida eller føde (*fødelindring*), men kan også mangle
-helt ved mavesår.
 
 Afføringsmønster
 ----------------
@@ -186,17 +209,6 @@ vigtigt at opklare, om obstipationen er nyopstået eller en del af patientens
 livsstil (stillesiddende arbejde, fiberfattig kost osv.), og om der er
 umiddelbare forklaringer på eventuelle ændringer (f.eks. medicin).
 
-**Obstipation**
-
-<html5media>File:BOKS101.mp3</html5media>
-
-* Skal du presse meget, eller har du smerter ved afføring?
-* Hvornår havde du sidst afføring?
-* Vægttab?
-* Blod i afføringen?
-* Tager du noget medicin (opiater)?
-* Bevæger du dig? Beskriv dine måltider? Væskeindtagelse?
-
 Smerter ved anus (f.eks. analfissurer) kan være både årsag og virkning
 ved obstipation.Megen forstoppelse skyldes livsstilsfaktorer, men det er
 vigtigt ikke at overse en *coloncancer* som årsag.
@@ -210,16 +222,6 @@ yderligere undersøgelser. Hos mange patienter, der klager over »tynd
 mave« vil man ved indsamling af faeces under indlæggelse finde, at
 denne har normal mængde og udseende. Der er derfor vigtigt med sin
 anamnese at få præciseret problemets omfang.
-
-**Diaré**
-
-<html5media>File:BOKS102A.mp3</html5media>
-
-* Hvor hyppigt har du afføring?
-* Må du skynde dig på toilettet, eller kan du holde dig til en passende lejlighed?
-* Skal du op om natten for at have afføring?
-* Beskriv din afføring! Blod, slim eller pus?
-* Udenlandsrejse? Lignende tilfælde i omgangskredsen?
 
 Diaré ud over 14 dage med ledsagesymptomer som vægttab, feber, blod
 og slim i afføringen eller natlig forekomst er ofte tegn på alvorligere,
@@ -238,6 +240,40 @@ ved distale blødningskilder eller som en sort og tjæreagtig afføring
 af jern giver en sortfarvning af faeces, der ikke kan forveksles med
 melaena (som er fælt ildelugtende).
 
+Blod i afføringen vil altid føre til et udredningsprogram, der kan omfatte
+ano-rektoskopi (se »Remedier & Teknik«) og evt. gastroskopi og koloskopi.
+
+<div style="background:#BBE5F8">
+
+**Obstipation**
+
+<html5media>File:BOKS101.mp3</html5media>
+
+* Skal du presse meget, eller har du smerter ved afføring?
+* Hvornår havde du sidst afføring?
+* Vægttab?
+* Blod i afføringen?
+* Tager du noget medicin (opiater)?
+* Bevæger du dig? Beskriv dine måltider? Væskeindtagelse?
+
+</div>
+
+<div style="background:#BBE5F8">
+
+**Diaré**
+
+<html5media>File:BOKS102A.mp3</html5media>
+
+* Hvor hyppigt har du afføring?
+* Må du skynde dig på toilettet, eller kan du holde dig til en passende lejlighed?
+* Skal du op om natten for at have afføring?
+* Beskriv din afføring! Blod, slim eller pus?
+* Udenlandsrejse? Lignende tilfælde i omgangskredsen?
+
+</div>
+
+<div style="background:#BBE5F8">
+
 **Blod i afføringen**
 
 <html5media>File:BOKS102B.mp3</html5media>
@@ -250,8 +286,7 @@ melaena (som er fælt ildelugtende).
 * Tager du binyrebarkhormoner eller smertestillende/
   gigtmedicin som f.eks. ibuprofen?
 
-Blod i afføringen vil altid føre til et udredningsprogram, der kan omfatte
-ano-rektoskopi (se »Remedier & Teknik«) og evt. gastroskopi og koloskopi.
+</div>
 
 Gulsot (icterus)
 ----------------
@@ -267,6 +302,8 @@ vigtigt at få afdækket, om patienten tilhører en af risikogrupperne for
 smitsom hepatitis: indvandrere og flygtninge fra endemiske områder,
 intravenøse stofmisbrugere osv.
 
+<div style="background:#BBE5F8">
+
 **Gulsot**
 
 <html5media>File:BOKS103.mp3</html5media>
@@ -280,6 +317,8 @@ intravenøse stofmisbrugere osv.
 * Er du eller har du været stiknarkoman?
 * Har du haft ubeskyttet sex? Prostituerede?
 * Hvor meget alkohol drikker du til daglig?
+
+</div>
 
 Objektiv undersøgelse	
 =====================
@@ -310,6 +349,22 @@ tænder (hhv. *luksationer* og *eksartikulationer*). Ved beskrivelse af
 tandskader skal man være så præcis som muligt – det kan ofte få betydning
 i senere forsikringssager.
 
+*Tandabscesser* kan være forklaringen hos en patient med feber af ukendt
+årsag. Den normale mundslimhinde er rosa og fugtig; blege slimhinder
+er et tegn på anæmi. Tørre slimhinder kan ses ved dehydrering og
+mundånding. Rødme af slimhinden kan ses ved inflammation (f.eks.
+*candida*). Ved mangelanæmier (jern- og B12-) er et karakteristisk fund en
+atrofisk tungeoverflade med manglende papiller (*papilatrofi*). Ved
+inspektion af fauces undersøges for rødme, hævelse og belægning af
+ganebuer og tonsiller, som det ses ved halsbetændelse (*tonsillitis*) eller
+mononukleose.
+
+**Eksploration**
+
+Ved ansigtstraumer er det vigtigt at gennempalpere alle tænder for løshed
+og at undersøge mandiblen for frakturømhed og strepitus `(se side 141) <10_Bevægeapparatet.rst#Palpation>`__ . 
+Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at spørge patienten.
+
 <html5media>File:FIG7-2.mp3</html5media>
 
 .. figure:: Figurer/FIG7-2_png.png
@@ -328,22 +383,6 @@ i senere forsikringssager.
    »+1«, og den højre nederste visdomstand
    hedder »8 ÷«.
 
-*Tandabscesser* kan være forklaringen hos en patient med feber af ukendt
-årsag. Den normale mundslimhinde er rosa og fugtig; blege slimhinder
-er et tegn på anæmi. Tørre slimhinder kan ses ved dehydrering og
-mundånding. Rødme af slimhinden kan ses ved inflammation (f.eks.
-*candida*). Ved mangelanæmier (jern- og B12-) er et karakteristisk fund en
-atrofisk tungeoverflade med manglende papiller (*papilatrofi*). Ved
-inspektion af fauces undersøges for rødme, hævelse og belægning af
-ganebuer og tonsiller, som det ses ved halsbetændelse (*tonsillitis*) eller
-mononukleose.
-
-**Eksploration**
-
-Ved ansigtstraumer er det vigtigt at gennempalpere alle tænder for løshed
-og at undersøge mandiblen for frakturømhed og strepitus `(se side 141) <10_Bevægeapparatet.rst#Palpation>`__ . 
-Et forkert sammenbid (malokklusion) efter kæbefraktur afsløres bedst ved at spørge patienten.
-
 Abdomen
 -------
 
@@ -351,16 +390,6 @@ Abdomen
 
 Abdomen afgrænses opadtil af ribbenskurvaturen og processus xiphoideus,
 nedadtil af lyskerne og symfysen.
-
-<html5media>File:FIG7-3.mp3</html5media>
-
-.. figure:: Figurer/FIG7-3_png.png
-   :width: 500 px
-   :alt:  Fig. 7.3 Abdomen.
-
-   **Fig. 7.3** Når man skal beskrive sine fund af ømhed, udfyldninger
-   m.v., inddeles abdomen i fire kvadranter (7.3.a.). En mere detaljeret
-   opdeling beskriver ni mere uskarpt afgrænsede segmenter (7.3.b.).
 
 **Inspektion**
 
@@ -395,6 +424,18 @@ Ar (*cikatricer*) efter tidligere operationer beskrives. Friske operationssår
 undersøges altid for defekter (brok) og tegn på infektion (varme,
 ømhed, rødme, hævelse, pus).
 
+<html5media>File:FIG7-3.mp3</html5media>
+
+.. figure:: Figurer/FIG7-3_png.png
+   :width: 500 px
+   :alt:  Fig. 7.3 Abdomen.
+
+   **Fig. 7.3** Når man skal beskrive sine fund af ømhed, udfyldninger
+   m.v., inddeles abdomen i fire kvadranter (7.3.a.). En mere detaljeret
+   opdeling beskriver ni mere uskarpt afgrænsede segmenter (7.3.b.).
+
+<div style="background:#BBE5F8">
+
 **Inspektion af abdomen**
 
 <html5media>File:BOKS106.mp3</html5media>
@@ -404,6 +445,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
 * Symmetrisk eller toppet?
 * Tarmrejsning?
 * Operationssår og cikatricer?
+
+</div>
 
 <html5media>File:FIG7-4.mp3</html5media>
 
@@ -427,6 +470,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
    demonstrere, at den laterale afgrænsning flytter sig ved lejeskift. Fænomenet
    kaldes dekliv dæmpning.
 
+<div style="background:#BBE5F8">
+
 **Palpation af abdomen**
 
 <html5media>File:BOKS107.mp3</html5media>
@@ -437,6 +482,8 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
 * Dyb palpation: Dyb ømhed? Abnorme udfyldninger? Organomegali?
 * Udfyldninger og organomegali: ømhed, lokalisation,
   størrelse, form, overflade, konsistens og mobilitet.
+  
+</div>
 
 **Palpation**
 
@@ -445,16 +492,6 @@ undersøges altid for defekter (brok) og tegn på infektion (varme,
 Patienten ligger fladt i sengen med let bøjede knæ og hofter og med
 hænderne ned langs siden eller under lænd og sæde. En venlig og interesseret
 afledning (snak om vind og vejr) af patientens opmærksomhed
-
-<html5media>File:FIG7-6.mp3</html5media>
-
-.. figure:: Figurer/FIG7-6_png.png
-   :width: 500 px
-   :alt:  Fig. 7.6 Palpation af abdomen.
-
-   **Fig. 7.6** Efter hvad der passer én bedst, kan man bruge én eller to
-   hænder ved palpation af abdomen.
-
 fra undersøgelsen er ofte utroligt værdifuldt. Beder man patienten om at
 slappe af i maven, får man ofte det modsatte resultat!
 
@@ -506,44 +543,6 @@ faste udfyldninger kan skyldes obstipation eller en tumor i colon eller
 ovarium. En øm udfyldning kan repræsentere en irriteret peritoneum
 omkring sigmoideum (*perisigmoiditis*), som det ses ved f.eks. *diverticulitis coli.* 
 Ømhed i nedre abdomen hos en fertil kvinde skal betragtes som
-
-**Stigmata ved leversygdom**
-
-<html5media>File:BOKS109.mp3</html5media>
-
-* *Hos patienter med kronisk leversygdom ser man ofte en række karakteristiske fund (stigmata):*
-* Hepato- og splenomegali
-* Ascites
-* Icterus
-* Caput medusae, oesophagusvaricer og hæmorider
-* Spider naevi
-* Palmart erytem
-* Dupuytrens kontraktur
-* Gynækomasti og testisatrofi
-* Slimhinde- og hudblødninger
-* *Paper-money skin* (cirrose-teint).
-
-<html5media>File:FIG7-7.mp3</html5media>
-
-.. figure:: Figurer/FIG7-7_png.png
-   :width: 500 px
-   :alt:  Fig. 7.7 Palpation af abdomen.
-
-   **Fig. 7.7** Ved palpation af leveren starter
-   man udefra og bevæger sig ind: Placer
-   højre hånds fingerspidser umiddelbart
-   til højre for rectus-muskulaturen på
-   højde med navlen og flyt med små
-   vuggende bevægelser gradvist fingrene
-   nærmere ribbenskurvaturen. Forsøg at
-   synkronisere dine bevægelser med patientens
-   respiration, således at stødet
-   fremad-nedad falder samtidig med patientens inspiration, hvor leveren presses
-   ned i abdomen af diaphragma. Når man mærker leverkanten støde mod sine
-   fingerspidser, bemærker man, om den er blød og buttet (som ved fedtlever) eller
-   hård og puklet (som ved cirrose eller metastaser), og man angiver afstanden i cm
-   til højre kostalrand i medioklavikulærlinien.
-
 en ekstrauterin graviditet, indtil man har bevist det modsatte (negativ
 graviditetstest). *Salpingitis* og *ovariecyster* er andre muligheder.
 
@@ -581,6 +580,60 @@ synkronisere sine bevægelser med patientens respiration. Ligesom for
 leveren er den kliniske vurdering af milten vanskelig, og man supplerer
 derfor ofte med en ultralydsundersøgelse.
 
+I flankerne kan nyrerne palperes `(kapitel 8, side 125) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje>`__ .
+
+<html5media>File:FIG7-6.mp3</html5media>
+
+.. figure:: Figurer/FIG7-6_png.png
+   :width: 500 px
+   :alt:  Fig. 7.6 Palpation af abdomen.
+
+   **Fig. 7.6** Efter hvad der passer én bedst, kan man bruge én eller to
+   hænder ved palpation af abdomen.
+
+<div style="background:#BBE5F8">
+
+**Stigmata ved leversygdom**
+
+<html5media>File:BOKS109.mp3</html5media>
+
+* *Hos patienter med kronisk leversygdom ser man ofte en række karakteristiske fund (stigmata):*
+* Hepato- og splenomegali
+* Ascites
+* Icterus
+* Caput medusae, oesophagusvaricer og hæmorider
+* Spider naevi
+* Palmart erytem
+* Dupuytrens kontraktur
+* Gynækomasti og testisatrofi
+* Slimhinde- og hudblødninger
+* *Paper-money skin* (cirrose-teint).
+
+</div>
+
+<html5media>File:FIG7-7.mp3</html5media>
+
+.. figure:: Figurer/FIG7-7_png.png
+   :width: 500 px
+   :alt:  Fig. 7.7 Palpation af abdomen.
+
+   **Fig. 7.7** Ved palpation af leveren starter
+   man udefra og bevæger sig ind: Placer
+   højre hånds fingerspidser umiddelbart
+   til højre for rectus-muskulaturen på
+   højde med navlen og flyt med små
+   vuggende bevægelser gradvist fingrene
+   nærmere ribbenskurvaturen. Forsøg at
+   synkronisere dine bevægelser med patientens
+   respiration, således at stødet
+   fremad-nedad falder samtidig med patientens inspiration, hvor leveren presses
+   ned i abdomen af diaphragma. Når man mærker leverkanten støde mod sine
+   fingerspidser, bemærker man, om den er blød og buttet (som ved fedtlever) eller
+   hård og puklet (som ved cirrose eller metastaser), og man angiver afstanden i cm
+   til højre kostalrand i medioklavikulærlinien.
+
+<div style="background:#BBE5F8">
+
 **Årsager til splenomegali**
 
 <html5media>File:BOKS111.mp3</html5media>
@@ -594,7 +647,7 @@ derfor ofte med en ultralydsundersøgelse.
 * Idiopatisk trombocytopeni
 * Amyloidose.
 
-I flankerne kan nyrerne palperes `(kapitel 8, side 125) <8_Nyrer,_urinveje_og_mandlige_kønsorganer.rst#Nyrer_og_urinveje>`__ .
+</div>
 
 **Perkussion**
 
@@ -618,6 +671,11 @@ normalt er perkussionsfundet tympanitisk hele vejen. En forstørret blære
 erkendes som en dæmpning, og udbredelsen angives (som f.eks.
 »2 cm under umbilicus«).
 
+Manglende leverdæmpning er et uspecifikt fund, men kan skyldes fri luft
+i abdomen (perforeret hulorgan, nylig operation).
+
+<div style="background:#BBE5F8">
+
 **Perkussion af abdomen**
 
 <html5media>File:BOKS112.mp3</html5media>
@@ -631,8 +689,7 @@ erkendes som en dæmpning, og udbredelsen angives (som f.eks.
 * Urinretention: dæmpning over symfysen.
 * Ascites: dekliv flankedæmpning, flytbar ved lejeskift.
 
-Manglende leverdæmpning er et uspecifikt fund, men kan skyldes fri luft
-i abdomen (perforeret hulorgan, nylig operation).
+</div>
 
 **Auskultation**
 
@@ -681,6 +738,12 @@ Hos mænd med lyskebrok skal man altid palpere scrotum: Er der
 brokindhold i scrotum? Er begge testes i scrotum, eller er der manglende
 descensus?
 
+Et hernie kan afklemmes (inkarcerere) og give voldsomme smerter og
+evt. symptomer på obstruktiv ileus. Lyskeundersøgelse er derfor obligatorisk
+hos alle patienter med akut abdomen.
+
+<div style="background:#BBE5F8">
+
 **Lyske- og lårbrok**
 
 <html5media>File:BOKS113.mp3</html5media>
@@ -692,9 +755,7 @@ descensus?
 * Reponiblet eller irreponibelt? Ømhed? Tarmlyde?
 * Scrotum: Hernie? Begge testes i scrotum?
 
-Et hernie kan afklemmes (inkarcerere) og give voldsomme smerter og
-evt. symptomer på obstruktiv ileus. Lyskeundersøgelse er derfor obligatorisk
-hos alle patienter med akut abdomen.
+</div>
 
 Endetarm (rectum)
 -----------------
@@ -749,16 +810,6 @@ hårde faecesknolde i rectum. Ved at føre fingeren lateralt til begge sider
 kan man finde ømhed ved f.eks. appendicitis, salpingitis eller ekstrauterin
 graviditet.
 
-<html5media>File:FIG7-8.mp3</html5media>
-
-.. figure:: Figurer/FIG7-8_png.png
-   :width: 500 px
-   :alt:  Fig. 7.8 Lokaliseringen af forandringer i analomgivelserne beskrives ud fra en imaginær urskive.
-
-   **Fig. 7.8** Lokaliseringen af forandringer i analomgivelserne
-   beskrives ud fra en imaginær urskive. På billedet ses en
-   ekstern hæmoride kl. ca. 5.
-
 Herefter drejes fingeren 180°, og man undersøger rectums forvæg i
 vifteformede bevægelser under tilbagetrækning af fingeren. 
 
@@ -781,3 +832,13 @@ Efter at fingeren er fjernet fra anus, inspiceres den, og man bemærker,
 om der er normalt udseende faeces på handsken, eller om der er melaena,
 frisk blod eller slim. Efter undersøgelsen hjælper man patienten til at
 tørre sig bagi med blødt papir.
+
+<html5media>File:FIG7-8.mp3</html5media>
+
+.. figure:: Figurer/FIG7-8_png.png
+   :width: 500 px
+   :alt:  Fig. 7.8 Lokaliseringen af forandringer i analomgivelserne beskrives ud fra en imaginær urskive.
+
+   **Fig. 7.8** Lokaliseringen af forandringer i analomgivelserne
+   beskrives ud fra en imaginær urskive. På billedet ses en
+   ekstern hæmoride kl. ca. 5.
