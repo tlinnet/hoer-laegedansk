@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:46
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/13_Kirtler>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE13.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -21,6 +27,8 @@
   en knude i brystet for godartet. Den objektive undersøgelse af brystet
   suppleres derfor med røntgen- og ultralydsundersøgelse af brystet
   og evt. biopsi.
+
+</div>
 
 **SKJOLDBRUSKKIRTLEN (glandula thyroidea)** 
 
@@ -42,6 +50,8 @@ typisk hos en yngre kvinde med diffust forstørret skjoldbruskkirtel
 (diffus struma, *mb. Basedow*). Patienten har karakteristiske tegn på øget
 stofskifte, se boks.
 
+<div style="background:#BBE5F8">
+
 **Hypertyreose**
 
 <html5media>File:BOKS188.mp3</html5media>
@@ -54,6 +64,8 @@ stofskifte, se boks.
 * Hjertebanken?
 * Rastløshed?
 
+</div>
+
 Hypotyreose
 -----------
 
@@ -63,6 +75,8 @@ Nedsat funktion af skjoldbruskkirtlen (*hypotyreose* eller *myksødem*) har
 ofte en snigende debut og kan let overses. Patientens hovedklage er oftest
 træthed og initiativløshed, jf. boks 2. Tilstanden kan fejltolkes som demens
 eller depression.
+
+<div style="background:#BBE5F8">
 
 **Hypotyreose**
 
@@ -75,6 +89,8 @@ eller depression.
 * Er stemmen blevet hæs?
 * Smerter i hænderne (= karpaltunnelsyndrom)
 * Apati?
+
+</div>
 
 Struma og en knude på halsen
 ----------------------------
@@ -156,6 +172,18 @@ Smerter (mastalgi)
 
 Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 
+Traume mod mammae kan give smertefulde fedtnekroser. *Cyklisk mastalgi*
+er en endokrin forstyrrelse med præmenstruelle brystsmerter.
+Brystspænding er en hyppig bivirkning ved behandling med kvindelige
+kønshormoner og er et tidligt symptom på graviditet. *Mastitis* (brystbetændelse)
+ses hos den ammende kvinde; ved brystabsces hos en kvinde,
+der ikke ammer, skal man altid undersøge for underliggende tumor.
+Brystkræft debuterer meget sjældent med smerte som første symptom.
+Hvis en knude i brystet er øm, er den ofte godartet.Man må dog aldrig
+alene på anamnese og objektiv undersøgelse erklære en knude for godartet.
+
+<div style="background:#BBE5F8">
+
 **Mastalgi**
 
 <html5media>File:BOKS190.mp3</html5media>
@@ -166,15 +194,7 @@ Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 * Tager du p-piller eller andre hormoner?
 * Kunne du være gravid?
 
-Traume mod mammae kan give smertefulde fedtnekroser. *Cyklisk mastalgi*
-er en endokrin forstyrrelse med præmenstruelle brystsmerter.
-Brystspænding er en hyppig bivirkning ved behandling med kvindelige
-kønshormoner og er et tidligt symptom på graviditet. *Mastitis* (brystbetændelse)
-ses hos den ammende kvinde; ved brystabsces hos en kvinde,
-der ikke ammer, skal man altid undersøge for underliggende tumor.
-Brystkræft debuterer meget sjældent med smerte som første symptom.
-Hvis en knude i brystet er øm, er den ofte godartet.Man må dog aldrig
-alene på anamnese og objektiv undersøgelse erklære en knude for godartet.
+</div>
 
 Udflåd
 ------
@@ -201,6 +221,8 @@ Spørgsmålene sigter på at få afdækket disponerende faktorer. Fundet af
 en knude i brystet bør derfor som regel føre til røntgen- og ultralydsundersøgelse
 af brystet og evt. biopsi eller kirurgisk fjernelse af knuden.
 
+<div style="background:#BBE5F8">
+
 **En knude i brystet**
 
 <html5media>File:BOKS191.mp3</html5media>
@@ -209,6 +231,8 @@ af brystet og evt. biopsi eller kirurgisk fjernelse af knuden.
 * Har du tidligere haft knuder i brystet?
 * Er der brystkræft i familien?
 * Tager du eller har du taget hormoner?
+
+</div>
 
 Gynækomasti
 -----------
@@ -263,6 +287,15 @@ Palpation, Bryster
 
 Ved undersøgelsen palperer man med pulpa af 2.-4. finger. Det er nødvendigt
 at bruge et vist tryk, særligt ved store mammae, men spørg
+kvinden, om du tager for hårdt fat. Man skal huske, at selve brystvævet i
+form af *processus axillaris* strækker sig op mod aksillen (se Fig. 13.3).
+Den centrale del af brystet under *areola* undersøges bedst ved at klemme
+området mellem 1. og 2. finger.Man bemærker samtidig, om der kan
+*eksprimeres* (udmalkes) noget. Fund af tumor beskrives systematisk.
+
+En sufficient brystundersøgelse indeholder palpation af lymfeknuderne i
+aksillen, der er det første sted, en eventuel mammacancer metastaserer
+til (se Fig. 13.4).
 
 <html5media>File:FIG13-3.mp3</html5media>
 
@@ -273,11 +306,7 @@ at bruge et vist tryk, særligt ved store mammae, men spørg
    **Fig. 13.3** Ved palpering af mammae anvendes
    en teknik, der sikrer, at hele brystet gennempalperes.
 
-kvinden, om du tager for hårdt fat. Man skal huske, at selve brystvævet i
-form af *processus axillaris* strækker sig op mod aksillen (se Fig. 13.3).
-Den centrale del af brystet under *areola* undersøges bedst ved at klemme
-området mellem 1. og 2. finger.Man bemærker samtidig, om der kan
-*eksprimeres* (udmalkes) noget. Fund af tumor beskrives systematisk.
+<div style="background:#BBE5F8">
 
 **Tumor mammae**
 
@@ -290,9 +319,7 @@ området mellem 1. og 2. finger.Man bemærker samtidig, om der kan
 * Fri eller adhærent til hud eller muskelfascie?
 * Øm eller uøm?
 
-En sufficient brystundersøgelse indeholder palpation af lymfeknuderne i
-aksillen, der er det første sted, en eventuel mammacancer metastaserer
-til (se Fig. 13.4).
+</div>
 
 <html5media>File:FIG13-4.mp3</html5media>
 

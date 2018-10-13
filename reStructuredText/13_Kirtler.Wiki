@@ -1,7 +1,13 @@
 __TOC__
 
+&lt;div style=&quot;background:#f8f9fa&quot;&gt;
+
 * '''Link to machine translation of this page to english:''' [https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/13_Kirtler Google Translate]
 * '''Oplæsning for hele kapitlet:''' &lt;html5media&gt;File:HELE13.mp3&lt;/html5media&gt;
+
+&lt;/div&gt;
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Nøglepunkter'''
 
@@ -10,6 +16,8 @@ __TOC__
 * Den kliniske undersøgelse af skjoldbruskkirtlen vil som regel blive suppleret med blodprøveundersøgelse af stofskiftehormonerne og evt. ultralydsundersøgelse og scintigrafi af kirtlen.
 * Fundet af en knude i brystet er det brystsymptom, der hyppigst fører kvinden til læge. Da hver 10. kvinde rammes af brystkræft, er det den vigtigste differentialdiagnose.
 * Man kan ikke alene på anamnese og objektiv undersøgelse erklære en knude i brystet for godartet. Den objektive undersøgelse af brystet suppleres derfor med røntgen- og ultralydsundersøgelse af brystet og evt. biopsi.
+
+&lt;/div&gt;
 
 '''SKJOLDBRUSKKIRTLEN (glandula thyroidea)'''
 
@@ -25,6 +33,8 @@ De symptomer, der fører patienten til læge, kan enten skyldes en ændret funkt
 
 Øget funktion af skjoldbruskkirtlen (''hypertyreose'' eller ''tyreotoksikose'') ses typisk hos en yngre kvinde med diffust forstørret skjoldbruskkirtel (diffus struma, ''mb. Basedow''). Patienten har karakteristiske tegn på øget stofskifte, se boks.
 
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
+
 '''Hypertyreose'''
 
 &lt;html5media&gt;File:BOKS188.mp3&lt;/html5media&gt;
@@ -37,11 +47,15 @@ De symptomer, der fører patienten til læge, kan enten skyldes en ændret funkt
 * Hjertebanken?
 * Rastløshed?
 
+&lt;/div&gt;
+
 == Hypotyreose ==
 
 &lt;html5media&gt;File:KAP13_188.mp3&lt;/html5media&gt;
 
 Nedsat funktion af skjoldbruskkirtlen (''hypotyreose'' eller ''myksødem'') har ofte en snigende debut og kan let overses. Patientens hovedklage er oftest træthed og initiativløshed, jf. boks 2. Tilstanden kan fejltolkes som demens eller depression.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Hypotyreose'''
 
@@ -54,6 +68,8 @@ Nedsat funktion af skjoldbruskkirtlen (''hypotyreose'' eller ''myksødem'') har 
 * Er stemmen blevet hæs?
 * Smerter i hænderne (= karpaltunnelsyndrom)
 * Apati?
+
+&lt;/div&gt;
 
 == Struma og en knude på halsen ==
 
@@ -97,6 +113,10 @@ En kvinde med brystsymptomer er ofte angst for brystkræft. Ca. hver 10. kvinde 
 
 Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 
+Traume mod mammae kan give smertefulde fedtnekroser. ''Cyklisk mastalgi'' er en endokrin forstyrrelse med præmenstruelle brystsmerter. Brystspænding er en hyppig bivirkning ved behandling med kvindelige kønshormoner og er et tidligt symptom på graviditet. ''Mastitis'' (brystbetændelse) ses hos den ammende kvinde; ved brystabsces hos en kvinde, der ikke ammer, skal man altid undersøge for underliggende tumor. Brystkræft debuterer meget sjældent med smerte som første symptom. Hvis en knude i brystet er øm, er den ofte godartet.Man må dog aldrig alene på anamnese og objektiv undersøgelse erklære en knude for godartet.
+
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
+
 '''Mastalgi'''
 
 &lt;html5media&gt;File:BOKS190.mp3&lt;/html5media&gt;
@@ -106,7 +126,7 @@ Anamneseoptagelsen fokuserer på at afdække udløsende årsager:
 * Tager du p-piller eller andre hormoner?
 * Kunne du være gravid?
 
-Traume mod mammae kan give smertefulde fedtnekroser. ''Cyklisk mastalgi'' er en endokrin forstyrrelse med præmenstruelle brystsmerter. Brystspænding er en hyppig bivirkning ved behandling med kvindelige kønshormoner og er et tidligt symptom på graviditet. ''Mastitis'' (brystbetændelse) ses hos den ammende kvinde; ved brystabsces hos en kvinde, der ikke ammer, skal man altid undersøge for underliggende tumor. Brystkræft debuterer meget sjældent med smerte som første symptom. Hvis en knude i brystet er øm, er den ofte godartet.Man må dog aldrig alene på anamnese og objektiv undersøgelse erklære en knude for godartet.
+&lt;/div&gt;
 
 == Udflåd ==
 
@@ -120,6 +140,8 @@ Mælkeflåd (''laktation'') er selvfølgelig normalt hos en kvinde, der lige har
 
 Fundet af en knude i brystet er det brystsymptom, der hyppigst fører kvinden til læge. Kvinden er naturligt nok ofte bange for, at det er kræft. Spørgsmålene sigter på at få afdækket disponerende faktorer. Fundet af en knude i brystet bør derfor som regel føre til røntgen- og ultralydsundersøgelse af brystet og evt. biopsi eller kirurgisk fjernelse af knuden.
 
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
+
 '''En knude i brystet'''
 
 &lt;html5media&gt;File:BOKS191.mp3&lt;/html5media&gt;
@@ -128,6 +150,8 @@ Fundet af en knude i brystet er det brystsymptom, der hyppigst fører kvinden ti
 * Har du tidligere haft knuder i brystet?
 * Er der brystkræft i familien?
 * Tager du eller har du taget hormoner?
+
+&lt;/div&gt;
 
 == Gynækomasti ==
 
@@ -155,13 +179,15 @@ Man bemærker ''asymmetrier'' eller ''hudindtrækninger'', som kan være tegn p�
 
 &lt;html5media&gt;File:KAP13_192_2.mp3&lt;/html5media&gt;
 
-Ved undersøgelsen palperer man med pulpa af 2.-4. finger. Det er nødvendigt at bruge et vist tryk, særligt ved store mammae, men spørg
+Ved undersøgelsen palperer man med pulpa af 2.-4. finger. Det er nødvendigt at bruge et vist tryk, særligt ved store mammae, men spørg kvinden, om du tager for hårdt fat. Man skal huske, at selve brystvævet i form af ''processus axillaris'' strækker sig op mod aksillen (se Fig. 13.3). Den centrale del af brystet under ''areola'' undersøges bedst ved at klemme området mellem 1. og 2. finger.Man bemærker samtidig, om der kan ''eksprimeres'' (udmalkes) noget. Fund af tumor beskrives systematisk.
+
+En sufficient brystundersøgelse indeholder palpation af lymfeknuderne i aksillen, der er det første sted, en eventuel mammacancer metastaserer til (se Fig. 13.4).
 
 &lt;html5media&gt;File:FIG13-3.mp3&lt;/html5media&gt;
 
 [[File:Figurer/FIG13-3_png.png|frame|none|300px|alt=|caption '''Fig. 13.3''' Ved palpering af mammae anvendes en teknik, der sikrer, at hele brystet gennempalperes.]]
 
-kvinden, om du tager for hårdt fat. Man skal huske, at selve brystvævet i form af ''processus axillaris'' strækker sig op mod aksillen (se Fig. 13.3). Den centrale del af brystet under ''areola'' undersøges bedst ved at klemme området mellem 1. og 2. finger.Man bemærker samtidig, om der kan ''eksprimeres'' (udmalkes) noget. Fund af tumor beskrives systematisk.
+&lt;div style=&quot;background:#BBE5F8&quot;&gt;
 
 '''Tumor mammae'''
 
@@ -174,7 +200,7 @@ kvinden, om du tager for hårdt fat. Man skal huske, at selve brystvævet i form
 * Fri eller adhærent til hud eller muskelfascie?
 * Øm eller uøm?
 
-En sufficient brystundersøgelse indeholder palpation af lymfeknuderne i aksillen, der er det første sted, en eventuel mammacancer metastaserer til (se Fig. 13.4).
+&lt;/div&gt;
 
 &lt;html5media&gt;File:FIG13-4.mp3&lt;/html5media&gt;
 

@@ -24,8 +24,8 @@ cd ../wikitools
 #rm 9_Kvindelige_kønsorganer.Wiki
 #rm 10_Bevægeapparatet.Wiki
 #rm 11_Centralnervesystemet.Wiki
-rm 12_Det_perifere_karsystem.Wiki
-#rm 13_Kirtler.Wiki
+#rm 12_Det_perifere_karsystem.Wiki
+rm 13_Kirtler.Wiki
 #rm 14_Hud.Wiki
 #rm 15_Sanseorganer.Wiki
 
