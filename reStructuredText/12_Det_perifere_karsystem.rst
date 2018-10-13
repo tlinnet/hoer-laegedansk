@@ -4,8 +4,14 @@
 :date: 2018-05-01 12:47
 :category: Kapitler
 
+<div style="background:#f8f9fa">
+
 * **Link to machine translation of this page to english:** `Google Translate <https://translate.google.com/translate?sl=da&hl=en&u=http://wiki.hoer-laegedansk.dk/12_Det_perifere_karsystem>`__
 * **Oplæsning for hele kapitlet:** <html5media>File:HELE12.mp3</html5media>
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Nøglepunkter**
 
@@ -20,7 +26,11 @@
 * Kernen i den objektive undersøgelse er en vurdering af den perifere
   cirkulation ved undersøgelse af pulsforhold, kapillærfyldning, farve,
   trofik og sår.
-  
+
+</div>
+
+<div style="background:#BBE5F8">
+
 **Signalement af patient med aterosklerose**
 
 <html5media>File:BOKS178.mp3</html5media>
@@ -36,6 +46,8 @@
 * Manglende eller uegale (ikke ens) pulse perifert
 * Mislyde ved hjertestetoskopi.
 
+</div>
+
 Symptomer
 =========
 
@@ -48,6 +60,20 @@ tidligt som muligt at konstatere aterosklerosen.
 Perifere karlidelser manifesterer sig oftest på underekstremiteterne.
 Hovedsymptomerne er smerter i benene, hævede ben og sår på benene.
 
+Arterielle og venøse sygdomme præsenterer som regel vidt forskellig
+symptomatologi. Det er vigtigt at spørge til tidsforløbet i udviklingen af
+patientens symptomer for at identificere akutte tilstande, der kræver
+umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli*).
+
+Arterielle sygdomme er sjældent begrænset til de perifere kar, og anamnesen
+hos karpatienten skal derfor altid omfatte hjerte `(se kapitel 5) <5_Hjertet.rst#>`__  og
+CNS `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Endelig skal anamnesen fokusere på risikofaktorer,
+man kan gøre noget ved, som f.eks. tobak, hypertension eller dyslipidæmi
+(hyperkolesterolæmi) ved arterielle lidelser, og p-piller eller immobilitet
+ved venøse lidelser.
+
+<div style="background:#BBE5F8">
+
 **Det perifere karsystem**
 
 <html5media>File:BOKS179A.mp3</html5media>
@@ -56,22 +82,24 @@ Hovedsymptomerne er smerter i benene, hævede ben og sår på benene.
 * Får du hævede ben?
 * Får du sår på ankler og fødder?
 
-Arterielle og venøse sygdomme præsenterer som regel vidt forskellig
-symptomatologi. Det er vigtigt at spørge til tidsforløbet i udviklingen af
-patientens symptomer for at identificere akutte tilstande, der kræver
-umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli*).
+</div>
+
+<div style="background:#BBE5F8">
 
 **Akut arteriel okklusion**
 
-* De klassiske symptomer og fund er:
-
 <html5media>File:BOKS179B.mp3</html5media>
 
+* De klassiske symptomer og fund er:
   * *Pain* (smerte)
   * *Pallor* (bleghed)
   * *Pulselessness* (manglende fodpulse)
   * *Paraesthesia* (brænden og stikken)
   * *Paralysis* (perifere lammelser).
+
+</div>
+
+<div style="background:#BBE5F8">
 
 **Akut arteriel okklusion**
 
@@ -95,12 +123,7 @@ umiddelbar behandling (f.eks. *dyb venøs trombose* (DVT) eller *arteriel emboli
 |hjertesygdom       |            |          |
 +-------------------+------------+----------+
 
-Arterielle sygdomme er sjældent begrænset til de perifere kar, og anamnesen
-hos karpatienten skal derfor altid omfatte hjerte `(se kapitel 5) <5_Hjertet.rst#>`__  og
-CNS `(se kapitel 11) <11_Centralnervesystemet.rst#>`__ . Endelig skal anamnesen fokusere på risikofaktorer,
-man kan gøre noget ved, som f.eks. tobak, hypertension eller dyslipidæmi
-(hyperkolesterolæmi) ved arterielle lidelser, og p-piller eller immobilitet
-ved venøse lidelser.
+</div>
 
 Smerter i benene (cruralgia)
 ----------------------------
@@ -145,6 +168,11 @@ Bensår er hyppige hos patienter med svær kronisk venøs insufficiens
 eller arteriel underekstremitetsiskæmi. Sammenstillingen af symptomer
 og fund er retningsgivende for diagnosen.
 
+Det diabetiske fodsår er multifaktorielt, forårsaget af både mikro- og
+makroangiopati, perifer neuropati og immundefekt.
+
+<div style="background:#BBE5F8">
+
 **Bensår**
 
 <html5media>File:BOKS181.mp3</html5media>
@@ -172,8 +200,7 @@ og fund er retningsgivende for diagnosen.
 |                   |                               |Dybe, nekrotiske.           |
 +-------------------+-------------------------------+----------------------------+
 
-Det diabetiske fodsår er multifaktorielt, forårsaget af både mikro- og
-makroangiopati, perifer neuropati og immundefekt.
+</div>
 
 Øvrige symptomer
 ----------------
@@ -231,19 +258,6 @@ Inspektion
 Kroniske lidelser i det perifere karsystem giver ændringer i hudens *farve*
 og *trofik*.
 
-**Inspektion**
-
-<html5media>File:BOKS183.mp3</html5media>
-
-* Normal, lyserød hud perifert på ekstremiteten?
-* Perifer cyanose eller lividitet?
-* Kronisk staseeksem over malleolerne?
-* Har huden normal trofik, eller er den afglattet, fast og hårløs?
-* Sår?
-* Kapillærrespons?
-* Elevationsprøve?
-* Varicer?
-
 *Perifer cyanose* ses som en blåfarvning af tæer, sjældnere fingre, der skyldes
 en øget ekstraktion af blodets ilt pga. nedsat perifer cirkulation.
 Perifer cyanose er et kardinalfund ved perifere karlidelser. Perifer cyanose
@@ -283,6 +297,30 @@ vippebevægelser med foden, mens denne holdes eleveret. Hos patienter
 med arteriel insufficiens vil man ofte kunne reproducere deres iskæmiske
 lægsmerter.
 
+Ved undersøgelse for varicer inspiceres de fuldt afklædte underekstremiteter
+på den stående patient. *Trendelenburgs prøve* er en test for defekte
+klapper ved *v. saphena magnas* indløb i v. *femoralis*. Benet eleveres, varicerne
+tømmes, og der lægges staseslange helt proksimalt om femur.
+Patienten rejser sig, stasen fjernes, og prøven er positiv, hvis varicerne
+styrtfyldes.
+
+<div style="background:#BBE5F8">
+
+**Inspektion**
+
+<html5media>File:BOKS183.mp3</html5media>
+
+* Normal, lyserød hud perifert på ekstremiteten?
+* Perifer cyanose eller lividitet?
+* Kronisk staseeksem over malleolerne?
+* Har huden normal trofik, eller er den afglattet, fast og hårløs?
+* Sår?
+* Kapillærrespons?
+* Elevationsprøve?
+* Varicer?
+
+</div>
+
 <html5media>File:FIG12-1.mp3</html5media>
 
 .. figure:: Figurer/FIG12-1_png.png
@@ -293,13 +331,6 @@ lægsmerter.
    Bliver foden voksbleg inden for få minutter, er det tegn på arteriel
    insufficiens. Yderligere bekræftelse på arteriel insufficiens ses, når foden igen
    sænkes, og der kommer reaktiv hyperæmi og forsinket venefyldning.
-
-Ved undersøgelse for varicer inspiceres de fuldt afklædte underekstremiteter
-på den stående patient. *Trendelenburgs prøve* er en test for defekte
-klapper ved *v. saphena magnas* indløb i v. *femoralis*. Benet eleveres, varicerne
-tømmes, og der lægges staseslange helt proksimalt om femur.
-Patienten rejser sig, stasen fjernes, og prøven er positiv, hvis varicerne
-styrtfyldes.
 
 Auskultation
 ------------
@@ -317,33 +348,6 @@ Palpation
 
 Palpation af *perifere pulse* er en ufravigelig del af den objektive undersøgelse
 af karpatienten.
-
-**Palpation af perifere pulse**
-
-<html5media>File:BOKS185.mp3</html5media>
-
-* Palpér pulsen i a. radialis samtidig med hjertestetoskopien
-  `(se side 76) <5_Hjertet.rst#Auskultation_(stethoscopia_cordis,_st.c.,_hjertestetoskopi)>`__ . Herved noteres frekvens og rytme, og du lærer,
-  hvordan patientens puls skal føles.
-* *A. dorsalis pedis* og *a. tibialis posterior* opsøges. Er der puls
-  her, er det unødvendigt at undersøge pulsene mere proksimalt
-  på ekstremiteten.
-* Ved manglende fodpulse undersøges *a. poplitea* hhv.
-  *a. femoralis* i rækkefølge.
-* Sammenlign de to sider. Er pulsene lige kraftige i de to fødder?
-* Palpation af *a. carotis* er en undersøgelse af venstre hjertekammers
-  funktion og tjener ikke til vurdering af perifer
-  karfunktion.
-  
-<html5media>File:FIG12-2.mp3</html5media>
-
-.. figure:: Figurer/FIG12-2_png.png
-   :width: 700 px
-   :alt:  Fig. 12.2 Palpation af fodpulse.
-
-   **Fig. 12.2** Palpation af fodpulse. A. dorsalis pedis (ADP) palperes på fodryggen
-   lateralt for m. extensor hallucis longus. A. tibialis posterior (ATP) palperes
-   lige bag ved mediale malleol.
 
 Der er to fejlkilder ved palpation af fodpulse. Den første fejl er, at man
 mærker en puls (sin egen), der ikke er patientens. Er man i tvivl, kan
@@ -366,9 +370,40 @@ omfangsforøgelse. Andre klassiske fund som øget venetegning på fodryggen,
 varme af huden og *Homans tegn* (lægømhed ved passiv dorsofleksion
 af foden) er uspecifikke, men bør noteres.
 
-Karpatienten bør undersøges med palpation af abdomen (jf. kapitel
-7), hvorved man – særligt ved store aneurismer hos slanke personer –
+Karpatienten bør undersøges med palpation af abdomen 
+`(jf. kapitel 7) <7_Mave-tarm-systemet.rst#>`__ , hvorved man – særligt ved store aneurismer hos slanke personer –
 kan afsløre et abdominalt aortaaneurisme. (se Fig. 12.3).
+
+<div style="background:#BBE5F8">
+
+**Palpation af perifere pulse**
+
+<html5media>File:BOKS185.mp3</html5media>
+
+* Palpér pulsen i a. radialis samtidig med hjertestetoskopien
+  `(se side 76) <5_Hjertet.rst#Auskultation_(stethoscopia_cordis,_st.c.,_hjertestetoskopi)>`__ . Herved noteres frekvens og rytme, og du lærer,
+  hvordan patientens puls skal føles.
+* *A. dorsalis pedis* og *a. tibialis posterior* opsøges. Er der puls
+  her, er det unødvendigt at undersøge pulsene mere proksimalt
+  på ekstremiteten.
+* Ved manglende fodpulse undersøges *a. poplitea* hhv.
+  *a. femoralis* i rækkefølge.
+* Sammenlign de to sider. Er pulsene lige kraftige i de to fødder?
+* Palpation af *a. carotis* er en undersøgelse af venstre hjertekammers
+  funktion og tjener ikke til vurdering af perifer
+  karfunktion.
+  
+</div>
+
+<html5media>File:FIG12-2.mp3</html5media>
+
+.. figure:: Figurer/FIG12-2_png.png
+   :width: 700 px
+   :alt:  Fig. 12.2 Palpation af fodpulse.
+
+   **Fig. 12.2** Palpation af fodpulse. A. dorsalis pedis (ADP) palperes på fodryggen
+   lateralt for m. extensor hallucis longus. A. tibialis posterior (ATP) palperes
+   lige bag ved mediale malleol.
 
 <html5media>File:FIG12-3.mp3</html5media>
 
